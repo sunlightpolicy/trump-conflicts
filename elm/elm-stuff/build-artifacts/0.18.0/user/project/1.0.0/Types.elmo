@@ -1,0 +1,8 @@
+var _user$project$Types$Source = F2(
+	function (a, b) {
+		return {sourceName: a, date: b};
+	});
+var _user$project$Types$Conflict = F7(
+	function (a, b, c, d, e, f, g) {
+		return {description: a, familyMember: b, conflictingEntity: c, category: d, notes: e, dateAddedOrEdited: f, sources: g};
+	});

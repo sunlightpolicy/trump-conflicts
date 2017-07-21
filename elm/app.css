@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+    font-family: Gill Sans Extrabold, sans-serif;
+    font-size:small;
+}
+
+table, th, td {
+    border: 0px solid black;
+}
+
+th, td {
+    padding: 6px;
+    text-align: left;
+}
+
+tr {
+    background-color: #D8F3C9;
+    color: black;
+}
+
+tr:hover {
+  background-color: lightyellow;
+}
+
+h3, h2, h3 {
+    padding: 2px;
+    margin: 2px;
+}
+
+

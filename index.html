@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Trump's Conflicts of Interest</title>
+
+    <script src='lib/d3.js' type='text/javascript'></script>
+    <script src='lib/crossfilter.js' type='text/javascript'></script>
+    <script src='lib/dc.min.js' type='text/javascript'></script>
+    <script src='lib/bootstrap.min.js' type='text/javascript'></script>
+    <script src='js/trump-conflicts.js' type='text/javascript'></script>
+
+    <link href='css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+    <link href='css/dc.min.css' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+    <div class='container' style='font: 10px sans-serif;'>
+        
+        <div class='row'>
+            <div class='span12'>
+                <div class="dc-data-count" style="float: left;"> 
+                    <h3>Tracking Trump's Conflicts of Interest | <span> <a href="javascript:dc.filterAll(); dc.renderAll();">Reset</a></span> </h3> 
+                    <!--<h4><span id="dc-chart-total"></span></h4>--> 
+                </div>
+            </div>
+        </div>
+
+        <div class='row'>
+            <table class='span12 table table-hover' id='dc-chart-table'>
+                <thead>
+                    <tr class='header'>
+                        <th class="th_Id_">ID</th>
+                        <th class="th_Id" >Description</th>
+                        <th class="th_Dep">Family Member</th>
+                        <th class="th_Mos">Conflicting Entity</th>
+                        <th class="th_Old">Category</th>
+                        <th class="th_Arc">Source</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <!--<div class='row'> 
+            <div class='span8' id='dc-chart-fiscalYear'><h4>Fiscal Year</h4></div>
+            <div class='span4' id='dc-chart-appropriationType'><h4>Appropriation Type</h4></div>
+        </div>-->
+
+        <div class='row'> 
+            <div class='span4' id='dc-chart-FamilyMember'><h4>Family Member</h4></div>
+            <div class='span4' id='dc-chart-ConflictingEntity'><h4>Conflicting Entity</h4></div>
+            <div class='span4' id='dc-chart-Category'><h4>Category</h4></div>
+        </div>
+    </div>
+</body>
+
+</html>
