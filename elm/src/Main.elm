@@ -33,58 +33,81 @@ update : Msg -> Model -> Model
 update msg model =
   case msg of
     Search search ->
-        model
+        {model | conflictList = List.filter (\record -> String.contains search record.conflictingEntity) model.conflictList }
+        --{ model | selectedConflict = Nothing} 
     SelectConflict conflict->
-         { model | selectedConflict = Just conflict} 
+        { model | selectedConflict = Just conflict} 
 
 
 -- view
+
+conflictPaneStyle : Attribute msg
+conflictPaneStyle =
+    style
+        [ ( "float", "left" )
+        ]
+
+sourcePaneStyle : Attribute msg
+sourcePaneStyle =
+    style
+        [ ( "float", "left" )
+        , ( "width", "380px" )
+        ]
 
 
 view : Model -> Html Msg
 view model =
     table
-        [ style[ ( "width", "100%" ) ] ] 
-        [ tr [] 
-            [ td [] (drawConflictRows model.conflictList)
-            , td [] (drawSources (model.selectedConflict))
+        [ style[ ( "width", "100%" ) ] ]
+        [
+            tr []
+                [td [style[ ( "font-size", "xx-large" ) ]] [text "Tracking Trump's Conflicts of Interest"]
+            ]
+            ,tr []
+                [td [] [
+                    input [type_ "text", placeholder "Search", onInput Search] []
+                ]
+            ]
+            ,tr [] 
+                [ td [ conflictPaneStyle ] (drawConflictRows model.conflictList)
+                , td [ sourcePaneStyle ] (drawSources (model.selectedConflict))
             ]
         ]
     
 
 drawConflictRows : List Conflict -> List (Html Msg)
 drawConflictRows conflicts =
-    conflicts
-        |> List.map drawConflictRow
-
-
-drawConflictRow : Conflict -> Html Msg
-drawConflictRow conflict = 
-    tr [ onClick (SelectConflict conflict)] 
-        [ td [style[ ( "width", "70px" ) ]] [text (conflict.familyMember) ] 
-        , td [style[ ( "width", "500px" ) ]] [text (conflict.conflictingEntity) ] 
-        , td [style[ ( "width", "70px" ) ]] [text (conflict.category) ]
-        , td [style[ ( "width", "70px" ) ]] [text (conflict.dateAddedOrEdited) ]
-        ] 
+    let
+        drawConflictRow : Conflict -> Html Msg
+        drawConflictRow conflict = 
+            tr [ onClick (SelectConflict conflict)] 
+            [ td [style[ ( "width", "70px" ) ]] [text (conflict.familyMember) ] 
+            , td [style[ ( "width", "70px" ) ]] [text (conflict.category) ]
+            , td [style[ ( "width", "500px" ) ]] [text (conflict.conflictingEntity) ] 
+            , td [style[ ( "width", "70px" ) ]] [text (conflict.dateAddedOrEdited) ]
+        ]
+    in
+        conflicts
+            |> List.map drawConflictRow
 
 
 drawSources : Maybe Conflict -> List (Html Msg)
 drawSources conflict =
-    case conflict of
-        Nothing ->
-            [ h3 [] [text <| "Nothing"] ]
+    let
+        drawSourceRow : Source -> Html Msg
+        drawSourceRow source = 
+            tr [] 
+            [ td [style[ ( "width", "300px" ) ]] [text (source.sourceName) ] 
+            , td [style[ ( "width", "80px" ) ]] [text (source.date) ] 
+            ]
+    in
+        case conflict of
+            Nothing ->
+                [ h3 [] [text <| "Nothing"] ]
 
-        Just conflict ->
-            conflict.sources
-                |> List.map drawSourceRow
-
-
-drawSourceRow : Source -> Html Msg
-drawSourceRow source = 
-    tr [] 
-        [ td [style[ ( "width", "70px" ) ]] [text (source.sourceName) ] 
-        , td [style[ ( "width", "500px" ) ]] [text (source.date) ] 
-        ] 
+            Just conflict ->
+                conflict.sources
+                    |> List.map drawSourceRow
 
 
 main : Program Never Model Msg

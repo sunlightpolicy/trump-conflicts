@@ -1,27 +1,9 @@
-var _user$project$Main$drawSourceRow = function (source) {
-	return A2(
-		_elm_lang$html$Html$tr,
-		{ctor: '[]'},
-		{
-			ctor: '::',
-			_0: A2(
-				_elm_lang$html$Html$td,
-				{
-					ctor: '::',
-					_0: _elm_lang$html$Html_Attributes$style(
-						{
-							ctor: '::',
-							_0: {ctor: '_Tuple2', _0: 'width', _1: '70px'},
-							_1: {ctor: '[]'}
-						}),
-					_1: {ctor: '[]'}
-				},
-				{
-					ctor: '::',
-					_0: _elm_lang$html$Html$text(source.sourceName),
-					_1: {ctor: '[]'}
-				}),
-			_1: {
+var _user$project$Main$drawSources = function (conflict) {
+	var drawSourceRow = function (source) {
+		return A2(
+			_elm_lang$html$Html$tr,
+			{ctor: '[]'},
+			{
 				ctor: '::',
 				_0: A2(
 					_elm_lang$html$Html$td,
@@ -30,21 +12,39 @@ var _user$project$Main$drawSourceRow = function (source) {
 						_0: _elm_lang$html$Html_Attributes$style(
 							{
 								ctor: '::',
-								_0: {ctor: '_Tuple2', _0: 'width', _1: '500px'},
+								_0: {ctor: '_Tuple2', _0: 'width', _1: '300px'},
 								_1: {ctor: '[]'}
 							}),
 						_1: {ctor: '[]'}
 					},
 					{
 						ctor: '::',
-						_0: _elm_lang$html$Html$text(source.date),
+						_0: _elm_lang$html$Html$text(source.sourceName),
 						_1: {ctor: '[]'}
 					}),
-				_1: {ctor: '[]'}
-			}
-		});
-};
-var _user$project$Main$drawSources = function (conflict) {
+				_1: {
+					ctor: '::',
+					_0: A2(
+						_elm_lang$html$Html$td,
+						{
+							ctor: '::',
+							_0: _elm_lang$html$Html_Attributes$style(
+								{
+									ctor: '::',
+									_0: {ctor: '_Tuple2', _0: 'width', _1: '80px'},
+									_1: {ctor: '[]'}
+								}),
+							_1: {ctor: '[]'}
+						},
+						{
+							ctor: '::',
+							_0: _elm_lang$html$Html$text(source.date),
+							_1: {ctor: '[]'}
+						}),
+					_1: {ctor: '[]'}
+				}
+			});
+	};
 	var _p0 = conflict;
 	if (_p0.ctor === 'Nothing') {
 		return {
@@ -60,14 +60,39 @@ var _user$project$Main$drawSources = function (conflict) {
 			_1: {ctor: '[]'}
 		};
 	} else {
-		return A2(_elm_lang$core$List$map, _user$project$Main$drawSourceRow, _p0._0.sources);
+		return A2(_elm_lang$core$List$map, drawSourceRow, _p0._0.sources);
 	}
 };
+var _user$project$Main$sourcePaneStyle = _elm_lang$html$Html_Attributes$style(
+	{
+		ctor: '::',
+		_0: {ctor: '_Tuple2', _0: 'float', _1: 'left'},
+		_1: {
+			ctor: '::',
+			_0: {ctor: '_Tuple2', _0: 'width', _1: '380px'},
+			_1: {ctor: '[]'}
+		}
+	});
+var _user$project$Main$conflictPaneStyle = _elm_lang$html$Html_Attributes$style(
+	{
+		ctor: '::',
+		_0: {ctor: '_Tuple2', _0: 'float', _1: 'left'},
+		_1: {ctor: '[]'}
+	});
 var _user$project$Main$update = F2(
 	function (msg, model) {
 		var _p1 = msg;
 		if (_p1.ctor === 'Search') {
-			return model;
+			return _elm_lang$core$Native_Utils.update(
+				model,
+				{
+					conflictList: A2(
+						_elm_lang$core$List$filter,
+						function (record) {
+							return A2(_elm_lang$core$String$contains, _p1._0, record.conflictingEntity);
+						},
+						model.conflictList)
+				});
 		} else {
 			return _elm_lang$core$Native_Utils.update(
 				model,
@@ -84,35 +109,17 @@ var _user$project$Main$Model = F2(
 var _user$project$Main$SelectConflict = function (a) {
 	return {ctor: 'SelectConflict', _0: a};
 };
-var _user$project$Main$drawConflictRow = function (conflict) {
-	return A2(
-		_elm_lang$html$Html$tr,
-		{
-			ctor: '::',
-			_0: _elm_lang$html$Html_Events$onClick(
-				_user$project$Main$SelectConflict(conflict)),
-			_1: {ctor: '[]'}
-		},
-		{
-			ctor: '::',
-			_0: A2(
-				_elm_lang$html$Html$td,
-				{
-					ctor: '::',
-					_0: _elm_lang$html$Html_Attributes$style(
-						{
-							ctor: '::',
-							_0: {ctor: '_Tuple2', _0: 'width', _1: '70px'},
-							_1: {ctor: '[]'}
-						}),
-					_1: {ctor: '[]'}
-				},
-				{
-					ctor: '::',
-					_0: _elm_lang$html$Html$text(conflict.familyMember),
-					_1: {ctor: '[]'}
-				}),
-			_1: {
+var _user$project$Main$drawConflictRows = function (conflicts) {
+	var drawConflictRow = function (conflict) {
+		return A2(
+			_elm_lang$html$Html$tr,
+			{
+				ctor: '::',
+				_0: _elm_lang$html$Html_Events$onClick(
+					_user$project$Main$SelectConflict(conflict)),
+				_1: {ctor: '[]'}
+			},
+			{
 				ctor: '::',
 				_0: A2(
 					_elm_lang$html$Html$td,
@@ -121,14 +128,14 @@ var _user$project$Main$drawConflictRow = function (conflict) {
 						_0: _elm_lang$html$Html_Attributes$style(
 							{
 								ctor: '::',
-								_0: {ctor: '_Tuple2', _0: 'width', _1: '500px'},
+								_0: {ctor: '_Tuple2', _0: 'width', _1: '70px'},
 								_1: {ctor: '[]'}
 							}),
 						_1: {ctor: '[]'}
 					},
 					{
 						ctor: '::',
-						_0: _elm_lang$html$Html$text(conflict.conflictingEntity),
+						_0: _elm_lang$html$Html$text(conflict.familyMember),
 						_1: {ctor: '[]'}
 					}),
 				_1: {
@@ -159,24 +166,45 @@ var _user$project$Main$drawConflictRow = function (conflict) {
 								_0: _elm_lang$html$Html_Attributes$style(
 									{
 										ctor: '::',
-										_0: {ctor: '_Tuple2', _0: 'width', _1: '70px'},
+										_0: {ctor: '_Tuple2', _0: 'width', _1: '500px'},
 										_1: {ctor: '[]'}
 									}),
 								_1: {ctor: '[]'}
 							},
 							{
 								ctor: '::',
-								_0: _elm_lang$html$Html$text(conflict.dateAddedOrEdited),
+								_0: _elm_lang$html$Html$text(conflict.conflictingEntity),
 								_1: {ctor: '[]'}
 							}),
-						_1: {ctor: '[]'}
+						_1: {
+							ctor: '::',
+							_0: A2(
+								_elm_lang$html$Html$td,
+								{
+									ctor: '::',
+									_0: _elm_lang$html$Html_Attributes$style(
+										{
+											ctor: '::',
+											_0: {ctor: '_Tuple2', _0: 'width', _1: '70px'},
+											_1: {ctor: '[]'}
+										}),
+									_1: {ctor: '[]'}
+								},
+								{
+									ctor: '::',
+									_0: _elm_lang$html$Html$text(conflict.dateAddedOrEdited),
+									_1: {ctor: '[]'}
+								}),
+							_1: {ctor: '[]'}
+						}
 					}
 				}
-			}
-		});
+			});
+	};
+	return A2(_elm_lang$core$List$map, drawConflictRow, conflicts);
 };
-var _user$project$Main$drawConflictRows = function (conflicts) {
-	return A2(_elm_lang$core$List$map, _user$project$Main$drawConflictRow, conflicts);
+var _user$project$Main$Search = function (a) {
+	return {ctor: 'Search', _0: a};
 };
 var _user$project$Main$view = function (model) {
 	return A2(
@@ -200,22 +228,87 @@ var _user$project$Main$view = function (model) {
 					ctor: '::',
 					_0: A2(
 						_elm_lang$html$Html$td,
-						{ctor: '[]'},
-						_user$project$Main$drawConflictRows(model.conflictList)),
-					_1: {
+						{
+							ctor: '::',
+							_0: _elm_lang$html$Html_Attributes$style(
+								{
+									ctor: '::',
+									_0: {ctor: '_Tuple2', _0: 'font-size', _1: 'xx-large'},
+									_1: {ctor: '[]'}
+								}),
+							_1: {ctor: '[]'}
+						},
+						{
+							ctor: '::',
+							_0: _elm_lang$html$Html$text('Tracking Trump\'s Conflicts of Interest'),
+							_1: {ctor: '[]'}
+						}),
+					_1: {ctor: '[]'}
+				}),
+			_1: {
+				ctor: '::',
+				_0: A2(
+					_elm_lang$html$Html$tr,
+					{ctor: '[]'},
+					{
 						ctor: '::',
 						_0: A2(
 							_elm_lang$html$Html$td,
 							{ctor: '[]'},
-							_user$project$Main$drawSources(model.selectedConflict)),
+							{
+								ctor: '::',
+								_0: A2(
+									_elm_lang$html$Html$input,
+									{
+										ctor: '::',
+										_0: _elm_lang$html$Html_Attributes$type_('text'),
+										_1: {
+											ctor: '::',
+											_0: _elm_lang$html$Html_Attributes$placeholder('Search'),
+											_1: {
+												ctor: '::',
+												_0: _elm_lang$html$Html_Events$onInput(_user$project$Main$Search),
+												_1: {ctor: '[]'}
+											}
+										}
+									},
+									{ctor: '[]'}),
+								_1: {ctor: '[]'}
+							}),
 						_1: {ctor: '[]'}
-					}
-				}),
-			_1: {ctor: '[]'}
+					}),
+				_1: {
+					ctor: '::',
+					_0: A2(
+						_elm_lang$html$Html$tr,
+						{ctor: '[]'},
+						{
+							ctor: '::',
+							_0: A2(
+								_elm_lang$html$Html$td,
+								{
+									ctor: '::',
+									_0: _user$project$Main$conflictPaneStyle,
+									_1: {ctor: '[]'}
+								},
+								_user$project$Main$drawConflictRows(model.conflictList)),
+							_1: {
+								ctor: '::',
+								_0: A2(
+									_elm_lang$html$Html$td,
+									{
+										ctor: '::',
+										_0: _user$project$Main$sourcePaneStyle,
+										_1: {ctor: '[]'}
+									},
+									_user$project$Main$drawSources(model.selectedConflict)),
+								_1: {ctor: '[]'}
+							}
+						}),
+					_1: {ctor: '[]'}
+				}
+			}
 		});
 };
 var _user$project$Main$main = _elm_lang$html$Html$beginnerProgram(
 	{model: _user$project$Main$initModel, view: _user$project$Main$view, update: _user$project$Main$update})();
-var _user$project$Main$Search = function (a) {
-	return {ctor: 'Search', _0: a};
-};
