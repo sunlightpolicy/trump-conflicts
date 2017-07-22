@@ -19,7 +19,7 @@ var _user$project$Main$drawSources = function (conflict) {
 					},
 					{
 						ctor: '::',
-						_0: _elm_lang$html$Html$text(source.sourceName),
+						_0: _elm_lang$html$Html$text(source.name),
 						_1: {ctor: '[]'}
 					}),
 				_1: {
@@ -83,15 +83,18 @@ var _user$project$Main$update = F2(
 	function (msg, model) {
 		var _p1 = msg;
 		if (_p1.ctor === 'Search') {
-			return _elm_lang$core$Native_Utils.update(
+			var _p2 = _p1._0;
+			return _elm_lang$core$Native_Utils.eq(_p2, '') ? _elm_lang$core$Native_Utils.update(
+				model,
+				{selectedList: _user$project$Data$conflictList}) : _elm_lang$core$Native_Utils.update(
 				model,
 				{
-					conflictList: A2(
+					selectedList: A2(
 						_elm_lang$core$List$filter,
 						function (record) {
-							return A2(_elm_lang$core$String$contains, _p1._0, record.conflictingEntity);
+							return A2(_elm_lang$core$String$contains, _p2, record.conflictingEntity);
 						},
-						model.conflictList)
+						model.selectedList)
 				});
 		} else {
 			return _elm_lang$core$Native_Utils.update(
@@ -101,10 +104,10 @@ var _user$project$Main$update = F2(
 				});
 		}
 	});
-var _user$project$Main$initModel = {conflictList: _user$project$Data$conflictList, selectedConflict: _elm_lang$core$Maybe$Nothing};
-var _user$project$Main$Model = F2(
-	function (a, b) {
-		return {conflictList: a, selectedConflict: b};
+var _user$project$Main$initModel = {conflictList: _user$project$Data$conflictList, selectedList: _user$project$Data$conflictList, selectedConflict: _elm_lang$core$Maybe$Nothing};
+var _user$project$Main$Model = F3(
+	function (a, b, c) {
+		return {conflictList: a, selectedList: b, selectedConflict: c};
 	});
 var _user$project$Main$SelectConflict = function (a) {
 	return {ctor: 'SelectConflict', _0: a};
@@ -291,7 +294,7 @@ var _user$project$Main$view = function (model) {
 									_0: _user$project$Main$conflictPaneStyle,
 									_1: {ctor: '[]'}
 								},
-								_user$project$Main$drawConflictRows(model.conflictList)),
+								_user$project$Main$drawConflictRows(model.selectedList)),
 							_1: {
 								ctor: '::',
 								_0: A2(

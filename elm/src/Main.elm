@@ -11,14 +11,16 @@ import Data exposing (..)
 
 type alias Model =
     { conflictList : List Conflict
-      ,selectedConflict : Maybe Conflict    
+    , selectedList : List Conflict
+    , selectedConflict : Maybe Conflict    
     }
 
 
 initModel : Model
 initModel = 
     { conflictList = conflictList
-      ,selectedConflict = Nothing
+    , selectedList = conflictList
+    , selectedConflict = Nothing
     }
 
 
@@ -33,8 +35,10 @@ update : Msg -> Model -> Model
 update msg model =
   case msg of
     Search search ->
-        {model | conflictList = List.filter (\record -> String.contains search record.conflictingEntity) model.conflictList }
-        --{ model | selectedConflict = Nothing} 
+        if search == "" then
+            { model | selectedList = conflictList }
+        else
+            { model | selectedList = List.filter (\record -> String.contains search record.conflictingEntity) model.selectedList }
     SelectConflict conflict->
         { model | selectedConflict = Just conflict} 
 
@@ -69,7 +73,7 @@ view model =
                 ]
             ]
             ,tr [] 
-                [ td [ conflictPaneStyle ] (drawConflictRows model.conflictList)
+                [ td [ conflictPaneStyle ] (drawConflictRows model.selectedList)
                 , td [ sourcePaneStyle ] (drawSources (model.selectedConflict))
             ]
         ]
@@ -80,12 +84,12 @@ drawConflictRows conflicts =
     let
         drawConflictRow : Conflict -> Html Msg
         drawConflictRow conflict = 
-            tr [ onClick (SelectConflict conflict)] 
+        tr [ onClick (SelectConflict conflict)] 
             [ td [style[ ( "width", "70px" ) ]] [text (conflict.familyMember) ] 
             , td [style[ ( "width", "70px" ) ]] [text (conflict.category) ]
             , td [style[ ( "width", "500px" ) ]] [text (conflict.conflictingEntity) ] 
             , td [style[ ( "width", "70px" ) ]] [text (conflict.dateAddedOrEdited) ]
-        ]
+            ]
     in
         conflicts
             |> List.map drawConflictRow
@@ -97,7 +101,7 @@ drawSources conflict =
         drawSourceRow : Source -> Html Msg
         drawSourceRow source = 
             tr [] 
-            [ td [style[ ( "width", "300px" ) ]] [text (source.sourceName) ] 
+            [ td [style[ ( "width", "300px" ) ]] [text (source.name) ] 
             , td [style[ ( "width", "80px" ) ]] [text (source.date) ] 
             ]
     in

@@ -2,7 +2,8 @@ module Types exposing (..)
 
 
 type alias Source =
-    { sourceName : String
+    { name : String
+    , link : String
     , date : String
     }
 

@@ -1,6 +1,6 @@
-var _user$project$Types$Source = F2(
-	function (a, b) {
-		return {sourceName: a, date: b};
+var _user$project$Types$Source = F3(
+	function (a, b, c) {
+		return {name: a, link: b, date: c};
 	});
 var _user$project$Types$Conflict = F7(
 	function (a, b, c, d, e, f, g) {
