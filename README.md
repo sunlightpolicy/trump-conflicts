@@ -12,9 +12,5 @@ To Do
 6. Show the number of results
 7. Filter by search date
 8. Highlight matched text (yellow like chrome?)
-9. Improve the Elm...
-
-
-
-
-
+9. Search should not be case sensitive!
+10. Improve the Elm..
