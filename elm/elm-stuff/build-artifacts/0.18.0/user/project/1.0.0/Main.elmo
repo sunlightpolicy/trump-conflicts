@@ -19,7 +19,18 @@ var _user$project$Main$drawSources = function (conflict) {
 					},
 					{
 						ctor: '::',
-						_0: _elm_lang$html$Html$text(source.name),
+						_0: A2(
+							_elm_lang$html$Html$a,
+							{
+								ctor: '::',
+								_0: _elm_lang$html$Html_Attributes$href(source.link),
+								_1: {ctor: '[]'}
+							},
+							{
+								ctor: '::',
+								_0: _elm_lang$html$Html$text(source.name),
+								_1: {ctor: '[]'}
+							}),
 						_1: {ctor: '[]'}
 					}),
 				_1: {

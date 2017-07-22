@@ -101,7 +101,8 @@ drawSources conflict =
         drawSourceRow : Source -> Html Msg
         drawSourceRow source = 
             tr [] 
-            [ td [style[ ( "width", "300px" ) ]] [text (source.name) ] 
+            --[ td [style[ ( "width", "300px" ) ]] [text (source.name) ] 
+            [ td [style[ ( "width", "300px" ) ]] [ a [ href source.link ] [text source.name ] ] 
             , td [style[ ( "width", "80px" ) ]] [text (source.date) ] 
             ]
     in
