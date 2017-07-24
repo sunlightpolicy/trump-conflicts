@@ -73,26 +73,37 @@ view model =
                 ]
             ]
             ,tr [] 
-                [ td [ conflictPaneStyle ] (drawConflictRows model.selectedList)
+                [ td [ conflictPaneStyle ] (drawConflictRows model.selectedList model.selectedConflict)
                 , td [ sourcePaneStyle ] (drawSources (model.selectedConflict))
             ]
         ]
     
 
-drawConflictRows : List Conflict -> List (Html Msg)
-drawConflictRows conflicts =
-    let
+drawConflictRows : List Conflict -> Maybe Conflict -> List (Html Msg)
+drawConflictRows conflicts selectedConflict =
+    let 
         drawConflictRow : Conflict -> Html Msg
         drawConflictRow conflict = 
-        tr [ onClick (SelectConflict conflict)] 
-            [ td [style[ ( "width", "70px" ) ]] [text (conflict.familyMember) ] 
-            , td [style[ ( "width", "70px" ) ]] [text (conflict.category) ]
-            , td [style[ ( "width", "500px" ) ]] [text (conflict.conflictingEntity) ] 
-            , td [style[ ( "width", "70px" ) ]] [text (conflict.dateAddedOrEdited) ]
+            tr [ onClick (SelectConflict conflict)] 
+            [ td [style[ ( "width", "70px" ) ], classList [ ("selected", isSelected selectedConflict conflict ) ] ] [text (conflict.familyMember) ] 
+            , td [style[ ( "width", "70px" ) ], classList [ ("selected", isSelected selectedConflict conflict ) ] ] [text (conflict.category) ]
+            , td [style[ ( "width", "500px" ) ], classList [ ("selected", isSelected selectedConflict conflict ) ] ] [text (conflict.conflictingEntity) ] 
+            , td [style[ ( "width", "70px" ) ], classList [ ("selected", isSelected selectedConflict conflict ) ] ] [text (conflict.dateAddedOrEdited) ]
             ]
     in
         conflicts
             |> List.map drawConflictRow
+
+
+isSelected : Maybe Conflict -> Conflict -> Bool
+isSelected selectedConflict conflict = 
+    case selectedConflict of
+        Nothing ->
+            False 
+
+        Just selected ->
+            selected == conflict     
+
 
 
 drawSources : Maybe Conflict -> List (Html Msg)
@@ -101,7 +112,6 @@ drawSources conflict =
         drawSourceRow : Source -> Html Msg
         drawSourceRow source = 
             tr [] 
-            --[ td [style[ ( "width", "300px" ) ]] [text (source.name) ] 
             [ td [style[ ( "width", "300px" ) ]] [ a [ href source.link ] [text source.name ] ] 
             , td [style[ ( "width", "80px" ) ]] [text (source.date) ] 
             ]
