@@ -1,8 +1,0 @@
-var _user$project$Types$Source = F3(
-	function (a, b, c) {
-		return {name: a, link: b, date: c};
-	});
-var _user$project$Types$Conflict = F7(
-	function (a, b, c, d, e, f, g) {
-		return {description: a, familyMember: b, conflictingEntity: c, category: d, notes: e, dateAddedOrEdited: f, sources: g};
-	});
