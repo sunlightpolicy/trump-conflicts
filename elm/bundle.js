@@ -19567,7 +19567,7 @@ var _user$project$Main$drawSources = function (conflict) {
 						_0: _elm_lang$html$Html_Attributes$style(
 							{
 								ctor: '::',
-								_0: {ctor: '_Tuple2', _0: 'width', _1: '300px'},
+								_0: {ctor: '_Tuple2', _0: 'width', _1: '150px'},
 								_1: {ctor: '[]'}
 							}),
 						_1: {ctor: '[]'}
@@ -19620,7 +19620,7 @@ var _user$project$Main$drawSources = function (conflict) {
 				{ctor: '[]'},
 				{
 					ctor: '::',
-					_0: _elm_lang$html$Html$text('Nothing'),
+					_0: _elm_lang$html$Html$text('No Source'),
 					_1: {ctor: '[]'}
 				}),
 			_1: {ctor: '[]'}
@@ -19667,7 +19667,11 @@ var _user$project$Main$update = F2(
 					selectedList: A2(
 						_elm_lang$core$List$filter,
 						function (record) {
-							return A2(_elm_lang$core$String$contains, _p3, record.conflictingEntity);
+							return A2(
+								_elm_lang$core$String$contains,
+								_elm_lang$core$String$toUpper(_p3),
+								_elm_lang$core$String$toUpper(
+									A2(_elm_lang$core$Basics_ops['++'], record.conflictingEntity, record.description)));
 						},
 						model.selectedList)
 				});
@@ -19771,7 +19775,7 @@ var _user$project$Main$drawConflictRows = F2(
 									_0: _elm_lang$html$Html_Attributes$style(
 										{
 											ctor: '::',
-											_0: {ctor: '_Tuple2', _0: 'width', _1: '500px'},
+											_0: {ctor: '_Tuple2', _0: 'width', _1: '100px'},
 											_1: {ctor: '[]'}
 										}),
 									_1: {
@@ -19803,7 +19807,7 @@ var _user$project$Main$drawConflictRows = F2(
 										_0: _elm_lang$html$Html_Attributes$style(
 											{
 												ctor: '::',
-												_0: {ctor: '_Tuple2', _0: 'width', _1: '70px'},
+												_0: {ctor: '_Tuple2', _0: 'width', _1: '400px'},
 												_1: {ctor: '[]'}
 											}),
 										_1: {
@@ -19823,7 +19827,7 @@ var _user$project$Main$drawConflictRows = F2(
 									},
 									{
 										ctor: '::',
-										_0: _elm_lang$html$Html$text(conflict.dateAddedOrEdited),
+										_0: _elm_lang$html$Html$text(conflict.description),
 										_1: {ctor: '[]'}
 									}),
 								_1: {ctor: '[]'}

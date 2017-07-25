@@ -38,7 +38,7 @@ update msg model =
         if search == "" then
             { model | selectedList = conflictList }
         else
-            { model | selectedList = List.filter (\record -> String.contains search record.conflictingEntity) model.selectedList }
+            { model | selectedList = List.filter (\record -> String.contains (String.toUpper search) (String.toUpper (record.conflictingEntity ++ record.description))) model.selectedList }
     SelectConflict conflict->
         { model | selectedConflict = Just conflict} 
 
@@ -87,8 +87,8 @@ drawConflictRows conflicts selectedConflict =
             tr [ onClick (SelectConflict conflict)] 
             [ td [style[ ( "width", "70px" ) ], classList [ ("selected", isSelected selectedConflict conflict ) ] ] [text (conflict.familyMember) ] 
             , td [style[ ( "width", "70px" ) ], classList [ ("selected", isSelected selectedConflict conflict ) ] ] [text (conflict.category) ]
-            , td [style[ ( "width", "500px" ) ], classList [ ("selected", isSelected selectedConflict conflict ) ] ] [text (conflict.conflictingEntity) ] 
-            , td [style[ ( "width", "70px" ) ], classList [ ("selected", isSelected selectedConflict conflict ) ] ] [text (conflict.dateAddedOrEdited) ]
+            , td [style[ ( "width", "100px" ) ], classList [ ("selected", isSelected selectedConflict conflict ) ] ] [text (conflict.conflictingEntity) ] 
+            , td [style[ ( "width", "400px" ) ], classList [ ("selected", isSelected selectedConflict conflict ) ] ] [text (conflict.description) ]
             ]
     in
         conflicts
@@ -112,13 +112,13 @@ drawSources conflict =
         drawSourceRow : Source -> Html Msg
         drawSourceRow source = 
             tr [] 
-            [ td [style[ ( "width", "300px" ) ]] [ a [ href source.link ] [text source.name ] ] 
+            [ td [style[ ( "width", "150px" ) ]] [ a [ href source.link ] [text source.name ] ] 
             , td [style[ ( "width", "80px" ) ]] [text (source.date) ] 
             ]
     in
         case conflict of
             Nothing ->
-                [ h3 [] [text <| "Nothing"] ]
+                [ h3 [] [text <| "No Source"] ]
 
             Just conflict ->
                 conflict.sources
