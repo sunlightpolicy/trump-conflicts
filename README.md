@@ -4,13 +4,10 @@ This is a search tool written in Elm and based on the Sunlight Foundation's [Tru
 
 To Do
 
-1. Add description on the right above the list of sources
-2. Search all the fields
-3. Freeze the seach criteria at the top, and scroll the results
-4. Default to selecting the first item in the search result on the right whenever anything changes
-5. Better color, layout etc!
-6. Show the number of results
-7. Filter by search date
-8. Highlight matched text (yellow like chrome?)
-9. Search should not be case sensitive!
-10. Improve the Elm..
+1. Freeze the seach criteria at the top, and scroll the results
+2. Default to selecting the first item in the search result on the right whenever anything changes
+3. Better color, layout etc!
+4. Show the number of results
+5. Filter by search date
+6. Highlight matched text (yellow like chrome?)
+7. Improve the Elm..
