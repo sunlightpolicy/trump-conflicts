@@ -1,3 +1,46 @@
+var _user$project$Main$familyMemberToString = function (person) {
+	var _p0 = person;
+	switch (_p0.ctor) {
+		case 'Sr':
+			return 'Trump';
+		case 'Jr':
+			return 'Junior';
+		case 'Ivanka':
+			return 'Ivanka';
+		case 'Jared':
+			return 'Jared';
+		case 'Melania':
+			return 'Melania';
+		default:
+			return 'Eric';
+	}
+};
+var _user$project$Main$familyMemberChooser = function (person) {
+	return A2(
+		_elm_lang$html$Html$label,
+		{ctor: '[]'},
+		{
+			ctor: '::',
+			_0: A2(
+				_elm_lang$html$Html$input,
+				{
+					ctor: '::',
+					_0: _elm_lang$html$Html_Attributes$type_('radio'),
+					_1: {
+						ctor: '::',
+						_0: _elm_lang$html$Html_Attributes$name('familyMember'),
+						_1: {ctor: '[]'}
+					}
+				},
+				{ctor: '[]'}),
+			_1: {
+				ctor: '::',
+				_0: _elm_lang$html$Html$text(
+					_user$project$Main$familyMemberToString(person)),
+				_1: {ctor: '[]'}
+			}
+		});
+};
 var _user$project$Main$drawSources = function (conflict) {
 	var drawSourceRow = function (source) {
 		return A2(
@@ -56,8 +99,8 @@ var _user$project$Main$drawSources = function (conflict) {
 				}
 			});
 	};
-	var _p0 = conflict;
-	if (_p0.ctor === 'Nothing') {
+	var _p1 = conflict;
+	if (_p1.ctor === 'Nothing') {
 		return {
 			ctor: '::',
 			_0: A2(
@@ -65,22 +108,22 @@ var _user$project$Main$drawSources = function (conflict) {
 				{ctor: '[]'},
 				{
 					ctor: '::',
-					_0: _elm_lang$html$Html$text('No Source'),
+					_0: _elm_lang$html$Html$text(''),
 					_1: {ctor: '[]'}
 				}),
 			_1: {ctor: '[]'}
 		};
 	} else {
-		return A2(_elm_lang$core$List$map, drawSourceRow, _p0._0.sources);
+		return A2(_elm_lang$core$List$map, drawSourceRow, _p1._0.sources);
 	}
 };
 var _user$project$Main$isSelected = F2(
 	function (selectedConflict, conflict) {
-		var _p1 = selectedConflict;
-		if (_p1.ctor === 'Nothing') {
+		var _p2 = selectedConflict;
+		if (_p2.ctor === 'Nothing') {
 			return false;
 		} else {
-			return _elm_lang$core$Native_Utils.eq(_p1._0, conflict);
+			return _elm_lang$core$Native_Utils.eq(_p2._0, conflict);
 		}
 	});
 var _user$project$Main$sourcePaneStyle = _elm_lang$html$Html_Attributes$style(
@@ -101,38 +144,52 @@ var _user$project$Main$conflictPaneStyle = _elm_lang$html$Html_Attributes$style(
 	});
 var _user$project$Main$update = F2(
 	function (msg, model) {
-		var _p2 = msg;
-		if (_p2.ctor === 'Search') {
-			var _p3 = _p2._0;
-			return _elm_lang$core$Native_Utils.eq(_p3, '') ? _elm_lang$core$Native_Utils.update(
-				model,
-				{selectedList: _user$project$Data$conflictList}) : _elm_lang$core$Native_Utils.update(
-				model,
-				{
-					selectedList: A2(
-						_elm_lang$core$List$filter,
-						function (record) {
-							return A2(
-								_elm_lang$core$String$contains,
-								_elm_lang$core$String$toUpper(_p3),
-								_elm_lang$core$String$toUpper(
-									A2(_elm_lang$core$Basics_ops['++'], record.conflictingEntity, record.description)));
-						},
-						model.selectedList)
-				});
-		} else {
-			return _elm_lang$core$Native_Utils.update(
-				model,
-				{
-					selectedConflict: _elm_lang$core$Maybe$Just(_p2._0)
-				});
+		var _p3 = msg;
+		switch (_p3.ctor) {
+			case 'Search':
+				var _p4 = _p3._0;
+				return _elm_lang$core$Native_Utils.eq(_p4, '') ? _elm_lang$core$Native_Utils.update(
+					model,
+					{selectedList: _user$project$Data$conflictList}) : _elm_lang$core$Native_Utils.update(
+					model,
+					{
+						selectedList: A2(
+							_elm_lang$core$List$filter,
+							function (record) {
+								return A2(
+									_elm_lang$core$String$contains,
+									_elm_lang$core$String$toUpper(_p4),
+									_elm_lang$core$String$toUpper(
+										A2(_elm_lang$core$Basics_ops['++'], record.conflictingEntity, record.description)));
+							},
+							model.selectedList)
+					});
+			case 'SelectConflict':
+				return _elm_lang$core$Native_Utils.update(
+					model,
+					{
+						selectedConflict: _elm_lang$core$Maybe$Just(_p3._0)
+					});
+			default:
+				return _elm_lang$core$Native_Utils.update(
+					model,
+					{familyMember: _p3._0});
 		}
 	});
-var _user$project$Main$initModel = {conflictList: _user$project$Data$conflictList, selectedList: _user$project$Data$conflictList, selectedConflict: _elm_lang$core$Maybe$Nothing};
-var _user$project$Main$Model = F3(
-	function (a, b, c) {
-		return {conflictList: a, selectedList: b, selectedConflict: c};
+var _user$project$Main$Model = F4(
+	function (a, b, c, d) {
+		return {conflictList: a, selectedList: b, selectedConflict: c, familyMember: d};
 	});
+var _user$project$Main$Eric = {ctor: 'Eric'};
+var _user$project$Main$Melania = {ctor: 'Melania'};
+var _user$project$Main$Jared = {ctor: 'Jared'};
+var _user$project$Main$Ivanka = {ctor: 'Ivanka'};
+var _user$project$Main$Jr = {ctor: 'Jr'};
+var _user$project$Main$Sr = {ctor: 'Sr'};
+var _user$project$Main$initModel = {conflictList: _user$project$Data$conflictList, selectedList: _user$project$Data$conflictList, selectedConflict: _elm_lang$core$Maybe$Nothing, familyMember: _user$project$Main$Sr};
+var _user$project$Main$ChooseFamilyMember = function (a) {
+	return {ctor: 'ChooseFamilyMember', _0: a};
+};
 var _user$project$Main$SelectConflict = function (a) {
 	return {ctor: 'SelectConflict', _0: a};
 };
@@ -353,7 +410,41 @@ var _user$project$Main$view = function (model) {
 										}
 									},
 									{ctor: '[]'}),
-								_1: {ctor: '[]'}
+								_1: {
+									ctor: '::',
+									_0: A2(
+										_elm_lang$html$Html$td,
+										{ctor: '[]'},
+										A2(
+											_elm_lang$core$List$map,
+											_user$project$Main$familyMemberChooser,
+											{
+												ctor: '::',
+												_0: _user$project$Main$Sr,
+												_1: {
+													ctor: '::',
+													_0: _user$project$Main$Jr,
+													_1: {
+														ctor: '::',
+														_0: _user$project$Main$Ivanka,
+														_1: {
+															ctor: '::',
+															_0: _user$project$Main$Jared,
+															_1: {
+																ctor: '::',
+																_0: _user$project$Main$Melania,
+																_1: {
+																	ctor: '::',
+																	_0: _user$project$Main$Eric,
+																	_1: {ctor: '[]'}
+																}
+															}
+														}
+													}
+												}
+											})),
+									_1: {ctor: '[]'}
+								}
 							}),
 						_1: {ctor: '[]'}
 					}),

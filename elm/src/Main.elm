@@ -13,14 +13,24 @@ type alias Model =
     { conflictList : List Conflict
     , selectedList : List Conflict
     , selectedConflict : Maybe Conflict    
+    , familyMember : FamilyMember
     }
 
+type FamilyMember
+    = Sr 
+    | Jr
+    | Ivanka
+    | Jared
+    | Melania
+    | Eric
+ 
 
 initModel : Model
 initModel = 
     { conflictList = conflictList
     , selectedList = conflictList
     , selectedConflict = Nothing
+    , familyMember = Sr
     }
 
 
@@ -29,6 +39,7 @@ initModel =
 type Msg
     = Search String
     | SelectConflict Conflict
+    | ChooseFamilyMember FamilyMember
 
 
 update : Msg -> Model -> Model
@@ -38,9 +49,22 @@ update msg model =
         if search == "" then
             { model | selectedList = conflictList }
         else
+            --filteredConflicts model search model.familyMember
             { model | selectedList = List.filter (\record -> String.contains (String.toUpper search) (String.toUpper (record.conflictingEntity ++ record.description))) model.selectedList }
-    SelectConflict conflict->
+    
+    SelectConflict conflict ->
         { model | selectedConflict = Just conflict} 
+
+    ChooseFamilyMember selectedFamilyMember ->
+        { model | familyMember = selectedFamilyMember }             
+
+
+--filteredConflicts : Model -> String -> FamilyMember -> Model
+--filteredConflicts model search person =
+--   let 
+--        filterBySearchString : List Conflict -> String search -> List Conflict
+--        filterBySearchString conflicts search = 
+--            { model | selectedList = List.filter (\record -> String.contains (String.toUpper search) (String.toUpper (record.conflictingEntity ++ record.description))) model.selectedList }
 
 
 -- view
@@ -68,8 +92,8 @@ view model =
                 [td [style[ ( "font-size", "xx-large" ) ]] [text "Tracking Trump's Conflicts of Interest"]
             ]
             ,tr []
-                [td [] [
-                    input [type_ "text", placeholder "Search", onInput Search] []
+                [ td [] [ input [type_ "text", placeholder "Search", onInput Search] []
+                , td [] (List.map familyMemberChooser [ Sr, Jr, Ivanka, Jared, Melania, Eric ]) 
                 ]
             ]
             ,tr [] 
@@ -118,11 +142,36 @@ drawSources conflict =
     in
         case conflict of
             Nothing ->
-                [ h3 [] [text <| "No Source"] ]
+                [ h3 [] [text <| ""] ]
 
             Just conflict ->
                 conflict.sources
                     |> List.map drawSourceRow
+
+
+familyMemberChooser : FamilyMember -> Html msg
+familyMemberChooser person =
+    label [] 
+        [ input [ type_ "radio", name "familyMember" ] []
+        , text (familyMemberToString person)
+        ]
+
+
+familyMemberToString : FamilyMember -> String
+familyMemberToString person =
+    case person of
+        Sr -> 
+            "Trump" 
+        Jr ->
+            "Junior"
+        Ivanka ->
+            "Ivanka"
+        Jared ->
+            "Jared"
+        Melania ->
+            "Melania"
+        Eric ->
+            "Eric"
 
 
 main : Program Never Model Msg
