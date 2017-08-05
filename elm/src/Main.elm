@@ -13,7 +13,8 @@ type alias Model =
     { conflictList : List Conflict
     , selectedList : List Conflict
     , selectedConflict : Maybe Conflict    
-    , familyMember : FamilyMember
+    , selectedFamilyMember : FamilyMember
+    , searchString : String
     }
 
 type FamilyMember
@@ -30,7 +31,8 @@ initModel =
     { conflictList = conflictList
     , selectedList = conflictList
     , selectedConflict = Nothing
-    , familyMember = Sr
+    , selectedFamilyMember = Sr
+    , searchString = "" 
     }
 
 
@@ -44,27 +46,31 @@ type Msg
 
 update : Msg -> Model -> Model
 update msg model =
-  case msg of
-    Search search ->
-        if search == "" then
-            { model | selectedList = conflictList }
-        else
-            --filteredConflicts model search model.familyMember
-            { model | selectedList = List.filter (\record -> String.contains (String.toUpper search) (String.toUpper (record.conflictingEntity ++ record.description))) model.selectedList }
-    
-    SelectConflict conflict ->
-        { model | selectedConflict = Just conflict} 
+    case msg of
+        Search search ->
+            filterConflicts { model | searchString = search}
 
-    ChooseFamilyMember selectedFamilyMember ->
-        { model | familyMember = selectedFamilyMember }             
+        SelectConflict conflict ->
+            { model | selectedConflict = Just conflict} 
+
+        ChooseFamilyMember selectedFamilyMember ->
+            filterConflicts { model | selectedFamilyMember = selectedFamilyMember }             
 
 
---filteredConflicts : Model -> String -> FamilyMember -> Model
---filteredConflicts model search person =
---   let 
---        filterBySearchString : List Conflict -> String search -> List Conflict
---        filterBySearchString conflicts search = 
---            { model | selectedList = List.filter (\record -> String.contains (String.toUpper search) (String.toUpper (record.conflictingEntity ++ record.description))) model.selectedList }
+filterConflicts : Model -> Model
+filterConflicts model =
+    let 
+        matchCurrent : FamilyMember -> FamilyMember -> Bool
+        matchCurrent current selected =
+            current == selected
+    in
+        { model | selectedList = List.filter (\record -> String.contains (String.toUpper model.searchString) (String.toUpper (record.conflictingEntity ++ record.description))) model.conflictList }
+        --{ model | selectedList = List.filter (matchCurrent model.selectedFamilyMember) (List.map .familyMember model.conflictList) }
+
+
+matchCurrent : FamilyMember -> FamilyMember -> Bool
+matchCurrent current selected =
+    current == selected
 
 
 -- view
@@ -149,10 +155,11 @@ drawSources conflict =
                     |> List.map drawSourceRow
 
 
-familyMemberChooser : FamilyMember -> Html msg
+familyMemberChooser : FamilyMember -> Html Msg  
 familyMemberChooser person =
     label [] 
-        [ input [ type_ "radio", name "familyMember" ] []
+       -- [ input [ type_ "radio", name "familyMember", onClick (ChooseFamilyMember (stringToFamilyMember "familyMember")) ] []
+       [ input [ type_ "radio", name "familyMember", onClick (ChooseFamilyMember person) ] []
         , text (familyMemberToString person)
         ]
 
@@ -172,6 +179,24 @@ familyMemberToString person =
             "Melania"
         Eric ->
             "Eric"
+
+stringToFamilyMember : String -> FamilyMember
+stringToFamilyMember person =
+    case person of
+        "Trump" -> 
+            Sr 
+        "Junior" ->
+            Jr
+        "Ivanka" ->
+            Ivanka
+        "Jared" ->
+            Jared
+        "Melania" ->
+            Melania
+        "Eric" ->
+            Eric   
+        _ ->
+            Sr            
 
 
 main : Program Never Model Msg
