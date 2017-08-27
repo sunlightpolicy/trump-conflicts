@@ -59,18 +59,14 @@ update msg model =
 
 filterConflicts : Model -> Model
 filterConflicts model =
-    let 
-        matchCurrent : FamilyMember -> FamilyMember -> Bool
-        matchCurrent current selected =
-            current == selected
-    in
-        { model | selectedList = List.filter (\record -> String.contains (String.toUpper model.searchString) (String.toUpper (record.conflictingEntity ++ record.description))) model.conflictList }
-        --{ model | selectedList = List.filter (matchCurrent model.selectedFamilyMember) (List.map .familyMember model.conflictList) }
+    { model | selectedList = List.filter (\record -> String.contains (String.toUpper model.searchString) (String.toUpper (record.conflictingEntity ++ record.description))) model.conflictList }
+    -- { model | selectedList =  (filterByFamilyMember model).selectedList }
 
 
-matchCurrent : FamilyMember -> FamilyMember -> Bool
-matchCurrent current selected =
-    current == selected
+filterByFamilyMember : Model -> List Conflict
+filterByFamilyMember model =
+    List.filter (\record -> model.selectedFamilyMember == record.familyMember) model.conflictList
+    
 
 
 -- view
