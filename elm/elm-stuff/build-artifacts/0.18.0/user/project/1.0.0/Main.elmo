@@ -116,11 +116,7 @@ var _user$project$Main$conflictPaneStyle = _elm_lang$html$Html_Attributes$style(
 		_0: {ctor: '_Tuple2', _0: 'float', _1: 'left'},
 		_1: {ctor: '[]'}
 	});
-var _user$project$Main$filterConflicts = function (model) {
-	var matchCurrent = F2(
-		function (current, selected) {
-			return _elm_lang$core$Native_Utils.eq(current, selected);
-		});
+var _user$project$Main$filterBySearch = function (model) {
 	return _elm_lang$core$Native_Utils.update(
 		model,
 		{
@@ -136,28 +132,6 @@ var _user$project$Main$filterConflicts = function (model) {
 				model.conflictList)
 		});
 };
-var _user$project$Main$update = F2(
-	function (msg, model) {
-		var _p3 = msg;
-		switch (_p3.ctor) {
-			case 'Search':
-				return _user$project$Main$filterConflicts(
-					_elm_lang$core$Native_Utils.update(
-						model,
-						{searchString: _p3._0}));
-			case 'SelectConflict':
-				return _elm_lang$core$Native_Utils.update(
-					model,
-					{
-						selectedConflict: _elm_lang$core$Maybe$Just(_p3._0)
-					});
-			default:
-				return _user$project$Main$filterConflicts(
-					_elm_lang$core$Native_Utils.update(
-						model,
-						{selectedFamilyMember: _p3._0}));
-		}
-	});
 var _user$project$Main$Model = F5(
 	function (a, b, c, d, e) {
 		return {conflictList: a, selectedList: b, selectedConflict: c, selectedFamilyMember: d, searchString: e};
@@ -170,8 +144,8 @@ var _user$project$Main$Jr = {ctor: 'Jr'};
 var _user$project$Main$Sr = {ctor: 'Sr'};
 var _user$project$Main$initModel = {conflictList: _user$project$Data$conflictList, selectedList: _user$project$Data$conflictList, selectedConflict: _elm_lang$core$Maybe$Nothing, selectedFamilyMember: _user$project$Main$Sr, searchString: ''};
 var _user$project$Main$stringToFamilyMember = function (person) {
-	var _p4 = person;
-	switch (_p4) {
+	var _p3 = person;
+	switch (_p3) {
 		case 'Trump':
 			return _user$project$Main$Sr;
 		case 'Junior':
@@ -188,6 +162,46 @@ var _user$project$Main$stringToFamilyMember = function (person) {
 			return _user$project$Main$Sr;
 	}
 };
+var _user$project$Main$filterByFamilyMember = function (model) {
+	return _elm_lang$core$Native_Utils.update(
+		model,
+		{
+			selectedList: A2(
+				_elm_lang$core$List$filter,
+				function (record) {
+					return _elm_lang$core$Native_Utils.eq(
+						_user$project$Main$stringToFamilyMember(record.familyMember),
+						model.selectedFamilyMember);
+				},
+				model.selectedList)
+		});
+};
+var _user$project$Main$filterConflicts = function (model) {
+	return _user$project$Main$filterByFamilyMember(
+		_user$project$Main$filterBySearch(model));
+};
+var _user$project$Main$update = F2(
+	function (msg, model) {
+		var _p4 = msg;
+		switch (_p4.ctor) {
+			case 'Search':
+				return _user$project$Main$filterConflicts(
+					_elm_lang$core$Native_Utils.update(
+						model,
+						{searchString: _p4._0}));
+			case 'SelectConflict':
+				return _elm_lang$core$Native_Utils.update(
+					model,
+					{
+						selectedConflict: _elm_lang$core$Maybe$Just(_p4._0)
+					});
+			default:
+				return _user$project$Main$filterConflicts(
+					_elm_lang$core$Native_Utils.update(
+						model,
+						{selectedFamilyMember: _p4._0}));
+		}
+	});
 var _user$project$Main$ChooseFamilyMember = function (a) {
 	return {ctor: 'ChooseFamilyMember', _0: a};
 };

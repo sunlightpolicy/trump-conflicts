@@ -59,14 +59,20 @@ update msg model =
 
 filterConflicts : Model -> Model
 filterConflicts model =
-    { model | selectedList = List.filter (\record -> String.contains (String.toUpper model.searchString) (String.toUpper (record.conflictingEntity ++ record.description))) model.conflictList }
-    -- { model | selectedList =  (filterByFamilyMember model).selectedList }
-
-
-filterByFamilyMember : Model -> List Conflict
-filterByFamilyMember model =
-    List.filter (\record -> model.selectedFamilyMember == record.familyMember) model.conflictList
+    filterBySearch model 
+    |> filterByFamilyMember
     
+
+-- This begins with all conflicts - i.e. conflictList, so must come first
+filterBySearch : Model -> Model
+filterBySearch model =
+    { model | selectedList = List.filter (\record -> String.contains (String.toUpper model.searchString) (String.toUpper (record.conflictingEntity ++ record.description))) model.conflictList }
+
+
+-- This begins with selectedList, so expects some filtering has already happened 
+filterByFamilyMember : Model -> Model
+filterByFamilyMember model =
+    { model | selectedList = List.filter (\record -> (stringToFamilyMember record.familyMember) == model.selectedFamilyMember) model.selectedList }
 
 
 -- view

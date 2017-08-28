@@ -10,4 +10,6 @@ To Do
 4. Show the number of results
 5. Filter by search date
 6. Highlight matched text (yellow like chrome?)
-7. Improve the Elm..
+7. Change data to CSV, and use a decoder
+8. Show current filters
+9. Use Style Elements
