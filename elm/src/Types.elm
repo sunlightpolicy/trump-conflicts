@@ -17,4 +17,3 @@ type alias Conflict =
     , dateAddedOrEdited : String
     , sources : List Source
     }
-

@@ -13,3 +13,6 @@ To Do
 7. Change data to CSV, and use a decoder
 8. Show current filters
 9. Use Style Elements
+10. Add clear button for search
+11. Show "All" selected on entry
+12. clear links when selected is not in list (make selected = nothing)
