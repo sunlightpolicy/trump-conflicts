@@ -4,15 +4,11 @@ This is a search tool written in Elm and based on the Sunlight Foundation's [Tru
 
 To Do
 
-1. Freeze the seach criteria at the top, and scroll the results
-2. Default to selecting the first item in the search result on the right whenever anything changes
-3. Better color, layout etc!
-4. Show the number of results
-5. Filter by search date
-6. Highlight matched text (yellow like chrome?)
-7. Change data to CSV, and use a decoder
-8. Show current filters
-9. Use Style Elements
-10. Add clear button for search
-11. Show "All" selected on entry
-12. clear links when selected is not in list (make selected = nothing)
+- Freeze the search criteria at the top, and scroll the results
+- Default to selecting the first item in the search result when old selection is no longer in the list
+- Better color, layout etc!
+- Filter by search date
+- Highlight matched text (yellow like chrome?)
+- Change data to CSV, and use a decoder
+- Show current filters
+- Use Style Elements

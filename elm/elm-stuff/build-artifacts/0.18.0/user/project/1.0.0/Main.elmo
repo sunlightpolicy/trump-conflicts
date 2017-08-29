@@ -17,6 +17,49 @@ var _user$project$Main$familyMemberToString = function (person) {
 			return 'Eric';
 	}
 };
+var _user$project$Main$familyMemberRadio = F3(
+	function (value, isChecked, msg) {
+		return A2(
+			_elm_lang$html$Html$label,
+			{
+				ctor: '::',
+				_0: _elm_lang$html$Html_Attributes$style(
+					{
+						ctor: '::',
+						_0: {ctor: '_Tuple2', _0: 'padding', _1: '20px'},
+						_1: {ctor: '[]'}
+					}),
+				_1: {ctor: '[]'}
+			},
+			{
+				ctor: '::',
+				_0: A2(
+					_elm_lang$html$Html$input,
+					{
+						ctor: '::',
+						_0: _elm_lang$html$Html_Attributes$type_('radio'),
+						_1: {
+							ctor: '::',
+							_0: _elm_lang$html$Html_Attributes$name('familyMember'),
+							_1: {
+								ctor: '::',
+								_0: _elm_lang$html$Html_Events$onClick(msg),
+								_1: {
+									ctor: '::',
+									_0: _elm_lang$html$Html_Attributes$checked(isChecked),
+									_1: {ctor: '[]'}
+								}
+							}
+						}
+					},
+					{ctor: '[]'}),
+				_1: {
+					ctor: '::',
+					_0: _elm_lang$html$Html$text(value),
+					_1: {ctor: '[]'}
+				}
+			});
+	});
 var _user$project$Main$drawSources = function (conflict) {
 	var drawSourceRow = function (source) {
 		return A2(
@@ -134,6 +177,9 @@ var _user$project$Main$filterBySearch = function (model) {
 				model.conflictList)
 		});
 };
+var _user$project$Main$clearFilter = function (model) {
+	return model;
+};
 var _user$project$Main$Model = F5(
 	function (a, b, c, d, e) {
 		return {conflictList: a, selectedList: b, selectedConflict: c, selectedFamilyMember: d, searchString: e};
@@ -211,43 +257,15 @@ var _user$project$Main$update = F2(
 						model,
 						{selectedFamilyMember: _p5._0}));
 			default:
-				return model;
+				return _user$project$Main$filterConflicts(
+					_elm_lang$core$Native_Utils.update(
+						model,
+						{searchString: '', selectedFamilyMember: _user$project$Main$All}));
 		}
 	});
 var _user$project$Main$Clear = {ctor: 'Clear'};
 var _user$project$Main$ChooseFamilyMember = function (a) {
 	return {ctor: 'ChooseFamilyMember', _0: a};
-};
-var _user$project$Main$familyMemberChooser = function (person) {
-	return A2(
-		_elm_lang$html$Html$label,
-		{ctor: '[]'},
-		{
-			ctor: '::',
-			_0: A2(
-				_elm_lang$html$Html$input,
-				{
-					ctor: '::',
-					_0: _elm_lang$html$Html_Attributes$type_('radio'),
-					_1: {
-						ctor: '::',
-						_0: _elm_lang$html$Html_Attributes$name('familyMember'),
-						_1: {
-							ctor: '::',
-							_0: _elm_lang$html$Html_Events$onClick(
-								_user$project$Main$ChooseFamilyMember(person)),
-							_1: {ctor: '[]'}
-						}
-					}
-				},
-				{ctor: '[]'}),
-			_1: {
-				ctor: '::',
-				_0: _elm_lang$html$Html$text(
-					_user$project$Main$familyMemberToString(person)),
-				_1: {ctor: '[]'}
-			}
-		});
 };
 var _user$project$Main$SelectConflict = function (a) {
 	return {ctor: 'SelectConflict', _0: a};
@@ -463,8 +481,12 @@ var _user$project$Main$view = function (model) {
 											_0: _elm_lang$html$Html_Attributes$placeholder('Search'),
 											_1: {
 												ctor: '::',
-												_0: _elm_lang$html$Html_Events$onInput(_user$project$Main$Search),
-												_1: {ctor: '[]'}
+												_0: _elm_lang$html$Html_Attributes$value(model.searchString),
+												_1: {
+													ctor: '::',
+													_0: _elm_lang$html$Html_Events$onInput(_user$project$Main$Search),
+													_1: {ctor: '[]'}
+												}
 											}
 										}
 									},
@@ -476,18 +498,12 @@ var _user$project$Main$view = function (model) {
 										{ctor: '[]'},
 										{
 											ctor: '::',
-											_0: A2(
-												_elm_lang$html$Html$button,
-												{
-													ctor: '::',
-													_0: _elm_lang$html$Html_Events$onClick(_user$project$Main$Clear),
-													_1: {ctor: '[]'}
-												},
-												{
-													ctor: '::',
-													_0: _elm_lang$html$Html$text('Clear'),
-													_1: {ctor: '[]'}
-												}),
+											_0: _elm_lang$html$Html$text(
+												A2(
+													_elm_lang$core$Basics_ops['++'],
+													_elm_lang$core$Basics$toString(
+														_elm_lang$core$List$length(model.selectedList)),
+													' conflicts')),
 											_1: {ctor: '[]'}
 										}),
 									_1: {
@@ -495,39 +511,93 @@ var _user$project$Main$view = function (model) {
 										_0: A2(
 											_elm_lang$html$Html$td,
 											{ctor: '[]'},
-											A2(
-												_elm_lang$core$List$map,
-												_user$project$Main$familyMemberChooser,
+											{
+												ctor: '::',
+												_0: A2(
+													_elm_lang$html$Html$button,
+													{
+														ctor: '::',
+														_0: _elm_lang$html$Html_Events$onClick(_user$project$Main$Clear),
+														_1: {ctor: '[]'}
+													},
+													{
+														ctor: '::',
+														_0: _elm_lang$html$Html$text('Clear'),
+														_1: {ctor: '[]'}
+													}),
+												_1: {ctor: '[]'}
+											}),
+										_1: {
+											ctor: '::',
+											_0: A2(
+												_elm_lang$html$Html$td,
+												{ctor: '[]'},
 												{
 													ctor: '::',
-													_0: _user$project$Main$All,
-													_1: {
-														ctor: '::',
-														_0: _user$project$Main$Sr,
-														_1: {
+													_0: A2(
+														_elm_lang$html$Html$fieldset,
+														{ctor: '[]'},
+														{
 															ctor: '::',
-															_0: _user$project$Main$Jr,
+															_0: A3(
+																_user$project$Main$familyMemberRadio,
+																'All',
+																_elm_lang$core$Native_Utils.eq(model.selectedFamilyMember, _user$project$Main$All),
+																_user$project$Main$ChooseFamilyMember(_user$project$Main$All)),
 															_1: {
 																ctor: '::',
-																_0: _user$project$Main$Ivanka,
+																_0: A3(
+																	_user$project$Main$familyMemberRadio,
+																	'Trump',
+																	_elm_lang$core$Native_Utils.eq(model.selectedFamilyMember, _user$project$Main$Sr),
+																	_user$project$Main$ChooseFamilyMember(_user$project$Main$Sr)),
 																_1: {
 																	ctor: '::',
-																	_0: _user$project$Main$Jared,
+																	_0: A3(
+																		_user$project$Main$familyMemberRadio,
+																		'Jr',
+																		_elm_lang$core$Native_Utils.eq(model.selectedFamilyMember, _user$project$Main$Jr),
+																		_user$project$Main$ChooseFamilyMember(_user$project$Main$Jr)),
 																	_1: {
 																		ctor: '::',
-																		_0: _user$project$Main$Melania,
+																		_0: A3(
+																			_user$project$Main$familyMemberRadio,
+																			'Ivanka',
+																			_elm_lang$core$Native_Utils.eq(model.selectedFamilyMember, _user$project$Main$Ivanka),
+																			_user$project$Main$ChooseFamilyMember(_user$project$Main$Ivanka)),
 																		_1: {
 																			ctor: '::',
-																			_0: _user$project$Main$Eric,
-																			_1: {ctor: '[]'}
+																			_0: A3(
+																				_user$project$Main$familyMemberRadio,
+																				'Jared',
+																				_elm_lang$core$Native_Utils.eq(model.selectedFamilyMember, _user$project$Main$Jared),
+																				_user$project$Main$ChooseFamilyMember(_user$project$Main$Jared)),
+																			_1: {
+																				ctor: '::',
+																				_0: A3(
+																					_user$project$Main$familyMemberRadio,
+																					'Melania',
+																					_elm_lang$core$Native_Utils.eq(model.selectedFamilyMember, _user$project$Main$Melania),
+																					_user$project$Main$ChooseFamilyMember(_user$project$Main$Melania)),
+																				_1: {
+																					ctor: '::',
+																					_0: A3(
+																						_user$project$Main$familyMemberRadio,
+																						'Eric',
+																						_elm_lang$core$Native_Utils.eq(model.selectedFamilyMember, _user$project$Main$Eric),
+																						_user$project$Main$ChooseFamilyMember(_user$project$Main$Eric)),
+																					_1: {ctor: '[]'}
+																				}
+																			}
 																		}
 																	}
 																}
 															}
-														}
-													}
-												})),
-										_1: {ctor: '[]'}
+														}),
+													_1: {ctor: '[]'}
+												}),
+											_1: {ctor: '[]'}
+										}
 									}
 								}
 							}),

@@ -1,11 +1,11 @@
 module Main exposing (..)
 
+import Data exposing (..)
 import Html exposing (..)
 import Html.Attributes exposing (..)
 import Html.Events exposing (..)
 import List exposing (..)
 import Types exposing (..)
-import Data exposing (..)
 
 
 type alias Model =
@@ -61,13 +61,19 @@ update msg model =
             filterConflicts { model | selectedFamilyMember = selectedFamilyMember }
 
         Clear ->
-            model
+            filterConflicts { model | searchString = "", selectedFamilyMember = All }
 
 
 filterConflicts : Model -> Model
 filterConflicts model =
     filterBySearch model
         |> filterByFamilyMember
+
+
+
+clearFilter : Model -> Model
+clearFilter model =
+    model
 
 
 
@@ -90,7 +96,7 @@ filterByFamilyMember model =
             model
 
         _ ->
-            { model | selectedList = List.filter (\record -> (stringToFamilyMember record.familyMember) == model.selectedFamilyMember) model.selectedList }
+            { model | selectedList = List.filter (\record -> stringToFamilyMember record.familyMember == model.selectedFamilyMember) model.selectedList }
 
 
 
@@ -121,14 +127,27 @@ view model =
             ]
         , tr []
             [ td []
-                [ input [ type_ "text", placeholder "Search", onInput Search ] []
+                [ input [ type_ "text", placeholder "Search", value model.searchString, onInput Search ] []
+                , td [] [ text (toString (length model.selectedList) ++ " conflicts") ]
                 , td [] [ button [ onClick Clear ] [ text "Clear" ] ]
-                , td [] (List.map familyMemberChooser [ All, Sr, Jr, Ivanka, Jared, Melania, Eric ])
+
+                --, td [] [ fieldset [] (List.map familyMemberChooser [ All, Sr, Jr, Ivanka, Jared, Melania, Eric ]) ]
+                , td []
+                    [ fieldset []
+                        [ familyMemberRadio "All" (model.selectedFamilyMember == All) (ChooseFamilyMember All)
+                        , familyMemberRadio "Trump" (model.selectedFamilyMember == Sr) (ChooseFamilyMember Sr)
+                        , familyMemberRadio "Jr" (model.selectedFamilyMember == Jr) (ChooseFamilyMember Jr)
+                        , familyMemberRadio "Ivanka" (model.selectedFamilyMember == Ivanka) (ChooseFamilyMember Ivanka)
+                        , familyMemberRadio "Jared" (model.selectedFamilyMember == Jared) (ChooseFamilyMember Jared)
+                        , familyMemberRadio "Melania" (model.selectedFamilyMember == Melania) (ChooseFamilyMember Melania)
+                        , familyMemberRadio "Eric" (model.selectedFamilyMember == Eric) (ChooseFamilyMember Eric)
+                        ]
+                    ]
                 ]
             ]
         , tr []
             [ td [ conflictPaneStyle ] (drawConflictRows model.selectedList model.selectedConflict)
-            , td [ sourcePaneStyle ] (drawSources (model.selectedConflict))
+            , td [ sourcePaneStyle ] (drawSources model.selectedConflict)
             ]
         ]
 
@@ -139,14 +158,14 @@ drawConflictRows conflicts selectedConflict =
         drawConflictRow : Conflict -> Html Msg
         drawConflictRow conflict =
             tr [ onClick (SelectConflict conflict) ]
-                [ td [ style [ ( "width", "70px" ) ], classList [ ( "selected", isSelected selectedConflict conflict ) ] ] [ text (conflict.familyMember) ]
-                , td [ style [ ( "width", "70px" ) ], classList [ ( "selected", isSelected selectedConflict conflict ) ] ] [ text (conflict.category) ]
-                , td [ style [ ( "width", "100px" ) ], classList [ ( "selected", isSelected selectedConflict conflict ) ] ] [ text (conflict.conflictingEntity) ]
-                , td [ style [ ( "width", "400px" ) ], classList [ ( "selected", isSelected selectedConflict conflict ) ] ] [ text (conflict.description) ]
+                [ td [ style [ ( "width", "70px" ) ], classList [ ( "selected", isSelected selectedConflict conflict ) ] ] [ text conflict.familyMember ]
+                , td [ style [ ( "width", "70px" ) ], classList [ ( "selected", isSelected selectedConflict conflict ) ] ] [ text conflict.category ]
+                , td [ style [ ( "width", "100px" ) ], classList [ ( "selected", isSelected selectedConflict conflict ) ] ] [ text conflict.conflictingEntity ]
+                , td [ style [ ( "width", "400px" ) ], classList [ ( "selected", isSelected selectedConflict conflict ) ] ] [ text conflict.description ]
                 ]
     in
-        conflicts
-            |> List.map drawConflictRow
+    conflicts
+        |> List.map drawConflictRow
 
 
 isSelected : Maybe Conflict -> Conflict -> Bool
@@ -166,23 +185,25 @@ drawSources conflict =
         drawSourceRow source =
             tr []
                 [ td [ style [ ( "width", "150px" ) ] ] [ a [ href source.link ] [ text source.name ] ]
-                , td [ style [ ( "width", "80px" ) ] ] [ text (source.date) ]
+                , td [ style [ ( "width", "80px" ) ] ] [ text source.date ]
                 ]
     in
-        case conflict of
-            Nothing ->
-                [ h3 [] [ text <| "" ] ]
+    case conflict of
+        Nothing ->
+            [ h3 [] [ text <| "" ] ]
 
-            Just conflict ->
-                conflict.sources
-                    |> List.map drawSourceRow
+        Just conflict ->
+            conflict.sources
+                |> List.map drawSourceRow
 
 
-familyMemberChooser : FamilyMember -> Html Msg
-familyMemberChooser person =
-    label []
-        [ input [ type_ "radio", name "familyMember", onClick (ChooseFamilyMember person) ] []
-        , text (familyMemberToString person)
+familyMemberRadio : String -> Bool -> msg -> Html msg
+familyMemberRadio value isChecked msg =
+    label
+        [ style [ ( "padding", "20px" ) ]
+        ]
+        [ input [ type_ "radio", name "familyMember", onClick msg, checked isChecked ] []
+        , text value
         ]
 
 

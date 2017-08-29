@@ -1,7 +1,7 @@
 module Data exposing (conflictList)
 
-import Types exposing (..)
 import Array exposing (Array)
+import Types exposing (..)
 
 
 conflictList : List Conflict
