@@ -70,7 +70,6 @@ filterConflicts model =
         |> filterByFamilyMember
 
 
-
 clearFilter : Model -> Model
 clearFilter model =
     model
@@ -130,8 +129,7 @@ view model =
                 [ input [ type_ "text", placeholder "Search", value model.searchString, onInput Search ] []
                 , td [] [ text (toString (length model.selectedList) ++ " conflicts") ]
                 , td [] [ button [ onClick Clear ] [ text "Clear" ] ]
-
-                --, td [] [ fieldset [] (List.map familyMemberChooser [ All, Sr, Jr, Ivanka, Jared, Melania, Eric ]) ]
+                  --, td [] [ fieldset [] (List.map familyMemberChooser [ All, Sr, Jr, Ivanka, Jared, Melania, Eric ]) ]
                 , td []
                     [ fieldset []
                         [ familyMemberRadio "All" (model.selectedFamilyMember == All) (ChooseFamilyMember All)
@@ -164,8 +162,8 @@ drawConflictRows conflicts selectedConflict =
                 , td [ style [ ( "width", "400px" ) ], classList [ ( "selected", isSelected selectedConflict conflict ) ] ] [ text conflict.description ]
                 ]
     in
-    conflicts
-        |> List.map drawConflictRow
+        conflicts
+            |> List.map drawConflictRow
 
 
 isSelected : Maybe Conflict -> Conflict -> Bool
@@ -188,13 +186,13 @@ drawSources conflict =
                 , td [ style [ ( "width", "80px" ) ] ] [ text source.date ]
                 ]
     in
-    case conflict of
-        Nothing ->
-            [ h3 [] [ text <| "" ] ]
+        case conflict of
+            Nothing ->
+                [ h3 [] [ text <| "" ] ]
 
-        Just conflict ->
-            conflict.sources
-                |> List.map drawSourceRow
+            Just conflict ->
+                conflict.sources
+                    |> List.map drawSourceRow
 
 
 familyMemberRadio : String -> Bool -> msg -> Html msg
