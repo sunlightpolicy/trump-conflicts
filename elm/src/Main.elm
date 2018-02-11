@@ -127,7 +127,7 @@ view model =
         , tr []
             [ td []
                 [ input [ type_ "text", placeholder "Search", value model.searchString, onInput Search ] []
-                , td [] [ text (toString (length model.selectedList) ++ " conflicts") ]
+                , td [] [ text (toString (length model.selectedList) ++ " Conflicts") ]
                 , td [] [ button [ onClick Clear ] [ text "Clear" ] ]
                   --, td [] [ fieldset [] (List.map familyMemberChooser [ All, Sr, Jr, Ivanka, Jared, Melania, Eric ]) ]
                 , td []
