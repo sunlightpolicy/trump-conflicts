@@ -1,21 +1,25 @@
-﻿using System;
+﻿sing System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Conflicts {
+namespace Conflicts
+{
 
-    public class Source {
+    public class Source
+    {
         public string Name;
         public string Link;
         public DateTime Date;
 
-        public Source(string name, string link, DateTime date) {
+        public Source(string name, string link, DateTime date)
+        {
             Name = name;
             Link = link;
             Date = date;
         }
 
-        public string Elm() {
+        public string Elm()
+        {
             return "{ " +
                  "name = \"" + Util.RemoveQuotes(Name) + "\",  " +
                  "link = \"" + Util.RemoveQuotes(Link) + "\",  " +
@@ -25,7 +29,8 @@ namespace Conflicts {
     }
 
 
-    public class Conflict {
+    public class Conflict
+    {
 
         private SpreadsheetGear.IRange cells;
 
@@ -37,43 +42,65 @@ namespace Conflicts {
         public DateTime DateAddedOrEdited;
         public List<Source> Sources;
 
-        public Conflict(SpreadsheetGear.IRange cells, int row) {
+        // Columns from Spreadsheet
+        const int DESCRIPTION = 0;
+        const int TRUMP_FAMILY_MEMBER = 1;
+        const int CONFLICTING_ENTITY = 2;
+        const int STATUS = 3;
+        const int NOTES = 4;
+        const int SOURCE1 = 5;
+        const int DATE1 = 6;
+        const int SOURCE2 = 7;
+        const int DATE2 = 8;
+        const int SOURCE3 = 9;
+        const int DATE3 = 10;
+        const int DATE_PUBLISHED = 11;
+
+
+        public Conflict(SpreadsheetGear.IRange cells, int row)
+        {
             this.cells = cells;
 
-            Description = (string)cells[row, 0].Value;
-            FamilyMember = (string)cells[row, 1].Value;
-            ConflictingEntity = (string)cells[row, 2].Value;
-            Category = (string)cells[row, 9].Value;
-            Notes = (string)cells[row, 10].Value;
-            DateAddedOrEdited = cells.Worksheet.Workbook.NumberToDateTime((double)cells[row, 11].Value);
+            Description = (string)cells[row, DESCRIPTION].Value;
+            FamilyMember = (string)cells[row, TRUMP_FAMILY_MEMBER].Value;
+            ConflictingEntity = (string)cells[row, CONFLICTING_ENTITY].Value;
+            Category = (string)cells[row, STATUS].Value;
+            Notes = (string)cells[row, NOTES].Value;
+            DateAddedOrEdited = cells.Worksheet.Workbook.NumberToDateTime((double)cells[row, DATE_PUBLISHED].Value);
 
             Sources = new List<Source>();
-            AddSource(row, 3);
-            AddSource(row, 5);
-            AddSource(row, 7);
+            AddSource(row, SOURCE1);
+            AddSource(row, SOURCE2);
+            AddSource(row, SOURCE3);
         }
 
-        private void AddSource(int row, int col) {
+        private void AddSource(int row, int col)
+        {
             string source = "";
             string link = "";
             DateTime date = DateTime.Now;
-            if ((cells[row, col].Value != null) || (cells[row, col + 1].Value != null)) {
+            if ((cells[row, col].Value != null) || (cells[row, col + 1].Value != null))
+            {
                 bool valid = true;
 
-                try {  // Test for valid source
+                try
+                {  // Test for valid source
                     source = (String)cells[row, col].Value;
                     link = GetLink((String)cells[row, col].Formula);
                 }
-                catch {
+                catch
+                {
                     valid = false;
                     Console.WriteLine("Source at row " + Convert.ToString(row) + ", column " + Convert.ToString(col) +
                         " not valid");
                 }
 
-                try {  // Test for valid date
+                try
+                {  // Test for valid date
                     date = cells.Worksheet.Workbook.NumberToDateTime((double)cells[row, col + 1].Value);
                 }
-                catch {
+                catch
+                {
                     valid = false;
                     Console.WriteLine("Date at row " + Convert.ToString(row) + ", column " + Convert.ToString(col + 1) +
                         " not valid (" + (string)cells[row, col + 1].Value + ")");
@@ -84,26 +111,29 @@ namespace Conflicts {
             }
         }
 
-        public string Elm() {
+        public string Elm()
+        {
             return
                 "{" + ElmFields() + ElmSources() + "}  ";
         }
 
-        private string GetLink(string txt) {
+        private string GetLink(string txt)
+        {
             //  = HYPERLINK("https://www.wsj.com/articles/trump-debts-are-widely-held-on-wall-street-creating-new-potential-conflicts-1483637414", "Wall Street Journal")
-            string link = txt; 
+            string link = txt;
 
             int first = link.IndexOf("http");
             link = link.Substring(first, txt.Length - first);
-             
+
             int last = link.IndexOf("\",");
             link = link.Substring(0, last);
 
             return link;
         }
 
-        private string ElmFields() {
-            return 
+        private string ElmFields()
+        {
+            return
                  "description = \"" + Util.RemoveQuotes(Description) + "\", " +
                  "familyMember = \"" + TrumpName(Util.RemoveQuotes(FamilyMember)) + "\", " +
                  "conflictingEntity = \"" + Util.RemoveQuotes(ConflictingEntity) + "\", " +
@@ -112,23 +142,29 @@ namespace Conflicts {
                  "dateAddedOrEdited = \"" + DateAddedOrEdited.ToString("d") + "\"  "; ;
         }
 
-        private string ElmSources() {
+        private string ElmSources()
+        {
             List<String> elmSources = new List<String>();
             foreach (Source source in Sources)
                 elmSources.Add(source.Elm());
             string elmSourceString = String.Join("\n    ,", elmSources);
-            
+
             return ",  sources = [" + elmSourceString + "] ";
         }
 
-        private string UpperCaseFirstChar(string str) {
-            if (string.IsNullOrEmpty(str)) {
+        private string UpperCaseFirstChar(string str)
+        {
+            if (string.IsNullOrEmpty(str))
+            {
                 return string.Empty;
-            }return char.ToUpper(str[0]) + str.Substring(1);
+            }
+            return char.ToUpper(str[0]) + str.Substring(1);
         }
 
-        private string TrumpName(string name) {
-            switch (name) {
+        private string TrumpName(string name)
+        {
+            switch (name)
+            {
                 case "Donald Trump": return "Donald Sr.";
                 case "Donald Trump Jr.": return "Donald Jr.";
                 case "Eric Trump": return "Eric";
@@ -140,7 +176,8 @@ namespace Conflicts {
         }
     }
 
-    public class ConflictLoader {
+    public class ConflictLoader
+    {
 
         private string outputFile = "c:\\trump-conflicts\\Exporter\\Exporter\\data\\Data.elm";
         private StringBuilder strings;
@@ -148,20 +185,24 @@ namespace Conflicts {
 
         public List<Conflict> Conflicts { get; set; }
 
-        public ConflictLoader(SpreadsheetGear.IRange cells) {
+        public ConflictLoader(SpreadsheetGear.IRange cells)
+        {
             this.cells = cells;
 
             GetConflicts();
             MakeElm();
         }
 
-        private void GetConflicts() {
+        private void GetConflicts()
+        {
             Conflicts = new List<Conflict>();
 
             int row = 1;
             bool more = true;
-            while (more) {
-                if (cells[row, 0].Value == null) {
+            while (more)
+            {
+                if (cells[row, 0].Value == null)
+                {
                     more = false;
                     break;
                 }
@@ -171,7 +212,8 @@ namespace Conflicts {
             Console.WriteLine(Convert.ToString(Conflicts.Count + " conflicts read"));
         }
 
-        private void MakeElm() {
+        private void MakeElm()
+        {
             strings = new StringBuilder();
 
             WriteHeader();
@@ -180,7 +222,8 @@ namespace Conflicts {
             System.IO.File.WriteAllText(outputFile, strings.ToString());
         }
 
-        private void WriteHeader() {
+        private void WriteHeader()
+        {
             Line("module Data exposing (conflictList)");
             Line("");
             Line("import Types exposing (..)");
@@ -188,25 +231,29 @@ namespace Conflicts {
             Line("");
         }
 
-        private void WriteConflicts() {
+        private void WriteConflicts()
+        {
             List<String> elmConflicts = new List<String>();
             foreach (Conflict conflict in Conflicts)
                 elmConflicts.Add(conflict.Elm());
             string elmConflictsString = String.Join("\n    ,", elmConflicts);
-            
+
             Line("conflictList : List Conflict");
             Line("conflictList = [");
             Line("    " + elmConflictsString);
             Line("    ]");
         }
 
-        private void Line(String str) {
+        private void Line(String str)
+        {
             strings.Append(str + "\n");
-        }        
+        }
     }
 
-    public class Util {
-        public static string RemoveQuotes(String str) {
+    public class Util
+    {
+        public static string RemoveQuotes(String str)
+        {
             if (str == null)
                 return "";
             return str.Replace("\"", "");
