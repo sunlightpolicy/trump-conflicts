@@ -17,16 +17,15 @@ namespace Conflicts {
             Date = date;
         }
 
-        //public string Elm() {
-        //    return "{ " +
-        //         "name = \"" + Util.RemoveQuotes(Name) + "\",  " +
-        //         "link = \"" + Util.RemoveQuotes(Link) + "\",  " +
-        //         "date = \"" + Date.ToString("d") + "\" " +
-        //         "}";
-        //}
+        public string ToJson() {
+            return "{ " +
+                 "name=\"" + Util.RemoveQuotes(Name) + "\"," +
+                 "link=\"" + Util.RemoveQuotes(Link) + "\"," +
+                 "date=\"" + Date.ToString("d") + "\"" +
+                 "}";
+        }
     }
-
-
+    
     public class Conflict {
 
         public string Description;
@@ -34,36 +33,22 @@ namespace Conflicts {
         public string ConflictingEntity;
         public string Category;
         public string Notes;
-        //public DateTime DateAddedOrEdited;
-        //public List<ElmSource> Sources;
+        public DateTime DateChanged;
+        public List<Source> Sources;
 
-        public Conflict(string description) {
+        public Conflict(string description, string familyMember, string conflictingEntity, string category, string notes, DateTime dateChanged) {
             Description = description;
-
-
-            //this.cells = cells;
-
-            //Description = (string)cells[row, 0].Value;
-            //FamilyMember = (string)cells[row, 1].Value;
-            //ConflictingEntity = (string)cells[row, 2].Value;
-            //Category = (string)cells[row, 9].Value;
-            //Notes = (string)cells[row, 10].Value;
-            //DateAddedOrEdited = cells.Worksheet.Workbook.NumberToDateTime((double)cells[row, 11].Value);
-
-            //Sources = new List<ElmSource>();
+            FamilyMember = familyMember;
+            ConflictingEntity = conflictingEntity;
+            Category = category;
+            Notes = notes;
+            DateChanged = dateChanged;
+            
+            Sources = new List<Source>();
             //AddSource(row, 3);
             //AddSource(row, 5);
             //AddSource(row, 7);
         }
-
-
-
-        //public string Json() {
-        //    return
-        //        "{" + JsonFields() + "}  ";
-        //        //"{" + Fields() + Sources() + "}  ";
-        //}
-
 
         //{"menu": {
         //    "id": "file",
@@ -80,19 +65,17 @@ namespace Conflicts {
         public string ToJson() {
             return
                 "{" +
-                "\"description\": \"" + Util.RemoveQuotes(Description) + "\", " +
-                "\"familyMemory\": \"" + Util.RemoveQuotes(FamilyMember) + "\", " +
-                "\"conflictingEntity\": \"" + Util.RemoveQuotes(ConflictingEntity) + "\", " +
-                "\"description\": \"" + Util.RemoveQuotes(Category) + "\", " +
-                "\"notes\": \"" + Util.RemoveQuotes(Notes) + "\"" +
+                "\"description\": \"" + Util.RemoveQuotes(Description) + "\"," +
+                "\"familyMember\": \"" + Util.RemoveQuotes(FamilyMember) + "\"," +
+                "\"conflictingEntity\": \"" + Util.RemoveQuotes(ConflictingEntity) + "\"," +
+                "\"category\": \"" + Util.RemoveQuotes(Category) + "\", " +
+                "\"notes\": \"" + Util.RemoveQuotes(Notes) + "\"," +
+                "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", DateChanged) + "\"" +
                 "}";
+        }
 
-
-            //"familyMember = \"" + TrumpName(Util.RemoveQuotes(FamilyMember)) + "\", " +
-            //"conflictingEntity = \"" + Util.RemoveQuotes(ConflictingEntity) + "\", " +
-            //"category = \"" + UpperCaseFirstChar(Util.RemoveQuotes(Category)) + "\", " +
-            //"notes = \"" + Util.RemoveQuotes(Notes) + "\", " +
-            //"dateAddedOrEdited = \"" + DateAddedOrEdited.ToString("d") + "\"  "; 
+        private void AddSource(string source, string link, DateTime date) {
+            Sources.Add(new Source(source, link, date));
         }
 
         private void AddSource(int row, int col) {
@@ -138,17 +121,7 @@ namespace Conflicts {
 
         //return link;
         //}
-
-
-        //private string ElmSources() {
-        //    List<String> elmSources = new List<String>();
-        //    foreach (ElmSource source in Sources)
-        //        elmSources.Add(source.Elm());
-        //    string elmSourceString = String.Join("\n    ,", elmSources);
-
-        //    return ",  sources = [" + elmSourceString + "] ";
-        //}
-
+        
         private string UpperCaseFirstChar(string str) {
             if (string.IsNullOrEmpty(str)) {
                 return string.Empty;
@@ -174,9 +147,15 @@ namespace Conflicts {
 
         public HtmlLoader(String path) {
 
+            var parentsFile = "President Donald J. Trump and FLOTUS.html";
+            var childrenFile = "Donald Trump Jr., Eric Trump, Ivanka Trump & Jared Kushner.html";
+
+            //var parentsFile = "Parents.html";
+            //var childrenFile = "Children.Html";
+
             var conflicts = new List<Conflict>();
-            ImportPage(conflicts, path + "\\" + "President Donald J. Trump and FLOTUS.html");
-            ImportPage(conflicts, path + "\\" + "Donald Trump Jr., Eric Trump, Ivanka Trump & Jared Kushner.html");
+            ImportPage(conflicts, path + "\\" + parentsFile);
+            ImportPage(conflicts, path + "\\" + childrenFile);
 
             WriteJson(conflicts, path + "\\" + "conflicts.json"); 
             Console.WriteLine(conflicts.Count.ToString() + " total conflicts");
@@ -184,56 +163,130 @@ namespace Conflicts {
 
 
         private void WriteJson(List<Conflict> conflicts, string file) {
-            var strings = new StringBuilder();
 
+            var conflictStrings = new List<String>();
             foreach (Conflict conflict in conflicts)
-                strings.Append(conflict.ToJson() + "\n");
+                conflictStrings.Add(conflict.ToJson());
+            
+            var strings = new StringBuilder();
+            strings.Append("[");
+            strings.Append(String.Join(",", conflictStrings.ToArray()));
+            strings.Append("]");
 
             System.IO.File.WriteAllText(file, strings.ToString());
         }
         
-
-
         private void ImportPage(List<Conflict> conflicts, string file) {
             
             string text = File.ReadAllText(file, Encoding.UTF8);
 
-            int count = 0;
-            int max = 10;
+            int rowNum = 0;
+            int max = 100000;
             var rows = text.Split(new[] { "<tr " }, StringSplitOptions.None);
             foreach (string row in rows) {
-                if (count < max) {
-                    AddConflict(conflicts, row);
-                    count++;
+                if (rowNum < max) {
+                    AddConflict(conflicts, row, file, rowNum);
+                    rowNum++;
                 }
             }
             Console.WriteLine(conflicts.Count.ToString() + " conflicts");
         }
 
-        private void AddConflict(List<Conflict> conflicts, string row) {
+        private void AddConflict(List<Conflict> conflicts, string row, string file, int rowNum) {
             var cols = row.Split(new[] { "<td " }, StringSplitOptions.None);
 
             if (cols.Length < 2)
                 return;
-
             if (cols[1].Contains("></td>")) 
                 return;
-
             if (cols[1].Contains("Description</td"))
                 return;
 
-            conflicts.Add(new Conflict(
-                Description(cols[1])
-            ));
-                
+            var conflict = new Conflict(
+                Description(cols[1]),
+                FamilyMember(cols[2]),
+                ConflictingEntity(cols[3]),
+                Category(cols[4]),
+                Notes(cols[5]),
+                DateChanged(cols[12]));
+
+            try {
+                AddSource(conflict, cols[6], cols[7]);
+                AddSource(conflict, cols[8], cols[9]);
+                AddSource(conflict, cols[10], cols[11]);
+            } catch (Exception e) {
+                Console.WriteLine("LINK PROBLEM: " + Path.GetFileNameWithoutExtension(file) + " at " + rowNum.ToString());
+                return;
+            }
+
+            conflicts.Add(conflict);
         }
 
-        private string Description(string txt) {
+        private void AddSource(Conflict conflict,  string text, string date) {
+            //class="s5" dir="ltr"><a target = "_blank" href="https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c">Office of Government Ethics</a></td>
+            var fields = text.Split(new[] { " href=" }, StringSplitOptions.None);
+            if (fields.Length < 2)
+                return;
 
+            var linkAndName = fields[1].Split('>');
+            
+            var name = linkAndName[1].Replace("</a", "");
+            var link = linkAndName[0].Replace("\"", "");
+
+            var dateStr = date.Split('>')[1].Replace("</td", "");
+            var dte = GetDate(dateStr);
+
+            var source = new Source(name, link, DateTime.Now);
+
+            //link = link.Replace("class="s5" dir="ltr"><a target = "_blank" href="")
+        }
+
+        private DateTime GetDate(string dte) {
+
+            dte = dte
+                .Replace("Sept.", "September");
+
+            DateTime date = Convert.ToDateTime(dte.Replace(".", ""));
+            
+            return date;
+        }
+
+
+        private string Description(string txt) {
             var subs = txt.Split('>');
             return 
                 subs[1].Replace("</td", "").TrimEnd().TrimStart();
+        }
 
+        private string FamilyMember(string txt) {
+            var subs = txt.Split('>');
+            return
+                subs[1].Replace("</td", "").TrimEnd().TrimStart();
+        }
+
+        private string ConflictingEntity(string txt) {
+            var subs = txt.Split('>');
+            return
+                subs[1].Replace("</td", "").TrimEnd().TrimStart();
+        }
+
+        private string Category(string txt) {
+            var subs = txt.Split('>');
+            return
+                subs[1].Replace("</td", "").TrimEnd().TrimStart();
+        }
+
+        private string Notes(string txt) {
+            var subs = txt.Split('>');
+            return
+                subs[1].Replace("</td", "").TrimEnd().TrimStart();
+        }
+
+        private DateTime DateChanged(string txt) {
+            var subs = txt.Split('>');
+            var dte = subs[1].Replace("</td", "").TrimEnd().TrimStart();
+            return
+                Convert.ToDateTime(dte);
         }
     }
 }
