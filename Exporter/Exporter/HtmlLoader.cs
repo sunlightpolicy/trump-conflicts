@@ -19,9 +19,10 @@ namespace Conflicts {
 
         public string ToJson() {
             return "{ " +
-                 "name=\"" + Util.RemoveQuotes(Name) + "\"," +
-                 "link=\"" + Util.RemoveQuotes(Link) + "\"," +
-                 "date=\"" + Date.ToString("d") + "\"" +
+                 "\"name\": \"" + Util.RemoveQuotes(Name) + "\"," +
+                 "\"link\": \"" + Util.RemoveQuotes(Link) + "\"," +
+                 //"date=\"" + Date.ToString("d") + "\"" +
+                 "\"date\": \"" + String.Format("{0:MM/dd/yyyy}", Date) + "\"" +
                  "}";
         }
     }
@@ -45,9 +46,6 @@ namespace Conflicts {
             DateChanged = dateChanged;
             
             Sources = new List<Source>();
-            //AddSource(row, 3);
-            //AddSource(row, 5);
-            //AddSource(row, 7);
         }
 
         //{"menu": {
@@ -70,13 +68,28 @@ namespace Conflicts {
                 "\"conflictingEntity\": \"" + Util.RemoveQuotes(ConflictingEntity) + "\"," +
                 "\"category\": \"" + Util.RemoveQuotes(Category) + "\", " +
                 "\"notes\": \"" + Util.RemoveQuotes(Notes) + "\"," +
-                "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", DateChanged) + "\"" +
+                "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", DateChanged) + "\"," +
+                SourcesToJson() +
                 "}";
         }
 
-        private void AddSource(string source, string link, DateTime date) {
-            Sources.Add(new Source(source, link, date));
+        private string SourcesToJson() {
+
+            var sourceStrings = new List<String>();
+            foreach (Source source in Sources)
+                sourceStrings.Add(source.ToJson());
+
+            var strings = new StringBuilder();
+            strings.Append("\"sources\": [");
+            strings.Append(String.Join(",", sourceStrings.ToArray()));
+            strings.Append("]");
+
+            return strings.ToString();
         }
+
+        //private void AddSource(string source, string link, DateTime date) {
+        //    Sources.Add(new Source(source, link, date));
+        //}
 
         private void AddSource(int row, int col) {
             //string source = "";
@@ -149,10 +162,7 @@ namespace Conflicts {
 
             var parentsFile = "President Donald J. Trump and FLOTUS.html";
             var childrenFile = "Donald Trump Jr., Eric Trump, Ivanka Trump & Jared Kushner.html";
-
-            //var parentsFile = "Parents.html";
-            //var childrenFile = "Children.Html";
-
+            
             var conflicts = new List<Conflict>();
             ImportPage(conflicts, path + "\\" + parentsFile);
             ImportPage(conflicts, path + "\\" + childrenFile);
@@ -237,6 +247,8 @@ namespace Conflicts {
             var dte = GetDate(dateStr);
 
             var source = new Source(name, link, DateTime.Now);
+
+            conflict.Sources.Add(source);
 
             //link = link.Replace("class="s5" dir="ltr"><a target = "_blank" href="")
         }
