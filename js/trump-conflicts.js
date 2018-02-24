@@ -11,8 +11,22 @@ d3.json("data/conflicts.json", function (data) {
         d.sourceType = "Office of Government Ethics";
         if ((typeof(d.sources[0]) != "undefined") && (d.sources[0].name != "Office of Government Ethics"))
             d.sourceType = "Media";
+
+        d.source = "None";
+        if (typeof (d.sources[0]) != "undefined") {
+            d.source = d.sources[0].name;
+
+            if ((typeof (d.sources[1]) != "undefined") && (d.sources[1].name != d.source))
+                d.source = "Multiple";
+        }
     });
     var facts = crossfilter(data);
+
+    var all = facts.groupAll();
+    dc.dataCount('.dc-data-count')
+        .dimension(facts)
+        .group(all);
+
 
     var categoryDim = facts.dimension(dc.pluck('category'));
     dc.pieChart("#dc-chart-category")
@@ -33,8 +47,9 @@ d3.json("data/conflicts.json", function (data) {
         .ordinalColors(appropriationTypeColors)
 
 
-    new RowChart(facts, "familyMember", 300, 6);
+    new RowChart(facts, "familyMember", 200, 6);
     new RowChart(facts, "conflictingEntity", 300, 400);
+    new RowChart(facts, "source", 300, 40);
     //new RowChart(facts, "category", 300, 3);
     //new RowChart(facts, "sourceType", 300, 2);
     
@@ -53,7 +68,8 @@ d3.json("data/conflicts.json", function (data) {
             function(d) { return d.description; },
             function(d) { return d.familyMember; },          
             function(d) { return d.conflictingEntity; },
-            function(d) { return d.category; }
+            function (d) { return d.category; },
+            function (d) { return d.source; }
         ])
     //.sortBy(function(d){ return +d.Id; })
     .order(d3.ascending);
