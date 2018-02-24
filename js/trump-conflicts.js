@@ -8,20 +8,36 @@ var appropriationTypeColors =
 
 d3.json("data/conflicts.json", function (data) {
     data.forEach(function (d) {
-        d.Id = +d.Id; 
-        if (d.category == "active")
-            d.category = "Active";
-        if (d.category == "potential")
-            d.category = "Potential";
-        if (d.category == "resolved")
-            d.category = "Resolved";
+        d.sourceType = "Office of Government Ethics";
+        if ((typeof(d.sources[0]) != "undefined") && (d.sources[0].name != "Office of Government Ethics"))
+            d.sourceType = "Media";
     });
     var facts = crossfilter(data);
 
+    var categoryDim = facts.dimension(dc.pluck('category'));
+    dc.pieChart("#dc-chart-category")
+        .dimension(categoryDim)
+        .group(categoryDim.group().reduceCount())
+        .width(200)
+        .height(200)
+        .radius(80)
+        .ordinalColors(appropriationTypeColors);
+
+    var sourceTypeDim = facts.dimension(dc.pluck('sourceType'));
+    dc.pieChart("#dc-chart-sourceType")
+        .dimension(sourceTypeDim)
+        .group(sourceTypeDim.group().reduceCount())
+        .width(200)
+        .height(200)
+        .radius(80)
+        .ordinalColors(appropriationTypeColors)
+
+
     new RowChart(facts, "familyMember", 300, 6);
     new RowChart(facts, "conflictingEntity", 300, 400);
-    new RowChart(facts, "category", 300, 3);
-
+    //new RowChart(facts, "category", 300, 3);
+    //new RowChart(facts, "sourceType", 300, 2);
+    
     dataTable = dc.dataTable("#dc-chart-table");
 
     var tableDim = facts.dimension(function(d) { return +d.Id; });
@@ -38,19 +54,18 @@ d3.json("data/conflicts.json", function (data) {
             function(d) { return d.familyMember; },          
             function(d) { return d.conflictingEntity; },
             function(d) { return d.category; }
-            //function(d) { return d.Source1; }
-            //function(d) { return '<a href="https://scholar.google.fr/scholar?q=' + d.DOI + '" target="_blank">' + d.DOI + '</a>' },
         ])
-    .sortBy(function(d){ return +d.Id; })
+    //.sortBy(function(d){ return +d.Id; })
     .order(d3.ascending);
    
     dc.renderAll();
 });
 
-// 07 constructor function for row charts
+
+
 var RowChart = function (facts, attribute, width, maxItems) {
     this.dim = facts.dimension(dc.pluck(attribute));
-    debugger;
+    //debugger;
     dc.rowChart("#dc-chart-" + attribute)
         .dimension(this.dim)
         .group(this.dim.group().reduceCount())

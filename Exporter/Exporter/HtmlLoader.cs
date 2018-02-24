@@ -48,18 +48,6 @@ namespace Conflicts {
             Sources = new List<Source>();
         }
 
-        //{"menu": {
-        //    "id": "file",
-        //    "value": "File",
-        //    "popup": {
-        //    "menuitem": [
-        //        {"value": "New", "onclick": "CreateNewDoc()"},
-        //        {"value": "Open", "onclick": "OpenDoc()"},
-        //        {"value": "Close", "onclick": "CloseDoc()"}
-        //        ]
-        //    }
-        //}}
-
         public string ToJson() {
             return
                 "{" +
@@ -87,54 +75,6 @@ namespace Conflicts {
             return strings.ToString();
         }
 
-        //private void AddSource(string source, string link, DateTime date) {
-        //    Sources.Add(new Source(source, link, date));
-        //}
-
-        private void AddSource(int row, int col) {
-            //string source = "";
-            //string link = "";
-            //DateTime date = DateTime.Now;
-            //if ((cells[row, col].Value != null) || (cells[row, col + 1].Value != null)) {
-            //    bool valid = true;
-
-            //    try {  // Test for valid source
-            //        source = (String)cells[row, col].Value;
-            //        link = GetLink((String)cells[row, col].Formula);
-            //    }
-            //    catch {
-            //        valid = false;
-            //        Console.WriteLine("Source at row " + Convert.ToString(row) + ", column " + Convert.ToString(col) +
-            //            " not valid");
-            //    }
-
-            //    try {  // Test for valid date
-            //        date = cells.Worksheet.Workbook.NumberToDateTime((double)cells[row, col + 1].Value);
-            //    }
-            //    catch {
-            //        valid = false;
-            //        Console.WriteLine("Date at row " + Convert.ToString(row) + ", column " + Convert.ToString(col + 1) +
-            //            " not valid (" + (string)cells[row, col + 1].Value + ")");
-            //    }
-
-            //    if (valid)
-            //        Sources.Add(new ElmSource(source, link, date));
-            //}
-        }
-
-        //private string GetLink(string txt) {
-        ////  = HYPERLINK("https://www.wsj.com/articles/trump-debts-are-widely-held-on-wall-street-creating-new-potential-conflicts-1483637414", "Wall Street Journal")
-        //string link = txt;
-
-        //int first = link.IndexOf("http");
-        //link = link.Substring(first, txt.Length - first);
-
-        //int last = link.IndexOf("\",");
-        //link = link.Substring(0, last);
-
-        //return link;
-        //}
-        
         private string UpperCaseFirstChar(string str) {
             if (string.IsNullOrEmpty(str)) {
                 return string.Empty;
@@ -167,7 +107,7 @@ namespace Conflicts {
             ImportPage(conflicts, path + "\\" + parentsFile);
             ImportPage(conflicts, path + "\\" + childrenFile);
 
-            WriteJson(conflicts, path + "\\" + "conflicts.json"); 
+            WriteJson(conflicts, "c:\\trump-conflicts\\data\\conflicts.json");
             Console.WriteLine(conflicts.Count.ToString() + " total conflicts");
         }
 
@@ -233,7 +173,6 @@ namespace Conflicts {
         }
 
         private void AddSource(Conflict conflict,  string text, string date) {
-            //class="s5" dir="ltr"><a target = "_blank" href="https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c">Office of Government Ethics</a></td>
             var fields = text.Split(new[] { " href=" }, StringSplitOptions.None);
             if (fields.Length < 2)
                 return;
@@ -249,8 +188,6 @@ namespace Conflicts {
             var source = new Source(name, link, DateTime.Now);
 
             conflict.Sources.Add(source);
-
-            //link = link.Replace("class="s5" dir="ltr"><a target = "_blank" href="")
         }
 
         private DateTime GetDate(string dte) {
@@ -284,8 +221,12 @@ namespace Conflicts {
 
         private string Category(string txt) {
             var subs = txt.Split('>');
-            return
-                subs[1].Replace("</td", "").TrimEnd().TrimStart();
+            var category = subs[1].Replace("</td", "").TrimEnd().TrimStart();
+
+            if (string.IsNullOrEmpty(category)) 
+                return string.Empty;
+
+            return char.ToUpper(category[0]) + category.Substring(1);
         }
 
         private string Notes(string txt) {
