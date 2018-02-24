@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
+using System.Globalization;
 
 
 namespace Conflicts {
@@ -215,8 +216,19 @@ namespace Conflicts {
 
         private string ConflictingEntity(string txt) {
             var subs = txt.Split('>');
+            var entity = subs[1].Replace("</td", "").TrimEnd().TrimStart();
             return
-                subs[1].Replace("</td", "").TrimEnd().TrimStart();
+                CleanEntity(entity);               
+        }
+
+        private string CleanEntity(string txt) {
+            TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
+            return textInfo
+                .ToTitleCase(txt.ToLower())
+                .Replace("Ny", "NY")
+                .Replace("Llc", "LLC")
+                .Replace("Nj", "NJ")
+                .Replace("Va", "VA");
         }
 
         private string Category(string txt) {
