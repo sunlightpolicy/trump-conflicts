@@ -47,9 +47,9 @@ d3.json("data/conflicts.json", function (data) {
         .ordinalColors(appropriationTypeColors)
 
 
-    new RowChart(facts, "familyMember", 200, 6);
-    new RowChart(facts, "conflictingEntity", 300, 400);
-    new RowChart(facts, "source", 300, 40);
+    //new RowChart(facts, "familyMember", 200, 6);
+    new RowChart(facts, "conflictingEntity", 240, 400);
+    new RowChart(facts, "source", 160, 40);
     //new RowChart(facts, "category", 300, 3);
     //new RowChart(facts, "sourceType", 300, 2);
     
@@ -61,14 +61,14 @@ d3.json("data/conflicts.json", function (data) {
         .dimension(tableDim)
         .group(function(d) {})
         .showGroups(false)
-        .size(5)
+        .size(20)
         //.size(xf.size()) //display all data
         .columns([
             //function(d) { return d.Id; },
             function(d) { return d.description; },
             function(d) { return d.familyMember; },          
             function(d) { return d.conflictingEntity; },
-            function (d) { return d.category; },
+            //function (d) { return d.category; },
             function (d) { return d.source; }
         ])
     //.sortBy(function(d){ return +d.Id; })

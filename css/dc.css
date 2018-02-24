@@ -206,7 +206,7 @@ div.dc-chart {
 
 .dc-chart g.row text {
     fill: black;
-    font-size: 11px;
+    font-size: 9px;
     cursor: pointer;
 }
 
