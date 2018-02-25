@@ -19,6 +19,8 @@ d3.json("data/conflicts.json", function (data) {
             if ((typeof (d.sources[1]) != "undefined") && (d.sources[1].name != d.source))
                 d.source = "Multiple";
         }
+
+        d.links = getLinks(d);
     });
     var facts = crossfilter(data);
 
@@ -59,18 +61,17 @@ d3.json("data/conflicts.json", function (data) {
 
     dataTable
         .dimension(tableDim)
-        //.group(function (d) { })
         .group(function (d) {
             return d.familyMember;
         })
+        //.group(function (d) { })
         //.showGroups(false)
-        .size(20)
+        .size(50)
         //.size(xf.size()) //display all data
         .columns([
             function(d) { return d.description; },
             function(d) { return d.conflictingEntity; },
-            //function (d) { return d.category; },
-            function (d) { return d.source; }
+            function(d) { return d.links; }
         ])
         .sortBy(function(d){ return d.conflictingEntity; })
         .order(d3.ascending)
@@ -82,10 +83,19 @@ d3.json("data/conflicts.json", function (data) {
 });
 
 
+function getLinks(d) {
+    var links = "";
+    for (i = 0; i < d.sources.length; i++) {
+        if (links != "")
+            links = links + '<br>';
+        links = links + '<a href="' + d.sources[i].link + '" target="_blank">' + d.sources[i].date.toString() + " | " + d.sources[i].name + '</a>'
+    }
+    return links;
+}
+
 
 var RowChart = function (facts, attribute, width, maxItems) {
     this.dim = facts.dimension(dc.pluck(attribute));
-    //debugger;
     dc.rowChart("#dc-chart-" + attribute)
         .dimension(this.dim)
         .group(this.dim.group().reduceCount())
