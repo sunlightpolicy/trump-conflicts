@@ -19,26 +19,20 @@
     <div class='container' style='font: 10px sans-serif;'>
 
         <div class='row'>
-
             <div class='span4'>
                 <img src="img/sunlight.png" alt="Sunlight" height="200" width="400">
             </div>
-
             <div class='span8'>
-                <div class="dc-data-count" style="float: left;"> 
-                    <h2>Tracking Trump's Conflicts of Interest</h2> 
-                    <h5>
-                        <span class="filter-count"></span>
-                        selected out of
-                        <span class="total-count"></span>
-                        <a href="javascript:dc.filterAll(); dc.renderAll();"> Show All</a>
-                    </h5>
-                </div>
+                <h2>Tracking Trump's Conflicts of Interest</h2> 
             </div>
         </div>
 
-        <div class='row'>
 
+        <!--<div class='row'>
+            <div class='span12' id='dc-chart-changeDate'><h4>Edit Date</h4></div>
+        </div>-->
+
+        <div class='row'>
             <div class='span6'>
                 <div class='row'>
                     <div class='span3' id='dc-chart-familyMember'>
@@ -63,14 +57,24 @@
             </div>
         
             <div class='span6'>
-                <h4>Conflict Details</h4>
+                <!--<h4>Conflict Details</h4>-->
+
+                <div class="dc-data-count" style="float: left;">
+                    <h5> 
+                        <span class="filter-count"></span>
+                        conflicts selected out of 
+                        <span class="total-count"></span> | 
+                        <a href="javascript:dc.filterAll(); dc.renderAll();">Show All</a>
+                    </h5>
+                </div>
+
                 <table class='span7 table table-hover' id='dc-chart-table'>
                     <thead>
                         <tr class='header'>
                             <th class="th_description">Description</th>
                             <th class="th_notes">Notes</th>
                             <th class="th_conflicting_entity">Conflicting Entity</th>
-                            <th class="th_source">Source(s)</th>
+                            <th class="th_source">Source Link(s)</th>
                         </tr>
                     </thead>
                 </table>
