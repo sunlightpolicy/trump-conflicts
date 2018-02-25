@@ -1,10 +1,5 @@
 
 
-var appropriationTypeColors =
-    ["#74C365", // light green 
-    "#006600",  // dark green 
-    "#007BA7"]; // blue
-
 
 d3.json("data/conflicts.json", function (data) {
     data.forEach(function (d) {
@@ -12,13 +7,18 @@ d3.json("data/conflicts.json", function (data) {
         if ((typeof(d.sources[0]) != "undefined") && (d.sources[0].name != "Office of Government Ethics"))
             d.sourceType = "Media";
 
-        d.source = "None";
+        d.source = "N/A";
         if (typeof (d.sources[0]) != "undefined") {
             d.source = d.sources[0].name;
 
             if ((typeof (d.sources[1]) != "undefined") && (d.sources[1].name != d.source))
-                d.source = "Multiple";
+                d.source = "Multiple Sources";
         }
+
+        if (d.conflictingEntity == "")
+            d.conflictingEntity = "N/A";
+
+        d.description = d.category + " - " + d.description;
 
         d.links = getLinks(d);
     });
@@ -30,23 +30,41 @@ d3.json("data/conflicts.json", function (data) {
         .group(all);
 
 
+    var pieRadius = 70;
+    var pieWidthAndHeight = 150;
+
+    var pieColors =
+    ["#74C365", // light green 
+    "#006600",  // dark green 
+    "#007BA7"]; // blue
+
     var categoryDim = facts.dimension(dc.pluck('category'));
     dc.pieChart("#dc-chart-category")
         .dimension(categoryDim)
         .group(categoryDim.group().reduceCount())
-        .width(200)
-        .height(200)
-        .radius(80)
-        .ordinalColors(appropriationTypeColors);
+        .width(pieWidthAndHeight)
+        .height(pieWidthAndHeight)
+        .radius(pieRadius)
+        .ordinalColors(pieColors);
 
+    var familyMemberDim = facts.dimension(dc.pluck('familyMember'));
+    dc.pieChart("#dc-chart-familyMember")
+        .dimension(familyMemberDim)
+        .group(familyMemberDim.group().reduceCount())
+        .width(pieWidthAndHeight)
+        .height(pieWidthAndHeight)
+        .radius(pieRadius)
+        .ordinalColors(pieColors);
+
+    // Not used
     var sourceTypeDim = facts.dimension(dc.pluck('sourceType'));
     dc.pieChart("#dc-chart-sourceType")
         .dimension(sourceTypeDim)
         .group(sourceTypeDim.group().reduceCount())
-        .width(200)
-        .height(200)
-        .radius(80)
-        .ordinalColors(appropriationTypeColors)
+        .width(pieWidthAndHeight)
+        .height(pieWidthAndHeight)
+        .radius(pieRadius)
+        .ordinalColors(pieColors)
 
 
     //new RowChart(facts, "familyMember", 200, 6);
