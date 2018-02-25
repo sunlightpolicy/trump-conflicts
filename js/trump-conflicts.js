@@ -59,20 +59,24 @@ d3.json("data/conflicts.json", function (data) {
 
     dataTable
         .dimension(tableDim)
-        .group(function(d) {})
-        .showGroups(false)
+        //.group(function (d) { })
+        .group(function (d) {
+            return d.familyMember;
+        })
+        //.showGroups(false)
         .size(20)
         //.size(xf.size()) //display all data
         .columns([
-            //function(d) { return d.Id; },
             function(d) { return d.description; },
-            function(d) { return d.familyMember; },          
             function(d) { return d.conflictingEntity; },
             //function (d) { return d.category; },
             function (d) { return d.source; }
         ])
-    //.sortBy(function(d){ return +d.Id; })
-    .order(d3.ascending);
+        .sortBy(function(d){ return d.conflictingEntity; })
+        .order(d3.ascending)
+        .renderlet(function (table) {
+            table.selectAll(".dc-table-group").classed("info", true);
+        });
    
     dc.renderAll();
 });

@@ -1,18 +1,71 @@
-<html lang="en">
+﻿<!DOCTYPE html>
 
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tracking Trump's Conflicts of Interest</title>
-  <link rel="stylesheet" href="elm\app.css"> 
+    <title>Trump's Conflicts of Interest</title>
+
+    <script src='lib/d3.js' type='text/javascript'></script>
+    <script src='lib/crossfilter.js' type='text/javascript'></script>
+    <script src='lib/dc.min.js' type='text/javascript'></script>
+    <script src='lib/bootstrap.min.js' type='text/javascript'></script>
+    <script src='js/trump-conflicts.js' type='text/javascript'></script>
+
+    <link href='css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+    <link href='css/dc.css' rel='stylesheet' type='text/css'>
+    <link href='css/conflicts.css' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
-  <div id="app"></div>
-  <script src="elm\bundle.js"></script>
-  <script>
-    var app = Elm.Main.embed(document.getElementById("app"));
-  </script>
+    <div class='container' style='font: 10px sans-serif;'>
+
+        <div class='row'>
+
+            <div class='span4'>
+                <img src="img/sunlight.png" alt="Sunlight" height="200" width="400">
+            </div>
+
+            <div class='span8'>
+                <div class="dc-data-count" style="float: left;"> 
+                    <h2>Tracking Trump's Conflicts of Interest</h2> 
+                    <h5>
+                        <span class="filter-count"></span>
+                        selected out of
+                        <span class="total-count"></span>
+                        |
+                        <a href="javascript:dc.filterAll(); dc.renderAll();"> Show All</a>
+                    </h5>
+                </div>
+            </div>
+        </div>
+
+        <div class='row'>
+            
+            <!--<div class='row'>-->
+                <!--<div class='span2' id='dc-chart-familyMember'><h4>Family Member</h4></div>-->
+                <div class='span3' id='dc-chart-conflictingEntity'><h4>Conflicting Entity</h4></div>
+                <div class='span2' id='dc-chart-source'><h4>Source</h4></div>
+                <!--<div class='span2' id='dc-chart-category'><h4>Category</h4></div>-->
+                <!--<div class='span2' id='dc-chart-sourceType'><h4>Type of Source</h4></div>-->
+            
+                <!--<div class='row'>-->
+
+            <div class='span8'>
+                <h5>Conflict Details</h5>
+                <table class='span6 table table-hover' id='dc-chart-table'>
+                    <thead>
+                        <tr class='header'>
+                            <th class="th_description">Description</th>
+                            <!--<th class="th_family_member">Family Member</th>-->
+                            <th class="th_conflicting_entity">Conflicting Entity</th>
+                            <!--<th class="th_category">Category</th>-->
+                            <th class="th_source">Source</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+                <!--</div>-->
+        </div>
+    </div>
 </body>
 
 </html>

@@ -228,7 +228,7 @@ namespace Conflicts {
                 .Replace("Ny", "NY")
                 .Replace("Llc", "LLC")
                 .Replace("Nj", "NJ")
-                .Replace("Va", "VA");
+                .Replace(" Va", " VA");
         }
 
         private string Category(string txt) {
