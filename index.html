@@ -41,12 +41,24 @@
 
             <div class='span6'>
                 <div class='row'>
-                    <div class='span3' id='dc-chart-familyMember'><h4>Family Member</h4></div>
-                    <div class='span3' id='dc-chart-category'><h4>Category</h4></div>
+                    <div class='span3' id='dc-chart-familyMember'>
+                        <span class="chart-title">Family Member</span>
+                        <a class="reset" href="javascript:familyMemberChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
+                    </div>
+                    <div class='span3' id='dc-chart-category'>
+                        <span class="chart-title">Category</span>
+                        <a class="reset" href="javascript:categoryChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
+                    </div>
                 </div>
                 <div class='row'>
-                    <div class='span3' id='dc-chart-conflictingEntity'><h4>Conflicting Entity</h4></div>
-                    <div class='span3' id='dc-chart-source'><h4>Source</h4></div>
+                    <div class='span3' id='dc-chart-conflictingEntity'>
+                        <span class="chart-title">Conflicting Entity</span>
+                        <a class="reset" href="javascript:conflictingEntityChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
+                    </div>
+                    <div class='span3' id='dc-chart-source'>
+                        <span class="chart-title">Source</span>
+                        <a class="reset" href="javascript:sourceChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
+                    </div>
                 </div>
             </div>
         

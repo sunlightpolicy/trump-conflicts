@@ -9,6 +9,12 @@ h4 {
     margin-top: 10px; margin-right: 20px; margin-bottom: 8px; margin-left: 10px;
 }
 
+.chart-title {
+    font-size: 15px;
+    margin-top: 20px; margin-right: 5px; margin-bottom: 50px; margin-left: 10px;
+    font-weight: bold;
+}
+
 div {border-style: none}
 
 #dc-chart-table .th_description , #dc-chart-table .dc-table-column._0 { width: 140px;  text-align: left; padding-right: 5px; }

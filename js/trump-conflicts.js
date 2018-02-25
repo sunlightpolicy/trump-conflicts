@@ -1,4 +1,9 @@
 
+var categoryChart;
+var familyMemberChart;
+
+var conflictingEntityChart;
+var sourceChart;
 
 
 d3.json("data/conflicts.json", function (data) {
@@ -31,7 +36,7 @@ d3.json("data/conflicts.json", function (data) {
 
 
     var pieRadius = 70;
-    var pieWidthAndHeight = 150;
+    var pieWidthAndHeight = 170;
 
     var pieColors =
         ["#74C365", // light green 
@@ -39,7 +44,7 @@ d3.json("data/conflicts.json", function (data) {
         "#007BA7"]; // blue
 
     var categoryDim = facts.dimension(dc.pluck('category'));
-    dc.pieChart("#dc-chart-category")
+    categoryChart = dc.pieChart("#dc-chart-category")
         .dimension(categoryDim)
         .group(categoryDim.group().reduceCount())
         .width(pieWidthAndHeight)
@@ -48,7 +53,7 @@ d3.json("data/conflicts.json", function (data) {
         .ordinalColors(pieColors);
 
     var familyMemberDim = facts.dimension(dc.pluck('familyMember'));
-    dc.pieChart("#dc-chart-familyMember")
+    familyMemberChart = dc.pieChart("#dc-chart-familyMember")
         .dimension(familyMemberDim)
         .group(familyMemberDim.group().reduceCount())
         .width(pieWidthAndHeight)
@@ -66,13 +71,10 @@ d3.json("data/conflicts.json", function (data) {
         .radius(pieRadius)
         .ordinalColors(pieColors)
 
-
-    //new RowChart(facts, "familyMember", 200, 6);
-    new RowChart(facts, "conflictingEntity", 240, 400);
-    new RowChart(facts, "source", 160, 40);
-    //new RowChart(facts, "category", 300, 3);
-    //new RowChart(facts, "sourceType", 300, 2);
+    conflictingEntityChart = new RowChart(facts, "conflictingEntity", 240, 400);
+    sourceChart = new RowChart(facts, "source", 160, 30);
     
+
     dataTable = dc.dataTable("#dc-chart-table");
 
     var tableDim = facts.dimension(function(d) { return +d.Id; });
@@ -115,7 +117,7 @@ function getLinks(d) {
 
 var RowChart = function (facts, attribute, width, maxItems) {
     this.dim = facts.dimension(dc.pluck(attribute));
-    dc.rowChart("#dc-chart-" + attribute)
+    var chart = dc.rowChart("#dc-chart-" + attribute)
         .dimension(this.dim)
         .group(this.dim.group().reduceCount())
         .data(function (d) { return d.top(maxItems); })
@@ -125,7 +127,11 @@ var RowChart = function (facts, attribute, width, maxItems) {
         .elasticX(true)
         .ordinalColors(['#9ecae1']) // light blue
         .labelOffsetX(5)
-        .xAxis().ticks(4).tickFormat(d3.format(".2s"));
+
+    //chart
+    //    .Axis().ticks(4).tickFormat(d3.format(".2s"));
+
+    return chart;
 }
 
 
