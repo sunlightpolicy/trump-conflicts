@@ -23,8 +23,7 @@ namespace Conflicts {
                  "\"name\": \"" + Util.RemoveQuotes(Name) + "\"," +
                  "\"link\": \"" + Util.RemoveQuotes(Link) + "\"," +
                  //"date=\"" + Date.ToString("d") + "\"" +
-                 //"\"date\": \"" + String.Format("{0:MM/dd/yyyy}", Date) + "\"" +
-                 "\"date\": \"" + Date.ToString("d") + "\"" +
+                 "\"date\": \"" + String.Format("{0:MM/dd/yyyy}", Date) + "\"" +
                  "}";
         }
     }
@@ -187,7 +186,7 @@ namespace Conflicts {
             var dateStr = date.Split('>')[1].Replace("</td", "");
             var dte = GetDate(dateStr);
 
-            var source = new Source(name, link, DateTime.Now);
+            var source = new Source(name, link, dte);
 
             conflict.Sources.Add(source);
         }

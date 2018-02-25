@@ -34,9 +34,9 @@ d3.json("data/conflicts.json", function (data) {
     var pieWidthAndHeight = 150;
 
     var pieColors =
-    ["#74C365", // light green 
-    "#006600",  // dark green 
-    "#007BA7"]; // blue
+        ["#74C365", // light green 
+        "#006600",  // dark green 
+        "#007BA7"]; // blue
 
     var categoryDim = facts.dimension(dc.pluck('category'));
     dc.pieChart("#dc-chart-category")
@@ -87,7 +87,8 @@ d3.json("data/conflicts.json", function (data) {
         .size(50)
         //.size(xf.size()) //display all data
         .columns([
-            function(d) { return d.description; },
+            function (d) { return d.description; },
+            function (d) { return d.notes; },
             function(d) { return d.conflictingEntity; },
             function(d) { return d.links; }
         ])
