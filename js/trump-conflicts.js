@@ -34,6 +34,21 @@ d3.json("data/conflicts.json", function (data) {
         .dimension(facts)
         .group(all);
 
+    //var changeDateDim = facts.dimension(function (d) { return d.dateChanged; });
+    //var bar = dc.barChart("#dc-chart-changeDate")
+    //    .dimension(changeDateDim)
+    //    .group(changeDateDim.group(d3.time.day))
+    //    .x(d3.time.scale().domain([new Date(2017, 6, 1), new Date(2017, 12, 31)]))
+    //    .round(d3.time.day.round)
+    //    .xUnits(d3.time.days)
+    //    .width(650)
+    //    .height(200).margins({ top: 10, right: 30, bottom: 20, left: 50 })
+    //    .legend(dc.legend().x(60).y(20))
+    //    .gap(10)  // space between bars
+    //    .centerBar(true)
+    //    .elasticY(true)
+    //    .ordinalColors(appropriationTypeColors);
+
 
     var pieRadius = 70;
     var pieWidthAndHeight = 170;
