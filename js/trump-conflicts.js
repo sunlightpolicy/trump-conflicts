@@ -24,8 +24,8 @@ d3.json("data/conflicts.json", function (data) {
             d.conflictingEntity = "N/A";
 
         d.description = d.category + " - " + d.description;
-
         d.links = getLinks(d);
+        d.dateChanged = new Date(d.dateChanged);
     });
     var facts = crossfilter(data);
 
@@ -34,21 +34,20 @@ d3.json("data/conflicts.json", function (data) {
         .dimension(facts)
         .group(all);
 
-    //var changeDateDim = facts.dimension(function (d) { return d.dateChanged; });
-    //var bar = dc.barChart("#dc-chart-changeDate")
-    //    .dimension(changeDateDim)
-    //    .group(changeDateDim.group(d3.time.day))
-    //    .x(d3.time.scale().domain([new Date(2017, 6, 1), new Date(2017, 12, 31)]))
-    //    .round(d3.time.day.round)
-    //    .xUnits(d3.time.days)
-    //    .width(650)
-    //    .height(200).margins({ top: 10, right: 30, bottom: 20, left: 50 })
-    //    .legend(dc.legend().x(60).y(20))
-    //    .gap(10)  // space between bars
-    //    .centerBar(true)
-    //    .elasticY(true)
-    //    .ordinalColors(appropriationTypeColors);
-
+    var changeDateDim = facts.dimension(function (d) { return d.dateChanged; });
+    var changeDateGroup = changeDateDim.group(d3.time.day);
+    var changeDateChart = dc.barChart("#dc-chart-changeDate")
+        .dimension(changeDateDim)
+        .group(changeDateGroup)
+        .x(d3.time.scale().domain([new Date(2017, 5, 15), new Date(2018, 3, 31)]))
+        .xUnits(d3.time.days)
+        .width(420)
+        .height(140)
+        .margins({ top: 5, right: 30, bottom: 30, left: 50 })
+        .elasticY(true)
+        .filter([new Date(2017, 5, 25), new Date(2018, 2, 31)])
+    changeDateChart.yAxis().ticks(5);
+    changeDateChart.xAxis().ticks(5);
 
     var pieRadius = 70;
     var pieWidthAndHeight = 170;
