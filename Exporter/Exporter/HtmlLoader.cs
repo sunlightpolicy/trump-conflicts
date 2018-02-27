@@ -109,6 +109,7 @@ namespace Conflicts {
             ImportPage(conflicts, path + "\\" + childrenFile);
 
             WriteJson(conflicts, "c:\\trump-conflicts\\data\\conflicts.json");
+            WriteSql(conflicts, "c:\\trump-conflicts\\Exporter\\Exporter\\Db\\");
             Console.WriteLine(conflicts.Count.ToString() + " total conflicts");
         }
 
@@ -252,6 +253,29 @@ namespace Conflicts {
             var dte = subs[1].Replace("</td", "").TrimEnd().TrimStart();
             return
                 Convert.ToDateTime(dte);
+        }
+
+
+        private void WriteSql(List<Conflict> conflicts, string path) {
+            var sources = new List<string>();
+            var conflictingEntities = new List<string>();
+            
+            foreach (Conflict conflict  in conflicts) {
+                if (!conflictingEntities.Contains(conflict.ConflictingEntity))
+                    conflictingEntities.Add(conflict.ConflictingEntity);
+            }
+
+            var conflictStrings = new List<String>();
+            foreach (Conflict conflict in conflicts)
+                conflictStrings.Add(conflict.ToJson());
+
+            var strings = new StringBuilder();
+            strings.Append("USE Trump\r\n");
+            strings.Append("GO\r\n");
+            foreach (String conflictingEntity in conflictingEntities)
+                strings.Append("INSERT INTO ConflictingEntity VALUES ('" + conflictingEntity + "' , GetDate(), 1)\r\n");
+
+            System.IO.File.WriteAllText(path + "4 ConflictingEntities.sql", strings.ToString());
         }
     }
 }

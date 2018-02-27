@@ -97,7 +97,7 @@ d3.json("data/conflicts.json", function (data) {
         .dimension(tableDim)
         .group(function (d) {
             return d.familyMember;
-        })
+        })  
         //.group(function (d) { })
         //.showGroups(false)
         .size(50)
