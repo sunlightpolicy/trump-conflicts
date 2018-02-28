@@ -257,17 +257,22 @@ namespace Conflicts {
 
 
         private void WriteSql(List<Conflict> conflicts, string path) {
-            var sources = new List<string>();
+
+            WriteConflictingEntity(conflicts, path);
+            WriteSource(conflicts, path);
+            WriteConflict(conflicts, path);
+            WriteStory(conflicts, path);
+        }
+
+
+        private void WriteConflictingEntity(List<Conflict> conflicts, string path) {
             var conflictingEntities = new List<string>();
             
-            foreach (Conflict conflict  in conflicts) {
+            foreach (Conflict conflict in conflicts) {
                 if (!conflictingEntities.Contains(conflict.ConflictingEntity))
                     conflictingEntities.Add(conflict.ConflictingEntity);
             }
-
             var conflictStrings = new List<String>();
-            foreach (Conflict conflict in conflicts)
-                conflictStrings.Add(conflict.ToJson());
 
             var strings = new StringBuilder();
             strings.Append("USE Trump\r\n");
@@ -276,6 +281,70 @@ namespace Conflicts {
                 strings.Append("INSERT INTO ConflictingEntity VALUES ('" + conflictingEntity + "' , GetDate(), 1)\r\n");
 
             System.IO.File.WriteAllText(path + "4 ConflictingEntities.sql", strings.ToString());
+        }
+
+        private void WriteSource(List<Conflict> conflicts, string path) {
+            var sourceNames = new List<string>();
+
+            // Source
+            foreach (Conflict conflict in conflicts) {
+                foreach (Source source in conflict.Sources)
+                    if (!sourceNames.Contains(source.Name))
+                        sourceNames.Add(source.Name);
+            }
+            var sourceStrings = new List<String>();
+
+            var strings = new StringBuilder();
+            strings.Append("USE Trump\r\n");
+            strings.Append("GO\r\n");
+            foreach (String source in sourceNames)
+                strings.Append("INSERT INTO Source VALUES ('" + source + "' , GetDate(), 1)\r\n");
+
+            System.IO.File.WriteAllText(path + "5 Sources.sql", strings.ToString());
+        }
+
+        private void WriteConflict(List<Conflict> conflicts, string path) {
+            var conflictStrings = new List<String>();
+
+            var strings = new StringBuilder();
+            strings.Append("USE Trump\r\n");
+            strings.Append("GO\r\n");
+            foreach (Conflict conflict in conflicts)
+                strings.Append("INSERT INTO Conflict VALUES (" + 
+                    "(SELECT ID FROM ConflictingEntity WHERE Name = '" + conflict.ConflictingEntity + "'), " +
+                    "(SELECT ID FROM FamilyMember WHERE Name = '" + conflict.FamilyMember + "'), " +
+                    "(SELECT ID FROM Category WHERE Name = '" + conflict.Category + "'), " +
+                    "'" + conflict.DateChanged + "', " +
+                    "GetDate(), 1)\r\n");
+            
+            // ConflictingEntity(ID)
+	        // FamilyMember(ID)
+            // Category(ID)
+	        //DateChanged
+
+            System.IO.File.WriteAllText(path + "7 Conflicts.sql", strings.ToString());
+        }
+
+
+        private void WriteStory(List<Conflict> conflicts, string path) {
+            var story = new List<String>();
+
+            var strings = new StringBuilder();
+            strings.Append("USE Trump\r\n");
+            strings.Append("GO\r\n");
+            int conflictId = 1;
+            foreach (Conflict conflict in conflicts) {
+                foreach (Source source in conflict.Sources) { 
+                    strings.Append("INSERT INTO Story VALUES (" +
+                        "(SELECT ID FROM source WHERE Name = '" + source.Name + "'), " +
+                        conflictId.ToString() +
+                        ", '" + conflict.DateChanged + "', " +
+                        "GetDate(), 1)\r\n");
+                }
+                conflictId++;
+            }
+                
+            System.IO.File.WriteAllText(path + "8 Stories.sql", strings.ToString());
         }
     }
 }
