@@ -1,4 +1,6 @@
 
+var changeDateChart;
+
 var categoryChart;
 var familyMemberChart;
 
@@ -36,7 +38,7 @@ d3.json("data/conflicts.json", function (data) {
 
     var changeDateDim = facts.dimension(function (d) { return d.dateChanged; });
     var changeDateGroup = changeDateDim.group(d3.time.day);
-    var changeDateChart = dc.barChart("#dc-chart-changeDate")
+    changeDateChart = dc.barChart("#dc-chart-changeDate")
         .dimension(changeDateDim)
         .group(changeDateGroup)
         .x(d3.time.scale().domain([new Date(2017, 5, 15), new Date(2018, 3, 31)]))

@@ -316,12 +316,6 @@ namespace Conflicts {
                     "(SELECT ID FROM Category WHERE Name = '" + conflict.Category + "'), " +
                     "'" + conflict.DateChanged + "', " +
                     "GetDate(), 1)\r\n");
-            
-            // ConflictingEntity(ID)
-	        // FamilyMember(ID)
-            // Category(ID)
-	        //DateChanged
-
             System.IO.File.WriteAllText(path + "7 Conflicts.sql", strings.ToString());
         }
 
@@ -343,7 +337,6 @@ namespace Conflicts {
                 }
                 conflictId++;
             }
-                
             System.IO.File.WriteAllText(path + "8 Stories.sql", strings.ToString());
         }
     }
