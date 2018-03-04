@@ -110,7 +110,7 @@ d3.json("data/conflicts.json", function (data) {
         //.size(xf.size()) //display all data
         .columns([
             function (d) { return d.description; },
-            function (d) { return d.notes; },
+            //function (d) { return d.notes; },
             function(d) { return d.conflictingEntity; },
             function(d) { return d.links; }
         ])
