@@ -1,5 +1,6 @@
 
 var changeDateChart;
+var sourceTypeChart;
 
 var categoryChart;
 var familyMemberChart;
@@ -87,6 +88,9 @@ d3.json("data/conflicts.json", function (data) {
         .radius(pieRadius)
         .ordinalColors(pieColors)
 
+    sourceTypeChart = new RowChart(facts, "sourceType", 400, 2, 70);
+    sourceTypeChart.filter("Media");
+
     conflictingEntityChart = new RowChart(facts, "conflictingEntity", 240, 400);
     sourceChart = new RowChart(facts, "source", 160, 30);
     
@@ -131,14 +135,19 @@ function getLinks(d) {
 }
 
 
-var RowChart = function (facts, attribute, width, maxItems) {
+var RowChart = function (facts, attribute, width, maxItems, height) {
+
+    // If height is supplied (very few items) use it, otherwise calculate
+    if (!height)
+        height = maxItems * 22;
+
     this.dim = facts.dimension(dc.pluck(attribute));
     var chart = dc.rowChart("#dc-chart-" + attribute)
         .dimension(this.dim)
         .group(this.dim.group().reduceCount())
         .data(function (d) { return d.top(maxItems); })
         .width(width)
-        .height(maxItems * 22)
+        .height(height)
         .margins({ top: 0, right: 10, bottom: 20, left: 20 })
         .elasticX(true)
         .ordinalColors(['#9ecae1']) // light blue
