@@ -145,6 +145,7 @@ namespace Conflicts {
         }
 
         private void AddConflict(List<Conflict> conflicts, string row, string file, int rowNum) {
+            row = row.Replace("<td></td>", "<td ></td>");
             var cols = row.Split(new[] { "<td " }, StringSplitOptions.None);
 
             if (cols.Length < 2)
@@ -154,7 +155,7 @@ namespace Conflicts {
             if (cols[1].Contains("Description</td"))
                 return;
 
-            var conflict = new Conflict(
+                var conflict = new Conflict(
                 Description(cols[1]),
                 FamilyMember(cols[2]),
                 ConflictingEntity(cols[3]),

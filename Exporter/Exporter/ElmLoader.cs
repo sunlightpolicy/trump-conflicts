@@ -27,7 +27,7 @@ namespace Conflicts {
 
     public class ElmConflict {
 
-        private SpreadsheetGear.IRange cells;
+        //private SpreadsheetGear.IRange cells;
 
         public string Description;
         public string FamilyMember;
@@ -37,52 +37,52 @@ namespace Conflicts {
         public DateTime DateAddedOrEdited;
         public List<ElmSource> Sources;
 
-        public ElmConflict(SpreadsheetGear.IRange cells, int row) {
-            this.cells = cells;
+        //public ElmConflict(SpreadsheetGear.IRange cells, int row) {
+        //    this.cells = cells;
 
-            Description = (string)cells[row, 0].Value;
-            FamilyMember = (string)cells[row, 1].Value;
-            ConflictingEntity = (string)cells[row, 2].Value;
-            Category = (string)cells[row, 9].Value;
-            Notes = (string)cells[row, 10].Value;
-            DateAddedOrEdited = cells.Worksheet.Workbook.NumberToDateTime((double)cells[row, 11].Value);
+        //    Description = (string)cells[row, 0].Value;
+        //    FamilyMember = (string)cells[row, 1].Value;
+        //    ConflictingEntity = (string)cells[row, 2].Value;
+        //    Category = (string)cells[row, 9].Value;
+        //    Notes = (string)cells[row, 10].Value;
+        //    DateAddedOrEdited = cells.Worksheet.Workbook.NumberToDateTime((double)cells[row, 11].Value);
 
-            Sources = new List<ElmSource>();
-            AddSource(row, 3);
-            AddSource(row, 5);
-            AddSource(row, 7);
-        }
+        //    Sources = new List<ElmSource>();
+        //    AddSource(row, 3);
+        //    AddSource(row, 5);
+        //    AddSource(row, 7);
+        //}
 
-        private void AddSource(int row, int col) {
-            string source = "";
-            string link = "";
-            DateTime date = DateTime.Now;
-            if ((cells[row, col].Value != null) || (cells[row, col + 1].Value != null)) {
-                bool valid = true;
+        //private void AddSource(int row, int col) {
+        //    string source = "";
+        //    string link = "";
+        //    DateTime date = DateTime.Now;
+        //    if ((cells[row, col].Value != null) || (cells[row, col + 1].Value != null)) {
+        //        bool valid = true;
 
-                try {  // Test for valid source
-                    source = (String)cells[row, col].Value;
-                    link = GetLink((String)cells[row, col].Formula);
-                }
-                catch {
-                    valid = false;
-                    Console.WriteLine("Source at row " + Convert.ToString(row) + ", column " + Convert.ToString(col) +
-                        " not valid");
-                }
+        //        try {  // Test for valid source
+        //            source = (String)cells[row, col].Value;
+        //            link = GetLink((String)cells[row, col].Formula);
+        //        }
+        //        catch {
+        //            valid = false;
+        //            Console.WriteLine("Source at row " + Convert.ToString(row) + ", column " + Convert.ToString(col) +
+        //                " not valid");
+        //        }
 
-                try {  // Test for valid date
-                    date = cells.Worksheet.Workbook.NumberToDateTime((double)cells[row, col + 1].Value);
-                }
-                catch {
-                    valid = false;
-                    Console.WriteLine("Date at row " + Convert.ToString(row) + ", column " + Convert.ToString(col + 1) +
-                        " not valid (" + (string)cells[row, col + 1].Value + ")");
-                }
+        //        try {  // Test for valid date
+        //            date = cells.Worksheet.Workbook.NumberToDateTime((double)cells[row, col + 1].Value);
+        //        }
+        //        catch {
+        //            valid = false;
+        //            Console.WriteLine("Date at row " + Convert.ToString(row) + ", column " + Convert.ToString(col + 1) +
+        //                " not valid (" + (string)cells[row, col + 1].Value + ")");
+        //        }
 
-                if (valid)
-                    Sources.Add(new ElmSource(source, link, date));
-            }
-        }
+        //        if (valid)
+        //            Sources.Add(new ElmSource(source, link, date));
+        //    }
+        //}
 
         public string Elm() {
             return
@@ -145,32 +145,32 @@ namespace Conflicts {
 
         private string outputFile = "c:\\trump-conflicts\\Exporter\\Exporter\\data\\Data.elm";
         private StringBuilder strings;
-        SpreadsheetGear.IRange cells;
+        //SpreadsheetGear.IRange cells;
 
         public List<ElmConflict> Conflicts { get; set; }
 
-        public ElmLoader(SpreadsheetGear.IRange cells) {
-            this.cells = cells;
+        //public ElmLoader(SpreadsheetGear.IRange cells) {
+        //    this.cells = cells;
 
-            GetConflicts();
-            MakeElm();
-        }
+        //    GetConflicts();
+        //    MakeElm();
+        //}
 
-        private void GetConflicts() {
-            Conflicts = new List<ElmConflict>();
+        //private void GetConflicts() {
+        //    Conflicts = new List<ElmConflict>();
 
-            int row = 1;
-            bool more = true;
-            while (more) {
-                if (cells[row, 0].Value == null) {
-                    more = false;
-                    break;
-                }
-                Conflicts.Add(new ElmConflict(cells, row));
-                row++;
-            }
-            Console.WriteLine(Convert.ToString(Conflicts.Count + " conflicts read"));
-        }
+        //    int row = 1;
+        //    bool more = true;
+        //    while (more) {
+        //        if (cells[row, 0].Value == null) {
+        //            more = false;
+        //            break;
+        //        }
+        //        Conflicts.Add(new ElmConflict(cells, row));
+        //        row++;
+        //    }
+        //    Console.WriteLine(Convert.ToString(Conflicts.Count + " conflicts read"));
+        //}
 
         private void MakeElm() {
             strings = new StringBuilder();

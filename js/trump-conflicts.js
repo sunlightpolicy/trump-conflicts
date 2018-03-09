@@ -43,12 +43,12 @@ d3.json("data/conflicts.json", function (data) {
         .dimension(changeDateDim)
         .group(changeDateGroup)
         .x(d3.time.scale().domain([new Date(2017, 5, 15), new Date(2018, 3, 31)]))
-        .xUnits(d3.time.days)
+        .xUnits(d3.time.weeks)
         .width(420)
         .height(140)
         .margins({ top: 5, right: 30, bottom: 30, left: 50 })
         .elasticY(true)
-        .filter([new Date(2017, 5, 25), new Date(2018, 2, 31)])
+        .filter([new Date(2018, 1, 25), new Date(2018, 3, 31)])
     changeDateChart.yAxis().ticks(5);
     changeDateChart.xAxis().ticks(5);
 
@@ -134,6 +134,10 @@ function getLinks(d) {
     return links;
 }
 
+function log(text) {
+    console.log(text);
+}
+
 
 var RowChart = function (facts, attribute, width, maxItems, height) {
 
@@ -149,9 +153,13 @@ var RowChart = function (facts, attribute, width, maxItems, height) {
         .width(width)
         .height(height)
         .margins({ top: 0, right: 10, bottom: 20, left: 20 })
-        .elasticX(true)
+        .elasticX(false)
         .ordinalColors(['#9ecae1']) // light blue
         .labelOffsetX(5)
+
+    chart.on('filtered', function () {
+        log("BLAH");
+    });
 
     //chart
     //    .Axis().ticks(4).tickFormat(d3.format(".2s"));
