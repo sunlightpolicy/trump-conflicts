@@ -89,16 +89,20 @@ d3.json("data/stories.json", function (data) {
     //    .ordinalColors(pieColors)
     //    .on('filtered', showFilters);
 
-    familyMemberChart = new RowChart(facts, "familyMember", 240, 6, 130);
-    categoryChart = new RowChart(facts, "category", 160, 6, 130);
+    var col1Width = 240;
+    var col2Width = 180;
+
+
+    familyMemberChart = new RowChart(facts, "familyMember", col1Width, 6, 130);
+    categoryChart = new RowChart(facts, "category", col2Width, 6, 130);
     categoryChart.filter("Active");
 
 
     sourceTypeChart = new RowChart(facts, "sourceType", 400, 2, 70);
     sourceTypeChart.filter("Media");
 
-    conflictingEntityChart = new RowChart(facts, "conflictingEntity", 240, 400);
-    sourceChart = new RowChart(facts, "source", 160, 30);
+    conflictingEntityChart = new RowChart(facts, "conflictingEntity", col1Width, 400);
+    sourceChart = new RowChart(facts, "source", col2Width, 30);
     
 
     dataTable = dc.dataTable("#dc-chart-table");
@@ -145,9 +149,8 @@ function getLink(d) {
 }
 
 
-function showFilters(filter, chart) {
+function showFilters() {
     var filterStrings = [];
-    var barChartLabelString = "";  // ??
     var charts = dc.chartRegistry.list();
     charts.forEach(function (chart) {
         chart.filters().forEach(function (filter) {
@@ -181,7 +184,7 @@ var RowChart = function (facts, attribute, width, maxItems, height) {
         .width(width)
         .height(height)
         .margins({ top: 0, right: 10, bottom: 20, left: 20 })
-        .elasticX(false)
+        .elasticX(true)
         .ordinalColors(['#9ecae1']) // light blue
         .labelOffsetX(5)
         .on('filtered', showFilters)

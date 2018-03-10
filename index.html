@@ -20,7 +20,7 @@
 
         <div class='row'>
             <div class='span4'>
-                <img src="img/sunlight.png" alt="Sunlight" height="200" width="400">
+                <img src="img/sunlight.png" alt="Sunlight" height="180" width="400">
             </div>
             <div class='span8'>
                 <h2>Tracking Trump's Conflicts of Interest</h2> 
@@ -32,7 +32,19 @@
         </div>-->
 
         <div class='row'>
-            <div class='span6'>
+            <div class='span6' id="filters-div">
+
+                <div class='row'>
+                    <div class='span3' id='dc-chart-changeDate'>
+                        <span class="chart-title">Pub Date</span>
+                        <span class="reset" style="display: none;">
+                            <span class="filter">
+                                <a class="reset" href="javascript:changeDateChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+                            </span>
+                        </span>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
                 
                 <div class='row'>
                     <div class='span3' id='dc-chart-sourceType'>
@@ -42,67 +54,58 @@
                 </div>
 
                 <div class='row'>
-                    <div class='span3' id='dc-chart-changeDate'>
-                        <span class="chart-title">Date</span>
-                        <span class="reset" style="display: none;">
-                            <span class="filter">
-                                <a class="reset" href="javascript:changeDateChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
-                            </span>
-                        </span>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-
-                <div class='row'>
                     <div class='span3' id='dc-chart-familyMember'>
                         <span class="chart-title">Family Member</span>
                         <a class="reset" href="javascript:familyMemberChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
                     </div>
+                    
                     <div class='span3' id='dc-chart-category'>
-                        <span class="chart-title">Status</span>
-                        <a class="reset" href="javascript:categoryChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
+                        <span class="chart-title">Conflict Status</span><a class="reset" href="javascript:categoryChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
                     </div>
                 </div>
+
                 <div class='row'>
                     <div class='span3' id='dc-chart-conflictingEntity'>
                         <span class="chart-title">Potential Conflict</span>
                         <a class="reset" href="javascript:conflictingEntityChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
                     </div>
                     <div class='span3' id='dc-chart-source'>
-                        <span class="chart-title">Source</span>
+                        <span class="chart-title">News Outlet</span>
                         <a class="reset" href="javascript:sourceChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
                     </div>
                 </div>
             </div>
         
-            <div class='span6'>
-                <div class="dc-data-count" style="float: left;">
-                    <h5>
-                        Showing
-                        <span class="filter-count"></span>
-                        stories out of
-                        <span class="total-count"></span> |
-                        <a href="javascript:dc.filterAll(); dc.renderAll();">Show All</a>
-                    </h5>
+            <div class='span6' id="results-div">
+                <div class='row'>
+                    <div class="dc-data-count" style="float: left;">
+                        <h5>
+                            Showing
+                            <span class="filter-count"></span>
+                            stories out of
+                            <span class="total-count"></span> |
+                            <a href="javascript:dc.filterAll(); dc.renderAll();">Show All</a>
+                        </h5>
+                    </div>
                 </div>
 
-                <br />
+                <div class='row'>
+                    <div style="float: left;"><h5><span class="filter-list" id="filters"></span></h5></div>
+                </div>
 
-                <div style="float: left;"><h5><span class="filter-list" id="filters"></span></h5></div>
-
-                <table class='span7 table table-hover' id='dc-chart-table'>
-                    <thead>
-                        <tr class='header'>
-                            <th class="th_description">Description</th>
-                            <!--<th class="th_notes">Notes</th>-->
-                            <th class="th_conflicting_entity">Potential Conflicts</th>
-                            <th class="th_source">Source Link(s)</th>
-                        </tr>
-                    </thead>
-                </table>
+                <div class='row'>
+                    <table class='span7 table table-hover' id='dc-chart-table'>
+                        <thead>
+                            <tr class='header'>
+                                <th class="th_description">Description</th>
+                                <!--<th class="th_notes">Notes</th>-->
+                                <th class="th_conflicting_entity">Potential Conflicts</th>
+                                <th class="th_source">Source Link(s)</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
             </div>
-        </div>
-    </div>
 </body>
 
 </html>

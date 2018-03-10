@@ -15,12 +15,25 @@ h5 {
 }
 
 .chart-title {
-    font-size: 15px;
+    font-size: 12px;
     margin-top: 20px; margin-right: 5px; margin-bottom: 50px; margin-left: 10px;
     font-weight: bold;
 }
 
+.row {
+    margin-top: 8px;
+}
+
 div {border-style: none}
+
+/*#filters-div {
+    border-style: inset
+}*/
+
+/*#results-div {
+    border-style: inset
+}*/
+
 
 #dc-chart-table .th_description , #dc-chart-table .dc-table-column._0 { width: 200px;  text-align: left; padding-right: 5px; }
 /*#dc-chart-table .th_notes, #dc-chart-table .dc-table-column._1 { width: 140px; text-align: left; }*/
