@@ -11,11 +11,14 @@ namespace Conflicts {
         public string Name;
         public string Link;
         public DateTime Date;
+        public string Headline; 
 
         public Source(string name, string link, DateTime date) {
             Name = name;
             Link = link;
             Date = date;
+
+            Headline = "";
         }
 
         public string ToJson() {
@@ -109,6 +112,7 @@ namespace Conflicts {
         public string Source;
         public string Link;
         public DateTime SourceDate;
+        public string Headline;
 
         public Story(Conflict conflict, Source source) {
             Description = conflict.Description;
@@ -121,6 +125,7 @@ namespace Conflicts {
             Source = source.Name;
             Link = source.Link;
             SourceDate = source.Date;
+            Headline = source.Headline;
         }
 
         public string ToJson() {
@@ -135,7 +140,8 @@ namespace Conflicts {
 
                 "\"source\": \"" + Util.RemoveQuotes(Source) + "\"," +
                 "\"link\": \"" + Util.RemoveQuotes(Link) + "\"," +
-                "\"sourceDate\": \"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"" +
+                "\"sourceDate\": \"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"," +
+                "\"headline\": \"" + Util.RemoveQuotes(Headline) + "\"" +
                 "}";
         }
     }
@@ -150,12 +156,45 @@ namespace Conflicts {
             
             var conflicts = new List<Conflict>();
             ImportPage(conflicts, path + "\\" + parentsFile);
+            AddParentHeadlines(conflicts);
+
+            int firstChildrenItem = conflicts.Count;
             ImportPage(conflicts, path + "\\" + childrenFile);
+            AddChildrenHeadlines(conflicts, firstChildrenItem);
 
             WriteJson(conflicts, "c:\\trump-conflicts\\data\\conflicts.json");
             WriteStoriesJson(conflicts, "c:\\trump-conflicts\\data\\stories.json");
+ 
             WriteSql(conflicts, "c:\\trump-conflicts\\Exporter\\Exporter\\Db\\");
             Console.WriteLine(conflicts.Count.ToString() + " total conflicts");
+        }
+
+        private void AddParentHeadlines(List<Conflict> conflicts){
+            conflicts[0].Sources[0].Headline = "Bank reported Trump lawyer’s payment to Stormy Daniels as suspicious";
+            conflicts[0].Sources[1].Headline = "DOES STORMY DANIELS HAVE \"IMAGES\" OF DONALD TRUMP?";
+            conflicts[0].Sources[2].Headline = "Stormy Daniels suit could back Trump into a corner";
+
+            conflicts[1].Sources[0].Headline = "Israel-focused charity praises Trump - and pays him - at Mar-a-Lago gala";
+
+            conflicts[2].Sources[0].Headline = "Trump officials fight eviction from Panama hotel they manage";
+            conflicts[2].Sources[1].Headline = "Ethics experts say their 'fear has been realized' as Trump faces one of his most consequential conflicts of interest yet";
+            conflicts[2].Sources[2].Headline = "Judge, police help oust Trump Hotels from Panama property";
+        }
+
+        private void AddChildrenHeadlines(List<Conflict> conflicts, int start) {
+            conflicts[start].Sources[0].Headline = "Exclusive: FBI counterintel investigating Ivanka Trump business deal";
+
+            conflicts[start + 1].Sources[0].Headline = "Kushner's Family Business Received Loans After White House Meetings";
+            conflicts[start + 1].Sources[1].Headline = "How Kushner's Finances Could Be Potential Conflicts Of Interest";
+            conflicts[start + 1].Sources[2].Headline = "How Kushner's Finances Could Be Potential Conflicts Of Interest";
+
+            conflicts[start + 2].Sources[0].Headline = "Kushner’s Family Business Received Loans After White House Meetings";
+            conflicts[start + 2].Sources[1].Headline = "How Kushner's Finances Could Be Potential Conflicts Of Interest";
+            conflicts[start + 2].Sources[2].Headline = "How Kushner's Finances Could Be Potential Conflicts Of Interest";
+
+            conflicts[start + 3].Sources[0].Headline = "Trump Jr. to give foreign policy speech while on 'unofficial' business trip to India";
+            conflicts[start + 3].Sources[1].Headline = "Ad blitz heralds Donald Trump Jr.'s visit to India";
+            conflicts[start + 3].Sources[2].Headline = "Trump Jr. says missing out on India deals because of father's self-imposed curbs";
         }
 
 

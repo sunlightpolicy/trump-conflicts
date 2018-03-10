@@ -29,9 +29,11 @@ d3.json("data/stories.json", function (data) {
         if (d.conflictingEntity == "")
             d.conflictingEntity = "N/A";
 
-        d.description = d.category + " - " + d.description;
+        //d.description = d.category + " - " + d.description;
+
         //d.links = getLinks(d);
-        d.links = getLink(d);
+        //d.link = getLink(d);
+        d.link = getHeadlineLink(d);
 
         d.dateChanged = new Date(d.dateChanged);
         d.sourceDate = new Date(d.sourceDate);
@@ -112,19 +114,19 @@ d3.json("data/stories.json", function (data) {
     dataTable
         .dimension(tableDim)
         .group(function (d) {
-            return d.familyMember;
+            return "<b>" + d.conflictingEntity + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> " + d.description;
         })  
         //.group(function (d) { })
         //.showGroups(false)
         .size(50)
         //.size(xf.size()) //display all data
         .columns([
-            function (d) { return d.description; },
+            function (d) { return dateToYMD(d.sourceDate); },
             //function (d) { return d.notes; },
-            function(d) { return d.conflictingEntity; },
-            function(d) { return d.links; }
+            //function(d) { return d.headline; },
+            function(d) { return d.link; }
         ])
-        .sortBy(function(d){ return d.conflictingEntity; })
+        .sortBy(function (d) { return d.conflictingEntity + dateToYMD(d.sourceDate); })
         .order(d3.ascending)
         .renderlet(function (table) {
             table.selectAll(".dc-table-group").classed("info", true);
@@ -132,6 +134,14 @@ d3.json("data/stories.json", function (data) {
    
     dc.renderAll();
 });
+
+
+function dateToYMD(date) {
+    var d = date.getDate();
+    var m = date.getMonth() + 1; //Month from 0 to 11
+    var y = date.getFullYear();
+    return '' + y + '-' + (m <= 9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
+}
 
 
 function getLinks(d) {
@@ -146,6 +156,15 @@ function getLinks(d) {
 
 function getLink(d) {
     return '<a href="' + d.link + '" target="_blank">' + d.sourceDate.toString() + " | " + d.source + '</a>'
+}
+
+function getHeadlineLink(d) {
+    var text = "<b>" + d.source + "</b>";
+    if (d.headline != "")
+        text = text + " / " + d.headline;
+
+    return '<a href="' + d.link + '" target="_blank">' + text + '</a>';
+    //return '<a href="' + d.link + '" target="_blank"><b>' + d.source + "</b> " + d.headline + '</a>'
 }
 
 
