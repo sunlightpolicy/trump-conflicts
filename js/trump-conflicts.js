@@ -60,6 +60,9 @@ d3.json("data/conflicts.json", function (data) {
         "#006600",  // dark green 
         "#007BA7"]; // blue
 
+    //var pieColors = ['#1f77b4', '#bd9e39', '#ad494a', '#637939'];
+    //var pieColors = ['#f7f7f7', '#d9d9d9', '#bdbdbd', '#969696', '#636363', '#252525'];
+
     var categoryDim = facts.dimension(dc.pluck('category'));
     categoryChart = dc.pieChart("#dc-chart-category")
         .dimension(categoryDim)

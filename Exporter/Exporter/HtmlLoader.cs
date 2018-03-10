@@ -97,7 +97,51 @@ namespace Conflicts {
     }
 
 
-    public class HtmlLoader {
+    public class Story {
+
+        public string Description;
+        public string FamilyMember;
+        public string ConflictingEntity;
+        public string Category;
+        public string Notes;
+        public DateTime DateChanged;
+
+        public string SourceName;
+        public string Link;
+        public DateTime SourceDate;
+
+        public Story(Conflict conflict, Source source) {
+            Description = conflict.Description;
+            FamilyMember = conflict.FamilyMember;
+            ConflictingEntity = conflict.ConflictingEntity;
+            Category = conflict.Category;
+            Notes = conflict.Notes;
+            DateChanged = conflict.DateChanged;
+
+            SourceName = source.Name;
+            Link = source.Link;
+            SourceDate = source.Date;
+        }
+
+        public string ToJson() {
+            return
+                "{" +
+                "\"description\": \"" + Util.RemoveQuotes(Description) + "\"," +
+                "\"familyMember\": \"" + Util.RemoveQuotes(FamilyMember) + "\"," +
+                "\"conflictingEntity\": \"" + Util.RemoveQuotes(ConflictingEntity) + "\"," +
+                "\"category\": \"" + Util.RemoveQuotes(Category) + "\", " +
+                "\"notes\": \"" + Util.RemoveQuotes(Notes) + "\"," +
+                "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", DateChanged) + "\"," +
+
+                "\"sourceName\": \"" + Util.RemoveQuotes(SourceName) + "\"," +
+                "\"link\": \"" + Util.RemoveQuotes(Link) + "\"," +
+                "\"sourceDate\": \"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"" +
+                "}";
+        }
+    }
+
+
+        public class HtmlLoader {
 
         public HtmlLoader(String path) {
 
@@ -109,6 +153,7 @@ namespace Conflicts {
             ImportPage(conflicts, path + "\\" + childrenFile);
 
             WriteJson(conflicts, "c:\\trump-conflicts\\data\\conflicts.json");
+            WriteStoriesJson(conflicts, "c:\\trump-conflicts\\data\\stories.json");
             WriteSql(conflicts, "c:\\trump-conflicts\\Exporter\\Exporter\\Db\\");
             Console.WriteLine(conflicts.Count.ToString() + " total conflicts");
         }
@@ -127,7 +172,24 @@ namespace Conflicts {
 
             System.IO.File.WriteAllText(file, strings.ToString());
         }
-        
+
+        private void WriteStoriesJson(List<Conflict> conflicts, string file) {
+
+            var storyStrings = new List<String>();
+            foreach (Conflict conflict in conflicts) {
+                foreach (Source source in conflict.Sources)
+                    storyStrings.Add(new Story(conflict, source).ToJson());
+            }
+
+            var strings = new StringBuilder();
+            strings.Append("[");
+            strings.Append(String.Join(",", storyStrings.ToArray()));
+            strings.Append("]");
+
+            System.IO.File.WriteAllText(file, strings.ToString());
+            Console.WriteLine(storyStrings.Count.ToString() + " total stories");
+        }
+
         private void ImportPage(List<Conflict> conflicts, string file) {
             
             string text = File.ReadAllText(file, Encoding.UTF8);
@@ -213,7 +275,11 @@ namespace Conflicts {
         private string FamilyMember(string txt) {
             var subs = txt.Split('>');
             return
-                subs[1].Replace("</td", "").TrimEnd().TrimStart();
+                subs[1].Replace("</td", "")
+                    .TrimEnd()
+                    .TrimStart()
+                    .Replace("ump, Jr", "ump Jr");
+
         }
 
         private string ConflictingEntity(string txt) {
