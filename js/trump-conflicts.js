@@ -67,7 +67,8 @@ d3.json("data/conflicts.json", function (data) {
         .width(pieWidthAndHeight)
         .height(pieWidthAndHeight)
         .radius(pieRadius)
-        .ordinalColors(pieColors);
+        .ordinalColors(pieColors)
+        .on('filtered', showFilters);
 
     var familyMemberDim = facts.dimension(dc.pluck('familyMember'));
     familyMemberChart = dc.pieChart("#dc-chart-familyMember")
@@ -76,7 +77,8 @@ d3.json("data/conflicts.json", function (data) {
         .width(pieWidthAndHeight)
         .height(pieWidthAndHeight)
         .radius(pieRadius)
-        .ordinalColors(pieColors);
+        .ordinalColors(pieColors)
+        .on('filtered', showFilters);
 
     // Not used
     var sourceTypeDim = facts.dimension(dc.pluck('sourceType'));
@@ -139,6 +141,28 @@ function log(text) {
 }
 
 
+function showFilters(filter, chart) {
+    var filterStrings = [];
+    var barChartLabelString = "";  // ??
+    var charts = dc.chartRegistry.list();
+    charts.forEach(function (chart) {
+        chart.filters().forEach(function (filter) {
+            // Ugh, don't include date range for now, because I can't figure out how to get to underlying dates
+            if (!Array.isArray(filter))
+                filterStrings.push(filter);
+        })
+    })
+    console.log(filterStrings)
+
+    if (filterStrings.length == 0)
+        filterString = "Showing all items in date range";
+    else
+        filterString = "Current Filters: " + filterStrings.join(', ');
+
+    d3.select("#filters").text(filterString);
+}
+
+
 var RowChart = function (facts, attribute, width, maxItems, height) {
 
     // If height is supplied (very few items) use it, otherwise calculate
@@ -156,10 +180,11 @@ var RowChart = function (facts, attribute, width, maxItems, height) {
         .elasticX(false)
         .ordinalColors(['#9ecae1']) // light blue
         .labelOffsetX(5)
+        .on('filtered', showFilters);
 
-    chart.on('filtered', function () {
-        log("BLAH");
-    });
+    //chart.on('filtered', function () {
+    //    showFilters();
+    //});
 
     //chart
     //    .Axis().ticks(4).tickFormat(d3.format(".2s"));

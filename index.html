@@ -6,7 +6,7 @@
 
     <script src='lib/d3.js' type='text/javascript'></script>
     <script src='lib/crossfilter.js' type='text/javascript'></script>
-    <script src='lib/dc.min.js' type='text/javascript'></script>
+    <script src='lib/dc.js' type='text/javascript'></script>
     <script src='lib/bootstrap.min.js' type='text/javascript'></script>
     <script src='js/trump-conflicts.js' type='text/javascript'></script>
 
@@ -76,23 +76,26 @@
             </div>
         
             <div class='span6'>
-                <!--<h4>Conflict Details</h4>-->
-
                 <div class="dc-data-count" style="float: left;">
-                    <h5> 
+                    <h5>
+                        Showing
                         <span class="filter-count"></span>
-                        conflicts selected out of 
-                        <span class="total-count"></span> | 
+                        conflicts out of
+                        <span class="total-count"></span> |
                         <a href="javascript:dc.filterAll(); dc.renderAll();">Show All</a>
                     </h5>
                 </div>
+
+                <br />
+
+                <div style="float: left;"><h5><span class="filter-list" id="filters"></span></h5></div>
 
                 <table class='span7 table table-hover' id='dc-chart-table'>
                     <thead>
                         <tr class='header'>
                             <th class="th_description">Description</th>
                             <!--<th class="th_notes">Notes</th>-->
-                            <th class="th_conflicting_entity">Conflicting Entity</th>
+                            <th class="th_conflicting_entity">Potential Conflicts</th>
                             <th class="th_source">Source Link(s)</th>
                         </tr>
                     </thead>
