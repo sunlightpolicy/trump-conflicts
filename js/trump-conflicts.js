@@ -9,26 +9,32 @@ var conflictingEntityChart;
 var sourceChart;
 
 
-d3.json("data/conflicts.json", function (data) {
+//d3.json("data/conflicts.json", function (data) {
+d3.json("data/stories.json", function (data) {
     data.forEach(function (d) {
         d.sourceType = "Office of Government Ethics";
-        if ((typeof(d.sources[0]) != "undefined") && (d.sources[0].name != "Office of Government Ethics"))
+        //if ((typeof(d.sources[0]) != "undefined") && (d.sources[0].name != "Office of Government Ethics"))
+        //    d.sourceType = "Media";
+        if (d.source != "Office of Government Ethics")
             d.sourceType = "Media";
+        
+        //d.source = "N/A";
+        //if (typeof (d.sources[0]) != "undefined") {
+        //    d.source = d.sources[0].name;
 
-        d.source = "N/A";
-        if (typeof (d.sources[0]) != "undefined") {
-            d.source = d.sources[0].name;
-
-            if ((typeof (d.sources[1]) != "undefined") && (d.sources[1].name != d.source))
-                d.source = "Multiple Sources";
-        }
+        //    if ((typeof (d.sources[1]) != "undefined") && (d.sources[1].name != d.source))
+        //        d.source = "Multiple Sources";
+        //}
 
         if (d.conflictingEntity == "")
             d.conflictingEntity = "N/A";
 
         d.description = d.category + " - " + d.description;
-        d.links = getLinks(d);
+        //d.links = getLinks(d);
+        d.links = getLink(d);
+
         d.dateChanged = new Date(d.dateChanged);
+        d.sourceDate = new Date(d.sourceDate);
     });
     var facts = crossfilter(data);
 
@@ -37,18 +43,18 @@ d3.json("data/conflicts.json", function (data) {
         .dimension(facts)
         .group(all);
 
-    var changeDateDim = facts.dimension(function (d) { return d.dateChanged; });
+    var changeDateDim = facts.dimension(function (d) { return d.sourceDate; });
     var changeDateGroup = changeDateDim.group(d3.time.day);
     changeDateChart = dc.barChart("#dc-chart-changeDate")
         .dimension(changeDateDim)
         .group(changeDateGroup)
-        .x(d3.time.scale().domain([new Date(2017, 5, 15), new Date(2018, 3, 31)]))
-        .xUnits(d3.time.weeks)
+        .x(d3.time.scale().domain([new Date(2017, 2, 15), new Date(2018, 3, 31)]))
+        .xUnits(d3.time.day)
         .width(420)
         .height(140)
         .margins({ top: 5, right: 30, bottom: 30, left: 50 })
         .elasticY(true)
-        .filter([new Date(2018, 1, 25), new Date(2018, 3, 31)])
+        .filter([new Date(2017, 5, 25), new Date(2018, 3, 31)])
     changeDateChart.yAxis().ticks(5);
     changeDateChart.xAxis().ticks(5);
 
@@ -62,36 +68,31 @@ d3.json("data/conflicts.json", function (data) {
 
     //var pieColors = ['#1f77b4', '#bd9e39', '#ad494a', '#637939'];
     //var pieColors = ['#f7f7f7', '#d9d9d9', '#bdbdbd', '#969696', '#636363', '#252525'];
+    
+    //var familyMemberDim = facts.dimension(dc.pluck('familyMember'));
+    //familyMemberChart = dc.pieChart("#dc-chart-familyMember")
+    //    .dimension(familyMemberDim)
+    //    .group(familyMemberDim.group().reduceCount())
+    //    .width(pieWidthAndHeight)
+    //    .height(pieWidthAndHeight)
+    //    .radius(pieRadius)
+    //    .ordinalColors(pieColors)
+    //    .on('filtered', showFilters);
 
-    var categoryDim = facts.dimension(dc.pluck('category'));
-    categoryChart = dc.pieChart("#dc-chart-category")
-        .dimension(categoryDim)
-        .group(categoryDim.group().reduceCount())
-        .width(pieWidthAndHeight)
-        .height(pieWidthAndHeight)
-        .radius(pieRadius)
-        .ordinalColors(pieColors)
-        .on('filtered', showFilters);
+    //var categoryDim = facts.dimension(dc.pluck('category'));
+    //categoryChart = dc.pieChart("#dc-chart-category")
+    //    .dimension(categoryDim)
+    //    .group(categoryDim.group().reduceCount())
+    //    .width(pieWidthAndHeight)
+    //    .height(pieWidthAndHeight)
+    //    .radius(pieRadius)
+    //    .ordinalColors(pieColors)
+    //    .on('filtered', showFilters);
 
-    var familyMemberDim = facts.dimension(dc.pluck('familyMember'));
-    familyMemberChart = dc.pieChart("#dc-chart-familyMember")
-        .dimension(familyMemberDim)
-        .group(familyMemberDim.group().reduceCount())
-        .width(pieWidthAndHeight)
-        .height(pieWidthAndHeight)
-        .radius(pieRadius)
-        .ordinalColors(pieColors)
-        .on('filtered', showFilters);
+    familyMemberChart = new RowChart(facts, "familyMember", 240, 6, 130);
+    categoryChart = new RowChart(facts, "category", 160, 6, 130);
+    categoryChart.filter("Active");
 
-    // Not used
-    var sourceTypeDim = facts.dimension(dc.pluck('sourceType'));
-    dc.pieChart("#dc-chart-sourceType")
-        .dimension(sourceTypeDim)
-        .group(sourceTypeDim.group().reduceCount())
-        .width(pieWidthAndHeight)
-        .height(pieWidthAndHeight)
-        .radius(pieRadius)
-        .ordinalColors(pieColors)
 
     sourceTypeChart = new RowChart(facts, "sourceType", 400, 2, 70);
     sourceTypeChart.filter("Media");
@@ -139,8 +140,8 @@ function getLinks(d) {
     return links;
 }
 
-function log(text) {
-    console.log(text);
+function getLink(d) {
+    return '<a href="' + d.link + '" target="_blank">' + d.sourceDate.toString() + " | " + d.source + '</a>'
 }
 
 
@@ -183,13 +184,11 @@ var RowChart = function (facts, attribute, width, maxItems, height) {
         .elasticX(false)
         .ordinalColors(['#9ecae1']) // light blue
         .labelOffsetX(5)
-        .on('filtered', showFilters);
+        .on('filtered', showFilters)
+        .label(function (d) {
+            return d.key + " " + d.value;
+        });
 
-    //chart.on('filtered', function () {
-    //    showFilters();
-    //});
-
-    //chart
     //    .Axis().ticks(4).tickFormat(d3.format(".2s"));
 
     return chart;

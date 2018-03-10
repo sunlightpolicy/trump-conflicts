@@ -106,7 +106,7 @@ namespace Conflicts {
         public string Notes;
         public DateTime DateChanged;
 
-        public string SourceName;
+        public string Source;
         public string Link;
         public DateTime SourceDate;
 
@@ -118,7 +118,7 @@ namespace Conflicts {
             Notes = conflict.Notes;
             DateChanged = conflict.DateChanged;
 
-            SourceName = source.Name;
+            Source = source.Name;
             Link = source.Link;
             SourceDate = source.Date;
         }
@@ -133,7 +133,7 @@ namespace Conflicts {
                 "\"notes\": \"" + Util.RemoveQuotes(Notes) + "\"," +
                 "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", DateChanged) + "\"," +
 
-                "\"sourceName\": \"" + Util.RemoveQuotes(SourceName) + "\"," +
+                "\"source\": \"" + Util.RemoveQuotes(Source) + "\"," +
                 "\"link\": \"" + Util.RemoveQuotes(Link) + "\"," +
                 "\"sourceDate\": \"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"" +
                 "}";
