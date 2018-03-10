@@ -50,13 +50,14 @@ d3.json("data/stories.json", function (data) {
     changeDateChart = dc.barChart("#dc-chart-changeDate")
         .dimension(changeDateDim)
         .group(changeDateGroup)
-        .x(d3.time.scale().domain([new Date(2017, 2, 15), new Date(2018, 3, 31)]))
+        //.x(d3.time.scale().domain([new Date(2013, 2, 15), new Date(2018, 3, 31)]))
+        .x(d3.time.scale().domain([new Date(2016, 2, 15), new Date(2018, 3, 31)]))
         .xUnits(d3.time.day)
         .width(420)
         .height(140)
         .margins({ top: 5, right: 30, bottom: 30, left: 50 })
         .elasticY(true)
-        .filter([new Date(2017, 5, 25), new Date(2018, 3, 31)])
+        .filter([new Date(2017, 9, 25), new Date(2018, 2, 31)]) // Months are zero based
     changeDateChart.yAxis().ticks(5);
     changeDateChart.xAxis().ticks(5);
 
@@ -104,9 +105,8 @@ d3.json("data/stories.json", function (data) {
     sourceTypeChart.filter("Media");
 
     conflictingEntityChart = new RowChart(facts, "conflictingEntity", col1Width, 400);
-    sourceChart = new RowChart(facts, "source", col2Width, 30);
+    sourceChart = new RowChart(facts, "source", col2Width, 60);
     
-
     dataTable = dc.dataTable("#dc-chart-table");
 
     var tableDim = facts.dimension(function(d) { return +d.Id; });
@@ -116,14 +116,10 @@ d3.json("data/stories.json", function (data) {
         .group(function (d) {
             return "<b>" + d.conflictingEntity + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> " + d.description;
         })  
-        //.group(function (d) { })
         //.showGroups(false)
         .size(50)
-        //.size(xf.size()) //display all data
         .columns([
             function (d) { return dateToYMD(d.sourceDate); },
-            //function (d) { return d.notes; },
-            //function(d) { return d.headline; },
             function(d) { return d.link; }
         ])
         .sortBy(function (d) { return d.conflictingEntity + dateToYMD(d.sourceDate); })
@@ -131,14 +127,14 @@ d3.json("data/stories.json", function (data) {
         .renderlet(function (table) {
             table.selectAll(".dc-table-group").classed("info", true);
         });
-   
-    dc.renderAll();
+
+    dc.renderAll();    
 });
 
 
 function dateToYMD(date) {
     var d = date.getDate();
-    var m = date.getMonth() + 1; //Month from 0 to 11
+    var m = date.getMonth() + 1; // Month from 0 to 11
     var y = date.getFullYear();
     return '' + y + '-' + (m <= 9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
 }

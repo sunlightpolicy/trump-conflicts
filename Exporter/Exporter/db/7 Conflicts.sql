@@ -1,7 +1,7 @@
 USE Trump
 GO
 INSERT INTO Conflict VALUES ((SELECT ID FROM ConflictingEntity WHERE Name = 'Stephanie Clifford (Aka Stormy Daniels)'), (SELECT ID FROM FamilyMember WHERE Name = 'Donald Trump'), (SELECT ID FROM Category WHERE Name = 'Active'), '3/9/2018 12:00:00 AM', GetDate(), 1)
-INSERT INTO Conflict VALUES ((SELECT ID FROM ConflictingEntity WHERE Name = 'Mar-A-Lago'), (SELECT ID FROM FamilyMember WHERE Name = 'Donald Trump'), (SELECT ID FROM Category WHERE Name = ''), '3/9/2018 12:00:00 AM', GetDate(), 1)
+INSERT INTO Conflict VALUES ((SELECT ID FROM ConflictingEntity WHERE Name = 'Mar-A-Lago'), (SELECT ID FROM FamilyMember WHERE Name = 'Donald Trump'), (SELECT ID FROM Category WHERE Name = 'Active'), '3/9/2018 12:00:00 AM', GetDate(), 1)
 INSERT INTO Conflict VALUES ((SELECT ID FROM ConflictingEntity WHERE Name = 'Trump International Hotel And Tower (Panama)'), (SELECT ID FROM FamilyMember WHERE Name = 'Donald Trump'), (SELECT ID FROM Category WHERE Name = 'Active'), '3/9/2018 12:00:00 AM', GetDate(), 1)
 INSERT INTO Conflict VALUES ((SELECT ID FROM ConflictingEntity WHERE Name = 'Holds United Technologies Corp'), (SELECT ID FROM FamilyMember WHERE Name = 'Donald Trump'), (SELECT ID FROM Category WHERE Name = 'Potential'), '7/5/2017 12:00:00 AM', GetDate(), 1)
 INSERT INTO Conflict VALUES ((SELECT ID FROM ConflictingEntity WHERE Name = 'Crippled America'), (SELECT ID FROM FamilyMember WHERE Name = 'Donald Trump'), (SELECT ID FROM Category WHERE Name = 'Active'), '7/25/2017 12:00:00 AM', GetDate(), 1)

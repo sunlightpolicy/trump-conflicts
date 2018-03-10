@@ -214,11 +214,22 @@ namespace Conflicts {
 
         private void WriteStoriesJson(List<Conflict> conflicts, string file) {
 
+            int news = 0;
+
             var storyStrings = new List<String>();
             foreach (Conflict conflict in conflicts) {
-                foreach (Source source in conflict.Sources)
+                foreach (Source source in conflict.Sources) { 
                     storyStrings.Add(new Story(conflict, source).ToJson());
+
+                    if (source.Name != "Office of Government Ethics")
+                    {
+                        Console.WriteLine(source.Date.ToString());
+                        news++;
+                    }
+                }
+                // seem to be bad dates
             }
+            Console.WriteLine("NEWS: " + news.ToString());
 
             var strings = new StringBuilder();
             strings.Append("[");
@@ -343,7 +354,7 @@ namespace Conflicts {
             var category = subs[1].Replace("</td", "").TrimEnd().TrimStart();
 
             if (string.IsNullOrEmpty(category)) 
-                return string.Empty;
+                return "Active";  // Only one of these
 
             return char.ToUpper(category[0]) + category.Substring(1);
         }
