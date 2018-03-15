@@ -41,13 +41,25 @@ div {border-style: none}
 #dc-chart-table .th_source, #dc-chart-table .dc-table-column._3 { width: 40px; text-align: left; padding-left: 5px; }*/
 
 #dc-chart-table .th-pub-date, #dc-chart-table .dc-table-column._0 {
-    width: 22px;
+    width: 80px;
+    font-size: 12px;
     text-align: left;
     padding-left: 5px;
 }
 
 #dc-chart-table .th_story, #dc-chart-table .dc-table-column._1 {
-    width: 260px;
+    width: 460px;
+    font-size: 11px;
     text-align: left;
     padding-left: 5px;
+}
+
+
+.dc-table-label {
+    font-size: 11px;
+    padding-left: 50px;
+}
+
+.dc-table-group {
+    background-color: #9ecae1;
 }

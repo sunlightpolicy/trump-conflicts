@@ -45,6 +45,8 @@ d3.json("data/stories.json", function (data) {
         .dimension(facts)
         .group(all);
 
+    var leftWidth = 540;
+
     var changeDateDim = facts.dimension(function (d) { return d.sourceDate; });
     var changeDateGroup = changeDateDim.group(d3.time.day);
     changeDateChart = dc.barChart("#dc-chart-changeDate")
@@ -53,7 +55,7 @@ d3.json("data/stories.json", function (data) {
         //.x(d3.time.scale().domain([new Date(2013, 2, 15), new Date(2018, 3, 31)]))
         .x(d3.time.scale().domain([new Date(2016, 2, 15), new Date(2018, 3, 31)]))
         .xUnits(d3.time.day)
-        .width(420)
+        .width(leftWidth)
         .height(140)
         .margins({ top: 5, right: 30, bottom: 30, left: 50 })
         .elasticY(true)
@@ -92,16 +94,24 @@ d3.json("data/stories.json", function (data) {
     //    .ordinalColors(pieColors)
     //    .on('filtered', showFilters);
 
-    var col1Width = 240;
-    var col2Width = 180;
 
+    //var leftWidth = 500;
+    var bootstrapCols = 12;
+    var col1Width = leftWidth * (7 / bootstrapCols);
+    var col2Width = leftWidth * (5 / bootstrapCols);
+
+    console.log(7 / bootstrapCols);
+    console.log(leftWidth * (7 / bootstrapCols));
+    console.log(leftWidth * (5 / bootstrapCols));
+
+    //var col1Width = 280;
+    //var col2Width = 180;
 
     familyMemberChart = new RowChart(facts, "familyMember", col1Width, 6, 130);
     categoryChart = new RowChart(facts, "category", col2Width, 6, 130);
     categoryChart.filter("Active");
 
-
-    sourceTypeChart = new RowChart(facts, "sourceType", 400, 2, 70);
+    sourceTypeChart = new RowChart(facts, "sourceType", leftWidth, 2, 70);
     sourceTypeChart.filter("Media");
 
     conflictingEntityChart = new RowChart(facts, "conflictingEntity", col1Width, 400);
