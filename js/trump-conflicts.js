@@ -8,6 +8,8 @@ var familyMemberChart;
 var conflictingEntityChart;
 var sourceChart;
 
+var searchDim;
+
 
 //d3.json("data/conflicts.json", function (data) {
 d3.json("data/stories.json", function (data) {
@@ -40,10 +42,75 @@ d3.json("data/stories.json", function (data) {
     });
     var facts = crossfilter(data);
 
+    searchDim = facts.dimension(function (d) {
+        return d.source.toLowerCase() + " " + d.conflictingEntity.toLowerCase();
+    });
+    
+    //d3.select("#search-input").on('click', function () {
+    //    console.log(document.getElementById("search-input").value);
+    //    setword(document.getElementById("search-input").value);
+    //});
+
+    d3.select("#search-input").on('keyup', function (event) {
+        searchTerm = document.getElementById("search-input").value;
+        //if (event.keyCode == 13) {
+        setword(searchTerm);
+        console.log(searchTerm);
+    });
+
+    
+    function setword(wd) {
+        if (wd.length < 3) {
+            searchDim.filter(null);
+            dc.redrawAll();  
+            console.log("Too Short");
+            return;
+        }
+        
+        var s = wd.toLowerCase();
+        searchDim.filter(function (d) {
+            return d.indexOf(s) !== -1;
+        });
+
+        dc.redrawAll();  
+        //$(".resetall").attr("disabled", false);
+        //throttle();
+        //        dc.redrawAll();
+
+        //var throttleTimer;
+        //function throttle() {
+        //    window.clearTimeout(throttleTimer);
+        //    throttleTimer = window.setTimeout(function () {
+        //        console.log("redraw");
+        //        dc.redrawAll();
+        //    }, 250);
+        //}
+    }
+
+    // 01 group for grand total 
+    var totalGroup = facts.groupAll().reduce(
+        function (p, v) { // add finction
+            return p += v.amount;
+        },
+        function (p, v) { // subtract function
+            return p -= v.amount;
+        },
+        function () { return 0 } // initial function
+    );
+
     var all = facts.groupAll();
     dc.dataCount('.dc-data-count')
         .dimension(facts)
         .group(all);
+
+
+    //dc.numberDisplay("#dc-chart-total")
+    //    .group(totalGroup)
+    //    .valueAccessor(function (d) {
+    //        return d / billion;
+    //    })
+    //    .formatNumber(function (d) { return Math.round(d) + " Billion"; });
+
 
     var leftWidth = 540;
 
@@ -149,6 +216,15 @@ function dateToYMD(date) {
     return '' + y + '-' + (m <= 9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
 }
 
+function clearAll() {
+    console.log("Clear ALL");
+
+    searchDim.filter(null); // clear text too?
+    document.getElementById("search-input").value = "";
+
+    dc.filterAll();
+    dc.renderAll();
+}
 
 function getLinks(d) {
     var links = "";
