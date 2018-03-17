@@ -212,5 +212,12 @@ namespace Conflicts {
                 return "";
             return str.Replace("\"", "");
         }
+
+        // CSVs need internal quotes to be repeated
+        public static string RepeatQuotes(String str) {
+            if (str == null)
+                return "";
+            return str.Replace("\"", "\"\"");
+        }
     }
 }

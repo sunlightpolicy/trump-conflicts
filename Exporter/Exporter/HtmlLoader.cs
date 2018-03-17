@@ -144,6 +144,37 @@ namespace Conflicts {
                 "\"headline\": \"" + Util.RemoveQuotes(Headline) + "\"" +
                 "}";
         }
+
+
+        // CSV does not do anything with the list of stories! Put in another CSV?? 
+        public static string CsvHeader() {
+            return
+                "description," +
+                "familyMember," +
+                "conflictingEntity," +
+                "category," +
+                "notes," +
+                "dateChanged";
+                //"\"source\"\"," +
+                //"\"link\"\"," +
+                //"\"sourceDate\"\"," +
+                //"\"headline\"\"";
+        }
+
+        public string ToCsv() {
+            return
+                "\"" + Util.RepeatQuotes(Description) + "\"," +
+                FamilyMember + "," +
+                "\"" + Util.RepeatQuotes(ConflictingEntity) + "\"," +
+                Category + ", " +
+                "\"" + Util.RepeatQuotes(Notes) + "\"," +
+                String.Format("{0:MM/dd/yyyy}", DateChanged);
+
+                //"\"" + Util.RemoveQuotes(Source) + "\"," +
+                //"\"" + Util.RemoveQuotes(Link) + "\"," +
+                //"\"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"," +
+                //"\"" + Util.RemoveQuotes(Headline) + "\"";
+        }
     }
 
 
@@ -164,7 +195,8 @@ namespace Conflicts {
 
             WriteJson(conflicts, "c:\\trump-conflicts\\data\\conflicts.json");
             WriteStoriesJson(conflicts, "c:\\trump-conflicts\\data\\stories.json");
- 
+            WriteStoriesCsv(conflicts, "c:\\trump-conflicts\\data\\trump_conflicts_of_interest.csv");
+
             WriteSql(conflicts, "c:\\trump-conflicts\\Exporter\\Exporter\\Db\\");
             Console.WriteLine(conflicts.Count.ToString() + " total conflicts");
         }
@@ -221,13 +253,11 @@ namespace Conflicts {
                 foreach (Source source in conflict.Sources) { 
                     storyStrings.Add(new Story(conflict, source).ToJson());
 
-                    if (source.Name != "Office of Government Ethics")
-                    {
+                    if (source.Name != "Office of Government Ethics") {
                         Console.WriteLine(source.Date.ToString());
                         news++;
                     }
                 }
-                // seem to be bad dates
             }
             Console.WriteLine("NEWS: " + news.ToString());
 
@@ -238,6 +268,20 @@ namespace Conflicts {
 
             System.IO.File.WriteAllText(file, strings.ToString());
             Console.WriteLine(storyStrings.Count.ToString() + " total stories");
+        }
+
+        private void WriteStoriesCsv(List<Conflict> conflicts, string file) {
+            var storyStrings = new List<String>();
+            storyStrings.Add(Story.CsvHeader()); 
+
+            foreach (Conflict conflict in conflicts) {
+                foreach (Source source in conflict.Sources) {
+                    storyStrings.Add(new Story(conflict, source).ToCsv());
+                }
+            }
+            var strings = new StringBuilder();
+            strings.Append(String.Join("\r\n", storyStrings.ToArray()));
+            System.IO.File.WriteAllText(file, strings.ToString());
         }
 
         private void ImportPage(List<Conflict> conflicts, string file) {

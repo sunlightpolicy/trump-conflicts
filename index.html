@@ -33,25 +33,31 @@
                 <div class="row">
                     <div class="col-md-4" id="filter_field_container">
                         <div class="input-group">
-                            <input type="text" id="search-input" class="form-control input-lg" placeholder="Filter by conflict, news outlet, etc">
+                            <input type="text" id="search-input" class="form-control input-lg" placeholder="Filter by conflict, news outlet or description">
                         </div>
                     </div>
                     <div class="col-md-7" id="filter_numbers">
                         <!--<div class="row">
-                            <div class="col-md-2" id="currently_selected_text"><p>Currently selected:</p></div>
+            <div class="col-md-2" id="currently_selected_text"><p>Currently selected:</p></div>
 
-                            <div class="col-md-2 filter_number">
-                                <div id="mep_number" class="dc-data-count">
-                                    <span id="abig_number" class="big_number filter-count"></span>out of <strong class="total-count"></strong><br /> meetings
-                                </div>
-                            </div>
-                            <div class="col-md-2 filter_number">
-                                <div id="org_number" class="org-count">
-                                    <span class="big_number filter-count"></span>out of <strong class="total-count"></strong><br />organisations
-                                </div>
-                            </div>
-                        </div>-->
+            <div class="col-md-2 filter_number">
+                <div id="mep_number" class="dc-data-count">
+                    <span id="abig_number" class="big_number filter-count"></span>out of <strong class="total-count"></strong><br /> meetings
+                </div>
+            </div>
+            <div class="col-md-2 filter_number">
+                <div id="org_number" class="org-count">
+                    <span class="big_number filter-count"></span>out of <strong class="total-count"></strong><br />organisations
+                </div>
+            </div>
+        </div>-->
                     </div>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="navbar-btngroup"><a href="data/stories.json" id="jsonl"><span class="glyphicon glyphicon-download"></span>JSON</a></li>
+                        <li><a class="hidden-sm" href="data/trump_conflicts_of_interest.csv" id="csv"><span class="glyphicon glyphicon-download"></span>CSV</a></li>
+                    </ul>
+
                     <div class="col-md-1" id="resetall_container">
                         <!--<button class="btn resetall">Reset<br />Filters</button>-->
                     </div>
