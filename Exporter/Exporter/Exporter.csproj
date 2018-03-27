@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="ElmLoader.cs" />
     <Compile Include="HtmlLoader.cs" />
+    <Compile Include="Phase2Loader.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
