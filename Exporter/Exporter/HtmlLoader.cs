@@ -154,11 +154,11 @@ namespace Conflicts {
                 "conflictingEntity," +
                 "category," +
                 "notes," +
-                "dateChanged";
-                //"\"source\"\"," +
-                //"\"link\"\"," +
-                //"\"sourceDate\"\"," +
-                //"\"headline\"\"";
+                "dateChanged," +
+                "source," +
+                "link," +
+                "sourceDate," +
+                "headline";
         }
 
         public string ToCsv() {
@@ -168,12 +168,12 @@ namespace Conflicts {
                 "\"" + Util.RepeatQuotes(ConflictingEntity) + "\"," +
                 Category + ", " +
                 "\"" + Util.RepeatQuotes(Notes) + "\"," +
-                String.Format("{0:MM/dd/yyyy}", DateChanged);
+                String.Format("{0:MM/dd/yyyy}", DateChanged) + "," + 
 
-                //"\"" + Util.RemoveQuotes(Source) + "\"," +
-                //"\"" + Util.RemoveQuotes(Link) + "\"," +
-                //"\"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"," +
-                //"\"" + Util.RemoveQuotes(Headline) + "\"";
+                "\"" + Util.RemoveQuotes(Source) + "\"," +
+                "\"" + Util.RemoveQuotes(Link) + "\"," +
+                "\"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"," +
+                "\"" + Util.RemoveQuotes(Headline) + "\"";
         }
     }
 
