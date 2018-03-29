@@ -14,19 +14,21 @@ GO
 --	END
 
 
+EXEC DropTable 'StoryConflict'
+GO
 EXEC DropTable 'Story'
 GO
 EXEC DropTable 'StoryStatus'
 GO
-EXEC DropTable 'BusinessUnitPotentialConflict'
+EXEC DropTable 'BusinessConflict'
 GO
-EXEC DropTable 'BusinessUnitOwnership'
+EXEC DropTable 'BusinessOwnership'
 GO
-EXEC DropTable 'BusinessUnit'
+EXEC DropTable 'FamilyMemberBusiness'
 GO
-EXEC DropTable 'FamilyMemberPotentialConflict'
+EXEC DropTable 'Business'
 GO
-EXEC DropTable 'PotentialConflict'
+EXEC DropTable 'Conflict'
 GO
 EXEC DropTable 'FamilyMember'
 GO
@@ -92,14 +94,15 @@ INSERT INTO FamilyMember VALUES ('Melania Trump')
 INSERT INTO FamilyMember VALUES ('Jared Kushner')
 
 
-CREATE TABLE [dbo].[PotentialConflict](
+CREATE TABLE [dbo].[Conflict](
 	[ID] [int] IDENTITY(1,1) NOT NULL,
 	[Name] [varchar](1000) UNIQUE NOT NULL,
 	[Description] [varchar](MAX) NOT NULL DEFAULT '',
+	[Notes] [varchar](MAX) NOT NULL DEFAULT '',
 	[DateChanged] [date] NULL,
-	[EditTime] [datetime2](6) NOT NULL CONSTRAINT [DF_PotentialConflict_EditTime]  DEFAULT (getdate()),
+	[EditTime] [datetime2](6) NOT NULL CONSTRAINT [DF_Conflict_EditTime]  DEFAULT (getdate()),
 	[EditorID] [int] NOT NULL  REFERENCES SystemUser (ID) DEFAULT ((1)),
- CONSTRAINT [PK_PotentialConflict] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_Conflict] PRIMARY KEY CLUSTERED 
 (
 	[ID] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
@@ -151,7 +154,6 @@ GO
 CREATE TABLE [dbo].[Story](
 	[ID] [int] IDENTITY(1,1) NOT NULL,
 	[MediaOutletID] [int] NOT NULL REFERENCES MediaOutlet (ID),
-	[PotentialConflictID] [int] NOT NULL REFERENCES PotentialConflict (ID),
 	[StoryStatusID] [int] NOT NULL REFERENCES StoryStatus (ID),
 	[Headline] [varchar](1000) NULL,
 	[Date] [date] NULL,
@@ -165,13 +167,11 @@ CREATE TABLE [dbo].[Story](
 GO
 
 
-CREATE TABLE [dbo].[FamilyMemberPotentialConflict](
+CREATE TABLE [dbo].[StoryConflict](
 	[ID] [int] IDENTITY(1,1) NOT NULL,
-	[FamilyMemberID] [int] NOT NULL REFERENCES FamilyMember (ID),
-	[PotentialConflictID] [int] NOT NULL REFERENCES PotentialConflict (ID),
-	[FamilyMemberConflictStatusID] [int] NOT NULL REFERENCES FamilyMemberConflictStatus (ID),
-	[Description] [varchar](MAX) NOT NULL DEFAULT '',
- CONSTRAINT [PK_FamilyMemberPotentialConflict] PRIMARY KEY CLUSTERED 
+	[StoryID] [int] NOT NULL REFERENCES Story (ID),
+	[ConflictID] [int] NOT NULL REFERENCES Conflict (ID)
+ CONSTRAINT [PK_StoryConflict] PRIMARY KEY CLUSTERED 
 (
 	[ID] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
@@ -179,13 +179,11 @@ CREATE TABLE [dbo].[FamilyMemberPotentialConflict](
 GO
 
 
-CREATE TABLE [dbo].[BusinessUnit](
+
+CREATE TABLE [dbo].[Business](
 	[ID] [int] IDENTITY(1,1) NOT NULL,
 	Name Varchar(500) NOT NULL DEFAULT '',
-	--[ParentID] [int] NOT NULL REFERENCES BusinessUnit (ID) DEFAULT 1,
-	--[PotentialConflictID] [int] NOT NULL REFERENCES PotentialConflict (ID),
-	--[Description] [varchar](MAX) NOT NULL DEFAULT '',
- CONSTRAINT [PK_BusinessUnit] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_Business] PRIMARY KEY CLUSTERED 
 (
 	[ID] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
@@ -193,18 +191,32 @@ CREATE TABLE [dbo].[BusinessUnit](
 GO
 
 
-INSERT INTO PotentialConflict VALUES ('Unknown', '', GetDate(), GetDate(), 1)
+
+CREATE TABLE [dbo].[FamilyMemberBusiness](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[FamilyMemberID] [int] NOT NULL REFERENCES FamilyMember (ID),
+	[BusinessID] [int] NOT NULL REFERENCES Business (ID),
+	[FamilyMemberConflictStatusID] [int] NOT NULL REFERENCES FamilyMemberConflictStatus (ID),
+	[Description] [varchar](MAX) NOT NULL DEFAULT '',
+ CONSTRAINT [PK_FamilyMemberBusiness] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+INSERT INTO Conflict VALUES ('Unknown', '', '', GetDate(), GetDate(), 1)
 GO 
-INSERT INTO BusinessUnit VALUES ('') 
+INSERT INTO Business VALUES ('') 
 GO
 
 
-CREATE TABLE [dbo].[BusinessUnitPotentialConflict](
+CREATE TABLE [dbo].[BusinessConflict](
 	[ID] [int] IDENTITY(1,1) NOT NULL,
-	--[ParentID] [int] NOT NULL REFERENCES BusinessUnit (ID) DEFAULT 1,
-	[PotentialConflictID] [int] NOT NULL REFERENCES PotentialConflict (ID),
-	[BusinessUnitID] [int] NOT NULL REFERENCES BusinessUnit (ID),	
- CONSTRAINT [PK_BusinessUnitPotentialConflict] PRIMARY KEY CLUSTERED 
+	--[ParentID] [int] NOT NULL REFERENCES Business (ID) DEFAULT 1,
+	[ConflictID] [int] NOT NULL REFERENCES Conflict (ID),
+	[BusinessID] [int] NOT NULL REFERENCES Business (ID),	
+ CONSTRAINT [PK_BusinessConflict] PRIMARY KEY CLUSTERED 
 (
 	[ID] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
@@ -212,12 +224,12 @@ CREATE TABLE [dbo].[BusinessUnitPotentialConflict](
 GO
 
 
-CREATE TABLE [dbo].[BusinessUnitOwnership](
+CREATE TABLE [dbo].[BusinessOwnership](
 	[ID] [int] IDENTITY(1,1) NOT NULL,
-	[OwnerID] [int] NOT NULL REFERENCES BusinessUnit (ID),
-	[OwneeID] [int] NOT NULL REFERENCES BusinessUnit (ID),
+	[OwnerID] [int] NOT NULL REFERENCES Business (ID),
+	[OwneeID] [int] NOT NULL REFERENCES Business (ID),
 	OwnershipPercentage varchar(10) NOT NULL DEFAULT '',	
- CONSTRAINT [PK_BusinessUnitOwnership] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_BusinessOwnership] PRIMARY KEY CLUSTERED 
 (
 	[ID] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]

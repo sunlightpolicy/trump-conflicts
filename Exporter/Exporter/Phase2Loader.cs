@@ -14,8 +14,8 @@ namespace Phase2 {
         Parent2,
         Parent1Pct,
         Parent1,
-        PotentialConflictName,
-        PotentialConflictDescription,
+        ConflictName,
+        ConflictDescription,
         ConflictingEntity,
         FamilyMember,
         FamilyRelationshipDescription,
@@ -34,25 +34,33 @@ namespace Phase2 {
     //    public string Id;
     //}
 
-    //public class BusinessUnitTable : Table {
+    //public class BusinessTable : Table {
     //    public string Name;
     //} 
 
-    public class PotentialConflict {
+    public class Conflict {
         public string Name;
         public string Description;
         public string Notes;
         public DateTime DateChanged;
     }
+
+    public class FamilyMemberBusiness {
+        public string FamilyMember;
+        public string Description;
+        public string Business;
+        public string ConflictStatus;
+    }
     
-    
-    public class Source {
+    public class Story {
+        public string Conflict;
         public string Name;
         public string Link;
         public DateTime Date;
         public string Headline;
 
-        public Source(string name, string link, DateTime date) {
+        public Story(string conflict, string name, string link, DateTime date) {
+            Conflict = conflict;
             Name = name;
             Link = link;
             Date = date;
@@ -71,7 +79,7 @@ namespace Phase2 {
     }
 
 
-    public class Conflict {
+    public class ConflictOld {
 
         public string Description;
         public string FamilyMember;
@@ -79,9 +87,9 @@ namespace Phase2 {
         public string Category;
         public string Notes;
         public DateTime DateChanged;
-        public List<Source> Sources;
+        public List<Story> Sources;
 
-        public Conflict(string description, string familyMember, string conflictingEntity, string category, string notes, DateTime dateChanged) {
+        public ConflictOld(string description, string familyMember, string conflictingEntity, string category, string notes, DateTime dateChanged) {
             Description = description;
             FamilyMember = familyMember;
             ConflictingEntity = conflictingEntity;
@@ -89,7 +97,7 @@ namespace Phase2 {
             Notes = notes;
             DateChanged = dateChanged;
 
-            Sources = new List<Source>();
+            Sources = new List<Story>();
         }
 
         public string ToJson() {
@@ -108,7 +116,7 @@ namespace Phase2 {
         private string SourcesToJson() {
 
             var sourceStrings = new List<String>();
-            foreach (Source source in Sources)
+            foreach (Story source in Sources)
                 sourceStrings.Add(source.ToJson());
 
             var strings = new StringBuilder();
@@ -142,8 +150,14 @@ namespace Phase2 {
 
     class Phase2Loader {
 
-        Dictionary<string, string> BusinessUnits = new Dictionary<string, string>();
-        Dictionary<string, PotentialConflict> PotentialConflicts = new Dictionary<string, PotentialConflict>();
+        Dictionary<string, string> Businesss = new Dictionary<string, string>();
+        Dictionary<string, Conflict> Conflicts = new Dictionary<string, Conflict>();
+
+        Dictionary<string, string> MediaOutlets = new Dictionary<string, string>();
+        List<Story> Stories = new List<Story>();
+        Dictionary<string, string> StoryConflicts = new Dictionary<string, string>();
+
+        List<FamilyMemberBusiness> FamilyMemberBusiness = new List<FamilyMemberBusiness>();
 
 
         public Phase2Loader(String path) {
@@ -171,8 +185,13 @@ namespace Phase2 {
         }
 
         private void WriteSql(string path) {
-            WriteBusinessUnitScript(path, "4");
-            WritePotentialConflictScript(path, "5");
+            WriteBusinessScript(path, "4");
+            WriteConflictScript(path, "5");
+
+            WriteMediaOutletScript(path, "6");
+            WriteStoryScript(path, "7");
+
+            WriteFamilyMemberBusinessScript(path, "8");
         }
 
         private void ImportPage(List<Conflict> conflicts, string file) {
@@ -190,74 +209,171 @@ namespace Phase2 {
                     if (cols.Length < 2)
                         return;
 
-                    AddBusinessUnits(cols);
-                    AddPotentialConflict(cols);
+                    AddBusinesss(cols);
+                    AddConflict(cols);
+                    AddStories(cols);
+                    AddFamilyMemberBusiness(cols);
                     //AddConflict(conflicts, cols, file, rowNum);
                 }
                 rowNum++;
             }
             
-            Console.WriteLine(BusinessUnits.Count.ToString() + " BusinesUnits");
-            Console.WriteLine(PotentialConflicts.Count.ToString() + " PotentialConflicts");
+            Console.WriteLine(Businesss.Count.ToString() + " BusinesUnits");
+            Console.WriteLine(Conflicts.Count.ToString() + " Conflicts");
             //Console.WriteLine(conflicts.Count.ToString() + " conflicts");
         }
 
-        private void AddPotentialConflict(string[] cols) {
-            var name = ConflictingEntity(cols[(int)Col.PotentialConflictName]);
+        private void AddConflict(string[] cols) {
+            var name = ConflictingEntity(cols[(int)Col.ConflictName]);
             if (name == "")
                 return;
-            if (PotentialConflicts.ContainsKey(name))
+            if (Conflicts.ContainsKey(name))
                 return;
             
-            var description = Description(cols[(int)Col.PotentialConflictDescription]);
+            var description = Description(cols[(int)Col.ConflictDescription]);
             var note = Notes(cols[(int)Col.Notes]);
             var date = DateChanged(cols[(int)Col.DatePublished]);
             
-            var conflict = new PotentialConflict();
+            var conflict = new Conflict();
             conflict.Name = name;
             conflict.Description = description;
             conflict.Notes = note;
             conflict.DateChanged = date;
 
-            PotentialConflicts.Add(name, conflict);
+            Conflicts.Add(name, conflict);
         }
 
-        private void AddBusinessUnits(string [] cols) {
-            AddBusinessUnit(BusUnit(cols[(int)Col.Parent1]));
-            AddBusinessUnit(BusUnit(cols[(int)Col.Parent2]));
-            AddBusinessUnit(BusUnit(cols[(int)Col.Parent3]));
-
-            AddBusinessUnit(BusUnit(cols[(int)Col.ConflictingEntity]));
+        private void AddStories(string[] cols) {
+            AddStory(cols[(int)Col.ConflictName], cols[(int)Col.Source1], cols[(int)Col.Source1Date]);
+            AddStory(cols[(int)Col.ConflictName], cols[(int)Col.Source2], cols[(int)Col.Source2Date]);
+            AddStory(cols[(int)Col.ConflictName], cols[(int)Col.Source3], cols[(int)Col.Source3Date]);
         }
 
-        private void AddBusinessUnit(string unit) {
+        private void AddStory(string conflictingEntityCol, string linkCol, string dateCol) {
+            var fields = linkCol.Split(new[] { " href=" }, StringSplitOptions.None);
+            if (fields.Length < 2)
+                return;
+
+            var busUnit = BusUnit(conflictingEntityCol);
+
+            var linkAndName = fields[1].Split('>');
+            var name = linkAndName[1].Replace("</a", "");
+            var link = linkAndName[0].Replace("\"", "");
+
+            var dateStr = dateCol.Split('>')[1].Replace("</td", "");
+            var dte = GetDate(dateStr);
+
+            if ((name != "") && (!MediaOutlets.ContainsKey(name)))
+                MediaOutlets.Add(name, name);
+
+            if (name != "") {
+                var story = new Story(busUnit, name, link, dte); 
+                Stories.Add(story);
+            }
+        }
+
+
+        private void AddFamilyMemberBusiness(string[] cols) {
+            
+            var x = new FamilyMemberBusiness();
+            x.Business = ConflictingEntity(cols[(int)Col.ConflictingEntity]);
+            x.ConflictStatus = Category(cols[(int)Col.FamilyMemberConflictStatus]);
+            x.FamilyMember = FamilyMember(cols[(int)Col.FamilyMember]);
+            x.Description = Description(cols[(int)Col.FamilyRelationshipDescription]);
+
+            if (x.Business != "")
+                FamilyMemberBusiness.Add(x);
+        }
+
+
+        private void AddBusinesss(string [] cols) {
+            AddBusiness(BusUnit(cols[(int)Col.Parent1]));
+            AddBusiness(BusUnit(cols[(int)Col.Parent2]));
+            AddBusiness(BusUnit(cols[(int)Col.Parent3]));
+
+            AddBusiness(BusUnit(cols[(int)Col.ConflictingEntity]));
+        }
+
+        private void AddBusiness(string unit) {
             if (unit == "")
                 return;
-            if (!BusinessUnits.ContainsKey(unit))
-                BusinessUnits.Add(unit, BusinessUnits.Count.ToString());
+            if (!Businesss.ContainsKey(unit))
+                Businesss.Add(unit, Businesss.Count.ToString());
         }
 
-        private void WriteBusinessUnitScript(string path, string seq) {
+        private void WriteBusinessScript(string path, string seq) {
             var strings = new List<string>();
             strings.Add("USE Trump");
             strings.Add("GO\r\n");
 
-            foreach (String unit in BusinessUnits.Keys)
-                strings.Add("INSERT INTO BusinessUnit VALUES ('" + unit + "')");
+            foreach (String unit in Businesss.Keys)
+                strings.Add("INSERT INTO Business VALUES ('" + unit + "')");
 
-            using (TextWriter tw = new StreamWriter(path + seq + " INSERT BusinessUnit.sql")) {
+            using (TextWriter tw = new StreamWriter(path + seq + " INSERT Business.sql")) {
                 foreach (String s in strings)
                     tw.WriteLine(s);
             }
          }
 
-        private void WritePotentialConflictScript(string path, string seq) {
+        private void WriteStoryScript(string path, string seq) {
             var strings = new List<string>();
             strings.Add("USE Trump");
             strings.Add("GO\r\n");
 
-            foreach (PotentialConflict conflict in PotentialConflicts.Values)
-                strings.Add("INSERT INTO PotentialConflict VALUES ('" +
+            int storyId = 1;
+            foreach (Story story in Stories) {
+                strings.Add("INSERT INTO Story VALUES (" +
+                    "(SELECT ID FROM MediaOutlet WHERE Name = '" + story.Name + "'), " +
+                    "2, " + // StoryStatusUD
+                    "'', " + // Headline
+                    "'" + story.Date + "', " +
+                    "GetDate()," +
+                    "1)" // EditorID 
+                );
+
+                if (story.Conflict != "") {
+                    strings.Add("INSERT INTO StoryConflict VALUES (" +
+                        storyId + ", " +
+                        "(SELECT ID FROM Conflict WHERE Name = '" + story.Conflict + "'))"
+                    );
+                }
+            }
+
+            using (TextWriter tw = new StreamWriter(path + seq + " INSERT Story and StoryConflict.sql")) {
+                foreach (String s in strings)
+                    tw.WriteLine(s);
+            }
+        }
+
+
+        private void WriteFamilyMemberBusinessScript(string path, string seq) {
+            var strings = new List<string>();
+            strings.Add("USE Trump");
+            strings.Add("GO\r\n");
+
+            foreach (FamilyMemberBusiness x in this.FamilyMemberBusiness) {
+                strings.Add("INSERT INTO FamilyMemberBusiness VALUES (" +
+                    "(SELECT ID FROM FamilyMember WHERE Name = '" + x.FamilyMember + "'), " +
+                    "(SELECT ID FROM Business WHERE Name = '" + x.Business + "'), " +
+                    "(SELECT ID FROM FamilyMemberConflictStatus WHERE Name = '" + x.ConflictStatus + "'), " +
+                    "'" + x.Description + "')"
+                );
+            }
+
+            using (TextWriter tw = new StreamWriter(path + seq + " INSERT FamilyMemberBusiness.sql")) {
+                foreach (String s in strings)
+                    tw.WriteLine(s);
+            }
+        }
+
+
+        private void WriteConflictScript(string path, string seq) {
+            var strings = new List<string>();
+            strings.Add("USE Trump");
+            strings.Add("GO\r\n");
+
+            foreach (Conflict conflict in Conflicts.Values)
+                strings.Add("INSERT INTO Conflict VALUES ('" +
                     conflict.Name + "', '" +
                     conflict.Description + "', '" +
                     conflict.Notes + "', '" +
@@ -265,61 +381,75 @@ namespace Phase2 {
                     "GetDate(), 1)"
                 );
 
-            using (TextWriter tw = new StreamWriter(path + seq + " INSERT PotentialConflict.sql")) {
+            using (TextWriter tw = new StreamWriter(path + seq + " INSERT Conflict.sql")) {
                 foreach (String s in strings)
                     tw.WriteLine(s);
             }
         }
 
-        private void AddConflict(List<Conflict> conflicts, string[] cols, string file, int rowNum) {
-            //row = row.Replace("<td></td>", "<td ></td>");
-            //var cols = row.Split(new[] { "<td " }, StringSplitOptions.None);
+        private void WriteMediaOutletScript(string path, string seq) {
+            var strings = new List<string>();
+            strings.Add("USE Trump");
+            strings.Add("GO\r\n");
 
-            //if (cols.Length < 2)
-            //    return;
-            //if (cols[1].Contains("></td>"))
-            //    return;
-            //if (cols[1].Contains("Description</td"))
-            //    return;
+            foreach (String outlet in MediaOutlets.Keys)
+                strings.Add("INSERT INTO MediaOutlet VALUES ('" + outlet + "')");
 
-            var conflict = new Conflict(
-            Description(cols[1]),
-            FamilyMember(cols[2]),
-            ConflictingEntity(cols[3]),
-            Category(cols[4]),
-            Notes(cols[5]),
-            DateChanged(cols[12]));
-
-            try {
-                AddSource(conflict, cols[6], cols[7]);
-                AddSource(conflict, cols[8], cols[9]);
-                AddSource(conflict, cols[10], cols[11]);
+            using (TextWriter tw = new StreamWriter(path + seq + " INSERT MediaOutlet.sql")) {
+                foreach (String s in strings)
+                    tw.WriteLine(s);
             }
-            catch (Exception e) {
-                Console.WriteLine("LINK PROBLEM: " + Path.GetFileNameWithoutExtension(file) + " at " + rowNum.ToString());
-                return;
-            }
-
-            conflicts.Add(conflict);
         }
 
-        private void AddSource(Conflict conflict, string text, string date) {
-            var fields = text.Split(new[] { " href=" }, StringSplitOptions.None);
-            if (fields.Length < 2)
-                return;
+        //private void AddConflict(List<Conflict> conflicts, string[] cols, string file, int rowNum) {
+        //    //row = row.Replace("<td></td>", "<td ></td>");
+        //    //var cols = row.Split(new[] { "<td " }, StringSplitOptions.None);
 
-            var linkAndName = fields[1].Split('>');
+        //    //if (cols.Length < 2)
+        //    //    return;
+        //    //if (cols[1].Contains("></td>"))
+        //    //    return;
+        //    //if (cols[1].Contains("Description</td"))
+        //    //    return;
 
-            var name = linkAndName[1].Replace("</a", "");
-            var link = linkAndName[0].Replace("\"", "");
+        //    var conflict = new Conflict(
+        //    Description(cols[1]),
+        //    FamilyMember(cols[2]),
+        //    ConflictingEntity(cols[3]),
+        //    Category(cols[4]),
+        //    Notes(cols[5]),
+        //    DateChanged(cols[12]));
 
-            var dateStr = date.Split('>')[1].Replace("</td", "");
-            var dte = GetDate(dateStr);
+        //    try {
+        //        AddSource(conflict, cols[6], cols[7]);
+        //        AddSource(conflict, cols[8], cols[9]);
+        //        AddSource(conflict, cols[10], cols[11]);
+        //    }
+        //    catch (Exception e) {
+        //        Console.WriteLine("LINK PROBLEM: " + Path.GetFileNameWithoutExtension(file) + " at " + rowNum.ToString());
+        //        return;
+        //    }
 
-            var source = new Source(name, link, dte);
+        //    conflicts.Add(conflict);
+        //}
 
-            conflict.Sources.Add(source);
-        }
+        //private void AddSource(Conflict conflict, string text, string date) {
+        //    var fields = text.Split(new[] { " href=" }, StringSplitOptions.None);
+        //    if (fields.Length < 2)
+        //        return;
+
+        //    var linkAndName = fields[1].Split('>');
+
+        //    var name = linkAndName[1].Replace("</a", "");
+        //    var link = linkAndName[0].Replace("\"", "");
+
+        //    var dateStr = date.Split('>')[1].Replace("</td", "");
+        //    var dte = GetDate(dateStr);
+
+        //    var source = new Story(name, link, dte);
+
+        //    conflict.Sources.Add(source);
+        //}
 
         private DateTime GetDate(string dte) {
             dte = dte
@@ -335,20 +465,19 @@ namespace Phase2 {
                 subs[1].Replace("</td", "").TrimEnd().TrimStart();
         }
 
-        private string Description(string txt) {
+        public string Description(string txt) {
             var subs = txt.Split('>');
             return
                 subs[1].Replace("</td", "").TrimEnd().TrimStart();
         }
 
-        private string FamilyMember(string txt) {
+        public string FamilyMember(string txt) {
             var subs = txt.Split('>');
             return
                 subs[1].Replace("</td", "")
                     .TrimEnd()
                     .TrimStart()
                     .Replace("ump, Jr", "ump Jr");
-
         }
 
         private string ConflictingEntity(string txt) {
