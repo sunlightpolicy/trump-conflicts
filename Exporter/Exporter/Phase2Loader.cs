@@ -45,6 +45,17 @@ namespace Phase2 {
         public DateTime DateChanged;
     }
 
+    public class BusinessConflict {
+        public string Business;
+        public string Conflict;
+    }
+
+    public class BusinessOwnership {
+        public string Owner;
+        public string Ownee;
+        public string Percentage;
+    }
+
     public class FamilyMemberBusiness {
         public string FamilyMember;
         public string Description;
@@ -185,6 +196,10 @@ namespace Phase2 {
 
         List<FamilyMemberBusiness> FamilyMemberBusiness = new List<FamilyMemberBusiness>();
 
+        List<BusinessConflict> BusinessConflicts = new List<BusinessConflict>();
+
+        List<BusinessOwnership> BusinessOwnerships = new List<BusinessOwnership>();
+
 
 
         public Phase2Loader(String path) {
@@ -221,6 +236,7 @@ namespace Phase2 {
             WriteEthicsDocumentScript(path, "8");
 
             WriteFamilyMemberBusinessScript(path, "9");
+            WriteBusinessOwnershipScript(path, "91");
         }
 
         private void ImportPage(List<Conflict> conflicts, string file) {
@@ -242,7 +258,7 @@ namespace Phase2 {
                     AddConflict(cols);
                     AddStoriesAndEthicsDocuments(cols);
                     AddFamilyMemberBusiness(cols);
-                    //AddConflict(conflicts, cols, file, rowNum);
+                    AddBusinessOwnerships(cols);
                 }
                 rowNum++;
             }
@@ -270,6 +286,12 @@ namespace Phase2 {
             conflict.DateChanged = date;
 
             Conflicts.Add(name, conflict);
+            
+            var business = BusUnit(cols[(int)Col.ConflictingEntity]);
+            var busConflict = new BusinessConflict();
+            busConflict.Conflict = conflict.Name;
+            busConflict.Business = business;
+            BusinessConflicts.Add(busConflict);
         }
 
         private void AddStoriesAndEthicsDocuments(string[] cols) {
@@ -321,6 +343,30 @@ namespace Phase2 {
         }
 
 
+
+        private void AddBusinessOwnerships(string[] cols) {
+            AddBusinessOwnership(cols[(int)Col.ConflictingEntity], cols[(int)Col.Parent1], cols[(int)Col.Parent1Pct]);
+            AddBusinessOwnership(cols[(int)Col.ConflictingEntity], cols[(int)Col.Parent2], cols[(int)Col.Parent2Pct]);
+            AddBusinessOwnership(cols[(int)Col.ConflictingEntity], cols[(int)Col.Parent3], cols[(int)Col.Parent3Pct]);
+        }
+
+        private void AddBusinessOwnership(string owneeCol, string ownerCol, string percentageCol) {
+            
+            var owner = ConflictingEntity(ownerCol);
+            var ownee = ConflictingEntity(owneeCol);
+            var percentage = ConflictingEntity(percentageCol);
+            
+            if (owner == "")
+                return;
+
+            var own = new BusinessOwnership();
+            own.Owner = owner;
+            own.Ownee = ownee;
+            own.Percentage = percentage;
+            BusinessOwnerships.Add(own);
+        }
+
+
         private void AddFamilyMemberBusiness(string[] cols) {
             
             var x = new FamilyMemberBusiness();
@@ -362,6 +408,23 @@ namespace Phase2 {
                     tw.WriteLine(s);
             }
          }
+
+         private void WriteBusinessOwnershipScript(string path, string seq) {
+            var strings = new List<string>();
+            strings.Add("USE Trump");
+            strings.Add("GO\r\n");
+
+            foreach (BusinessOwnership own in BusinessOwnerships)
+                strings.Add("INSERT INTO BusinessOwnership VALUES (" +
+                    "(SELECT ID FROM Business WHERE Name = '" + own.Owner + "'), " +
+                    "(SELECT ID FROM Business WHERE Name = '" + own.Ownee + "'), " +
+                    "'" + own.Percentage + "')");
+
+            using (TextWriter tw = new StreamWriter(path + seq + " INSERT BusinessOwnership.sql")) {
+                foreach (String s in strings)
+                    tw.WriteLine(s);
+            }
+          }
 
         private void WriteStoryScript(string path, string seq) {
             var strings = new List<string>();
@@ -458,7 +521,14 @@ namespace Phase2 {
                     "GetDate(), 1)"
                 );
 
-            using (TextWriter tw = new StreamWriter(path + seq + " INSERT Conflict.sql")) {
+            foreach (BusinessConflict busConflict in BusinessConflicts)
+                strings.Add("INSERT INTO BusinessConflict VALUES (" +
+                    "" +
+                    "(SELECT ID FROM Conflict WHERE Name = '" + busConflict.Conflict + "'), " +
+                    "(SELECT ID FROM Business WHERE Name = '" + busConflict.Business + "'))"
+                );
+
+            using (TextWriter tw = new StreamWriter(path + seq + " INSERT Conflict and BusinesConflict.sql")) {
                 foreach (String s in strings)
                     tw.WriteLine(s);
             }
