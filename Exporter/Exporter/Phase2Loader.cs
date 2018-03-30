@@ -14,9 +14,9 @@ namespace Phase2 {
         Parent2,
         Parent1Pct,
         Parent1,
-        ConflictName,
+        ConflictName, // Friendly Name
         ConflictDescription,
-        ConflictingEntity,
+        ConflictingEntity, // As in Ethics Doc
         FamilyMember,
         FamilyRelationshipDescription,
         FamilyMemberConflictStatus,
@@ -57,18 +57,33 @@ namespace Phase2 {
         public string Title;
         public string Link;
         public DateTime Date;
+
+        public string Key() {
+            return FamilyMember + Date.ToString();
+        }
+
+        public EthicsDocument(string familyMember, DateTime date, string link) {
+            FamilyMember = familyMember;
+            Date = date;
+            Link = link;
+        }
     }
-    
+
+    public class EthicsDocumentBusiness {
+        public EthicsDocument EthicsDocument;
+        public string Business;
+    }
+
     public class Story {
         public string Conflict;
-        public string Name;
+        public string MediaOutlet;
         public string Link;
         public DateTime Date;
         public string Headline;
 
-        public Story(string conflict, string name, string link, DateTime date) {
+        public Story(string conflict, string mediaOutlet, string link, DateTime date) {
             Conflict = conflict;
-            Name = name;
+            MediaOutlet = mediaOutlet;
             Link = link;
             Date = date;
 
@@ -77,7 +92,7 @@ namespace Phase2 {
 
         public string ToJson() {
             return "{ " +
-                 "\"name\": \"" + Util.RemoveQuotes(Name) + "\"," +
+                 "\"name\": \"" + Util.RemoveQuotes(MediaOutlet) + "\"," +
                  "\"link\": \"" + Util.RemoveQuotes(Link) + "\"," +
                  //"date=\"" + Date.ToString("d") + "\"" +
                  "\"date\": \"" + String.Format("{0:MM/dd/yyyy}", Date) + "\"" +
@@ -164,8 +179,9 @@ namespace Phase2 {
 
         List<Story> Stories = new List<Story>();
         Dictionary<string, string> StoryConflicts = new Dictionary<string, string>();
-        List<EthicsDocument> EthicsDocuments = new List<EthicsDocument>();
 
+        Dictionary<string, EthicsDocument> EthicsDocuments = new Dictionary<string, EthicsDocument>();
+        List<EthicsDocumentBusiness> EthicsDocumentBusiness = new List<EthicsDocumentBusiness>();
 
         List<FamilyMemberBusiness> FamilyMemberBusiness = new List<FamilyMemberBusiness>();
 
@@ -202,7 +218,9 @@ namespace Phase2 {
             WriteMediaOutletScript(path, "6");
             WriteStoryScript(path, "7");
 
-            WriteFamilyMemberBusinessScript(path, "8");
+            WriteEthicsDocumentScript(path, "8");
+
+            WriteFamilyMemberBusinessScript(path, "9");
         }
 
         private void ImportPage(List<Conflict> conflicts, string file) {
@@ -222,7 +240,7 @@ namespace Phase2 {
 
                     AddBusinesss(cols);
                     AddConflict(cols);
-                    AddStories(cols);
+                    AddStoriesAndEthicsDocuments(cols);
                     AddFamilyMemberBusiness(cols);
                     //AddConflict(conflicts, cols, file, rowNum);
                 }
@@ -254,33 +272,52 @@ namespace Phase2 {
             Conflicts.Add(name, conflict);
         }
 
-        private void AddStories(string[] cols) {
-            AddStory(cols[(int)Col.ConflictName], cols[(int)Col.Source1], cols[(int)Col.Source1Date]);
-            AddStory(cols[(int)Col.ConflictName], cols[(int)Col.Source2], cols[(int)Col.Source2Date]);
-            AddStory(cols[(int)Col.ConflictName], cols[(int)Col.Source3], cols[(int)Col.Source3Date]);
+        private void AddStoriesAndEthicsDocuments(string[] cols) {
+            AddStoryAndEthicsDocument(cols[(int)Col.FamilyMember], cols[(int)Col.ConflictingEntity], cols[(int)Col.ConflictName], cols[(int)Col.Source1], cols[(int)Col.Source1Date]);
+            AddStoryAndEthicsDocument(cols[(int)Col.FamilyMember], cols[(int)Col.ConflictingEntity], cols[(int)Col.ConflictName], cols[(int)Col.Source2], cols[(int)Col.Source2Date]);
+            AddStoryAndEthicsDocument(cols[(int)Col.FamilyMember], cols[(int)Col.ConflictingEntity], cols[(int)Col.ConflictName], cols[(int)Col.Source3], cols[(int)Col.Source3Date]);
         }
 
-        private void AddStory(string conflictingEntityCol, string linkCol, string dateCol) {
+        private void AddStoryAndEthicsDocument(string familyMemberCol, string conflictingEntityCol, string conflictCol, string linkCol, string dateCol) {
             var fields = linkCol.Split(new[] { " href=" }, StringSplitOptions.None);
             if (fields.Length < 2)
                 return;
 
-            var busUnit = BusUnit(conflictingEntityCol);
+            var familyMember = FamilyMember(familyMemberCol);
+            var business = BusUnit(conflictingEntityCol);
+            var conflict = ConflictingEntity(conflictCol);
 
             var linkAndName = fields[1].Split('>');
-            var name = linkAndName[1].Replace("</a", "");
+            var mediaOutlet = linkAndName[1].Replace("</a", "");
             var link = linkAndName[0].Replace("\"", "");
 
             var dateStr = dateCol.Split('>')[1].Replace("</td", "");
             var dte = GetDate(dateStr);
 
-            if ((name != "") && (!MediaOutlets.ContainsKey(name)))
-                MediaOutlets.Add(name, name);
+            if (mediaOutlet == "")
+                return;
 
-            if (name != "") {
-                var story = new Story(busUnit, name, link, dte); 
-                Stories.Add(story);
-            }
+            // It is a story
+            if (mediaOutlet != "Office of Government Ethics") {
+                // Add a new MediaOutlet if neccessary
+                if ((mediaOutlet != "") && (!MediaOutlets.ContainsKey(mediaOutlet)))
+                    MediaOutlets.Add(mediaOutlet, mediaOutlet);
+
+                if (mediaOutlet != "") {
+                    var story = new Story(conflict, mediaOutlet, link, dte);
+                    Stories.Add(story);
+                }
+            } else { // it is a Ethics Doc reference 
+                // Add a new Ethics Doc if neccessary
+                if ((mediaOutlet != "") && (!EthicsDocuments.ContainsKey(mediaOutlet + dte.ToString()))) {
+                    EthicsDocuments.Add(mediaOutlet + dte.ToString(), new EthicsDocument(familyMember, dte, link));
+                }
+
+                var ethicsDocRef = new EthicsDocumentBusiness();
+                ethicsDocRef.Business = business;
+                EthicsDocuments.TryGetValue(mediaOutlet + dte.ToString(), out ethicsDocRef.EthicsDocument); 
+                EthicsDocumentBusiness.Add(ethicsDocRef);
+            }   
         }
 
 
@@ -333,17 +370,9 @@ namespace Phase2 {
 
             int storyId = 1;
             foreach (Story story in Stories) {
-
-                if (story.Name == "Office of Government Ethics") {
-                    var x = new EthicsDocument();
-                    x.Link = story.Link;
-                    x.Date = story.Date;
-
-                    continue;
-                }
-
+                
                 strings.Add("INSERT INTO Story VALUES (" +
-                    "(SELECT ID FROM MediaOutlet WHERE Name = '" + story.Name + "'), " +
+                    "(SELECT ID FROM MediaOutlet WHERE Name = '" + story.MediaOutlet + "'), " +
                     "2, '" + // StoryStatusUD
                     story.Link + "', " +  // Link
                     "'', " + // Headline
@@ -361,6 +390,33 @@ namespace Phase2 {
             }
 
             using (TextWriter tw = new StreamWriter(path + seq + " INSERT Story and StoryConflict.sql")) {
+                foreach (String s in strings)
+                    tw.WriteLine(s);
+            }
+        }
+
+        private void WriteEthicsDocumentScript(string path, string seq) {
+            var strings = new List<string>();
+            strings.Add("USE Trump");
+            strings.Add("GO\r\n");
+
+            foreach (EthicsDocument doc in EthicsDocuments.Values) {
+                strings.Add("INSERT INTO EthicsDocument VALUES (" +
+                    "(SELECT ID FROM FamilyMember WHERE Name = '" + doc.FamilyMember + "'), " +
+                    "'Ethics Document ', '" +
+                    doc.Link + "', '" +
+                    doc.Date.ToString() + "')"
+                );
+            }
+
+            foreach (EthicsDocumentBusiness ethicsDocRef in EthicsDocumentBusiness) {
+                strings.Add("INSERT INTO EthicsDocumentBusiness VALUES (" +
+                    "(SELECT ID FROM EthicsDocument WHERE Link = '" + ethicsDocRef.EthicsDocument.Link + "'), " +
+                    "(SELECT ID FROM Business WHERE Name = '" + ethicsDocRef.Business + "'))"
+                );
+            }
+
+            using (TextWriter tw = new StreamWriter(path + seq + " INSERT EthicsDocumentBusiness.sql")) {
                 foreach (String s in strings)
                     tw.WriteLine(s);
             }
