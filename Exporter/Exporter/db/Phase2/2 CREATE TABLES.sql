@@ -26,9 +26,13 @@ EXEC DropTable 'BusinessOwnership'
 GO
 EXEC DropTable 'FamilyMemberBusiness'
 GO
+EXEC DropTable 'EthicsDocumentBusiness'
+GO
 EXEC DropTable 'Business'
 GO
 EXEC DropTable 'Conflict'
+GO
+EXEC DropTable 'EthicsDocument'
 GO
 EXEC DropTable 'FamilyMember'
 GO
@@ -40,8 +44,6 @@ EXEC DropTable 'SystemUser'
 GO
 EXEC DropTable 'UserGroup'
 GO
-
-
 
 
 
@@ -155,7 +157,8 @@ CREATE TABLE [dbo].[Story](
 	[ID] [int] IDENTITY(1,1) NOT NULL,
 	[MediaOutletID] [int] NOT NULL REFERENCES MediaOutlet (ID),
 	[StoryStatusID] [int] NOT NULL REFERENCES StoryStatus (ID),
-	[Headline] [varchar](1000) NULL,
+	[Link] varchar(1000) NOT NULL DEFAULT '',
+	[Headline] [varchar](1000) NOT NULL DEFAULT '',
 	[Date] [date] NULL,
 	[EditTime] [datetime2](6) NOT NULL CONSTRAINT [DF_Story_EditTime]  DEFAULT (getdate()),
 	[EditorID] [int] NOT NULL  REFERENCES SystemUser (ID) DEFAULT ((1)),
@@ -230,6 +233,33 @@ CREATE TABLE [dbo].[BusinessOwnership](
 	[OwneeID] [int] NOT NULL REFERENCES Business (ID),
 	OwnershipPercentage varchar(10) NOT NULL DEFAULT '',	
  CONSTRAINT [PK_BusinessOwnership] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+
+CREATE TABLE [dbo].[EthicsDocument](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[FamilyMemberID] [int] NOT NULL REFERENCES FamilyMember (ID),
+	[Title] varchar(500) NOT NULL,
+	[Link] varchar(500) NOT NULL, 
+	[Date] [date] NOT NULL,
+ CONSTRAINT [PK_EthicsDocument] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+CREATE TABLE [dbo].[EthicsDocumentBusiness](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[EthicsDocumentID] [int] NOT NULL REFERENCES EthicsDocument (ID),
+	[BusinessID] [int] NOT NULL REFERENCES Business (ID),
+ CONSTRAINT [PK_EthicsDocumentBusiness] PRIMARY KEY CLUSTERED 
 (
 	[ID] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]

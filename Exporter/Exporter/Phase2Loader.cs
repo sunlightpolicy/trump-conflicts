@@ -52,6 +52,13 @@ namespace Phase2 {
         public string ConflictStatus;
     }
     
+    public class EthicsDocument {
+        public string FamilyMember;
+        public string Title;
+        public string Link;
+        public DateTime Date;
+    }
+    
     public class Story {
         public string Conflict;
         public string Name;
@@ -154,10 +161,14 @@ namespace Phase2 {
         Dictionary<string, Conflict> Conflicts = new Dictionary<string, Conflict>();
 
         Dictionary<string, string> MediaOutlets = new Dictionary<string, string>();
+
         List<Story> Stories = new List<Story>();
         Dictionary<string, string> StoryConflicts = new Dictionary<string, string>();
+        List<EthicsDocument> EthicsDocuments = new List<EthicsDocument>();
+
 
         List<FamilyMemberBusiness> FamilyMemberBusiness = new List<FamilyMemberBusiness>();
+
 
 
         public Phase2Loader(String path) {
@@ -322,9 +333,19 @@ namespace Phase2 {
 
             int storyId = 1;
             foreach (Story story in Stories) {
+
+                if (story.Name == "Office of Government Ethics") {
+                    var x = new EthicsDocument();
+                    x.Link = story.Link;
+                    x.Date = story.Date;
+
+                    continue;
+                }
+
                 strings.Add("INSERT INTO Story VALUES (" +
                     "(SELECT ID FROM MediaOutlet WHERE Name = '" + story.Name + "'), " +
-                    "2, " + // StoryStatusUD
+                    "2, '" + // StoryStatusUD
+                    story.Link + "', " +  // Link
                     "'', " + // Headline
                     "'" + story.Date + "', " +
                     "GetDate()," +
