@@ -431,9 +431,10 @@ namespace Phase2 {
             strings.Add("USE Trump");
             strings.Add("GO\r\n");
 
-            int storyId = 1;
+            int storyId = 0;
             foreach (Story story in Stories) {
-                
+                storyId++;
+
                 strings.Add("INSERT INTO Story VALUES (" +
                     "(SELECT ID FROM MediaOutlet WHERE Name = '" + story.MediaOutlet + "'), " +
                     "2, '" + // StoryStatusUD
@@ -441,7 +442,7 @@ namespace Phase2 {
                     "'', " + // Headline
                     "'" + story.Date + "', " +
                     "GetDate()," +
-                    "1)" // EditorID 
+                    "2)" // Lynn Walsh 
                 );
 
                 if (story.Conflict != "") {

@@ -217,7 +217,8 @@ namespace Conflicts {
             conflicts[start].Sources[0].Headline = "Exclusive: FBI counterintel investigating Ivanka Trump business deal";
 
             conflicts[start + 1].Sources[0].Headline = "Kushner's Family Business Received Loans After White House Meetings";
-            conflicts[start + 1].Sources[1].Headline = "How Kushner's Finances Could Be Potential Conflicts Of Interest";
+            conflicts[start + 1].Sources[1].Headline = "How*" +
+                "vv Kushner's Finances Could Be Potential Conflicts Of Interest";
             conflicts[start + 1].Sources[2].Headline = "How Kushner's Finances Could Be Potential Conflicts Of Interest";
 
             conflicts[start + 2].Sources[0].Headline = "Kushner’s Family Business Received Loans After White House Meetings";

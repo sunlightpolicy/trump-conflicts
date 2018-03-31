@@ -74,7 +74,7 @@ INSERT INTO UserGroup VALUES ('Administrator')
 INSERT INTO UserGroup VALUES ('Editor') 
 
 INSERT INTO SystemUser VALUES (1, 'hniles@sunlightfoundation.com', 'Niles', 'Hillary')
-
+INSERT INTO SystemUser VALUES (1, 'lwalsh@sunlightfoundation.com', 'Walsh', 'Lynn') 
 
 
 CREATE TABLE [dbo].[FamilyMember](
