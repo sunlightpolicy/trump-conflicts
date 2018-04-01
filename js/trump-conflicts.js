@@ -5,19 +5,19 @@ var sourceTypeChart;
 var categoryChart;
 var familyMemberChart;
 
-var conflictingEntityChart;
-var sourceChart;
+var conflictChart;
+var mediaOutletChart;
 
 var searchDim;
 
 
 //d3.json("data/conflicts.json", function (data) {
-d3.json("data/stories.json", function (data) {
+d3.json("data/stories2.json", function (err, data) {
     data.forEach(function (d) {
         d.sourceType = "Office of Government Ethics";
         //if ((typeof(d.sources[0]) != "undefined") && (d.sources[0].name != "Office of Government Ethics"))
         //    d.sourceType = "Media";
-        if (d.source != "Office of Government Ethics")
+        if (d.mediaOutlet != "Office of Government Ethics")
             d.sourceType = "Media";
         
         //d.source = "N/A";
@@ -28,12 +28,12 @@ d3.json("data/stories.json", function (data) {
         //        d.source = "Multiple Sources";
         //}
 
-        if (d.conflictingEntity == "")
-            d.conflictingEntity = "N/A";
+        if (d.conflict == "")
+            d.conflict = "N/A";
 
         //d.description = d.category + " - " + d.description;
 
-        //d.links = getLinks(d);
+        //d.links = getLinks(d);entity
         //d.link = getLink(d);
         d.link = getHeadlineLink(d);
 
@@ -43,7 +43,7 @@ d3.json("data/stories.json", function (data) {
     var facts = crossfilter(data);
 
     searchDim = facts.dimension(function (d) {
-        return d.source.toLowerCase() + " " + d.conflictingEntity.toLowerCase();
+        return d.mediaOutlet.toLowerCase() + " " + d.conflict.toLowerCase();
     });
     
     //d3.select("#search-input").on('click', function () {
@@ -181,8 +181,8 @@ d3.json("data/stories.json", function (data) {
     sourceTypeChart = new RowChart(facts, "sourceType", leftWidth, 2, 70);
     sourceTypeChart.filter("Media");
 
-    conflictingEntityChart = new RowChart(facts, "conflictingEntity", col1Width, 400);
-    sourceChart = new RowChart(facts, "source", col2Width, 60);
+    conflictChart = new RowChart(facts, "conflict", col1Width, 400);
+    mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 60);
     
     dataTable = dc.dataTable("#dc-chart-table");
 
@@ -191,7 +191,7 @@ d3.json("data/stories.json", function (data) {
     dataTable
         .dimension(tableDim)
         .group(function (d) {
-            return "<b>" + d.conflictingEntity + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> " + d.description;
+            return "<b>" + d.conflict + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> " + d.description;
         })  
         //.showGroups(false)
         .size(50)
@@ -199,7 +199,7 @@ d3.json("data/stories.json", function (data) {
             function (d) { return dateToYMD(d.sourceDate); },
             function(d) { return d.link; }
         ])
-        .sortBy(function (d) { return d.conflictingEntity + dateToYMD(d.sourceDate); })
+        .sortBy(function (d) { return d.conflict + dateToYMD(d.sourceDate); })
         .order(d3.ascending)
         .renderlet(function (table) {
             table.selectAll(".dc-table-group").classed("info", true);
@@ -241,7 +241,7 @@ function getLink(d) {
 }
 
 function getHeadlineLink(d) {
-    var text = "<b>" + d.source + "</b>";
+    var text = "<b>" + d.mediaOutlet + "</b>";
     if (d.headline != "")
         text = text + " / " + d.headline;
 

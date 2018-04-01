@@ -11,7 +11,7 @@ namespace Conflicts {
         public string Name;
         public string Link;
         public DateTime Date;
-        public string Headline; 
+        public string Headline;
 
         public Source(string name, string link, DateTime date) {
             Name = name;
@@ -30,7 +30,7 @@ namespace Conflicts {
                  "}";
         }
     }
-    
+
     public class Conflict {
 
         public string Description;
@@ -48,7 +48,7 @@ namespace Conflicts {
             Category = category;
             Notes = notes;
             DateChanged = dateChanged;
-            
+
             Sources = new List<Source>();
         }
 
@@ -104,12 +104,12 @@ namespace Conflicts {
 
         public string Description;
         public string FamilyMember;
-        public string ConflictingEntity;
+        public string Conflict;
         public string Category;
         public string Notes;
         public DateTime DateChanged;
 
-        public string Source;
+        public string MediaOutlet;
         public string Link;
         public DateTime SourceDate;
         public string Headline;
@@ -117,28 +117,55 @@ namespace Conflicts {
         public Story(Conflict conflict, Source source) {
             Description = conflict.Description;
             FamilyMember = conflict.FamilyMember;
-            ConflictingEntity = conflict.ConflictingEntity;
+            Conflict = conflict.ConflictingEntity;
             Category = conflict.Category;
             Notes = conflict.Notes;
             DateChanged = conflict.DateChanged;
 
-            Source = source.Name;
+            MediaOutlet = source.Name;
             Link = source.Link;
             SourceDate = source.Date;
             Headline = source.Headline;
         }
+
+
+        public Story (
+            string description
+            , string familyMember
+            , string conflict
+            , string category
+            , string notes
+            , string dateChanged
+
+            , string mediaOutlet  // was source
+            , string link
+            , string date
+            , string headline) {
+            
+            Description = description;
+            FamilyMember = familyMember;
+            Conflict = conflict;
+            Category = category;
+            Notes = notes;
+            DateChanged = Convert.ToDateTime(dateChanged);
+
+            MediaOutlet = mediaOutlet;
+            Link = link;
+            SourceDate = Convert.ToDateTime(date);
+            Headline = headline;
+        } 
 
         public string ToJson() {
             return
                 "{" +
                 "\"description\": \"" + Util.RemoveQuotes(Description) + "\"," +
                 "\"familyMember\": \"" + Util.RemoveQuotes(FamilyMember) + "\"," +
-                "\"conflictingEntity\": \"" + Util.RemoveQuotes(ConflictingEntity) + "\"," +
+                "\"conflict\": \"" + Util.RemoveQuotes(Conflict) + "\"," +
                 "\"category\": \"" + Util.RemoveQuotes(Category) + "\", " +
                 "\"notes\": \"" + Util.RemoveQuotes(Notes) + "\"," +
                 "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", DateChanged) + "\"," +
 
-                "\"source\": \"" + Util.RemoveQuotes(Source) + "\"," +
+                "\"mediaOutlet\": \"" + Util.RemoveQuotes(MediaOutlet) + "\"," +
                 "\"link\": \"" + Util.RemoveQuotes(Link) + "\"," +
                 "\"sourceDate\": \"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"," +
                 "\"headline\": \"" + Util.RemoveQuotes(Headline) + "\"" +
@@ -151,11 +178,11 @@ namespace Conflicts {
             return
                 "description," +
                 "familyMember," +
-                "conflictingEntity," +
+                "conflict," +
                 "category," +
                 "notes," +
                 "dateChanged," +
-                "source," +
+                "mediaOutlet," +
                 "link," +
                 "sourceDate," +
                 "headline";
@@ -165,12 +192,12 @@ namespace Conflicts {
             return
                 "\"" + Util.RepeatQuotes(Description) + "\"," +
                 FamilyMember + "," +
-                "\"" + Util.RepeatQuotes(ConflictingEntity) + "\"," +
+                "\"" + Util.RepeatQuotes(Conflict) + "\"," +
                 Category + ", " +
                 "\"" + Util.RepeatQuotes(Notes) + "\"," +
                 String.Format("{0:MM/dd/yyyy}", DateChanged) + "," + 
 
-                "\"" + Util.RemoveQuotes(Source) + "\"," +
+                "\"" + Util.RemoveQuotes(MediaOutlet) + "\"," +
                 "\"" + Util.RemoveQuotes(Link) + "\"," +
                 "\"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"," +
                 "\"" + Util.RemoveQuotes(Headline) + "\"";
