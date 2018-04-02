@@ -13,6 +13,7 @@ SELECT
 	, c.DateChanged ConflictUpdateDate
 	, c.Notes ConflictNotes
 	, 'Donald Trump' FamilyMember -- !!
+	, 'Active' ConflictStatus -- !!
 	, s.MediaOutlet
 	, s.Date 
 	, s.Headline
@@ -24,3 +25,4 @@ JOIN Conflict c ON sc.ConflictID = c.ID
 GO
 
 
+SELECT * FROM StoryConflictView

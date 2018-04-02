@@ -272,21 +272,28 @@ namespace Phase2 {
             var name = ConflictingEntity(cols[(int)Col.ConflictName]);
             if (name == "")
                 return;
-            if (Conflicts.ContainsKey(name))
-                return;
-            
-            var description = Description(cols[(int)Col.ConflictDescription]);
-            var note = Notes(cols[(int)Col.Notes]);
-            var date = DateChanged(cols[(int)Col.DatePublished]);
-            
-            var conflict = new Conflict();
-            conflict.Name = name;
-            conflict.Description = description;
-            conflict.Notes = note;
-            conflict.DateChanged = date;
 
-            Conflicts.Add(name, conflict);
+            Conflict conflict;
+
+            // Add Conflict to list is it isn't already there.
+            if (!Conflicts.ContainsKey(name)) {
+
+                var description = Description(cols[(int)Col.ConflictDescription]);
+                var note = Notes(cols[(int)Col.Notes]);
+                var date = DateChanged(cols[(int)Col.DatePublished]);
+
+                conflict = new Conflict();
+                conflict.Name = name;
+                conflict.Description = description;
+                conflict.Notes = note;
+                conflict.DateChanged = date;
+
+                Conflicts.Add(name, conflict);
+            } else
+                conflict = Conflicts[name]; 
+
             
+            // Add link between conflict and business
             var business = BusUnit(cols[(int)Col.ConflictingEntity]);
             var busConflict = new BusinessConflict();
             busConflict.Conflict = conflict.Name;

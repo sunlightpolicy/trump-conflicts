@@ -4,6 +4,7 @@ GO
 INSERT INTO MediaOutlet VALUES ('Wall Street Journal')
 INSERT INTO MediaOutlet VALUES ('New York Times')
 INSERT INTO MediaOutlet VALUES ('Center for Public Integrity')
+INSERT INTO MediaOutlet VALUES ('Bloomberg')
 INSERT INTO MediaOutlet VALUES ('CNN')
 INSERT INTO MediaOutlet VALUES ('Huffington Post')
 INSERT INTO MediaOutlet VALUES ('General Services Administration')
