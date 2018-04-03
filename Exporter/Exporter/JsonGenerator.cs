@@ -11,14 +11,40 @@ using Conflicts;
 
 namespace Phase2 {
 
+    public class FamilyMemberBusinessWithEthics {
+        public string FamilyMember;
+        public string Description;
+        public string Business;
+        public string ConflictStatus;
+        public List<EthicsDocument> EthicsDocuments;
+
+        public FamilyMemberBusinessWithEthics(string familyMember, string description, string business, string conflictStatus) {
+            FamilyMember = familyMember;
+            Description = description;
+            Business = business;
+            ConflictStatus = conflictStatus;
+
+            EthicsDocuments = new List<EthicsDocument>();
+        }
+    }
+
+    class FamilyMemberBusinessEthicsForConflict {
+        public string conflictId;
+        public List<FamilyMemberBusinessWithEthics> FamilyMemberBusinessWithEthicsList;
+    }
+    
+
+
     public class JsonGenerator {
 
         public static void Run(string path) {
-           var stories = MakeStories(path);
-            WriteJson(path, stories);
+            var stories = MakeStories();
+            WriteStoryJson(path, stories);
+
+            List<FamilyMemberBusinessEthicsForConflict> familyMemberBusinessEthics = MakeEthicsInfos();
         }
 
-        private static List<Conflicts.Story> MakeStories(string path) {
+        private static List<Conflicts.Story> MakeStories() {
             var stories = new List<Conflicts.Story>();
 
             string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
@@ -39,6 +65,7 @@ namespace Phase2 {
         }
 
         private static void AddStory(SqlDataReader reader, List<Conflicts.Story> stories) {
+
             var story = new Conflicts.Story(
                 reader["ConflictDescription"].ToString() // Description
                 , reader["FamilyMember"].ToString() // FamilyMember
@@ -50,11 +77,13 @@ namespace Phase2 {
                 , reader["Link"].ToString() // Link
                 , reader["Date"].ToString() // Date
                 , reader["Headline"].ToString() // Headline
+
+                , reader["ConflictId"].ToString()
             );
             stories.Add(story);
         }
 
-        private static void WriteJson(string path, List<Conflicts.Story> stories) {
+        private static void WriteStoryJson(string path, List<Conflicts.Story> stories) {
 
             var storyStrings = new List<String>();
             foreach (Conflicts.Story story in stories)
@@ -66,10 +95,57 @@ namespace Phase2 {
             strings.Append("]");
 
             var output = strings.ToString();
-
             var err = output.Substring (1730, 240); // 1944
             
             System.IO.File.WriteAllText(path + "stories2.json", output);
         }
+
+
+        private static List<FamilyMemberBusinessEthicsForConflict> MakeEthicsInfos() {
+
+            var ethics = new List<FamilyMemberBusinessEthicsForConflict>();
+
+            string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+            string query = "SELECT * FROM BusinessConflictView ORDER BY ConflictID, FamilyMember, Business, EthicsDocument";
+            using (SqlConnection conn = new SqlConnection(connString)) {
+                using (SqlCommand cmd = new SqlCommand(query, conn)) {
+                    cmd.CommandType = CommandType.Text;
+                    conn.Open();
+                    SqlDataReader reader = cmd.ExecuteReader();
+
+                    while (reader.Read())
+                        AddEthics(reader, ethics);
+                    
+                }
+            }
+            return ethics;
+        }
+
+
+        private static void AddEthics(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {
+
+            var conflictID = reader["ConflictId"].ToString();
+            var business = reader["Business"].ToString();
+
+            bool addConflict = false;
+            bool addBusiness = false;
+
+            if (ethicsInfos.Count == 0) {
+
+            }
+            
+        //    public string FamilyMember;
+        //    public string Description;
+        //    public string Business;
+        //    public string ConflictStatus;
+        //}
+
+        //public class EthicsDocument {
+        //    public string FamilyMember;
+        //    public string Title;
+        //    public string Link;
+        //    public DateTime Date;
+        }
     }
 }
+

@@ -8,7 +8,8 @@ CREATE VIEW StoryConflictView
 AS
 
 SELECT	
-	c.Name Conflict
+	c.Id ConflictId
+	, c.Name Conflict
 	, c.Description ConflictDescription
 	, c.DateChanged ConflictUpdateDate
 	, c.Notes ConflictNotes
@@ -25,4 +26,4 @@ JOIN Conflict c ON sc.ConflictID = c.ID
 GO
 
 
-SELECT * FROM StoryConflictView
+

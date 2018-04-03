@@ -32,7 +32,7 @@ namespace Conflicts {
     }
 
     public class Conflict {
-
+        
         public string Description;
         public string FamilyMember;
         public string ConflictingEntity;
@@ -40,6 +40,8 @@ namespace Conflicts {
         public string Notes;
         public DateTime DateChanged;
         public List<Source> Sources;
+
+        public string Id;
 
         public Conflict(string description, string familyMember, string conflictingEntity, string category, string notes, DateTime dateChanged) {
             Description = description;
@@ -114,6 +116,8 @@ namespace Conflicts {
         public DateTime SourceDate;
         public string Headline;
 
+        public string ConflictId;
+
         public Story(Conflict conflict, Source source) {
             Description = conflict.Description;
             FamilyMember = conflict.FamilyMember;
@@ -140,7 +144,9 @@ namespace Conflicts {
             , string mediaOutlet  // was source
             , string link
             , string date
-            , string headline) {
+            , string headline
+            
+            , string conflictId = "") {
             
             Description = description;
             FamilyMember = familyMember;
@@ -153,11 +159,14 @@ namespace Conflicts {
             Link = link;
             SourceDate = Convert.ToDateTime(date);
             Headline = headline;
+
+            ConflictId = conflictId;
         } 
 
         public string ToJson() {
             return
                 "{" +
+                "\"conflictId\": \"" + ConflictId + "\"," +
                 "\"description\": \"" + Util.RemoveQuotes(Description) + "\"," +
                 "\"familyMember\": \"" + Util.RemoveQuotes(FamilyMember) + "\"," +
                 "\"conflict\": \"" + Util.RemoveQuotes(Conflict) + "\"," +
