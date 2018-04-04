@@ -104,32 +104,32 @@ namespace Conflicts {
 
     public class Story {
 
-        public string Description;
-        public string FamilyMember;
-        public string Conflict;
-        public string Category;
-        public string Notes;
-        public DateTime DateChanged;
+        public string description;
+        public string familyMember;
+        public string conflict;
+        public string category;
+        public string notes;
+        public DateTime dateChanged;
 
-        public string MediaOutlet;
-        public string Link;
-        public DateTime SourceDate;
-        public string Headline;
+        public string mediaOutlet;
+        public string link;
+        public DateTime sourceDate;
+        public string headline;
 
         public string ConflictId;
 
         public Story(Conflict conflict, Source source) {
-            Description = conflict.Description;
-            FamilyMember = conflict.FamilyMember;
-            Conflict = conflict.ConflictingEntity;
-            Category = conflict.Category;
-            Notes = conflict.Notes;
-            DateChanged = conflict.DateChanged;
+            description = conflict.Description;
+            familyMember = conflict.FamilyMember;
+            this.conflict = conflict.ConflictingEntity;
+            category = conflict.Category;
+            notes = conflict.Notes;
+            dateChanged = conflict.DateChanged;
 
-            MediaOutlet = source.Name;
-            Link = source.Link;
-            SourceDate = source.Date;
-            Headline = source.Headline;
+            mediaOutlet = source.Name;
+            link = source.Link;
+            sourceDate = source.Date;
+            headline = source.Headline;
         }
 
 
@@ -148,36 +148,36 @@ namespace Conflicts {
             
             , string conflictId = "") {
             
-            Description = description;
-            FamilyMember = familyMember;
-            Conflict = conflict;
-            Category = category;
-            Notes = notes;
-            DateChanged = Convert.ToDateTime(dateChanged);
+            this.description = description;
+            this.familyMember = familyMember;
+            this.conflict = conflict;
+            this.category = category;
+            this.notes = notes;
+            this.dateChanged = Convert.ToDateTime(dateChanged);
 
-            MediaOutlet = mediaOutlet;
-            Link = link;
-            SourceDate = Convert.ToDateTime(date);
-            Headline = headline;
+            this.mediaOutlet = mediaOutlet;
+            this.link = link;
+            sourceDate = Convert.ToDateTime(date);
+            this.headline = headline;
 
             ConflictId = conflictId;
-        } 
+        }
 
         public string ToJson() {
             return
                 "{" +
                 "\"conflictId\": \"" + ConflictId + "\"," +
-                "\"description\": \"" + Util.RemoveQuotes(Description) + "\"," +
-                "\"familyMember\": \"" + Util.RemoveQuotes(FamilyMember) + "\"," +
-                "\"conflict\": \"" + Util.RemoveQuotes(Conflict) + "\"," +
-                "\"category\": \"" + Util.RemoveQuotes(Category) + "\", " +
-                "\"notes\": \"" + Util.RemoveQuotes(Notes) + "\"," +
-                "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", DateChanged) + "\"," +
+                "\"description\": \"" + Util.RemoveQuotes(description) + "\"," +
+                "\"familyMember\": \"" + Util.RemoveQuotes(familyMember) + "\"," +
+                "\"conflict\": \"" + Util.RemoveQuotes(conflict) + "\"," +
+                "\"category\": \"" + Util.RemoveQuotes(category) + "\", " +
+                "\"notes\": \"" + Util.RemoveQuotes(notes) + "\"," +
+                "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", dateChanged) + "\"," +
 
-                "\"mediaOutlet\": \"" + Util.RemoveQuotes(MediaOutlet) + "\"," +
-                "\"link\": \"" + Util.RemoveQuotes(Link) + "\"," +
-                "\"sourceDate\": \"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"," +
-                "\"headline\": \"" + Util.RemoveQuotes(Headline) + "\"" +
+                "\"mediaOutlet\": \"" + Util.RemoveQuotes(mediaOutlet) + "\"," +
+                "\"link\": \"" + Util.RemoveQuotes(link) + "\"," +
+                "\"sourceDate\": \"" + String.Format("{0:MM/dd/yyyy}", sourceDate) + "\"," +
+                "\"headline\": \"" + Util.RemoveQuotes(headline) + "\"" +
                 "}";
         }
 
@@ -199,17 +199,17 @@ namespace Conflicts {
 
         public string ToCsv() {
             return
-                "\"" + Util.RepeatQuotes(Description) + "\"," +
-                FamilyMember + "," +
-                "\"" + Util.RepeatQuotes(Conflict) + "\"," +
-                Category + ", " +
-                "\"" + Util.RepeatQuotes(Notes) + "\"," +
-                String.Format("{0:MM/dd/yyyy}", DateChanged) + "," + 
+                "\"" + Util.RepeatQuotes(description) + "\"," +
+                familyMember + "," +
+                "\"" + Util.RepeatQuotes(conflict) + "\"," +
+                category + ", " +
+                "\"" + Util.RepeatQuotes(notes) + "\"," +
+                String.Format("{0:MM/dd/yyyy}", dateChanged) + "," + 
 
-                "\"" + Util.RemoveQuotes(MediaOutlet) + "\"," +
-                "\"" + Util.RemoveQuotes(Link) + "\"," +
-                "\"" + String.Format("{0:MM/dd/yyyy}", SourceDate) + "\"," +
-                "\"" + Util.RemoveQuotes(Headline) + "\"";
+                "\"" + Util.RemoveQuotes(mediaOutlet) + "\"," +
+                "\"" + Util.RemoveQuotes(link) + "\"," +
+                "\"" + String.Format("{0:MM/dd/yyyy}", sourceDate) + "\"," +
+                "\"" + Util.RemoveQuotes(headline) + "\"";
         }
     }
 

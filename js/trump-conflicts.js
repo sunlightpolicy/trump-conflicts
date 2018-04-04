@@ -12,7 +12,7 @@ var searchDim;
 
 
 //d3.json("data/conflicts.json", function (data) {
-d3.json("data/stories2.json", function (err, data) {
+d3.json("data/stories3.json", function (err, data) {
     data.forEach(function (d) {
         d.sourceType = "Office of Government Ethics";
         //if ((typeof(d.sources[0]) != "undefined") && (d.sources[0].name != "Office of Government Ethics"))

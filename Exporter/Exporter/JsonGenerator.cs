@@ -119,20 +119,25 @@ namespace Phase2 {
         }
 
         private static void WriteStoryJson(string path, List<Conflicts.Story> stories) {
+            
+            string json = JsonConvert.SerializeObject(stories);
+            var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
+            System.IO.File.WriteAllText(path + "stories3.json", niceJson);
+            
+            //var storyStrings = new List<String>();
+            //foreach (Conflicts.Story story in stories) {
+            //    storyStrings.Add(story.ToJson());
+            //}
 
-            var storyStrings = new List<String>();
-            foreach (Conflicts.Story story in stories)
-                storyStrings.Add(story.ToJson());
+            //var strings = new StringBuilder();
+            //strings.Append("[");
+            //strings.Append(String.Join(",", storyStrings.ToArray()));
+            //strings.Append("]");
 
-            var strings = new StringBuilder();
-            strings.Append("[");
-            strings.Append(String.Join(",", storyStrings.ToArray()));
-            strings.Append("]");
+            //var output = strings.ToString();
+            //var err = output.Substring(1730, 240); // 1944
 
-            var output = strings.ToString();
-            var err = output.Substring(1730, 240); // 1944
-
-            System.IO.File.WriteAllText(path + "stories2.json", output);
+            //System.IO.File.WriteAllText(path + "stories2.json", output);
         }
 
 
