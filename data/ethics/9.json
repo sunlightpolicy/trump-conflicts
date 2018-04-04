@@ -1,0 +1,18 @@
+{
+  "FamilyMemberBusinessWithEthicsList": [
+    {
+      "EthicsDocuments": [
+        {
+          "Name": "2017 Office of Government Ethics Form 278e",
+          "Date": "6/14/2017 12:00:00 AM",
+          "Link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "FamilyMember": "Donald Trump",
+      "Description": "Pres. Trump resigned his position from Aviation Payroll Company, in which he retains an ownership interest. The company reportedly has no independent value or income, and provides back office support functions to other entities.",
+      "Business": "Aviation Payroll Company",
+      "ConflictStatus": "Active"
+    }
+  ],
+  "ConflictId": "9"
+}

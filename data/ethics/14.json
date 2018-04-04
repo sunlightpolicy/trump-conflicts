@@ -1,0 +1,18 @@
+{
+  "FamilyMemberBusinessWithEthicsList": [
+    {
+      "EthicsDocuments": [
+        {
+          "Name": "2017 Office of Government Ethics Form 278e",
+          "Date": "6/14/2017 12:00:00 AM",
+          "Link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "FamilyMember": "Donald Trump",
+      "Description": "Former president of Trump Briarcliff Manor Development LLC (F/K/A Briar Hall Development LLC), in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and provides back office support functions to other entities.",
+      "Business": "Trump Briarcliff Manor Development LLC (F/K/A Briar Hall Development LLC)",
+      "ConflictStatus": "Active"
+    }
+  ],
+  "ConflictId": "14"
+}

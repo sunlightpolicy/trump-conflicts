@@ -1,0 +1,18 @@
+{
+  "FamilyMemberBusinessWithEthicsList": [
+    {
+      "EthicsDocuments": [
+        {
+          "Name": "2017 Office of Government Ethics Form 278e",
+          "Date": "6/14/2017 12:00:00 AM",
+          "Link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "FamilyMember": "Donald Trump",
+      "Description": "Pres. Trump resigned his position from Ace Entertainment Holdings Inc. (F/K/A Trump Casinos, F/K/A Inc. Trump Taj Mahal, Inc.), which is reportedly dormant or inactive. However, he retains an ownership interest.",
+      "Business": "Ace Entertainment Holdings Inc. (F/K/A Trump Casinos, Inc., F/K/A Trump Taj Mahal, Inc.)",
+      "ConflictStatus": "Active"
+    }
+  ],
+  "ConflictId": "7"
+}

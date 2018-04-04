@@ -1,0 +1,23 @@
+{
+  "FamilyMemberBusinessWithEthicsList": [
+    {
+      "EthicsDocuments": [
+        {
+          "Name": "2017 Office of Government Ethics Form 278e",
+          "Date": "6/14/2017 12:00:00 AM",
+          "Link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        },
+        {
+          "Name": "2017 Office of Government Ethics Form 278e",
+          "Date": "6/14/2017 12:00:00 AM",
+          "Link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "FamilyMember": "Donald Trump",
+      "Description": "Pres. Trump resigned as president of 4 Shadow Tree Lane LLC, but retains an ownership interest. The company reportedly has no independent value or income, is not inactive nor dormant, and is not part of an entity structure or license deal.",
+      "Business": "4 Shadow Tree Lane LLC",
+      "ConflictStatus": "Active"
+    }
+  ],
+  "ConflictId": "2"
+}

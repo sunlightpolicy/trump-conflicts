@@ -1,0 +1,23 @@
+{
+  "FamilyMemberBusinessWithEthicsList": [
+    {
+      "EthicsDocuments": [
+        {
+          "Name": "2017 Office of Government Ethics Form 278e",
+          "Date": "6/14/2017 12:00:00 AM",
+          "Link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        },
+        {
+          "Name": "2017 Office of Government Ethics Form 278e",
+          "Date": "6/14/2017 12:00:00 AM",
+          "Link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "FamilyMember": "Donald Trump",
+      "Description": "Pres. Trump resigned his position from 809 North Canon LLC, but retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "Business": "809 North Canon LLC",
+      "ConflictStatus": "Active"
+    }
+  ],
+  "ConflictId": "4"
+}
