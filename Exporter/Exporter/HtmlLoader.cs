@@ -116,7 +116,7 @@ namespace Conflicts {
         public DateTime sourceDate;
         public string headline;
 
-        public string ConflictId;
+        public string conflictId;
 
         public Story(Conflict conflict, Source source) {
             description = conflict.Description;
@@ -160,13 +160,13 @@ namespace Conflicts {
             sourceDate = Convert.ToDateTime(date);
             this.headline = headline;
 
-            ConflictId = conflictId;
+            this.conflictId = conflictId;
         }
 
         public string ToJson() {
             return
                 "{" +
-                "\"conflictId\": \"" + ConflictId + "\"," +
+                "\"conflictId\": \"" + conflictId + "\"," +
                 "\"description\": \"" + Util.RemoveQuotes(description) + "\"," +
                 "\"familyMember\": \"" + Util.RemoveQuotes(familyMember) + "\"," +
                 "\"conflict\": \"" + Util.RemoveQuotes(conflict) + "\"," +

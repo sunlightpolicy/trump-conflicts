@@ -14,6 +14,7 @@ var searchDim;
 //d3.json("data/conflicts.json", function (data) {
 d3.json("data/stories3.json", function (err, data) {
     data.forEach(function (d) {
+
         d.sourceType = "Office of Government Ethics";
         //if ((typeof(d.sources[0]) != "undefined") && (d.sources[0].name != "Office of Government Ethics"))
         //    d.sourceType = "Media";
@@ -31,10 +32,6 @@ d3.json("data/stories3.json", function (err, data) {
         if (d.conflict == "")
             d.conflict = "N/A";
 
-        //d.description = d.category + " - " + d.description;
-
-        //d.links = getLinks(d);entity
-        //d.link = getLink(d);
         d.link = getHeadlineLink(d);
 
         d.dateChanged = new Date(d.dateChanged);
@@ -181,8 +178,8 @@ d3.json("data/stories3.json", function (err, data) {
     sourceTypeChart = new RowChart(facts, "sourceType", leftWidth, 2, 70);
     sourceTypeChart.filter("Media");
 
-    conflictChart = new RowChart(facts, "conflict", col1Width, 400);
-    mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 60);
+    conflictChart = new RowChart(facts, "conflict", col1Width, 10);
+    mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 10);
     
     dataTable = dc.dataTable("#dc-chart-table");
 
@@ -191,7 +188,8 @@ d3.json("data/stories3.json", function (err, data) {
     dataTable
         .dimension(tableDim)
         .group(function (d) {
-            return "<b>" + d.conflict + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> " + d.description;
+            return "<b>" + d.conflict + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> " +
+                d.description + d.conflictId + "  <a href=\"#\" onclick=\"popup(" + d.conflictId + "); return false\"><b>Ethics Report</b></a>"
         })  
         //.showGroups(false)
         .size(50)
@@ -207,6 +205,11 @@ d3.json("data/stories3.json", function (err, data) {
 
     dc.renderAll();    
 });
+
+
+function popup(conflictId) {
+    alert(conflictId);
+}
 
 
 function dateToYMD(date) {
@@ -226,19 +229,6 @@ function clearAll() {
     dc.renderAll();
 }
 
-function getLinks(d) {
-    var links = "";
-    for (i = 0; i < d.sources.length; i++) {
-        if (links != "")
-            links = links + '<br>';
-        links = links + '<a href="' + d.sources[i].link + '" target="_blank">' + d.sources[i].date.toString() + " | " + d.sources[i].name + '</a>'
-    }
-    return links;
-}
-
-function getLink(d) {
-    return '<a href="' + d.link + '" target="_blank">' + d.sourceDate.toString() + " | " + d.source + '</a>'
-}
 
 function getHeadlineLink(d) {
     var text = "<b>" + d.mediaOutlet + "</b>";
@@ -246,7 +236,6 @@ function getHeadlineLink(d) {
         text = text + " / " + d.headline;
 
     return '<a href="' + d.link + '" target="_blank">' + text + '</a>';
-    //return '<a href="' + d.link + '" target="_blank"><b>' + d.source + "</b> " + d.headline + '</a>'
 }
 
 
