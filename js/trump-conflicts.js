@@ -100,15 +100,13 @@ d3.json("data/stories3.json", function (err, data) {
         .dimension(facts)
         .group(all);
 
-
     //dc.numberDisplay("#dc-chart-total")
     //    .group(totalGroup)
     //    .valueAccessor(function (d) {
     //        return d / billion;
     //    })
     //    .formatNumber(function (d) { return Math.round(d) + " Billion"; });
-
-
+    
     var leftWidth = 540;
 
     var changeDateDim = facts.dimension(function (d) { return d.sourceDate; });
@@ -126,40 +124,12 @@ d3.json("data/stories3.json", function (err, data) {
         .filter([new Date(2017, 9, 25), new Date(2018, 2, 31)]) // Months are zero based
     changeDateChart.yAxis().ticks(5);
     changeDateChart.xAxis().ticks(5);
-
-    var pieRadius = 70;
-    var pieWidthAndHeight = 170;
-
+    
     var pieColors =
         ["#74C365", // light green 
         "#006600",  // dark green 
         "#007BA7"]; // blue
-
-    //var pieColors = ['#1f77b4', '#bd9e39', '#ad494a', '#637939'];
-    //var pieColors = ['#f7f7f7', '#d9d9d9', '#bdbdbd', '#969696', '#636363', '#252525'];
     
-    //var familyMemberDim = facts.dimension(dc.pluck('familyMember'));
-    //familyMemberChart = dc.pieChart("#dc-chart-familyMember")
-    //    .dimension(familyMemberDim)
-    //    .group(familyMemberDim.group().reduceCount())
-    //    .width(pieWidthAndHeight)
-    //    .height(pieWidthAndHeight)
-    //    .radius(pieRadius)
-    //    .ordinalColors(pieColors)
-    //    .on('filtered', showFilters);
-
-    //var categoryDim = facts.dimension(dc.pluck('category'));
-    //categoryChart = dc.pieChart("#dc-chart-category")
-    //    .dimension(categoryDim)
-    //    .group(categoryDim.group().reduceCount())
-    //    .width(pieWidthAndHeight)
-    //    .height(pieWidthAndHeight)
-    //    .radius(pieRadius)
-    //    .ordinalColors(pieColors)
-    //    .on('filtered', showFilters);
-
-
-    //var leftWidth = 500;
     var bootstrapCols = 12;
     var col1Width = leftWidth * (7 / bootstrapCols);
     var col2Width = leftWidth * (5 / bootstrapCols);
@@ -189,7 +159,7 @@ d3.json("data/stories3.json", function (err, data) {
         .dimension(tableDim)
         .group(function (d) {
             return "<b>" + d.conflict + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> " +
-                d.description + d.conflictId + "  <a href=\"#\" onclick=\"popup(" + d.conflictId + "); return false\"><b>Ethics Report</b></a>"
+                d.description + d.conflictId + "  <a href=\"#\" onclick=\"ethicsPopup(" + d.conflictId + "); return false\"><b>Ethics Report</b></a>"
         })  
         //.showGroups(false)
         .size(50)
@@ -206,11 +176,27 @@ d3.json("data/stories3.json", function (err, data) {
     dc.renderAll();    
 });
 
+function ethicsPopup(conflictId) {
+    d3.json("data/ethics/" + conflictId + ".json", function (err, data) {
+        let modal = document.getElementById('ethicsModal');
+        modal.style.display = "block";
+        
+        var table = d3.select('#ethicsModal').append('table')
+        var thead = table.append('thead')
+        var tbody = table.append('tbody');
 
-function popup(conflictId) {
-    alert(conflictId);
+        var span = document.getElementsByClassName("close")[0];
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
+        window.onclick = function (event) {
+            if (event.target == modal)
+                modal.style.display = "none";
+        }
+
+        console.log(data);
+    });
 }
-
 
 function dateToYMD(date) {
     var d = date.getDate();
