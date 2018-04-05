@@ -37,22 +37,18 @@ d3.json("data/stories3.json", function (err, data) {
         d.dateChanged = new Date(d.dateChanged);
         d.sourceDate = new Date(d.sourceDate);
     });
+
+    console.table(data);
     var facts = crossfilter(data);
 
     searchDim = facts.dimension(function (d) {
         return d.mediaOutlet.toLowerCase() + " " + d.conflict.toLowerCase();
     });
     
-    //d3.select("#search-input").on('click', function () {
-    //    console.log(document.getElementById("search-input").value);
-    //    setword(document.getElementById("search-input").value);
-    //});
-
     d3.select("#search-input").on('keyup', function (event) {
         searchTerm = document.getElementById("search-input").value;
         //if (event.keyCode == 13) {
         setword(searchTerm);
-        console.log(searchTerm);
     });
 
     
@@ -60,7 +56,6 @@ d3.json("data/stories3.json", function (err, data) {
         if (wd.length < 3) {
             searchDim.filter(null);
             dc.redrawAll();  
-            console.log("Too Short");
             return;
         }
         
@@ -134,10 +129,6 @@ d3.json("data/stories3.json", function (err, data) {
     var col1Width = leftWidth * (7 / bootstrapCols);
     var col2Width = leftWidth * (5 / bootstrapCols);
 
-    console.log(7 / bootstrapCols);
-    console.log(leftWidth * (7 / bootstrapCols));
-    console.log(leftWidth * (5 / bootstrapCols));
-
     //var col1Width = 280;
     //var col2Width = 180;
 
@@ -158,10 +149,8 @@ d3.json("data/stories3.json", function (err, data) {
     dataTable
         .dimension(tableDim)
         .group(function (d) {
-            return "<b>" + d.conflict + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> " +
-                d.description + d.conflictId + "  <a href=\"#\" onclick=\"ethicsPopup(" + d.conflictId + "); return false\"><b>Ethics Report</b></a>"
+            return conflictHeader(d) + " <a href=\"#\" onclick=\"ethicsPopup(" + d.conflictId + "); return false\"><b>Ethics Report</b></a>"
         })  
-        //.showGroups(false)
         .size(50)
         .columns([
             function (d) { return dateToYMD(d.sourceDate); },
@@ -176,10 +165,21 @@ d3.json("data/stories3.json", function (err, data) {
     dc.renderAll();    
 });
 
+
+function conflictHeader(d) {
+    return "<b>" + d.conflict + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> " + d.description;
+}
+
+
+
 function ethicsPopup(conflictId) {
     d3.json("data/ethics/" + conflictId + ".json", function (err, data) {
         let modal = document.getElementById('ethicsModal');
         modal.style.display = "block";
+
+        var conflict = d3.select('#conflict');
+        conflict.text("HELLO");
+        
         
         var table = d3.select('#ethicsModal').append('table')
         var thead = table.append('thead')
@@ -194,7 +194,7 @@ function ethicsPopup(conflictId) {
                 modal.style.display = "none";
         }
 
-        console.log(data);
+        // console.log(data);
     });
 }
 
@@ -206,8 +206,6 @@ function dateToYMD(date) {
 }
 
 function clearAll() {
-    console.log("Clear ALL");
-
     searchDim.filter(null); // clear text too?
     document.getElementById("search-input").value = "";
 
@@ -235,7 +233,7 @@ function showFilters() {
                 filterStrings.push(filter);
         })
     })
-    console.log(filterStrings)
+    // console.log(filterStrings)
 
     if (filterStrings.length == 0)
         filterString = "Showing all items in date range";
