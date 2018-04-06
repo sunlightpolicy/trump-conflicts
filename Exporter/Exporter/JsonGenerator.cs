@@ -163,7 +163,8 @@ namespace Phase2 {
             FamilyMemberBusinessWithEthics lastBusiness = null;
             if (lastConflict != null)
                 lastBusiness = (ethicsInfos.Last().familyMemberBusinessWithEthicsList.Count == 0) ? null : ethicsInfos.Last().familyMemberBusinessWithEthicsList.Last();
-            bool addBusiness = ((lastBusiness == null) || (lastConflict.familyMemberBusinessWithEthicsList.Last().business != lastBusiness.business));
+            // addBusiness = ((lastBusiness == null) || (lastConflict.familyMemberBusinessWithEthicsList.Last().business != lastBusiness.business));
+            bool addBusiness = ((lastBusiness == null) || (lastConflict.familyMemberBusinessWithEthicsList.Last().business != business));
             if (addBusiness) {
                 AddBusiness(reader, ethicsInfos.Last());
                 //ethicsInfos.Last().FamilyMemberBusinessWithEthicsList.Last();

@@ -6,11 +6,6 @@
           "name": "2017 Office of Government Ethics Form 278e",
           "date": "6/14/2017 12:00:00 AM",
           "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        },
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
         }
       ],
       "familyMember": "Donald Trump",
@@ -21,5 +16,5 @@
   ],
   "conflictId": "5",
   "conflict": "81 Pine Note Holder",
-  "conflictDescription": "TEST DESCRIPTION FOR 81 Pine Note Holder"
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 81 Pine Note Holder"
 }

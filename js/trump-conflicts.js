@@ -193,7 +193,6 @@ function ethicsPopup(conflictId) {
             if (event.target == modal)
                 modal.style.display = "none";
         }
-
         console.log(data);
 
         let modal = document.getElementById('ethicsModal');
@@ -204,12 +203,31 @@ function ethicsPopup(conflictId) {
 
         var conflictDescription = d3.select('#conflictDescription');
         conflictDescription.text(data.conflictDescription);
-        
-        var table = d3.select('#ethicsModal').append('table')
-        var thead = table.append('thead')
-        var tbody = table.append('tbody');
+
+        addEthicsDocuments(d3.select('#ethicsModalBody'), data);
     });
 }
+
+function addEthicsDocuments(modal, data) {
+    modal.selectAll("h4")
+        .data(data.familyMemberBusinessWithEthicsList)
+        .enter()
+
+        .append("h4")
+        .text(function (d) { return d.business + " / " + d.familyMember + " / " + d.conflictStatus; })
+
+        .append("p")
+        .text(function (d) { return d.description; })
+        .style("font-size", "13px")
+
+        // This breaks if there are no ethics docs, and will only show the first if there are more than one!
+        .append("a")
+        .attr("href", function (d) { return d.ethicsDocuments[0].link; })
+        .text(function (d) { return " " + d.ethicsDocuments[0].name; })
+
+        .append("hr");
+}
+
 
 function dateToYMD(date) {
     var d = date.getDate();

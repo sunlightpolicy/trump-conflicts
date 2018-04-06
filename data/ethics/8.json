@@ -8,21 +8,6 @@
           "link": "https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-fec-financial-disclosure-2015.pdf"
         },
         {
-          "name": "2015 Office of Government Ethics Form 278e",
-          "date": "7/15/2015 12:00:00 AM",
-          "link": "https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-fec-financial-disclosure-2015.pdf"
-        },
-        {
-          "name": "2016 Office of Government Ethics Form 278e",
-          "date": "5/18/2016 12:00:00 AM",
-          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-        },
-        {
-          "name": "2016 Office of Government Ethics Form 278e",
-          "date": "5/18/2016 12:00:00 AM",
-          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-        },
-        {
           "name": "2016 Office of Government Ethics Form 278e",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
@@ -41,5 +26,5 @@
   ],
   "conflictId": "8",
   "conflict": "All County Building Supply &Amp; Maintenance",
-  "conflictDescription": "TEST DESCRIPTION FOR All County Building Supply &Amp; Maintenance"
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): All County Building Supply &Amp; Maintenance"
 }

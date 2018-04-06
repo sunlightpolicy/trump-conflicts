@@ -32,5 +32,11 @@ JOIN Conflict c ON bc.ConflictID = c.Id
 --	, EthicsDocument
 
 	 
+--SELECT * FROM BusinessConflictView WHERE Conflict = '40 Wall Street'
+--SELECT * FROM Business WHERE Name Like '40 Wall%'
+
+--SELECT * FROM BusinessConflict 
+--WHERE BusinessID IN (11, 12, 13, 14) 
+
 
 
