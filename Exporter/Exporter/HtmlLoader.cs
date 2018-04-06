@@ -118,6 +118,8 @@ namespace Conflicts {
 
         public string conflictId;
 
+        public bool hasEthics;
+
         public Story(Conflict conflict, Source source) {
             description = conflict.Description;
             familyMember = conflict.FamilyMember;
@@ -146,7 +148,8 @@ namespace Conflicts {
             , string date
             , string headline
             
-            , string conflictId = "") {
+            , string conflictId = ""
+            , bool hasEthics = false) {
             
             this.description = description;
             this.familyMember = familyMember;
@@ -161,6 +164,7 @@ namespace Conflicts {
             this.headline = headline;
 
             this.conflictId = conflictId;
+            this.hasEthics = hasEthics;
         }
 
         public string ToJson() {

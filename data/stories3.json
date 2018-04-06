@@ -10,7 +10,8 @@
     "link": "https://www.bloomberg.com/graphics/2016-trump-40-wall-street/",
     "sourceDate": "2016-06-27T00:00:00",
     "headline": "",
-    "conflictId": "3"
+    "conflictId": "3",
+    "hasEthics": true
   },
   {
     "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trump&#39;s Mar-a-Lago resort in appreciation of the president&#39;s support for Israel.",
@@ -23,7 +24,8 @@
     "link": "https://www.washingtonpost.com/news/post-politics/wp/2018/02/26/israel-focused-charity-praises-trump-and-pays-him-at-mar-a-lago-gala/?utm_term=.59e4b7dbed4c",
     "sourceDate": "2018-02-26T00:00:00",
     "headline": "",
-    "conflictId": "12"
+    "conflictId": "12",
+    "hasEthics": false
   },
   {
     "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
@@ -36,7 +38,8 @@
     "link": "https://nypost.com/2018/03/05/bank-reported-trump-lawyers-payment-to-stormy-daniels-as-suspicious/",
     "sourceDate": "2018-03-05T00:00:00",
     "headline": "",
-    "conflictId": "13"
+    "conflictId": "13",
+    "hasEthics": false
   },
   {
     "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
@@ -49,7 +52,8 @@
     "link": "https://www.vanityfair.com/news/2018/03/stormy-daniels-donald-trump-lawsuit-michael-cohen",
     "sourceDate": "2018-03-07T00:00:00",
     "headline": "",
-    "conflictId": "13"
+    "conflictId": "13",
+    "hasEthics": false
   },
   {
     "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
@@ -62,7 +66,8 @@
     "link": "https://www.cnn.com/2018/03/08/opinions/stormy-daniels-trump-lawsuit-could-be-trouble-rangappa-opinion/index.html",
     "sourceDate": "2018-03-08T00:00:00",
     "headline": "",
-    "conflictId": "13"
+    "conflictId": "13",
+    "hasEthics": false
   },
   {
     "description": "Ethics experts say their &#39;fear has been realized&#39; as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotel&#39;s majority owner cancelled the Trump Organization&#39;s management contract for the hotel.",
@@ -75,7 +80,8 @@
     "link": "https://www.apnews.com/ce4dbdd4446c4862bb9c483425554c67/Trump-officials-fight-eviction-from-Panama-hotel-they-manage",
     "sourceDate": "2018-02-24T00:00:00",
     "headline": "",
-    "conflictId": "15"
+    "conflictId": "15",
+    "hasEthics": false
   },
   {
     "description": "Ethics experts say their &#39;fear has been realized&#39; as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotel&#39;s majority owner cancelled the Trump Organization&#39;s management contract for the hotel.",
@@ -88,7 +94,8 @@
     "link": "http://www.businessinsider.com/trump-organization-panama-hotel-conflict-2018-3",
     "sourceDate": "2018-03-03T00:00:00",
     "headline": "",
-    "conflictId": "15"
+    "conflictId": "15",
+    "hasEthics": false
   },
   {
     "description": "Ethics experts say their &#39;fear has been realized&#39; as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotel&#39;s majority owner cancelled the Trump Organization&#39;s management contract for the hotel.",
@@ -101,6 +108,7 @@
     "link": "https://www.washingtonpost.com/business/trumps-panama-city-hotel-remains-open-despite-problems/2018/03/05/3c4186c6-208a-11e8-946c-9420060cb7bd_story.html?utm_term=.78902429afe0",
     "sourceDate": "2018-03-05T00:00:00",
     "headline": "",
-    "conflictId": "15"
+    "conflictId": "15",
+    "hasEthics": false
   }
 ]

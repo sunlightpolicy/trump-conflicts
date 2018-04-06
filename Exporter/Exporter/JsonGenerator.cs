@@ -118,6 +118,7 @@ namespace Phase2 {
                 , reader["Headline"].ToString() // Headline
 
                 , reader["ConflictId"].ToString()
+                , reader["EthicsCount"].ToString() != "0"
             );
             stories.Add(story);
         }

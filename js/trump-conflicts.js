@@ -149,7 +149,7 @@ d3.json("data/stories3.json", function (err, data) {
     dataTable
         .dimension(tableDim)
         .group(function (d) {
-            return conflictHeader(d) + " <a href=\"#\" onclick=\"ethicsPopup(" + d.conflictId + "); return false\"><b>Ethics Report</b></a>"
+            return conflictHeader(d) + ethicsPopupLink(d);
         })  
         .size(50)
         .columns([
@@ -171,9 +171,31 @@ function conflictHeader(d) {
 }
 
 
+function ethicsPopupLink(d) {
+    let link = ""; 
+    if (d.hasEthics)
+        link = " <a href=\"#\" onclick=\"ethicsPopup(" + d.conflictId + "); return false\"><b>Ethics Report</b></a>"
+    return link;
+}
+
 
 function ethicsPopup(conflictId) {
+
+    console.log("THE ID IS: " + conflictId);
+
     d3.json("data/ethics/" + conflictId + ".json", function (err, data) {
+
+        var span = document.getElementsByClassName("close")[0];
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
+        window.onclick = function (event) {
+            if (event.target == modal)
+                modal.style.display = "none";
+        }
+
+        console.log(data);
+
         let modal = document.getElementById('ethicsModal');
         modal.style.display = "block";
 
@@ -186,17 +208,6 @@ function ethicsPopup(conflictId) {
         var table = d3.select('#ethicsModal').append('table')
         var thead = table.append('thead')
         var tbody = table.append('tbody');
-
-        var span = document.getElementsByClassName("close")[0];
-        span.onclick = function () {
-            modal.style.display = "none";
-        }
-        window.onclick = function (event) {
-            if (event.target == modal)
-                modal.style.display = "none";
-        }
-
-        // console.log(data);
     });
 }
 

@@ -24,8 +24,6 @@ JOIN Conflict c ON bc.ConflictID = c.Id
 
 
 
-
-
 --SELECT * FROM BusinessConflictView
 --ORDER BY 
 --	ConflictID
