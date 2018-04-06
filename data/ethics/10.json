@@ -1,18 +1,25 @@
 {
-  "FamilyMemberBusinessWithEthicsList": [
+  "familyMemberBusinessWithEthicsList": [
     {
-      "EthicsDocuments": [
+      "ethicsDocuments": [
         {
-          "Name": "2017 Office of Government Ethics Form 278e",
-          "Date": "6/14/2017 12:00:00 AM",
-          "Link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2017 Office of Government Ethics Form 278e",
+          "date": "6/14/2017 12:00:00 AM",
+          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        },
+        {
+          "name": "2017 Office of Government Ethics Form 278e",
+          "date": "6/14/2017 12:00:00 AM",
+          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
         }
       ],
-      "FamilyMember": "Donald Trump",
-      "Description": "Pres. Trump resigned his position from B Plaza Realty Corp., which reportedly was dissolved on Nov. 10, 2016.",
-      "Business": "B Plaza Realty Corp.",
-      "ConflictStatus": "Resolved"
+      "familyMember": "Donald Trump",
+      "description": "Pres. Trump resigned his position from B Plaza Realty Corp., which reportedly was dissolved on Nov. 10, 2016.",
+      "business": "B Plaza Realty Corp.",
+      "conflictStatus": "Resolved"
     }
   ],
-  "ConflictId": "10"
+  "conflictId": "10",
+  "conflict": "B Plaza Realty",
+  "conflictDescription": "TEST DESCRIPTION FOR B Plaza Realty"
 }

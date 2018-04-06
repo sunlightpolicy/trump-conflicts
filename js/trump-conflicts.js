@@ -178,8 +178,10 @@ function ethicsPopup(conflictId) {
         modal.style.display = "block";
 
         var conflict = d3.select('#conflict');
-        conflict.text("HELLO");
-        
+        conflict.text(data.conflict);
+
+        var conflictDescription = d3.select('#conflictDescription');
+        conflictDescription.text(data.conflictDescription);
         
         var table = d3.select('#ethicsModal').append('table')
         var thead = table.append('thead')

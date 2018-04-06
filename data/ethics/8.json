@@ -1,28 +1,45 @@
 {
-  "FamilyMemberBusinessWithEthicsList": [
+  "familyMemberBusinessWithEthicsList": [
     {
-      "EthicsDocuments": [
+      "ethicsDocuments": [
         {
-          "Name": "2015 Office of Government Ethics Form 278e",
-          "Date": "7/15/2015 12:00:00 AM",
-          "Link": "https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-fec-financial-disclosure-2015.pdf"
+          "name": "2015 Office of Government Ethics Form 278e",
+          "date": "7/15/2015 12:00:00 AM",
+          "link": "https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-fec-financial-disclosure-2015.pdf"
         },
         {
-          "Name": "2016 Office of Government Ethics Form 278e",
-          "Date": "5/18/2016 12:00:00 AM",
-          "Link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+          "name": "2015 Office of Government Ethics Form 278e",
+          "date": "7/15/2015 12:00:00 AM",
+          "link": "https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-fec-financial-disclosure-2015.pdf"
         },
         {
-          "Name": "2016 Office of Government Ethics Form 278e",
-          "Date": "5/18/2016 12:00:00 AM",
-          "Link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "FamilyMember": "Donald Trump",
-      "Description": "Pres. Trump retains an ownership interest in the now-dormant or inactive All County Building Supply &amp; Maintenance Corp. Any current or former positions with the company have not been reported in his financial disclosures.",
-      "Business": "All County Building Supply &amp; Maintenance Corp.",
-      "ConflictStatus": "Active"
+      "familyMember": "Donald Trump",
+      "description": "Pres. Trump retains an ownership interest in the now-dormant or inactive All County Building Supply &amp; Maintenance Corp. Any current or former positions with the company have not been reported in his financial disclosures.",
+      "business": "All County Building Supply &amp; Maintenance Corp.",
+      "conflictStatus": "Active"
     }
   ],
-  "ConflictId": "8"
+  "conflictId": "8",
+  "conflict": "All County Building Supply &Amp; Maintenance",
+  "conflictDescription": "TEST DESCRIPTION FOR All County Building Supply &Amp; Maintenance"
 }

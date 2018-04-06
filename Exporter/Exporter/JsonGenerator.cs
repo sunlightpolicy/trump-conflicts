@@ -13,41 +13,45 @@ using Newtonsoft.Json;
 namespace Phase2 {
 
     public class EthicsDocumentForJson {
-        public string Name { get; set; }
-        public string Date { get; set; }
-        public string Link { get; set; }
+        public string name { get; set; }
+        public string date { get; set; }
+        public string link { get; set; }
 
         public EthicsDocumentForJson (string name, string date, string link) {
-            Name = name;
-            Date = date;
-            Link = link;
+            this.name = name;
+            this.date = date;
+            this.link = link;
         }
     }
 
     public class FamilyMemberBusinessWithEthics {
-        public string FamilyMember { get; set; }
-        public string Description { get; set; }
-        public string Business { get; set; }
-        public string ConflictStatus { get; set; }
-        public List<EthicsDocumentForJson> EthicsDocuments;
+        public string familyMember { get; set; }
+        public string description { get; set; }
+        public string business { get; set; }
+        public string conflictStatus { get; set; }
+        public List<EthicsDocumentForJson> ethicsDocuments;
 
         public FamilyMemberBusinessWithEthics(string familyMember, string description, string business, string conflictStatus) {
-            FamilyMember = familyMember;
-            Description = description;
-            Business = business;
-            ConflictStatus = conflictStatus;
+            this.familyMember = familyMember;
+            this.description = description;
+            this.business = business;
+            this.conflictStatus = conflictStatus;
 
-            EthicsDocuments = new List<EthicsDocumentForJson>();
+            ethicsDocuments = new List<EthicsDocumentForJson>();
         }
     }
 
     class FamilyMemberBusinessEthicsForConflict {
-        public string ConflictId { get; set; }
-        public List<FamilyMemberBusinessWithEthics> FamilyMemberBusinessWithEthicsList;
+        public string conflictId { get; set; }
+        public string conflict { get; set; }
+        public string conflictDescription { get; set; }
+        public List<FamilyMemberBusinessWithEthics> familyMemberBusinessWithEthicsList;
 
-        public FamilyMemberBusinessEthicsForConflict(string conflictId) {
-            ConflictId = conflictId;
-            FamilyMemberBusinessWithEthicsList = new List<FamilyMemberBusinessWithEthics>();
+        public FamilyMemberBusinessEthicsForConflict(string conflictId, string conflict, string conflictDescription) {
+            this.conflictId = conflictId;
+            this.conflict = conflict;
+            this.conflictDescription = conflictDescription;
+            familyMemberBusinessWithEthicsList = new List<FamilyMemberBusinessWithEthics>();
         }
     }
 
@@ -75,7 +79,7 @@ namespace Phase2 {
                 string json = JsonConvert.SerializeObject(conflict);
                 var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
 
-                System.IO.File.WriteAllText(fullPath + conflict.ConflictId + ".json", niceJson);
+                System.IO.File.WriteAllText(fullPath + conflict.conflictId + ".json", niceJson);
             }
         }
 
@@ -149,7 +153,7 @@ namespace Phase2 {
             var business = reader["Business"].ToString();
 
             FamilyMemberBusinessEthicsForConflict lastConflict = (ethicsInfos.Count == 0) ? null : ethicsInfos.Last();
-            bool addConflict = ((lastConflict == null) || (lastConflict.ConflictId != conflictId));
+            bool addConflict = ((lastConflict == null) || (lastConflict.conflictId != conflictId));
             if (addConflict) {
                 AddConflict(reader, ethicsInfos);
                 lastConflict = ethicsInfos.Last();
@@ -157,15 +161,15 @@ namespace Phase2 {
 
             FamilyMemberBusinessWithEthics lastBusiness = null;
             if (lastConflict != null)
-                lastBusiness = (ethicsInfos.Last().FamilyMemberBusinessWithEthicsList.Count == 0) ? null : ethicsInfos.Last().FamilyMemberBusinessWithEthicsList.Last();
-            bool addBusiness = ((lastBusiness == null) || (lastConflict.FamilyMemberBusinessWithEthicsList.Last().Business != lastBusiness.Business));
+                lastBusiness = (ethicsInfos.Last().familyMemberBusinessWithEthicsList.Count == 0) ? null : ethicsInfos.Last().familyMemberBusinessWithEthicsList.Last();
+            bool addBusiness = ((lastBusiness == null) || (lastConflict.familyMemberBusinessWithEthicsList.Last().business != lastBusiness.business));
             if (addBusiness) {
                 AddBusiness(reader, ethicsInfos.Last());
                 //ethicsInfos.Last().FamilyMemberBusinessWithEthicsList.Last();
-                lastBusiness = ethicsInfos.Last().FamilyMemberBusinessWithEthicsList.Last();
+                lastBusiness = ethicsInfos.Last().familyMemberBusinessWithEthicsList.Last();
             }
 
-            lastBusiness.EthicsDocuments.Add(new EthicsDocumentForJson(
+            lastBusiness.ethicsDocuments.Add(new EthicsDocumentForJson(
                 reader["EthicsDocument"].ToString()
                 , reader["EthicsDocumentDate"].ToString()
                 , reader["EthicsDocumentLink"].ToString()
@@ -173,11 +177,14 @@ namespace Phase2 {
         }
 
         private static void AddConflict(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {
-            ethicsInfos.Add(new FamilyMemberBusinessEthicsForConflict(reader["ConflictID"].ToString()));
+            ethicsInfos.Add(new FamilyMemberBusinessEthicsForConflict(
+                reader["ConflictID"].ToString()
+                , reader["Conflict"].ToString()
+                , reader["ConflictDescription"].ToString()));
         }
 
         private static void AddBusiness(SqlDataReader reader, FamilyMemberBusinessEthicsForConflict conflict) {
-            conflict.FamilyMemberBusinessWithEthicsList.Add(new FamilyMemberBusinessWithEthics(
+            conflict.familyMemberBusinessWithEthicsList.Add(new FamilyMemberBusinessWithEthics(
                 reader["FamilyMember"].ToString() 
                 , reader["Description"].ToString() 
                 , reader["Business"].ToString() 
