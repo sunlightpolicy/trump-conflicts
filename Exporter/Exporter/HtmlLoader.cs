@@ -167,23 +167,23 @@ namespace Conflicts {
             this.hasEthics = hasEthics;
         }
 
-        public string ToJson() {
-            return
-                "{" +
-                "\"conflictId\": \"" + conflictId + "\"," +
-                "\"description\": \"" + Util.RemoveQuotes(description) + "\"," +
-                "\"familyMember\": \"" + Util.RemoveQuotes(familyMember) + "\"," +
-                "\"conflict\": \"" + Util.RemoveQuotes(conflict) + "\"," +
-                "\"category\": \"" + Util.RemoveQuotes(category) + "\", " +
-                "\"notes\": \"" + Util.RemoveQuotes(notes) + "\"," +
-                "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", dateChanged) + "\"," +
+        //public string ToJson() {
+        //    return
+        //        "{" +
+        //        "\"conflictId\": \"" + conflictId + "\"," +
+        //        "\"description\": \"" + Util.RemoveQuotes(description) + "\"," +
+        //        "\"familyMember\": \"" + Util.RemoveQuotes(familyMember) + "\"," +
+        //        "\"conflict\": \"" + Util.RemoveQuotes(conflict) + "\"," +
+        //        "\"category\": \"" + Util.RemoveQuotes(category) + "\", " +
+        //        "\"notes\": \"" + Util.RemoveQuotes(notes) + "\"," +
+        //        "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", dateChanged) + "\"," +
 
-                "\"mediaOutlet\": \"" + Util.RemoveQuotes(mediaOutlet) + "\"," +
-                "\"link\": \"" + Util.RemoveQuotes(link) + "\"," +
-                "\"sourceDate\": \"" + String.Format("{0:MM/dd/yyyy}", sourceDate) + "\"," +
-                "\"headline\": \"" + Util.RemoveQuotes(headline) + "\"" +
-                "}";
-        }
+        //        "\"mediaOutlet\": \"" + Util.RemoveQuotes(mediaOutlet) + "\"," +
+        //        "\"link\": \"" + Util.RemoveQuotes(link) + "\"," +
+        //        "\"sourceDate\": \"" + String.Format("{0:MM/dd/yyyy}", sourceDate) + "\"," +
+        //        "\"headline\": \"" + Util.RemoveQuotes(headline) + "\"" +
+        //        "}";
+        //}
 
 
         // CSV does not do anything with the list of stories! Put in another CSV?? 
@@ -234,7 +234,7 @@ namespace Conflicts {
             AddChildrenHeadlines(conflicts, firstChildrenItem);
 
             WriteJson(conflicts, "c:\\trump-conflicts\\data\\conflicts.json");
-            WriteStoriesJson(conflicts, "c:\\trump-conflicts\\data\\stories.json");
+            //WriteStoriesJson(conflicts, "c:\\trump-conflicts\\data\\stories.json");
             WriteStoriesCsv(conflicts, "c:\\trump-conflicts\\data\\trump_conflicts_of_interest.csv");
 
             WriteSql(conflicts, "c:\\trump-conflicts\\Exporter\\Exporter\\Db\\");
@@ -285,31 +285,31 @@ namespace Conflicts {
             System.IO.File.WriteAllText(file, strings.ToString());
         }
 
-        private void WriteStoriesJson(List<Conflict> conflicts, string file) {
+        //private void WriteStoriesJson(List<Conflict> conflicts, string file) {
 
-            int news = 0;
+        //    int news = 0;
 
-            var storyStrings = new List<String>();
-            foreach (Conflict conflict in conflicts) {
-                foreach (Source source in conflict.Sources) { 
-                    storyStrings.Add(new Story(conflict, source).ToJson());
+        //    var storyStrings = new List<String>();
+        //    foreach (Conflict conflict in conflicts) {
+        //        foreach (Source source in conflict.Sources) { 
+        //            storyStrings.Add(new Story(conflict, source).ToJson());
 
-                    if (source.Name != "Office of Government Ethics") {
-                        Console.WriteLine(source.Date.ToString());
-                        news++;
-                    }
-                }
-            }
-            Console.WriteLine("NEWS: " + news.ToString());
+        //            if (source.Name != "Office of Government Ethics") {
+        //                Console.WriteLine(source.Date.ToString());
+        //                news++;
+        //            }
+        //        }
+        //    }
+        //    Console.WriteLine("NEWS: " + news.ToString());
 
-            var strings = new StringBuilder();
-            strings.Append("[");
-            strings.Append(String.Join(",", storyStrings.ToArray()));
-            strings.Append("]");
+        //    var strings = new StringBuilder();
+        //    strings.Append("[");
+        //    strings.Append(String.Join(",", storyStrings.ToArray()));
+        //    strings.Append("]");
 
-            System.IO.File.WriteAllText(file, strings.ToString());
-            Console.WriteLine(storyStrings.Count.ToString() + " total stories");
-        }
+        //    System.IO.File.WriteAllText(file, strings.ToString());
+        //    Console.WriteLine(storyStrings.Count.ToString() + " total stories");
+        //}
 
         private void WriteStoriesCsv(List<Conflict> conflicts, string file) {
             var storyStrings = new List<String>();

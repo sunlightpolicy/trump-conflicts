@@ -29,14 +29,7 @@ namespace Phase2 {
         Notes,
         DatePublished
     };
-
-    //public class Table {
-    //    public string Id;
-    //}
-
-    //public class BusinessTable : Table {
-    //    public string Name;
-    //} 
+    
 
     public class Conflict {
         public string Name;
@@ -110,76 +103,8 @@ namespace Phase2 {
                  "}";
         }
     }
-
-
-    public class ConflictOld {
-
-        public string Description;
-        public string FamilyMember;
-        public string ConflictingEntity;
-        public string Category;
-        public string Notes;
-        public DateTime DateChanged;
-        public List<Story> Sources;
-
-        public ConflictOld(string description, string familyMember, string conflictingEntity, string category, string notes, DateTime dateChanged) {
-            Description = description;
-            FamilyMember = familyMember;
-            ConflictingEntity = conflictingEntity;
-            Category = category;
-            Notes = notes;
-            DateChanged = dateChanged;
-
-            Sources = new List<Story>();
-        }
-
-        public string ToJson() {
-            return
-                "{" +
-                "\"description\": \"" + Util.RemoveQuotes(Description) + "\"," +
-                "\"familyMember\": \"" + Util.RemoveQuotes(FamilyMember) + "\"," +
-                "\"conflictingEntity\": \"" + Util.RemoveQuotes(ConflictingEntity) + "\"," +
-                "\"category\": \"" + Util.RemoveQuotes(Category) + "\", " +
-                "\"notes\": \"" + Util.RemoveQuotes(Notes) + "\"," +
-                "\"dateChanged\": \"" + String.Format("{0:MM/dd/yyyy}", DateChanged) + "\"," +
-                SourcesToJson() +
-                "}";
-        }
-
-        private string SourcesToJson() {
-
-            var sourceStrings = new List<String>();
-            foreach (Story source in Sources)
-                sourceStrings.Add(source.ToJson());
-
-            var strings = new StringBuilder();
-            strings.Append("\"sources\": [");
-            strings.Append(String.Join(",", sourceStrings.ToArray()));
-            strings.Append("]");
-
-            return strings.ToString();
-        }
-
-        private string UpperCaseFirstChar(string str) {
-            if (string.IsNullOrEmpty(str)) {
-                return string.Empty;
-            }
-            return char.ToUpper(str[0]) + str.Substring(1);
-        }
-
-        private string TrumpName(string name) {
-            switch (name) {
-                case "Donald Trump": return "Donald Sr.";
-                case "Donald Trump Jr.": return "Donald Jr.";
-                case "Eric Trump": return "Eric";
-                case "Ivanka Trump": return "Ivanka";
-                case "Jared Kushner": return "Jared";
-                case "Melania Trump": return "Melania";
-            }
-            return name;
-        }
-    }
-
+    
+    
 
     class Phase2Loader {
 
@@ -203,26 +128,12 @@ namespace Phase2 {
 
 
         public Phase2Loader(String path) {
-            
             var parentsFile = "Copy of Donald & Melania.html";
 
             //var childrenFile = "Donald Trump Jr., Eric Trump, Ivanka Trump & Jared Kushner.html";
 
             var conflicts = new List<Conflict>();
             ImportPage(conflicts, path + "\\" + parentsFile);
-            //AddParentHeadlines(conflicts);
-
-            //int firstChildrenItem = conflicts.Count;
-            //ImportPage(conflicts, path + "\\" + childrenFile);
-            //AddChildrenHeadlines(conflicts, firstChildrenItem);
-
-            //WriteJson(conflicts, "c:\\trump-conflicts\\data\\conflicts.json");
-            //WriteStoriesJson(conflicts, "c:\\trump-conflicts\\data\\stories.json");
-            //WriteStoriesCsv(conflicts, "c:\\trump-conflicts\\data\\trump_conflicts_of_interest.csv");
-
-            //WriteSql(conflicts, "c:\\trump-conflicts\\Exporter\\Exporter\\Db\\");
-            //Console.WriteLine(conflicts.Count.ToString() + " total conflicts");
-
             WriteSql("c:\\trump-conflicts\\Exporter\\Exporter\\db\\Phase2\\");
         }
 
@@ -265,7 +176,6 @@ namespace Phase2 {
             
             Console.WriteLine(Businesss.Count.ToString() + " BusinesUnits");
             Console.WriteLine(Conflicts.Count.ToString() + " Conflicts");
-            //Console.WriteLine(conflicts.Count.ToString() + " conflicts");
         }
 
         private void AddConflict(string[] cols) {
@@ -513,8 +423,7 @@ namespace Phase2 {
                     tw.WriteLine(s);
             }
         }
-
-
+        
         private void WriteConflictScript(string path, string seq) {
             var strings = new List<string>();
             strings.Add("USE Trump");
@@ -556,63 +465,12 @@ namespace Phase2 {
             }
         }
 
-        //private void AddConflict(List<Conflict> conflicts, string[] cols, string file, int rowNum) {
-        //    //row = row.Replace("<td></td>", "<td ></td>");
-        //    //var cols = row.Split(new[] { "<td " }, StringSplitOptions.None);
-
-        //    //if (cols.Length < 2)
-        //    //    return;
-        //    //if (cols[1].Contains("></td>"))
-        //    //    return;
-        //    //if (cols[1].Contains("Description</td"))
-        //    //    return;
-
-        //    var conflict = new Conflict(
-        //    Description(cols[1]),
-        //    FamilyMember(cols[2]),
-        //    ConflictingEntity(cols[3]),
-        //    Category(cols[4]),
-        //    Notes(cols[5]),
-        //    DateChanged(cols[12]));
-
-        //    try {
-        //        AddSource(conflict, cols[6], cols[7]);
-        //        AddSource(conflict, cols[8], cols[9]);
-        //        AddSource(conflict, cols[10], cols[11]);
-        //    }
-        //    catch (Exception e) {
-        //        Console.WriteLine("LINK PROBLEM: " + Path.GetFileNameWithoutExtension(file) + " at " + rowNum.ToString());
-        //        return;
-        //    }
-
-        //    conflicts.Add(conflict);
-        //}
-
-        //private void AddSource(Conflict conflict, string text, string date) {
-        //    var fields = text.Split(new[] { " href=" }, StringSplitOptions.None);
-        //    if (fields.Length < 2)
-        //        return;
-
-        //    var linkAndName = fields[1].Split('>');
-
-        //    var name = linkAndName[1].Replace("</a", "");
-        //    var link = linkAndName[0].Replace("\"", "");
-
-        //    var dateStr = date.Split('>')[1].Replace("</td", "");
-        //    var dte = GetDate(dateStr);
-
-        //    var source = new Story(name, link, dte);
-
-        //    conflict.Sources.Add(source);
-        //}
-
         private DateTime GetDate(string dte) {
             dte = dte
                 .Replace("Sept.", "September");
             DateTime date = Convert.ToDateTime(dte.Replace(".", ""));
             return date;
         }
-
 
         private string BusUnit(string txt) {
             var subs = txt.Split('>');
@@ -675,7 +533,6 @@ namespace Phase2 {
                 Convert.ToDateTime(dte);
         }   
     }
-
 
     public class Util {
         public static string RemoveQuotes(String str) {

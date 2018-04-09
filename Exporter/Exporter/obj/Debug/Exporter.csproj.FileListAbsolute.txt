@@ -18,6 +18,6 @@ C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.pdb
 C:\trump-conflicts\Exporter\Exporter\bin\Debug\Exporter.exe
 C:\trump-conflicts\Exporter\Exporter\bin\Debug\Exporter.pdb
 C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.csproj.CoreCompileInputs.cache
-C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.csprojResolveAssemblyReference.cache
 C:\trump-conflicts\Exporter\Exporter\bin\Debug\Newtonsoft.Json.dll
 C:\trump-conflicts\Exporter\Exporter\bin\Debug\Newtonsoft.Json.xml
+C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.csprojResolveAssemblyReference.cache

@@ -11,13 +11,11 @@ var mediaOutletChart;
 var searchDim;
 
 
-//d3.json("data/conflicts.json", function (data) {
-d3.json("data/stories3.json", function (err, data) {
+d3.json("data/stories.json", function (err, data) {
     data.forEach(function (d) {
 
         d.sourceType = "Office of Government Ethics";
-        //if ((typeof(d.sources[0]) != "undefined") && (d.sources[0].name != "Office of Government Ethics"))
-        //    d.sourceType = "Media";
+
         if (d.mediaOutlet != "Office of Government Ethics")
             d.sourceType = "Media";
         
@@ -47,7 +45,6 @@ d3.json("data/stories3.json", function (err, data) {
     
     d3.select("#search-input").on('keyup', function (event) {
         searchTerm = document.getElementById("search-input").value;
-        //if (event.keyCode == 13) {
         setword(searchTerm);
     });
 
@@ -79,7 +76,6 @@ d3.json("data/stories3.json", function (err, data) {
         //}
     }
 
-    // 01 group for grand total 
     var totalGroup = facts.groupAll().reduce(
         function (p, v) { // add finction
             return p += v.amount;
@@ -165,11 +161,9 @@ d3.json("data/stories3.json", function (err, data) {
     dc.renderAll();    
 });
 
-
 function conflictHeader(d) {
     return "<b>" + d.conflict + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> " + d.description;
 }
-
 
 function ethicsPopupLink(d) {
     let link = ""; 
@@ -178,13 +172,9 @@ function ethicsPopupLink(d) {
     return link;
 }
 
-
 function ethicsPopup(conflictId) {
 
-    console.log("THE ID IS: " + conflictId);
-
     d3.json("data/ethics/" + conflictId + ".json", function (err, data) {
-
         var span = document.getElementsByClassName("close")[0];
         span.onclick = function () {
             modal.style.display = "none";
