@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 using System.IO;
 
-//namespace Conflicts {
+
+
 namespace Phase2 {
     
         class Program {
@@ -23,7 +24,7 @@ namespace Phase2 {
             
             var loader = new Phase2Loader("c:\\trump-conflicts\\Exporter\\Exporter\\data\\WORKING CURRENT COPY Tracking Trump's Conflicts of Interest");
 
-            JsonGenerator.Run("c:\\trump-conflicts\\data\\");
+            //JsonGenerator.Run("c:\\trump-conflicts\\data\\");
 
             //Console.ReadLine();
         }

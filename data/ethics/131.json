@@ -1,0 +1,35 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2017 Office of Government Ethics Form 278e",
+          "date": "6/14/2017 12:00:00 AM",
+          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
+      "business": "THC Qatar Hotel Manager LLC",
+      "conflictStatus": "Resolved"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2017 Office of Government Ethics Form 278e",
+          "date": "6/14/2017 12:00:00 AM",
+          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
+      "business": "THC Qatar Hotel Manager Member Corp.",
+      "conflictStatus": "Resolved"
+    }
+  ],
+  "conflictId": "131",
+  "conflict": "Thc Qatar",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Thc Qatar"
+}

@@ -11,6 +11,7 @@ using Newtonsoft.Json;
 
 namespace Phase2 {
 
+    
     public class EthicsDocumentForJson {
         public string name { get; set; }
         public string date { get; set; }
@@ -71,6 +72,8 @@ namespace Phase2 {
 
     public class JsonGenerator {
 
+        public static string ConnectionString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+
         public static void Run(string path) {
             var stories = MakeStories();
             WriteStoryJson(path, stories);
@@ -111,9 +114,9 @@ namespace Phase2 {
         private static List<Conflicts.Story> MakeStories() {
             var stories = new List<Conflicts.Story>();
 
-            string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+            //string connString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
             string query = "SELECT * FROM StoryConflictView";
-            using (SqlConnection conn = new SqlConnection(connString)) {
+            using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
                 using (SqlCommand cmd = new SqlCommand(query, conn)) {
                     cmd.CommandType = CommandType.Text;
                     conn.Open();
@@ -170,9 +173,9 @@ namespace Phase2 {
 
         private static List<FamilyMemberBusinessEthicsForConflict> MakeEthicsInfos() {
             var ethics = new List<FamilyMemberBusinessEthicsForConflict>();
-            string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+            //string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
             string query = "SELECT * FROM BusinessConflictView ORDER BY ConflictID, FamilyMember, Business, EthicsDocument";
-            using (SqlConnection conn = new SqlConnection(connString)) {
+            using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
                 using (SqlCommand cmd = new SqlCommand(query, conn)) {
                     cmd.CommandType = CommandType.Text;
                     conn.Open();
@@ -188,9 +191,9 @@ namespace Phase2 {
         private static List<BusinessOwnershipForJson> MakeBusinessOwnerships() {
             var ownerships = new List<BusinessOwnershipForJson>();
 
-            string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+            //string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
             string query = "SELECT * FROM BusinessOwnershipView ORDER BY owneeId, ownershipPercentage DESC";
-            using (SqlConnection conn = new SqlConnection(connString)) {
+            using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
                 using (SqlCommand cmd = new SqlCommand(query, conn)) {
                     cmd.CommandType = CommandType.Text;
                     conn.Open();

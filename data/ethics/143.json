@@ -1,0 +1,21 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2017 Office of Government Ethics Form 278e",
+          "date": "6/14/2017 12:00:00 AM",
+          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
+      "business": "The Trump Corporation",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "143",
+  "conflict": "The Trump Corporation",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): The Trump Corporation"
+}

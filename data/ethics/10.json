@@ -3,19 +3,29 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2015 Office of Government Ethics Form 278e",
+          "date": "7/15/2015 12:00:00 AM",
+          "link": "https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-fec-financial-disclosure-2015.pdf"
+        },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "Pres. Trump resigned his position from B Plaza Realty Corp., which reportedly was dissolved on Nov. 10, 2016.",
-      "business": "B Plaza Realty Corp.",
-      "conflictStatus": "Resolved"
+      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
+      "business": "All County Building Supply &amp; Maintenance Corp.",
+      "conflictStatus": "Active"
     }
   ],
   "conflictId": "10",
-  "conflict": "B Plaza Realty",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): B Plaza Realty"
+  "conflict": "All County Building Supply &Amp; Maintenance",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): All County Building Supply &Amp; Maintenance"
 }

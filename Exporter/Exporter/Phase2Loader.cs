@@ -130,11 +130,13 @@ namespace Phase2 {
         public Phase2Loader(String path) {
             var parentsFile = "Copy of Donald & Melania.html";
 
-            //var childrenFile = "Donald Trump Jr., Eric Trump, Ivanka Trump & Jared Kushner.html";
+            var childrenFile = "Donald Trump Jr., Eric Trump, Ivanka Trump & Jared Kushner.html";
 
             var conflicts = new List<Conflict>();
             ImportPage(conflicts, path + "\\" + parentsFile);
             WriteSql("c:\\trump-conflicts\\Exporter\\Exporter\\db\\Phase2\\");
+
+            Console.ReadLine();
         }
 
         private void WriteSql(string path) {
@@ -155,7 +157,7 @@ namespace Phase2 {
             string text = File.ReadAllText(file, Encoding.UTF8);
 
             int rowNum = 0;
-            int max = 100000;
+            int max = 656;  // !!
             var rows = text.Split(new[] { "<tr " }, StringSplitOptions.None);
             foreach (string row in rows) {
                 if (rowNum < max && rowNum > 1) {
@@ -164,6 +166,8 @@ namespace Phase2 {
                     var cols = theRow.Split(new[] { "<td " }, StringSplitOptions.None);
                     if (cols.Length < 2)
                         return;
+
+                    Console.WriteLine(cols.Length.ToString());
 
                     AddBusinesss(cols);
                     AddConflict(cols);
@@ -182,6 +186,10 @@ namespace Phase2 {
             var name = ConflictingEntity(cols[(int)Col.ConflictName]);
             if (name == "")
                 return;
+
+            if (name.Contains("Class="))
+                Console.WriteLine(name);
+
 
             Conflict conflict;
 
@@ -429,7 +437,8 @@ namespace Phase2 {
             strings.Add("USE Trump");
             strings.Add("GO\r\n");
 
-            foreach (Conflict conflict in Conflicts.Values)
+            foreach (Conflict conflict in Conflicts.Values) {
+
                 strings.Add("INSERT INTO Conflict VALUES ('" +
                     conflict.Name + "', '" +
                     conflict.Description + "', '" +
@@ -437,6 +446,7 @@ namespace Phase2 {
                     conflict.DateChanged.ToString() + "', " +
                     "GetDate(), 1)"
                 );
+            }
 
             foreach (BusinessConflict busConflict in BusinessConflicts)
                 strings.Add("INSERT INTO BusinessConflict VALUES (" +
@@ -496,6 +506,10 @@ namespace Phase2 {
         private string ConflictingEntity(string txt) {
             var subs = txt.Split('>');
             var entity = subs[1].Replace("</td", "").TrimEnd().TrimStart();
+
+            //if (entity.Contains("Class="))
+            //    Console.WriteLine(entity);
+
             return
                 CleanEntity(entity);
         }

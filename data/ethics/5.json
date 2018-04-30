@@ -10,12 +10,12 @@
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "Pres. Trump resigned his position from 81 Pine Note Holder Inc., which is reportedly dormant or inactive. However, he retains an ownership interest.",
-      "business": "81 Pine Note Holder Inc",
+      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
+      "business": "4T Holdings One LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "5",
-  "conflict": "81 Pine Note Holder",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 81 Pine Note Holder"
+  "conflict": "4T Holdings One",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 4T Holdings One"
 }

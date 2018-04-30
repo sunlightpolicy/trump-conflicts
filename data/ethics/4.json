@@ -10,8 +10,8 @@
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "Pres. Trump resigned his position from 809 North Canon LLC, but retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
-      "business": "809 North Canon LLC",
+      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
+      "business": "40 Wall Development Associates LLC",
       "conflictStatus": "Active"
     },
     {
@@ -24,12 +24,40 @@
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "Pres. Trump resigned his position from 809 North Canon Member Corporation, but retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
-      "business": "809 North Canon Member Corporation",
+      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
+      "business": "40 Wall Street Commercial LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2017 Office of Government Ethics Form 278e",
+          "date": "6/14/2017 12:00:00 AM",
+          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
+      "business": "40 Wall Street LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2017 Office of Government Ethics Form 278e",
+          "date": "6/14/2017 12:00:00 AM",
+          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
+      "business": "40 Wall Street Member Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "4",
-  "conflict": "809 North Canon",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 809 North Canon"
+  "conflict": "40 Wall Street",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 40 Wall Street"
 }
