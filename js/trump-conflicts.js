@@ -99,7 +99,7 @@ d3.json("data/stories.json", function (err, data) {
     //    })
     //    .formatNumber(function (d) { return Math.round(d) + " Billion"; });
     
-    var leftWidth = 540;
+    var leftWidth = 430;
 
     var changeDateDim = facts.dimension(function (d) { return d.sourceDate; });
     var changeDateGroup = changeDateDim.group(d3.time.day);
@@ -122,15 +122,11 @@ d3.json("data/stories.json", function (err, data) {
         "#006600",  // dark green 
         "#007BA7"]; // blue
     
-    var bootstrapCols = 12;
-    var col1Width = leftWidth * (7 / bootstrapCols);
-    var col2Width = leftWidth * (5 / bootstrapCols);
-
-    //var col1Width = 280;
-    //var col2Width = 180;
-
-    familyMemberChart = new RowChart(facts, "familyMember", col1Width, 6, 130);
-    categoryChart = new RowChart(facts, "category", col2Width, 6, 130);
+    var col1Width = leftWidth / 2;
+    var col2Width = leftWidth / 2;
+    
+    familyMemberChart = new RowChart(facts, "familyMember", col1Width, 6, 110);
+    categoryChart = new RowChart(facts, "category", col2Width, 6, 110);
     categoryChart.filter("Active");
 
     sourceTypeChart = new RowChart(facts, "sourceType", leftWidth, 2, 70);
