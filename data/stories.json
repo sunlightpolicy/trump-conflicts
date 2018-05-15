@@ -14,48 +14,6 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): *See Notes",
-    "familyMember": "Donald Trump",
-    "conflict": "*See Notes",
-    "category": "Active",
-    "notes": "",
-    "dateChanged": "2017-07-05T00:00:00",
-    "mediaOutlet": "CNN",
-    "link": "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/",
-    "sourceDate": "2017-01-23T00:00:00",
-    "headline": "Trump Organization documents say he has resigned from more than 400 businesses",
-    "conflictId": "68",
-    "hasEthics": true
-  },
-  {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): *See Notes",
-    "familyMember": "Donald Trump",
-    "conflict": "*See Notes",
-    "category": "Active",
-    "notes": "",
-    "dateChanged": "2017-07-05T00:00:00",
-    "mediaOutlet": "CNN",
-    "link": "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/",
-    "sourceDate": "2017-01-23T00:00:00",
-    "headline": "Trump Organization documents say he has resigned from more than 400 businesses",
-    "conflictId": "68",
-    "hasEthics": true
-  },
-  {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): *See Notes",
-    "familyMember": "Donald Trump",
-    "conflict": "*See Notes",
-    "category": "Active",
-    "notes": "",
-    "dateChanged": "2017-07-05T00:00:00",
-    "mediaOutlet": "CNN",
-    "link": "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/",
-    "sourceDate": "2017-01-23T00:00:00",
-    "headline": "Trump Organization documents say he has resigned from more than 400 businesses",
-    "conflictId": "68",
-    "hasEthics": true
-  },
-  {
     "description": "<div class=\"softmerge-inner\" style=\"width: 48px; left: -1px;\"",
     "familyMember": "Donald Trump",
     "conflict": "Mar-A-Lago",
@@ -112,34 +70,6 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Storage 106",
-    "familyMember": "Donald Trump",
-    "conflict": "Storage 106",
-    "category": "Active",
-    "notes": "",
-    "dateChanged": "2017-07-05T00:00:00",
-    "mediaOutlet": "CNN",
-    "link": "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/",
-    "sourceDate": "2017-01-23T00:00:00",
-    "headline": "Trump Organization documents say he has resigned from more than 400 businesses",
-    "conflictId": "115",
-    "hasEthics": true
-  },
-  {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Thc Dc Restaurant Hospitality",
-    "familyMember": "Donald Trump",
-    "conflict": "Thc Dc Restaurant Hospitality",
-    "category": "Active",
-    "notes": "",
-    "dateChanged": "2017-07-05T00:00:00",
-    "mediaOutlet": "CNN",
-    "link": "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/",
-    "sourceDate": "2017-01-23T00:00:00",
-    "headline": "Trump Organization documents say he has resigned from more than 400 businesses",
-    "conflictId": "126",
-    "hasEthics": true
-  },
-  {
     "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): <Div Class=\"Softmerge-Inner\" Style=\"Width: 342Px; Left: -1Px;\"",
     "familyMember": "Donald Trump",
     "conflict": "<Div Class=\"Softmerge-Inner\" Style=\"Width: 342Px; Left: -1Px;\"",
@@ -151,20 +81,6 @@
     "sourceDate": "2016-11-18T00:00:00",
     "headline": "Trump agrees to $25 million settlement in Trump University fraud cases",
     "conflictId": "2",
-    "hasEthics": true
-  },
-  {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump International Golf Club - Scotland",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump International Golf Club - Scotland",
-    "category": "Active",
-    "notes": "",
-    "dateChanged": "2017-07-05T00:00:00",
-    "mediaOutlet": "CNN",
-    "link": "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/",
-    "sourceDate": "2017-01-23T00:00:00",
-    "headline": "Trump Organization documents say he has resigned from more than 400 businesses",
-    "conflictId": "200",
     "hasEthics": true
   },
   {
@@ -208,20 +124,6 @@
     "headline": "",
     "conflictId": "201",
     "hasEthics": false
-  },
-  {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): <Div Class=\"Softmerge-Inner\" Style=\"Width: 342Px; Left: -1Px;\"",
-    "familyMember": "Donald Trump",
-    "conflict": "<Div Class=\"Softmerge-Inner\" Style=\"Width: 342Px; Left: -1Px;\"",
-    "category": "Active",
-    "notes": "",
-    "dateChanged": "2017-07-05T00:00:00",
-    "mediaOutlet": "CNN",
-    "link": "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/",
-    "sourceDate": "2017-01-23T00:00:00",
-    "headline": "Trump Organization documents say he has resigned from more than 400 businesses",
-    "conflictId": "2",
-    "hasEthics": true
   },
   {
     "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): <Div Class=\"Softmerge-Inner\" Style=\"Width: 343Px; Left: -1Px;\"",

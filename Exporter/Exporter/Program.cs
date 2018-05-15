@@ -22,9 +22,11 @@ namespace Phase2 {
             //var loader = new HtmlLoader("c:\\trump-conflicts\\Exporter\\Exporter\\data\\Tracking Trump's Conflicts of Interest");
 
             
-            var loader = new Phase2Loader("c:\\trump-conflicts\\Exporter\\Exporter\\data\\WORKING CURRENT COPY Tracking Trump's Conflicts of Interest");
+            // Reads the google doc and generates sql inserts (which need to be run)
+            //var loader = new Phase2Loader("c:\\trump-conflicts\\Exporter\\Exporter\\data\\WORKING CURRENT COPY Tracking Trump's Conflicts of Interest");
 
-            //JsonGenerator.Run("c:\\trump-conflicts\\data\\");
+            // Queries db and generates json
+            JsonGenerator.Run("c:\\trump-conflicts\\data\\");
 
             //Console.ReadLine();
         }

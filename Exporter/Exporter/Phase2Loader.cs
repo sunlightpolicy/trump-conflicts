@@ -180,6 +180,7 @@ namespace Phase2 {
             
             Console.WriteLine(Businesss.Count.ToString() + " BusinesUnits");
             Console.WriteLine(Conflicts.Count.ToString() + " Conflicts");
+            Console.WriteLine(Stories.Count.ToString() + " Stories");
         }
 
         private void AddConflict(string[] cols) {
@@ -244,15 +245,26 @@ namespace Phase2 {
             if (mediaOutlet == "")
                 return;
 
+            if (link == "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/")
+                Console.WriteLine("X");
+
             // It is a story
-            if (mediaOutlet != "Office of Government Ethics") {
+                if (mediaOutlet != "Office of Government Ethics") {
                 // Add a new MediaOutlet if neccessary
                 if ((mediaOutlet != "") && (!MediaOutlets.ContainsKey(mediaOutlet)))
                     MediaOutlets.Add(mediaOutlet, mediaOutlet);
 
                 if (mediaOutlet != "") {
+
+                    bool alreadyThere = false; 
+                    foreach (Story s in Stories) {
+                        if (s.Link == link)
+                            alreadyThere = true;
+                    }
+
                     var story = new Story(conflict, mediaOutlet, link, dte);
-                    Stories.Add(story);
+                    if (!alreadyThere)
+                        Stories.Add(story);
                 }
             } else { // it is a Ethics Doc reference 
                 // Add a new Ethics Doc if neccessary
