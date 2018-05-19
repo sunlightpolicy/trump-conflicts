@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Westchester Corp.",
+      "business": "Trump Marks White Plains Corp.",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Westchester LLC",
+      "business": "Trump Marks White Plains LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "255",
-  "conflict": "Trump Marks Westchester",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Westchester"
+  "conflict": "Trump Marks White Plains",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks White Plains"
 }

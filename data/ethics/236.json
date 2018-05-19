@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Mumbai LLC",
+      "business": "Trump Marks New Rochelle Corp.",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Mumbai Member Corp.",
+      "business": "Trump Marks New Rochelle LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "236",
-  "conflict": "Trump Marks Mumbai",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Mumbai"
+  "conflict": "Trump Marks New Rochelle",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks New Rochelle"
 }

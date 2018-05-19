@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Philadelphia Corp.",
+      "business": "Trump Marks Philippines Corp.",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Philadelphia LLC",
+      "business": "Trump Marks Philippines LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "240",
-  "conflict": "Trump Marks Philadelphia",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Philadelphia"
+  "conflict": "Trump Marks Philippines",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Philippines"
 }

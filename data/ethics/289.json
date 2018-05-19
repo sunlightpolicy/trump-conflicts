@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Wine Marks LLC",
+      "business": "Trump World Productions LLC",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Wine Marks Member Corp.",
+      "business": "Trump World Productions Manager Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "289",
-  "conflict": "Trump Wine Marks",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Wine Marks"
+  "conflict": "Trump World Productions",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump World Productions"
 }

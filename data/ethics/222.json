@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Fine Foods LLC",
+      "business": "Trump Marks Ft. Lauderdale LLC",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Fine Foods Member Corp.",
+      "business": "Trump Marks Ft. Lauderdale Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "222",
-  "conflict": "Trump Marks Fine Foods",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Fine Foods"
+  "conflict": "Trump Marks Ft. Lauderdale",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Ft. Lauderdale"
 }

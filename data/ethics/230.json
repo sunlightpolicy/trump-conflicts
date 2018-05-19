@@ -11,11 +11,25 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks LLC",
-      "conflictStatus": "Active"
+      "business": "Trump Marks Magazine Corp.",
+      "conflictStatus": "Resolved"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2017 Office of Government Ethics Form 278e",
+          "date": "6/14/2017 12:00:00 AM",
+          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
+      "business": "Trump Marks Magazine LLC",
+      "conflictStatus": "Resolved"
     }
   ],
   "conflictId": "230",
-  "conflict": "Trump Marks",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks"
+  "conflict": "Trump Marks Magazine",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Magazine"
 }

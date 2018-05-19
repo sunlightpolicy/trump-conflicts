@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks SOHO License Corp.",
+      "business": "Trump Marks Stamford Corp.",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks SOHO LLC",
+      "business": "Trump Marks Stamford LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "247",
-  "conflict": "Trump Marks Soho",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Soho"
+  "conflict": "Trump Marks Stamford",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Stamford"
 }

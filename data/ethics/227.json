@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Istanbul II Corp.",
+      "business": "Trump Marks Jersey City Corp.",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Istanbul ll LLC",
+      "business": "Trump Marks Jersey City LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "227",
-  "conflict": "Trump Marks Istanbul Ii",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Istanbul Ii"
+  "conflict": "Trump Marks Jersey City",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Jersey City"
 }

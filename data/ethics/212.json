@@ -11,11 +11,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Lauderdale Development LLC",
+      "business": "Trump Management Inc.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "212",
-  "conflict": "Trump Lauderdale Development",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Lauderdale Development"
+  "conflict": "Trump Management",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Management"
 }

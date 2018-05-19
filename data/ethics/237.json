@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks New Rochelle Corp.",
+      "business": "Trump Marks Palm Beach Corp.",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks New Rochelle LLC",
+      "business": "Trump Marks Palm Beach LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "237",
-  "conflict": "Trump Marks New Rochelle",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks New Rochelle"
+  "conflict": "Trump Marks Palm Beach",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Palm Beach"
 }

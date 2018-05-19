@@ -11,11 +11,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Mortgage Corp.",
+      "business": "Trump Marks Mtg LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "234",
-  "conflict": "Trump Marks Mortgage",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Mortgage"
+  "conflict": "Trump Marks Mtg",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Mtg"
 }

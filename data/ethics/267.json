@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Panama Condominium Management LLC",
+      "business": "Trump Panama Hotel Management LLC",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Panama Condominium Member Corp.",
+      "business": "Trump Panama Hotel Management Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "267",
-  "conflict": "Trump Panama Condominium Member",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Panama Condominium Member"
+  "conflict": "Trump Panama Hotel Management Member",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Panama Hotel Management Member"
 }

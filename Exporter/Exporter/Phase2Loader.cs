@@ -188,8 +188,10 @@ namespace Phase2 {
             if (name == "")
                 return;
 
-            if (name.Contains("Class="))
+            if (name.Contains("Class=")) {
                 Console.WriteLine(name);
+                return;
+            }
 
 
             Conflict conflict;
@@ -516,6 +518,12 @@ namespace Phase2 {
         }
 
         private string ConflictingEntity(string txt) {
+            if (txt.Contains("class=\"s10 softmerge\" dir=\"ltr\"><div class=\"softmerge-inner\" style=\"width: 342px; left: -1px;\">")) {
+                txt = txt.Replace("class=\"s10 softmerge\" dir=\"ltr\"><div class=\"softmerge-inner\" style=\"width: 342px; left: -1px;\">", "");
+                txt = txt.Replace("</div></td>", "");
+                return CleanEntity(txt);
+            }
+            
             var subs = txt.Split('>');
             var entity = subs[1].Replace("</td", "").TrimEnd().TrimStart();
 

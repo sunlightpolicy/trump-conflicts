@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Canouan Corp.",
+      "business": "Trump Marks Chicago LLC",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Canouan LLC",
+      "business": "Trump Marks Chicago Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "218",
-  "conflict": "Trump Marks Canouan",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Canouan"
+  "conflict": "Trump Marks Chicago",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Chicago"
 }

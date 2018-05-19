@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Stamford Corp.",
+      "business": "Trump Marks Sunny Isles I LLC",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Stamford LLC",
+      "business": "Trump Marks Sunny Isles I Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "248",
-  "conflict": "Trump Marks Stamford",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Stamford"
+  "conflict": "Trump Marks Sunny Isles I",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Sunny Isles I"
 }

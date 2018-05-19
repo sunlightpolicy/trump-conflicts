@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Palm Beach Corp.",
+      "business": "Trump Marks Panama Corp.",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Palm Beach LLC",
+      "business": "Trump Marks Panama LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "238",
-  "conflict": "Trump Marks Palm Beach",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Palm Beach"
+  "conflict": "Trump Marks Panama",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Panama"
 }

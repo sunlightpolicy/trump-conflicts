@@ -11,11 +11,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump World Publications",
+      "business": "Trump&#39;s Castle Management Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "291",
-  "conflict": "Trump World Publications",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump World Publications"
+  "conflict": "Trump&#39;S Castle",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump&#39;S Castle"
 }

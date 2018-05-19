@@ -11,8 +11,8 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Magazine Corp.",
-      "conflictStatus": "Resolved"
+      "business": "Trump Marks Mattress LLC",
+      "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Magazine LLC",
-      "conflictStatus": "Resolved"
+      "business": "Trump Marks Mattress Member Corp.",
+      "conflictStatus": "Active"
     }
   ],
   "conflictId": "231",
-  "conflict": "Trump Marks Magazine",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Magazine"
+  "conflict": "Trump Marks Mattress",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Mattress"
 }

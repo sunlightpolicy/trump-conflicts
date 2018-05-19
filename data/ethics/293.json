@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Turnberry Scotland LLC",
+      "business": "TW Venture I LLC",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Turnberry Scotland Managing Member Corp",
+      "business": "TW Venture I Managing Member Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "293",
-  "conflict": "Turnberry Scotland",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Turnberry Scotland"
+  "conflict": "Tw Venture I",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tw Venture I"
 }

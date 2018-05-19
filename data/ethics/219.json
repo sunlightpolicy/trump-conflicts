@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Chicago LLC",
+      "business": "Trump Marks Dubai Corp.",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Chicago Member Corp.",
+      "business": "Trump Marks Dubai LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "219",
-  "conflict": "Trump Marks Chicago",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Chicago"
+  "conflict": "Trump Marks Dubai",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Dubai"
 }

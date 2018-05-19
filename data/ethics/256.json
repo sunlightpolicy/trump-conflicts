@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks White Plains Corp.",
+      "business": "Trump Miami Resort Management LLC",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks White Plains LLC",
+      "business": "Trump Miami Resort Management Member Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "256",
-  "conflict": "Trump Marks White Plains",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks White Plains"
+  "conflict": "Trump Miami Resort",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Miami Resort"
 }

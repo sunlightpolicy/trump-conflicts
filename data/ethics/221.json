@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Egypt Corp.",
+      "business": "Trump Marks Fine Foods LLC",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Egypt LLC",
+      "business": "Trump Marks Fine Foods Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "221",
-  "conflict": "Trump Marks Egypt",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Egypt"
+  "conflict": "Trump Marks Fine Foods",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Fine Foods"
 }

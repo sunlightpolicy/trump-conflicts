@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Asia Corp.",
+      "business": "Trump Marks Atlanta LLC",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Asia LLC",
+      "business": "Trump Marks Atlanta Member Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "215",
-  "conflict": "Trump Marks Asia",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Asia"
+  "conflict": "Trump Marks Atlanta",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Atlanta"
 }

@@ -11,7 +11,7 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Panama Hotel Management LLC",
+      "business": "Trump Park Avenue Acquisition LLC",
       "conflictStatus": "Active"
     },
     {
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Panama Hotel Management Member Corp.",
+      "business": "Trump Park Avenue LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "268",
-  "conflict": "Trump Panama Hotel Management Member",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Panama Hotel Management Member"
+  "conflict": "Trump Park Avenue",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Park Avenue"
 }

@@ -11,8 +11,8 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Puerto Rico II LLC",
-      "conflictStatus": "Resolved"
+      "business": "Trump Marks Punta del Este LLC",
+      "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Puerto Rico II Member Corp.",
-      "conflictStatus": "Resolved"
+      "business": "Trump Marks Punta del Este Manager Corp.",
+      "conflictStatus": "Active"
     }
   ],
   "conflictId": "244",
-  "conflict": "Trump Marks Puerto Rico Ii",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Puerto Rico Ii"
+  "conflict": "Trump Marks Punta Del Este",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Punta Del Este"
 }
