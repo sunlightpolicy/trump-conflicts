@@ -7,15 +7,13 @@
     <script src='lib/d3.js' type='text/javascript'></script>
     <script src='lib/crossfilter.js' type='text/javascript'></script>
     <script src='lib/dc.min.js' type='text/javascript'></script>
-    <script src='lib/bootstrap.min.js' type='text/javascript'></script>
+
     <script src='js/trump-conflicts.js' type='text/javascript'></script>
     <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>-->
-    <!--<link href='css/bootstrap.min.css' rel='stylesheet' type='text/css'>-->
     <link href='css/layout.css' rel='stylesheet' type='text/css'>
     <link href='css/style.css' rel='stylesheet' type='text/css'>
 
     <link href='css/dc.css' rel='stylesheet' type='text/css'>
-    <!--<link href='css/conflicts.css' rel='stylesheet' type='text/css'>-->
 </head>
 
 <body>
@@ -43,7 +41,7 @@
             <a href="data/stories.json" id="download-json"><span class="glyphicon glyphicon-download"></span>JSON</a>
             <a href="data/stories.csv" id="download-json"><span class="glyphicon glyphicon-download"></span>CSV</a>
         </div>
-        
+
         <div class='date' id='dc-chart-changeDate'>
             <span class="chart-title">Publication Date</span>
             <span class="reset" style="display: none;">
@@ -80,41 +78,42 @@
                 <a class="reset" href="javascript:mediaOutletChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
             </div>
         </div>
-        
-        <div class='results' id="results-div">
-            <div class='row'>
-                <div class="dc-data-count" style="float: left;">
-                    <h5>
-                        Showing
-                        <span class="filter-count"></span>
-                        stories out of
-                        <span class="total-count"></span> |
-                        <a href="javascript:clearAll();">Show All</a>
-                    </h5>
-                </div>
-            </div>
-            <div class='row'>
-                <div style="float: left;"><h5><span class="filter-list" id="filters"></span></h5></div>
-            </div>
 
-            <div class='row'>
-                <table class='col-12 table table-hover' id='dc-chart-table'></table>
+        <!--<div class='results' id="results-div">
+        <div class='row'>
+            <div class="dc-data-count" style="float: left;">
+                <h5>
+                    Showing
+                    <span class="filter-count"></span>
+                    stories out of
+                    <span class="total-count"></span> |
+                    <a href="javascript:clearAll();">Show All</a>
+                </h5>
             </div>
         </div>
+        <div class='row'>
+            <div style="float: left;"><h5><span class="filter-list" id="filters"></span></h5></div>
+        </div>
+
+        <div class='row'>
+            <table class='col-12 table table-hover' id='dc-chart-table'></table>
+        </div>
+    </div>-->
+
+        <table class='results' id='dc-chart-table'></table>
 
     </div>
 
 
     <hr>
 
-    <div class='row'>
-        <div class='col-12' id='dc-chart-sourceType'>
+         <div id='dc-chart-sourceType'>
             <div>
                 <span class="chart-title">Source Type</span>
                 <a class="reset" href="javascript:sourceTypeChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
             </div>
         </div>
-    </div>
+
 
 
 </body>

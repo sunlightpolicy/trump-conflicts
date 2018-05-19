@@ -80,3 +80,9 @@ JOIN SystemUser su ON s.EditorID = su.ID
 GO
 
 
+-- SELECT * FROM StoryEditView
+
+
+SELECT Name, '' Description, '' Notes FROM Conflict 
+WHERE Name NOT LIKE '<%'
+AND Name NOT LIKE '*%'

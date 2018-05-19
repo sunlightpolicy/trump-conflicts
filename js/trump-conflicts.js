@@ -258,7 +258,7 @@ function showFilters() {
     else
         filterString = "Current Filters: " + filterStrings.join(', ');
 
-    d3.select("#filters").text(filterString);
+    //d3.select("#filters").text(filterString);
 }
 
 
