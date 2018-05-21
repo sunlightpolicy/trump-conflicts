@@ -380,6 +380,10 @@ namespace Phase2 {
                     story.Link + "', " +  // Link
                     "'', " + // Headline
                     "'" + story.Date + "', " +
+                    "'', " + // Text
+                    "'', " + // Keywords
+                    "'', " + // Authors
+                    "'', " + // TopImage
                     "GetDate()," +
                     "2)" // Lynn Walsh 
                 );

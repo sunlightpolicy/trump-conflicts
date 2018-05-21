@@ -160,6 +160,10 @@ CREATE TABLE [dbo].[Story](
 	[Link] varchar(1000) NOT NULL DEFAULT '',
 	[Headline] [varchar](1000) NOT NULL DEFAULT '',
 	[Date] [date] NULL,
+	[Text] varchar(max) NOT NULL DEFAULT '',
+	[Keywords] varchar(max) NOT NULL DEFAULT '',
+	[Authors] varchar(1000) NOT NULL DEFAULT '',
+	[TopImage] varchar(1000) NOT NULL DEFAULT '',
 	[EditTime] [datetime2](6) NOT NULL CONSTRAINT [DF_Story_EditTime]  DEFAULT (getdate()),
 	[EditorID] [int] NOT NULL  REFERENCES SystemUser (ID) DEFAULT ((1)),
  CONSTRAINT [PK_Story] PRIMARY KEY CLUSTERED 
