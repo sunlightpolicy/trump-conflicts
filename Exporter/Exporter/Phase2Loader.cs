@@ -130,6 +130,7 @@ namespace Phase2 {
         List<string> RawConflictingEntities = new List<string>();
         List<string> RawBusinesses = new List<string>();
         List<string> RawFamilyMemberBusinesses = new List<string>();
+        List<string> RawNotes = new List<string>();
 
         public Phase2Loader(String path) {
             var parentsFile = "Copy of Donald & Melania.html";
@@ -155,24 +156,30 @@ namespace Phase2 {
             WriteFamilyMemberBusinessScript(path, "9");
             WriteBusinessOwnershipScript(path, "91");
 
-            using (TextWriter tw = new StreamWriter(path + "DEBUG RawConflictingEntities.txt")) {
-                foreach (String s in RawConflictingEntities)
-                    if (ConflictingEntity(s).Contains("<"))
-                        tw.WriteLine(s + ":::" + ConflictingEntity(s));
-            }
+            //using (TextWriter tw = new StreamWriter(path + "DEBUG RawConflictingEntities.txt")) {
+            //    foreach (String s in RawConflictingEntities)
+            //        if (ConflictingEntity(s).Contains("<"))
+            //            tw.WriteLine(s + ":::" + ConflictingEntity(s));
+            //}
 
-            using (TextWriter tw = new StreamWriter(path + "DEBUG RawRawBusinesses.txt")) {
-                foreach (String s in RawBusinesses) {
-                    var bus = BusUnit(s);
-                    if (bus.Contains("<"))
-                        tw.WriteLine(s + "      :" + BusUnit(s));
-                }
-            }
+            //using (TextWriter tw = new StreamWriter(path + "DEBUG RawRawBusinesses.txt")) {
+            //    foreach (String s in RawBusinesses) {
+            //        var bus = BusUnit(s);
+            //        if (bus.Contains("<"))
+            //            tw.WriteLine(s + "      :" + BusUnit(s));
+            //    }
+            //}
 
-            using (TextWriter tw = new StreamWriter(path + "DEBUG RawFamilyMemberBusinesses.txt")) {
-                foreach (String s in RawFamilyMemberBusinesses)
-                    if (FamilyDescription(s).Contains("<"))
-                        tw.WriteLine(s + ":::" + FamilyDescription(s));
+            //using (TextWriter tw = new StreamWriter(path + "DEBUG RawFamilyMemberBusinesses.txt")) {
+            //    foreach (String s in RawFamilyMemberBusinesses)
+            //        if (FamilyDescription(s).Contains("<"))
+            //            tw.WriteLine(s + ":::" + FamilyDescription(s));
+            //}
+
+            using (TextWriter tw = new StreamWriter(path + "DEBUG RawNotes.txt")) {
+                foreach (String s in RawNotes)
+                    if (Notes(s).Contains("<") || Notes(s).Contains("class"))
+                        tw.WriteLine(s + ":::" + Notes(s));
             }
         }
 
@@ -224,7 +231,10 @@ namespace Phase2 {
             // Add Conflict to list if it isn't already there.
             if (!Conflicts.ContainsKey(name)) {
 
-                var description = Description(cols[(int)Col.ConflictDescription]);
+                var description = ConflictDescription(cols[(int)Col.ConflictDescription]);
+
+                RawNotes.Add(cols[(int)Col.Notes]);
+
                 var note = Notes(cols[(int)Col.Notes]);
                 var date = DateChanged(cols[(int)Col.DatePublished]);
 
@@ -537,10 +547,18 @@ namespace Phase2 {
         }
                 
 
-        public string Description(string txt) {
-            var subs = txt.Split('>');
+        public string ConflictDescription(string txt) {
+            if (txt.Contains("ltr\">"))
+                txt = txt.Substring(txt.LastIndexOf("ltr\">") + 5);
+
+            if (txt.Contains("px;\">"))
+                txt = txt.Substring(txt.LastIndexOf("px;\">") + 5);
+
+            txt = txt.Replace("</div></td>", "");
+            txt = txt.Replace("</td>", "");
+
             return
-                subs[1].Replace("</td", "").TrimEnd().TrimStart();
+                txt.TrimEnd().TrimStart();
         }
 
         public string FamilyDescription(string txt) {
@@ -619,9 +637,20 @@ namespace Phase2 {
         }
 
         private string Notes(string txt) {
-            var subs = txt.Split('>');
+            if (txt.Contains("ltr\">"))
+                txt = txt.Substring(txt.LastIndexOf("ltr\">") + 5);
+
+            if (txt.Contains("px;\">"))
+                txt = txt.Substring(txt.LastIndexOf("px;\">") + 5);
+
+            txt = txt.Replace("</div></td>", "");
+            txt = txt.Replace("</td>", "");
+
+            if (txt.Contains("class=\"s7\">"))
+                txt = "";
+
             return
-                subs[1].Replace("</td", "").TrimEnd().TrimStart();
+                txt.TrimEnd().TrimStart();
         }
 
         private DateTime DateChanged(string txt) {
