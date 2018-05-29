@@ -1,6 +1,6 @@
 [
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 40 Wall Street",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "40 Wall Street",
     "category": "Active",
@@ -14,7 +14,7 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Donald J. Trump Foundation",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Foundation",
     "category": "Active",
@@ -28,7 +28,7 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Donald J. Trump Revocable Trust",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Revocable Trust",
     "category": "Active",
@@ -42,7 +42,7 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): General Services Administration",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "General Services Administration",
     "category": "Active",
@@ -56,7 +56,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): General Services Administration",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "General Services Administration",
     "category": "Active",
@@ -98,7 +98,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Holds United Technologies",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Holds United Technologies",
     "category": "Active",
@@ -112,7 +112,7 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Holds United Technologies",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Holds United Technologies",
     "category": "Active",
@@ -126,7 +126,7 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Hudson Waterfront Associates",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Hudson Waterfront Associates",
     "category": "Active",
@@ -140,7 +140,7 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Internal Revenue Service",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Internal Revenue Service",
     "category": "Active",
@@ -154,7 +154,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Ladder Capital",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Ladder Capital",
     "category": "Active",
@@ -168,7 +168,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Ladder Capital",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Ladder Capital",
     "category": "Active",
@@ -196,7 +196,7 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Merrill Lynch Credit Corporation D/B/A Merrill Lynch Home Loans",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Merrill Lynch Credit Corporation D/B/A Merrill Lynch Home Loans",
     "category": "Active",
@@ -252,7 +252,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Nbc",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Nbc",
     "category": "Active",
@@ -266,7 +266,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): New Sunshine LLC",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "New Sunshine LLC",
     "category": "Active",
@@ -280,7 +280,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Police Athletic League",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Police Athletic League",
     "category": "Active",
@@ -336,7 +336,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): The Daily Mail",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "The Daily Mail",
     "category": "Active",
@@ -350,7 +350,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): The Daily Mail",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "The Daily Mail",
     "category": "Active",
@@ -364,7 +364,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Entrepreneur Initiative (Formerly Trump University Ca)",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Trump Entrepreneur Initiative (Formerly Trump University Ca)",
     "category": "Active",
@@ -378,7 +378,7 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Hotel Rio De Janeiro",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Trump Hotel Rio De Janeiro",
     "category": "Active",
@@ -392,7 +392,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Hotel Rio De Janeiro",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Trump Hotel Rio De Janeiro",
     "category": "Active",
@@ -406,7 +406,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Hotel Rio De Janeiro",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Trump Hotel Rio De Janeiro",
     "category": "Active",
@@ -462,7 +462,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Mortgage",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Trump Mortgage",
     "category": "Active",
@@ -476,7 +476,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Mortgage",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Trump Mortgage",
     "category": "Active",
@@ -490,7 +490,7 @@
     "hasEthics": false
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Organization LLC D/B/A The Trump Organization",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Trump Organization LLC D/B/A The Trump Organization",
     "category": "Active",
@@ -504,7 +504,7 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Organization LLC D/B/A The Trump Organization",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Trump Organization LLC D/B/A The Trump Organization",
     "category": "Active",
@@ -518,7 +518,7 @@
     "hasEthics": true
   },
   {
-    "description": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Towers Istanbul",
+    "description": "",
     "familyMember": "Donald Trump",
     "conflict": "Trump Towers Istanbul",
     "category": "Active",
