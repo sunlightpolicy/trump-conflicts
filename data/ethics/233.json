@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Mortgage Corp.",
-      "conflictStatus": "Active"
+      "description": "Former president/member of Trump Classic Cars LLC. The company, owned by Trump, was reportedly dissolved on Oct. 17, 2016.",
+      "business": "Trump Classic Cars LLC",
+      "conflictStatus": "Resolved"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/chairman/director of Trump Classic Cars Member Corp. The company, owned by Trump, was reportedly dissolved on Oct. 17, 2016.",
+      "business": "Trump Classic Cars Member Corp.",
+      "conflictStatus": "Resolved"
     }
   ],
   "conflictId": "233",
-  "conflict": "Trump Marks Mortgage",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Mortgage"
+  "conflict": "Trump Classic Cars",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Classic Cars"
 }

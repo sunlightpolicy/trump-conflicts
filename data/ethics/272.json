@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Plaza LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Plaza Member Inc. (F/K/A Trump Plaza Corp.)",
+      "description": "Former director and vice-president of Trump Management Inc., in which Pres. Trump retains ownership interests.",
+      "business": "Trump Management Inc.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "272",
-  "conflict": "Trump Plaza Member Formerly Trump Plaza",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Plaza Member Formerly Trump Plaza"
+  "conflict": "Trump Management",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Management"
 }

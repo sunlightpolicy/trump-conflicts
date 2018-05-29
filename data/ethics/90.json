@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Mar-A-Lago Club, Inc.",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Mar-A-Lago Club, L.L.C.",
+      "description": "Former director/chairman of Fifty Seven Management Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Fifty Seven Management Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "90",
-  "conflict": "Mar-A-Lago Club",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Mar-A-Lago Club"
+  "conflict": "Fifty Seven Management",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Fifty Seven Management"
 }

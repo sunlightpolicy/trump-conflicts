@@ -1,0 +1,21 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former director/chairman of the now-dormant or inactive Trump Toronto Member Corp. (F/K/A Trump Toronto Management Member Corp.), in which Pres. Trump retains an ownership interest.",
+      "business": "Trump Toronto Member Corp. (F/K/A Trump Toronto Management Member Corp.)",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "352",
+  "conflict": "Trump Toronto Member (Formerly Trump Toronto Management)",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Toronto Member (Formerly Trump Toronto Management)"
+}

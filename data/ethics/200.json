@@ -6,21 +6,16 @@
           "name": "2016 Office of Government Ethics Form 278e",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-        },
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump International Golf Links - Scotland",
+      "description": "Former member/president of TIHT Commercial LLC, of which Pres. Trump retains ownership interests.",
+      "business": "Tiht Commercial LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "200",
-  "conflict": "Trump International Golf Club - Scotland",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump International Golf Club - Scotland"
+  "conflict": "Tiht Commercial",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tiht Commercial"
 }

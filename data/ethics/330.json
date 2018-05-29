@@ -1,0 +1,21 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former member of Trump Palace/Parc LLC, in which Pres. Trump retains an ownership interest.",
+      "business": "Trump Palace/Parc LLC",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "330",
+  "conflict": "Trump Palace/Parc",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Palace/Parc"
+}

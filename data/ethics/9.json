@@ -3,15 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2015 Office of Government Ethics Form 278e",
-          "date": "7/15/2015 12:00:00 AM",
-          "link": "https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-fec-financial-disclosure-2015.pdf"
-        },
-        {
           "name": "2016 Office of Government Ethics Form 278e",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-        },
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Pres. Trump resigned his position from 809 North Canon LLC, but retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "809 North Canon LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
         {
           "name": "2016 Office of Government Ethics Form 278e",
           "date": "5/18/2016 12:00:00 AM",
@@ -20,12 +24,12 @@
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "845 UN Limited Partnership",
+      "description": "Pres. Trump resigned his position from 809 North Canon Member Corporation, but retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "809 North Canon Member Corporation",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "9",
-  "conflict": "845 Un",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 845 Un"
+  "conflict": "809 North Canon",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 809 North Canon"
 }

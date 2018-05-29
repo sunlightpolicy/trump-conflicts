@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Fifty Seventh Street Associates LLC",
+      "description": "Former member/president of the now-dormant or inactive DT Marks Pune II LLC, of which Pres. Trump retains an ownership stake.",
+      "business": "Dt Marks Pune Ii LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former director/chairman/president of the now-dormant or inactive DT Marks Pune II Managing Member Corp., of which Pres. Trump retains an ownership stake.",
+      "business": "Dt Marks Pune Ii Managing Member Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "75",
-  "conflict": "Fifty Seventh Street Associates",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Fifty Seventh Street Associates"
+  "conflict": "Dt Marks Pune Ii",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dt Marks Pune Ii"
 }

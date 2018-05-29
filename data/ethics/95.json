@@ -6,41 +6,16 @@
           "name": "2016 Office of Government Ethics Form 278e",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-        },
-        {
-          "name": "2016 Office of Government Ethics Form 278e",
-          "date": "5/18/2016 12:00:00 AM",
-          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-        },
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        },
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        },
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        },
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Ocean Development Member Inc.",
+      "description": "Former member of the now-dormant or inactive Fontainbleu Apartments LLC, of which Pres. Trump retains an ownership interest.",
+      "business": "Fontainbleu Apartments LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "95",
-  "conflict": "Ocean Development Member",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Ocean Development Member"
+  "conflict": "Fontainbleu Apartments",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Fontainbleu Apartments"
 }

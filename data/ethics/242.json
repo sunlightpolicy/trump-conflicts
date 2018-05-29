@@ -3,33 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Puerto Rico I LLC",
+      "description": "Former president of Trump Endeavor 12 LLC (Trump National Doral), in which Pres. Trump retains ownership interests.",
+      "business": "Trump Endeavor 12 LLC (Trump National Doral)",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Puerto Rico I Member Corp.",
+      "description": "Trump Endeavor 12 Manager Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Trump Endeavor 12 Manager Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "242",
-  "conflict": "Trump Marks Puerto Rico I",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Puerto Rico I"
+  "conflict": "Trump Endeavor 12",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Endeavor 12"
 }

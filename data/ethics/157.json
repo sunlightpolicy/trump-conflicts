@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "TIHT Member LLC",
+      "description": "Pres. Trump holds a 4 percent limited partnership interest in the residential real estate firm Starrett City Associates, L.P. through several entities, including the The Donald J. Trump Revocable Trust. His stake is loosely valued between $5 million and $25 million.",
+      "business": "Starrett City Associates, L.P.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "157",
-  "conflict": "Tiht Member",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tiht Member"
+  "conflict": "Starrett City Associates, L.P.",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Starrett City Associates, L.P."
 }

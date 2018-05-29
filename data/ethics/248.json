@@ -3,33 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Sunny Isles I LLC",
+      "description": "Former member and president of the now-dormant or inactive The Trump Follies LLC, of which Pres. Trump retains an ownership interest.",
+      "business": "The Trump Follies LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Sunny Isles I Member Corp.",
+      "description": "Former chairman/director/president of the now-dormant or inactive The Trump Follies Member Inc., of which Pres. Trump retains an ownership interest.",
+      "business": "The Trump Follies Member Inc.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "248",
-  "conflict": "Trump Marks Sunny Isles I",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Sunny Isles I"
+  "conflict": "Trump Follies",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Follies"
 }

@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Home Marks International LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Home Marks International Member Corp.",
+      "description": "Former trustee of The Donald J. Trump Grantor Trust. In Pres. Trump&#39;s 2017 financial disclosure, it was clarified that Pres. Trump is the Trustee Successor, and Donald Trump Jr. is the Trustee. Its current activity status and control structures are not reported.",
+      "business": "The Donald J. Trump Grantor Trust",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "46",
-  "conflict": "Dt Home Marks International",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dt Home Marks International"
+  "conflict": "Donald J. Trump Grantor Trust",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Donald J. Trump Grantor Trust"
 }

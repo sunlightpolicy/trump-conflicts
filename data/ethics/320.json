@@ -1,0 +1,35 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former secretary/president/director of VH Property Corp. (Trump National Golf Club - Los Angeles), in which Pres. Trump retains an ownership interest.",
+      "business": "Vh Property Corp. (Trump National Golf Club - Los Angeles)",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/member of VHPS LLC, in which Pres. Trump retains an ownership interest.",
+      "business": "Vhps LLC",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "320",
+  "conflict": "Trump National Golf Club - Los Angeles",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump National Golf Club - Los Angeles"
+}

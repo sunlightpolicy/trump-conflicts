@@ -3,131 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "TIHH Member Corp",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "TIHH Member LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump 845 UN GP LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump 845 UN MGR Corp.",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump 845 UN MGR LLC (F/K/A 845 UN LLC)",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Chicago Retail LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Chicago Retail Manager LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Chicago Retail Member Corp.",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "VH Property Corp. (Trump National Golf Club - Los Angeles)",
+      "description": "Former president of Seven Springs LLC, in which Pres. Trump retains an ownership interest.",
+      "business": "Seven Springs LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "152",
-  "conflict": "*** See Friendly Names Notes",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): *** See Friendly Names Notes"
+  "conflict": "Seven Springs",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Seven Springs"
 }

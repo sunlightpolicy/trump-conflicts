@@ -3,29 +3,43 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2015 Office of Government Ethics Form 278e",
-          "date": "7/15/2015 12:00:00 AM",
-          "link": "https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-fec-financial-disclosure-2015.pdf"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/director/chairman of Trump Marks Beverages Corp. The company was reportedly dormant or inactive as of May 2016, at which time Trump retained an ownership interest. Its current activity status and ownership structure are not reported in his 2017 financial disclosure.",
+      "business": "Trump Marks Beverages Corp.",
+      "conflictStatus": "Potential"
+    },
+    {
+      "ethicsDocuments": [
         {
           "name": "2016 Office of Government Ethics Form 278e",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         },
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump SoHo Hotel Condominium New York",
+      "description": "Former member/president of Trump Marks Beverages LLC. The company was reportedly dormant or inactive as of May 2016, at which time Trump retained an ownership interest. Its current activity status and ownership structure are not reported in his 2017 financial disclosure.",
+      "business": "Trump Marks Beverages LLC",
       "conflictStatus": "Potential"
     }
   ],
   "conflictId": "279",
-  "conflict": "*See Family Relationship &Amp; Notes.",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): *See Family Relationship &Amp; Notes."
+  "conflict": "Trump Marks Beverages",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Beverages"
 }

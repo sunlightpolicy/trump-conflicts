@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Las Vegas Development LLC",
+      "description": "Former president of TNGC Charlotte LLC. It is not clear whether this business entity is the same as an entity called &quot;Trump National Golf Club - Charlotte,&quot; in which Pres. Trump retains ownership interests. The current activity status and ownership structure of TNGC Charlotte LLC have not been listed on his financial disclosures.",
+      "business": "Tngc Charlotte LLC",
+      "conflictStatus": "Potential"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/chairman/director of TNGC Charlotte Manager Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Tngc Charlotte Manager Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "206",
-  "conflict": "Trump Las Vegas Development",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Las Vegas Development"
+  "conflict": "Tngc Charlotte",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tngc Charlotte"
 }

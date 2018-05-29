@@ -3,33 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Tower II LLC",
+      "description": "Former member/president of DT Marks Dubai LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
+      "business": "Dt Marks Dubai LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Tower II Member Corp.",
+      "description": "Former director/chairman/president of DT Marks Dubai Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
+      "business": "Dt Marks Dubai Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "67",
-  "conflict": "Dt Tower Ii",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dt Tower Ii"
+  "conflict": "Dt Marks Dubai",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dt Marks Dubai"
 }

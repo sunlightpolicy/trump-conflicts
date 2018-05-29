@@ -1,0 +1,35 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/member of Trump Old Post Office LLC, in which Pres. Trump retains an ownership interest.",
+      "business": "Trump Old Post Office LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/director/chairman of Trump Old Post Office Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Trump Old Post Office Member Corp.",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "325",
+  "conflict": "Trump Old Post Office",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Old Post Office"
+}

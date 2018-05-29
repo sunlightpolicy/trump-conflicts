@@ -3,33 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Menswear LLC",
+      "description": "Former president/member of the now-dormant or inactive Trump Chicago Retail Manager LLC, in which Pres. Trump retains ownership interests.",
+      "business": "Trump Chicago Retail Manager LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Menswear Member Corp.",
+      "description": "Former president/chairman/director of the now-dormant or inactive Trump Chicago Retail Member Corp., in which Pres. Trump retains ownership interests.",
+      "business": "Trump Chicago Retail Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "232",
-  "conflict": "Trump Marks Menswear",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Menswear"
+  "conflict": "Trump Chicago Retail",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Chicago Retail"
 }

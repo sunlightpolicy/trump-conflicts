@@ -1,0 +1,35 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president of TW Venture II LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Tw Venture Ii LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former director/chairman/president of TW Venture II Managing Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Tw Venture Ii Managing Member Corp",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "369",
+  "conflict": "Tw Venture Ii",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tw Venture Ii"
+}

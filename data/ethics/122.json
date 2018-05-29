@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "THC Barra Hotelaria LTDA",
+      "description": "Former member of the now-dormant or inactive Lawrence Towers Apartments LLC, in which Pres. Trump retains an ownership interest.",
+      "business": "Lawrence Towers Apartments LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "122",
-  "conflict": "Thc Barra Hotelaria",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Thc Barra Hotelaria"
+  "conflict": "Lawrence Towers Apartments",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Lawrence Towers Apartments"
 }

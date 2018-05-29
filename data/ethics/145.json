@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "The Trump Equitable Fifth Avenue Company",
-      "conflictStatus": "Active"
+      "description": "Former board member of The Police Athletic League, Inc., which also has been a notable beneficiary of charitable giving from the Donald J. Trump Foundation.",
+      "business": "The Police Athletic League, Inc.",
+      "conflictStatus": "Potential"
     }
   ],
   "conflictId": "145",
-  "conflict": "The Trump Equitable Fifth Avenue",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): The Trump Equitable Fifth Avenue"
+  "conflict": "Police Athletic League",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Police Athletic League"
 }

@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Restaurant 40 LLC",
-      "conflictStatus": "Resolved"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Restaurant 40 Member Corp.",
-      "conflictStatus": "Resolved"
+      "description": "Former partner in Hudson Waterfront Associates II, L.P., in which Pres. Trump retains an ownership interest. His resignation from this company was noted in a 19-page resignation letter the day before his inauguration in January 2017. The former position was not listed on his 2017 financial disclosure, but its ownership structure was articulated. The company reportedly has no independent value or income, is not inactive nor dormant, and is not part of an entity structure or license deal.",
+      "business": "Hudson Waterfront Associates Ii, Lp",
+      "conflictStatus": "Active"
     }
   ],
   "conflictId": "107",
-  "conflict": "Restaurant 40",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Restaurant 40"
+  "conflict": "Hudson Waterfront Associates Ii",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Hudson Waterfront Associates Ii"
 }

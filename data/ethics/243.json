@@ -3,33 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Puerto Rico II LLC",
-      "conflictStatus": "Resolved"
+      "description": "Former member of The Trump Entrepreneur Initiative LLC (f/k/a Trump University CA LLC). Trump retains an ownership interest.",
+      "business": "The Trump Entrepreneur Initiative LLC (F/K/A Trump University Ca LLC)",
+      "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Puerto Rico II Member Corp.",
-      "conflictStatus": "Resolved"
+      "description": "Trump retains an ownership interest in The Trump Entrepreneur Initiative LLC (NY Domestic), which reportedly has no independent value or income and is part of other entity structures. The company is not listed as an entity outside of federal government in which he holds a position.",
+      "business": "The Trump Entrepreneur Initiative LLC (NY Domestic)",
+      "conflictStatus": "Active"
     }
   ],
   "conflictId": "243",
-  "conflict": "Trump Marks Puerto Rico Ii",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Puerto Rico Ii"
+  "conflict": "Trump Entrepreneur Initiative (Formerly Trump University Ca)",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Entrepreneur Initiative (Formerly Trump University Ca)"
 }

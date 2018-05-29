@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "4T Holdings Two LLC",
+      "description": "Pres. Trump retains an ownership interest in the now-dormant or inactive 4T Holdings One LLC. Any current or former positions he may have held with the company are not reported on his financial disclosures.",
+      "business": "4T Holdings One LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "6",
-  "conflict": "4T Holdings Two",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 4T Holdings Two"
+  "conflict": "4T Holdings One",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 4T Holdings One"
 }

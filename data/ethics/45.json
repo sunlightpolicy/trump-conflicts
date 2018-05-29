@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Endeavor I LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Endeavor I Member Corp.",
-      "conflictStatus": "Active"
+      "description": "Former director of The Donald J. Trump Foundation, Inc., the current activity status and control structures of which are not reported. The foundation received $150,000 from the Victor Pinchuk Foundation and Yalta European Strategy (YES) — an NGO founded by Mr. Pinchuk — for a video speech Trump made in September 2015.",
+      "business": "The Donald J. Trump Foundation, Inc.",
+      "conflictStatus": "Potential"
     }
   ],
   "conflictId": "45",
-  "conflict": "*See Friendly Name Protocol Notes",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): *See Friendly Name Protocol Notes"
+  "conflict": "Donald J. Trump Foundation",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Donald J. Trump Foundation"
 }

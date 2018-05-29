@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Las Vegas Member LLC",
+      "description": "Former president of TNGC Jupiter Management LLC, in which Pres. Trump retains an ownership interest.",
+      "business": "Tngc Jupiter Management LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president of TNGC Jupiter Managing Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Tngc Jupiter Managing Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "208",
-  "conflict": "Trump Las Vegas Member",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Las Vegas Member"
+  "conflict": "Tngc Jupiter",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tngc Jupiter"
 }

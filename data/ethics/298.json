@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "West Palm Operations LLC",
+      "description": "Former director/president of the now-dormant or inactive Trump Marks Philadelphia Corp., in which Pres. Trump retains ownership interests.",
+      "business": "Trump Marks Philadelphia Corp.",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/member of the now-dormant or inactive Trump Marks Philadelphia LLC, in which Pres. Trump retains ownership interests.",
+      "business": "Trump Marks Philadelphia LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "298",
-  "conflict": "West Palm Operations",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): West Palm Operations"
+  "conflict": "Trump Marks Philadelphia",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Philadelphia"
 }

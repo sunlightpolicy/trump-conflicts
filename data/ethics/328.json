@@ -1,0 +1,21 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former chairman and president/member of the now-dormant or inactive Trump Organization LLC, of which Pres. Trump retains an ownership interest.",
+      "business": "Trump Organization LLC (D/B/A The Trump Organization)",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "328",
+  "conflict": "Trump Organization LLC D/B/A The Trump Organization",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Organization LLC D/B/A The Trump Organization"
+}

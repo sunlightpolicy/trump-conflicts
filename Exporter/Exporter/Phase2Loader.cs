@@ -126,6 +126,10 @@ namespace Phase2 {
         List<BusinessOwnership> BusinessOwnerships = new List<BusinessOwnership>();
 
 
+        // Debugging Spreadheet
+        List<string> RawConflictingEntities = new List<string>();
+        List<string> RawBusinesses = new List<string>();
+        List<string> RawFamilyMemberBusinesses = new List<string>();
 
         public Phase2Loader(String path) {
             var parentsFile = "Copy of Donald & Melania.html";
@@ -150,6 +154,26 @@ namespace Phase2 {
 
             WriteFamilyMemberBusinessScript(path, "9");
             WriteBusinessOwnershipScript(path, "91");
+
+            using (TextWriter tw = new StreamWriter(path + "DEBUG RawConflictingEntities.txt")) {
+                foreach (String s in RawConflictingEntities)
+                    if (ConflictingEntity(s).Contains("<"))
+                        tw.WriteLine(s + ":::" + ConflictingEntity(s));
+            }
+
+            using (TextWriter tw = new StreamWriter(path + "DEBUG RawRawBusinesses.txt")) {
+                foreach (String s in RawBusinesses) {
+                    var bus = BusUnit(s);
+                    if (bus.Contains("<"))
+                        tw.WriteLine(s + "      :" + BusUnit(s));
+                }
+            }
+
+            using (TextWriter tw = new StreamWriter(path + "DEBUG RawFamilyMemberBusinesses.txt")) {
+                foreach (String s in RawFamilyMemberBusinesses)
+                    if (FamilyDescription(s).Contains("<"))
+                        tw.WriteLine(s + ":::" + FamilyDescription(s));
+            }
         }
 
         private void ImportPage(List<Conflict> conflicts, string file) {
@@ -167,7 +191,7 @@ namespace Phase2 {
                     if (cols.Length < 2)
                         return;
 
-                    Console.WriteLine(cols.Length.ToString());
+                    //Console.WriteLine(cols.Length.ToString());
 
                     AddBusinesss(cols);
                     AddConflict(cols);
@@ -177,7 +201,8 @@ namespace Phase2 {
                 }
                 rowNum++;
             }
-            
+                       
+
             Console.WriteLine(Businesss.Count.ToString() + " BusinesUnits");
             Console.WriteLine(Conflicts.Count.ToString() + " Conflicts");
             Console.WriteLine(Stories.Count.ToString() + " Stories");
@@ -188,15 +213,15 @@ namespace Phase2 {
             if (name == "")
                 return;
 
-            if (name.Contains("Class=")) {
-                Console.WriteLine(name);
-                return;
-            }
+            //if (name.Contains("Class=")) {
+            //    Console.WriteLine(name);
+            //    return;
+            //}
 
 
             Conflict conflict;
 
-            // Add Conflict to list is it isn't already there.
+            // Add Conflict to list if it isn't already there.
             if (!Conflicts.ContainsKey(name)) {
 
                 var description = Description(cols[(int)Col.ConflictDescription]);
@@ -215,7 +240,7 @@ namespace Phase2 {
 
             
             // Add link between conflict and business
-            var business = BusUnit(cols[(int)Col.ConflictingEntity]);
+            var business = ConflictingEntity(cols[(int)Col.ConflictingEntity]);
             var busConflict = new BusinessConflict();
             busConflict.Conflict = conflict.Name;
             busConflict.Business = business;
@@ -229,12 +254,15 @@ namespace Phase2 {
         }
 
         private void AddStoryAndEthicsDocument(string familyMemberCol, string conflictingEntityCol, string conflictCol, string linkCol, string dateCol) {
+
+            RawConflictingEntities.Add(conflictingEntityCol);
+
             var fields = linkCol.Split(new[] { " href=" }, StringSplitOptions.None);
             if (fields.Length < 2)
                 return;
 
             var familyMember = FamilyMember(familyMemberCol);
-            var business = BusUnit(conflictingEntityCol);
+            var business = ConflictingEntity(conflictingEntityCol);
             var conflict = ConflictingEntity(conflictCol);
 
             var linkAndName = fields[1].Split('>');
@@ -270,13 +298,13 @@ namespace Phase2 {
                 }
             } else { // it is a Ethics Doc reference 
                 // Add a new Ethics Doc if neccessary
-                if ((mediaOutlet != "") && (!EthicsDocuments.ContainsKey(mediaOutlet + dte.ToString()))) {
-                    EthicsDocuments.Add(mediaOutlet + dte.ToString(), new EthicsDocument(familyMember, dte, link));
+                if ((mediaOutlet != "") && (!EthicsDocuments.ContainsKey(mediaOutlet))) {
+                    EthicsDocuments.Add(mediaOutlet, new EthicsDocument(familyMember, dte, link));
                 }
 
                 var ethicsDocRef = new EthicsDocumentBusiness();
                 ethicsDocRef.Business = business;
-                EthicsDocuments.TryGetValue(mediaOutlet + dte.ToString(), out ethicsDocRef.EthicsDocument); 
+                EthicsDocuments.TryGetValue(mediaOutlet, out ethicsDocRef.EthicsDocument); 
                 EthicsDocumentBusiness.Add(ethicsDocRef);
             }   
         }
@@ -312,7 +340,9 @@ namespace Phase2 {
             x.Business = ConflictingEntity(cols[(int)Col.ConflictingEntity]);
             x.ConflictStatus = Category(cols[(int)Col.FamilyMemberConflictStatus]);
             x.FamilyMember = FamilyMember(cols[(int)Col.FamilyMember]);
-            x.Description = Description(cols[(int)Col.FamilyRelationshipDescription]);
+            x.Description = FamilyDescription(cols[(int)Col.FamilyRelationshipDescription]);
+
+            RawFamilyMemberBusinesses.Add(cols[(int)Col.FamilyRelationshipDescription]);
 
             if (x.Business != "")
                 FamilyMemberBusiness.Add(x);
@@ -320,16 +350,22 @@ namespace Phase2 {
 
 
         private void AddBusinesss(string [] cols) {
+            RawBusinesses.Add(cols[(int)Col.Parent1]);
+            RawBusinesses.Add(cols[(int)Col.Parent2]);
+            RawBusinesses.Add(cols[(int)Col.Parent3]);
+            RawBusinesses.Add(cols[(int)Col.ConflictingEntity]);
+
             AddBusiness(BusUnit(cols[(int)Col.Parent1]));
             AddBusiness(BusUnit(cols[(int)Col.Parent2]));
             AddBusiness(BusUnit(cols[(int)Col.Parent3]));
 
-            AddBusiness(BusUnit(cols[(int)Col.ConflictingEntity]));
+            AddBusiness(ConflictingEntity(cols[(int)Col.ConflictingEntity]));
         }
 
         private void AddBusiness(string unit) {
             if (unit == "")
                 return;
+
             if (!Businesss.ContainsKey(unit))
                 Businesss.Add(unit, Businesss.Count.ToString());
         }
@@ -499,17 +535,26 @@ namespace Phase2 {
             DateTime date = Convert.ToDateTime(dte.Replace(".", ""));
             return date;
         }
-
-        private string BusUnit(string txt) {
-            var subs = txt.Split('>');
-            return
-                subs[1].Replace("</td", "").TrimEnd().TrimStart();
-        }
+                
 
         public string Description(string txt) {
             var subs = txt.Split('>');
             return
                 subs[1].Replace("</td", "").TrimEnd().TrimStart();
+        }
+
+        public string FamilyDescription(string txt) {
+            if (txt.Contains("ltr\">"))
+                txt = txt.Substring(txt.LastIndexOf("ltr\">") + 5);
+
+            if (txt.Contains("px;\">"))
+                txt = txt.Substring(txt.LastIndexOf("px;\">") + 5);
+
+            txt = txt.Replace("</div></td>", "");
+            txt = txt.Replace("</td>", "");
+
+            return
+                txt.TrimEnd().TrimStart();
         }
 
         public string FamilyMember(string txt) {
@@ -520,20 +565,35 @@ namespace Phase2 {
                     .TrimStart()
                     .Replace("ump, Jr", "ump Jr");
         }
+        
+        private string BusUnit(string txt) {
+            if (txt.Contains("ltr\">"))
+                txt = txt.Substring(txt.LastIndexOf("ltr\">") + 5);
+
+            if (txt.Contains("px;\">"))
+                txt = txt.Substring(txt.LastIndexOf("px;\">") + 5);
+
+            txt = txt.Replace("</div></td>", "");
+            txt = txt.Replace("</td>", "");
+
+            txt = txt.TrimEnd().TrimStart();
+            return 
+                CleanEntity(txt);
+        }
 
         private string ConflictingEntity(string txt) {
-            if (txt.Contains("class=\"s10 softmerge\" dir=\"ltr\"><div class=\"softmerge-inner\" style=\"width: 342px; left: -1px;\">")) {
-                txt = txt.Replace("class=\"s10 softmerge\" dir=\"ltr\"><div class=\"softmerge-inner\" style=\"width: 342px; left: -1px;\">", "");
-                txt = txt.Replace("</div></td>", "");
-                return CleanEntity(txt);
-            }
             
-            var subs = txt.Split('>');
-            var entity = subs[1].Replace("</td", "").TrimEnd().TrimStart();
+            if (txt.Contains("px;\">"))
+                txt = txt.Substring(txt.LastIndexOf("px;\">") + 5);
 
-            //if (entity.Contains("Class="))
-            //    Console.WriteLine(entity);
+            if (txt.Contains("ltr\">"))
+                txt = txt.Substring(txt.LastIndexOf("ltr\">") + 5);
 
+            txt = txt.Replace("</div></td>", "");
+            txt = txt.Replace("</td>", "");
+
+            var entity = txt.TrimEnd().TrimStart();
+            
             return
                 CleanEntity(entity);
         }

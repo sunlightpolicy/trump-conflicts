@@ -3,19 +3,61 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "4T Holdings One LLC",
+      "description": "Pres. Trump resigned as a member and president of 40 Wall Development Associates LLC, but retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "40 Wall Development Associates LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Pres. Trump resigned as president of 40 Wall Street Commercial LLC, but retains an ownership interest.",
+      "business": "40 Wall Street Commercial LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Pres. Trump resigned his position from 40 Wall Street LLC, but retains an ownership interest.",
+      "business": "40 Wall Street LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Pres. Trump resigned his position from 40 Wall Street Member Corp., but retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "40 Wall Street Member Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "5",
-  "conflict": "4T Holdings One",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 4T Holdings One"
+  "conflict": "40 Wall Street",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 40 Wall Street"
 }

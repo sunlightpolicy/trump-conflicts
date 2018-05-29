@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT India Venture LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT India Venture Managing Member Corp.",
+      "description": "Former trustee of The Donald J. Trump Revocable Trust, which was established to hold Trump&#39;s exclusive assets. Its trustees as of Jan. 17, 2017, were Donald Trump Jr. and Trump Organization CFO Allen Weisselberg. Pres. Trump may withdraw money and underlying assets from the revocable trust as he pleases.",
+      "business": "The Donald J. Trump Revocable Trust",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "47",
-  "conflict": "Dt India Venture",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dt India Venture"
+  "conflict": "Donald J. Trump Revocable Trust",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Donald J. Trump Revocable Trust"
 }

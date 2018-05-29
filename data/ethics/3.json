@@ -3,33 +3,29 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "4 Shadow Tree Lane LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "4 Shadow Tree Lane Member Corp",
-      "conflictStatus": "Active"
+      "description": "Pres. Trump resigned as president/director of 3126 Corporation; however, its ownership structure is unclear, as it has not been reported on his financial disclosures.",
+      "business": "3126 Corporation",
+      "conflictStatus": "Potential"
     }
   ],
   "conflictId": "3",
-  "conflict": "4 Shadow Tree Lane",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 4 Shadow Tree Lane"
+  "conflict": "3126 Corporation",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): 3126 Corporation"
 }

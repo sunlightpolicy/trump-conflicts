@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Payroll Chicago LLC",
+      "description": "Former president of Trump Las Vegas Sales &amp; Marketing Inc., in which Pres. Trump retains ownership interests. The company holds a sales &amp; marketing deal with Trump Ruffin Tower I LLC.",
+      "business": "Trump Las Vegas Sales &Amp; Marketing Inc.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "269",
-  "conflict": "Trump Payroll Chicago",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Payroll Chicago"
+  "conflict": "Trump Las Vegas Sales &Amp; Marketing",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Las Vegas Sales &Amp; Marketing"
 }

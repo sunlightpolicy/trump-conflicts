@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "THC Venture III LLC (N/K/A TTTT Venture LLC)",
-      "conflictStatus": "Active"
+      "description": "Former member/president of Paramount RPV Holdings LLC, which was reportedly dissolved on Oct. 14, 2016.",
+      "business": "Paramount Rpv Holdings LLC",
+      "conflictStatus": "Resolved"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/director/chairman of Paramount RPV Holdings Manager Corp., which was reportedly dissolved on Oct. 14, 2016.",
+      "business": "Paramount Rpv Holdings Manager Corp.",
+      "conflictStatus": "Resolved"
     }
   ],
   "conflictId": "139",
-  "conflict": "Thc Venture Iii N/K/A Tttt Venture",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Thc Venture Iii N/K/A Tttt Venture"
+  "conflict": "Paramount Rpv Holdings",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Paramount Rpv Holdings"
 }

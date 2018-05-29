@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "D B Pace Acquisition Member Corp.",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "D B Pace Acquisition, LLC.",
+      "description": "Part-owner, with unnamed family members, of the now-dormant or inactive Clyde Hall, Inc. Any position with the company that he may hold or may have held in the past has not been disclosed.",
+      "business": "Clyde Hall, Inc.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "25",
-  "conflict": "D B Pace Acquisition",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): D B Pace Acquisition"
+  "conflict": "Clyde Hall",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Clyde Hall"
 }

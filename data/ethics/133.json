@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "THC Sales &amp; Marketing LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "THC Sales &amp; Marketing Member Corp.",
+      "description": "Former director of the now-dormant or inactive Nitto World Co., Limited, in which Pres. Trump retains an ownership interest.",
+      "business": "Nitto World Co., Limited",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "133",
-  "conflict": "Thc Sales &Amp; Marketing",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Thc Sales &Amp; Marketing"
+  "conflict": "Nitto World",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Nitto World"
 }

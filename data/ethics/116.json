@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Sussex Hall, Inc.",
+      "description": "Former member/president of the now-dormant or inactive Indian Hills Holdings LLC (F/K/A Indian Hills Development LLC), in which Pres. Trump retains an ownership interest.",
+      "business": "Indian Hills Holdings LLC (F/K/A Indian Hills Development LLC)",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "116",
-  "conflict": "Sussex Hall",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Sussex Hall"
+  "conflict": "Indian Hills Holdings Formerly Indian Hills Development",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Indian Hills Holdings Formerly Indian Hills Development"
 }

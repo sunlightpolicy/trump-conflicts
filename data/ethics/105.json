@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Poker Venture LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Poker Venture Managing Member Corp.",
+      "description": "Former partner in Hudson Waterfront Associates, L.P., in which Pres. Trump retains an ownership interest. His resignation from this company was noted in a 19-page resignation letter the day before his inauguration in January 2017. The former position was not listed on his 2017 financial disclosure. Neither was its current ownership structure articulated, though it was reported as dormant or inactive in his 2016 financial disclosure.",
+      "business": "Hudson Waterfront Associates, Lp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "105",
-  "conflict": "Poker Venture",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Poker Venture"
+  "conflict": "Hudson Waterfront Associates",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Hudson Waterfront Associates"
 }

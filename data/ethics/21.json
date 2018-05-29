@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Coronet Hall Inc.",
+      "description": "Former director/chairman/president of The Caribusiness RE Corp., in which Pres. Trump retains an ownership interest.",
+      "business": "The Caribusiness Re Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "21",
-  "conflict": "Coronet Hall",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Coronet Hall"
+  "conflict": "Caribusiness Re",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Caribusiness Re"
 }

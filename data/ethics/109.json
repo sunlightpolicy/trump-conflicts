@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Sentient Jets LLC (N/K/A Trump Jets LLC)",
-      "conflictStatus": "Resolved"
+      "description": "Former partner in Hudson Waterfront Associates IV, L.P., in which Pres. Trump retains an ownership interest. His resignation from this company was noted in a 19-page resignation letter the day before his inauguration in January 2017. The former position was not listed on his 2017 financial disclosure, but its ownership structure was articulated. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Hudson Waterfront Associates Iv, Lp",
+      "conflictStatus": "Active"
     }
   ],
   "conflictId": "109",
-  "conflict": "Sentient Jets N/K/A Trump Jets",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Sentient Jets N/K/A Trump Jets"
+  "conflict": "Hudson Waterfront Associates Iv",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Hudson Waterfront Associates Iv"
 }

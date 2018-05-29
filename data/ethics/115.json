@@ -6,21 +6,16 @@
           "name": "2016 Office of Government Ethics Form 278e",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-        },
-        {
-          "name": "2016 Office of Government Ethics Form 278e",
-          "date": "5/18/2016 12:00:00 AM",
-          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Storage 106 LLC",
+      "description": "Hyde Park LLC owns 50 percent of Trump Ruffin LLC.",
+      "business": "Hyde Park LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "115",
-  "conflict": "Storage 106",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Storage 106"
+  "conflict": "Hyde Park",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Hyde Park"
 }

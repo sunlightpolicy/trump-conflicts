@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Las Vegas Sales &amp; Marketing Inc.",
+      "description": "Former president of TNGC Pine Hill LLC (F/K/A Crest Court LLC) (Trump National Golf Club - Philadelphia), in which Pres. Trump retains ownership interests.",
+      "business": "Tngc Pine Hill LLC (F/K/A Crest Court LLC) (Trump National Golf Club - Philadelphia)",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/chairman/director of TNGC Pine Hill Member Corp. (F/K/A Crest Court Member Court), in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Tngc Pine Hill Member Corp. (F/K/A Crest Court Member Court)",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "209",
-  "conflict": "Trump Las Vegas Sales &Amp; Marketing",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Las Vegas Sales &Amp; Marketing"
+  "conflict": "Tngc Pine Hill / Trump National Golf Club - Philadelphia (Formerly Crest Court)",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tngc Pine Hill / Trump National Golf Club - Philadelphia (Formerly Crest Court)"
 }

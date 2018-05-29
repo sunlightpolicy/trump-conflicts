@@ -3,33 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Marks Lido LLC",
+      "description": "Former member/president of DT Dubai II Golf Manager LLC, of which Pres. Trump retains an ownership interest. The company holds a management deal with Frontline Investment Management Co. LLC (an affiliate of DAMAC).",
+      "business": "Dt Dubai Ii Golf Manager LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Marks Lido Member Corp.",
+      "description": "Former director/chairman/president of DT Dubai II Golf Manager Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of the other entity structures.",
+      "business": "Dt Dubai Ii Golf Manager Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "57",
-  "conflict": "Dt Marks Lido",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dt Marks Lido"
+  "conflict": "Dt Dubai Ii Golf Manager",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dt Dubai Ii Golf Manager"
 }

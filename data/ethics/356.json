@@ -1,0 +1,21 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Pres. Trump holds a 4 percent limited partnership interest in the residential real estate firm Trump Tower Triplex through several entities, including the The Donald J. Trump Revocable Trust. The company is loosely valued at more than $50 million.",
+      "business": "Trump Tower Triplex",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "356",
+  "conflict": "Trump Tower Triplex",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Tower Triplex"
+}

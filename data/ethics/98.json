@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "OWO Developer LLC",
+      "description": "GEPT Delmonico LLC owns 0.1 percent of Trump Park Avenue LLC.",
+      "business": "Gept Delmonico LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "98",
-  "conflict": "Owo Developer",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Owo Developer"
+  "conflict": "Gept Delmonico",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Gept Delmonico"
 }

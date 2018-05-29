@@ -1,0 +1,35 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former director/president of Trump Marks Waikiki Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Trump Marks Waikiki Corp.",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former member/president of Trump Marks Waikiki LLC, in which Pres. Trump retains ownership interests. The company holds a license deal with Irongate Azrep BW LLC.",
+      "business": "Trump Marks Waikiki LLC",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "311",
+  "conflict": "Trump Marks Waikiki",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Waikiki"
+}

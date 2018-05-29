@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "TNGC Charlotte LLC",
-      "conflictStatus": "Potential"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "TNGC Charlotte Manager Corp",
+      "description": "Former director/vice-president of the now-dormant or inactive Sussex Hall, Inc., in which Pres. Trump retains an ownership interest.",
+      "business": "Sussex Hall, Inc.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "160",
-  "conflict": "Tngc Charlotte",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tngc Charlotte"
+  "conflict": "Sussex Hall",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Sussex Hall"
 }

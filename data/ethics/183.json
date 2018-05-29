@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Commercial Chicago LLC",
+      "description": "Former member/president of the now-dormant or inactive THC Shenzhen Hotel Manager LLC, in which Pres. Trump retains an ownership interest.",
+      "business": "Thc Shenzhen Hotel Manager LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former chairman/director/president of the now-dormant or inactive THC Shenzhen Hotel Manager Member Corp., in which Pres. Trump retains an ownership interest.",
+      "business": "Thc Shenzhen Hotel Manager Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "183",
-  "conflict": "Trump Commercial Chicago",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Commercial Chicago"
+  "conflict": "Thc Shenzhen Hotel Manager",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Thc Shenzhen Hotel Manager"
 }

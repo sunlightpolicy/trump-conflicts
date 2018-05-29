@@ -1,0 +1,35 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former director/president of the now-dormant or inactive Trump Marks Tampa Corp., in which Pres. Trump retains ownership interests.",
+      "business": "Trump Marks Tampa Corp.",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/member of the now-dormant or inactive Trump Marks Tampa LLC, in which Pres. Trump retains ownership interests.",
+      "business": "Trump Marks Tampa LLC",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "309",
+  "conflict": "Trump Marks Tampa",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Tampa"
+}

@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Lauderdale Development LLC",
-      "conflictStatus": "Active"
+      "description": "Former member/president of TP CFD LLC. The company, owned by Trump, was reportedly dissolved on Oct. 18, 2016.",
+      "business": "Tp Cfd LLC",
+      "conflictStatus": "Resolved"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/chairman/director of TP CFD Manager Corp. The company, owned by Trump, was reportedly dissolved on Oct. 18, 2016.",
+      "business": "Tp Cfd Manager Corp.",
+      "conflictStatus": "Resolved"
     }
   ],
   "conflictId": "211",
-  "conflict": "Trump Lauderdale Development",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Lauderdale Development"
+  "conflict": "Tp Cfd",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tp Cfd"
 }

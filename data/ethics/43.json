@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Dubai Golf Manager LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Dubai Golf Manager Member Corp.",
+      "description": "The now-inactive Donald J Trump Enterprises III LLC is wholly owned by unnamed Trump family members. Any position with the company that he may hold or may have held in the past has not been disclosed.",
+      "business": "Donald J Trump Enterprises Iii LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "43",
-  "conflict": "Dt Dubai Golf Manager",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dt Dubai Golf Manager"
+  "conflict": "Donald J Trump Enterprises Iii",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Donald J Trump Enterprises Iii"
 }

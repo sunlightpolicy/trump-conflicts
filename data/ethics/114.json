@@ -1,0 +1,31 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Pres. Trump retains an ownership interest in HWA 555 Owners, LLC. Any current or former position he may have held with the company has not been disclosed.",
+      "business": "Hwa 555 Owners, LLC",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "114",
+  "conflict": "Hwa 555 Owners",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Hwa 555 Owners"
+}

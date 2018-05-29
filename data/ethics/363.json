@@ -1,0 +1,35 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/secretary/treasurer of the now-dormant or inactive Trump Wine Marks LLC, in which Pres. Trump retains an ownership interest.",
+      "business": "Trump Wine Marks LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former director &amp; chairman/president of the now-dormant or inactive Trump Wine Marks Member Corp., in which Pres. Trump retains an ownership interest.",
+      "business": "Trump Wine Marks Member Corp.",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "363",
+  "conflict": "Trump Wine Marks",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Wine Marks"
+}

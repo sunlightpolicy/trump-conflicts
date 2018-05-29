@@ -1,0 +1,21 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president of Trump Project Management Corp. The company, owned by Trump, was reportedly dissolved on Nov. 10, 2016.",
+      "business": "Trump Project Management Corp.",
+      "conflictStatus": "Resolved"
+    }
+  ],
+  "conflictId": "340",
+  "conflict": "Trump Project Management",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Project Management"
+}

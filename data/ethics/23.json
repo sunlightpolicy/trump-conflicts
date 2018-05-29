@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Country Investors LLC",
+      "description": "Former member/president of Chicago Unit Acquisition LLC, in which Pres. Trump retains an owernship interest. The company reportedly has no independent value or income, is not inactive nor dormant, and is not part of an entity structure or license deal.",
+      "business": "Chicago Unit Acquisition LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "23",
-  "conflict": "Country Investors",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Country Investors"
+  "conflict": "Chicago Unit Acquisition",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Chicago Unit Acquisition"
 }

@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Chicago Development LLC",
-      "conflictStatus": "Active"
+      "description": "Former member/president of THC Jeddah Hotel Manager LLC. The company was reportedly dissolved Nov. 15, 2016. Trump&#39;s financial disclosure indicates it held no independent value or income, and existed to hold license deals that were prospective, inactive, or otherwise did not currently have valuable assets or create income. It was owned 99 percent by Donald Trump directly, and 1 percent by THC Jeddah Hotel Manager Member Corp., of which Donald Trump was the sole owner.",
+      "business": "Thc Jeddah Hotel Manager LLC",
+      "conflictStatus": "Resolved"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former director/chairman/president of THC Jeddah Hotel Manager Member Corp. The company was reportedly dissolved on Nov. 15, 2016. It was owned solely by Donald Trump.",
+      "business": "Thc Jeddah Hotel Manager Member Corp.",
+      "conflictStatus": "Resolved"
     }
   ],
   "conflictId": "177",
-  "conflict": "Trump Chicago Development",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Chicago Development"
+  "conflict": "Thc Jeddah Hotel Manager",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Thc Jeddah Hotel Manager"
 }

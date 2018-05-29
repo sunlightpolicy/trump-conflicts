@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Toronto Development LLC",
+      "description": "Former president/director of Tag Air, Inc., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and provides back office support functions to other entities. It was set up to lease a 757 from DJT Operations I LLC.",
+      "business": "Tag Air, Inc.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "163",
-  "conflict": "Toronto Development",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Toronto Development"
+  "conflict": "Tag Air",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tag Air"
 }

@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "TP CFD LLC",
-      "conflictStatus": "Resolved"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "TP CFD Manager Corp.",
-      "conflictStatus": "Resolved"
+      "description": "Former president/member of TC Marks Buenos Aires LLC. The company, dissolved on Jan. 26, 2017, reportedly had no independent value or income, and existed to hold license deals that were prospective, inactive, or otherwise did not currently have valuable assets or create income.",
+      "business": "Tc Marks Buenos Aires LLC",
+      "conflictStatus": "Active"
     }
   ],
   "conflictId": "164",
-  "conflict": "Tp Cfd",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tp Cfd"
+  "conflict": "Tc Marks Buenos Aires",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Tc Marks Buenos Aires"
 }

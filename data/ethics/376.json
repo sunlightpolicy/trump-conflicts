@@ -1,0 +1,31 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Pres. Trump reportedly resigned from any positions with the William Trump Medical Fund LLC the day before his inauguration in January 2017. However, its current activity status and ownership structure are unclear, as the company has never been reported on his financial disclosures. His specific position with the company also has not been disclosed.",
+      "business": "William Trump Medical Fund LLC",
+      "conflictStatus": "Potential"
+    }
+  ],
+  "conflictId": "376",
+  "conflict": "William Trump Medical Fund LLC",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): William Trump Medical Fund LLC"
+}

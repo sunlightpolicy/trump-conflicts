@@ -1,0 +1,21 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/treasurer/secretary/director of Trump Payroll Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and provides back office support functions to other entities.",
+      "business": "Trump Payroll Corp.",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "335",
+  "conflict": "Trump Payroll",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Payroll"
+}

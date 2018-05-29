@@ -1,0 +1,21 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former member/president of Wollman Rink Operations LLC, in which Pres. Trump retains an ownership interest. The company holds an operating agreement with the New York City Department of Parks &amp; Recreation.",
+      "business": "Wollman Rink Operations LLC",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "379",
+  "conflict": "Wollman Rink Operations",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Wollman Rink Operations"
+}

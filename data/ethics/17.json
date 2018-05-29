@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Chelsea Hall LLC",
+      "description": "Pres. Trump resigned as director and president/treasurer/secretary of Bedford Hills Corp., but he retains an ownership interest.",
+      "business": "Bedford Hills Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "17",
-  "conflict": "Chelsea Hall",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Chelsea Hall"
+  "conflict": "Bedford Hills",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Bedford Hills"
 }

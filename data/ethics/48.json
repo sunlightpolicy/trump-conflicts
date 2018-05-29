@@ -3,33 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Lido Golf Manager LLC",
-      "conflictStatus": "Active"
+      "description": "Former member/presdient and owner of DSN Licensing LLC (F/K/A Trump Marks Network LLC), which reportedly was dissolved on Nov. 9, 2016.",
+      "business": "Dsn Licensing LLC",
+      "conflictStatus": "Resolved"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "DT Lido Golf Manager Member Corp",
-      "conflictStatus": "Active"
+      "description": "Former director/chairman, president and owner of DSN Licensing Member Corp. (F/K/A Trump Marks Network Member Inc.), which reportedly was dissolved on Nov. 9, 2016.",
+      "business": "Dsn Licensing Member Corp. (F/K/A Trump Marks Network Member Inc.)",
+      "conflictStatus": "Resolved"
     }
   ],
   "conflictId": "48",
-  "conflict": "Dt Lido Golf",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dt Lido Golf"
+  "conflict": "Dsn Licensing (Formerly Trump Marks Network)",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dsn Licensing (Formerly Trump Marks Network)"
 }

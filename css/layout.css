@@ -38,6 +38,8 @@
 
 .results {
     grid-area: results;
+    overflow-y: scroll;
+    height: 100px;
 }
 
 .family {

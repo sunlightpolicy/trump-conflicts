@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "B Plaza Realty Corp.",
-      "conflictStatus": "Resolved"
+      "description": "Pres. Trump resigned his position from Ace Entertainment Holdings Inc. (F/K/A Trump Casinos, F/K/A Inc. Trump Taj Mahal, Inc.), which is reportedly dormant or inactive. However, he retains an ownership interest.",
+      "business": "Ace Entertainment Holdings Inc. (F/K/A Trump Casinos, Inc., F/K/A Trump Taj Mahal, Inc.)",
+      "conflictStatus": "Active"
     }
   ],
   "conflictId": "12",
-  "conflict": "B Plaza Realty",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): B Plaza Realty"
+  "conflict": "Ace Entertainment (Formerly Trump Casinos Or Trump Taj Mahal)",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Ace Entertainment (Formerly Trump Casinos Or Trump Taj Mahal)"
 }

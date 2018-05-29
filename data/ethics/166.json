@@ -3,19 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump 845 LP LLC",
+      "description": "Former president/member of THC Baku Services LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
+      "business": "Thc Baku Services LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former director/chairman/president of THC Baku Services Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
+      "business": "Thc Baku Services Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "166",
-  "conflict": "Trump 845 Lp",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump 845 Lp"
+  "conflict": "Thc Baku Services",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Thc Baku Services"
 }

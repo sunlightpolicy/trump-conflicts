@@ -3,33 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Golf Recreation Scotland Limited",
+      "description": "Former member/president of DT Tower I LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
+      "business": "Dt Tower I LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "SLC Turnberry Limited (Trump Turnberry)",
+      "description": "Former director/chairman/president of DT Tower I Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
+      "business": "Dt Tower I Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "81",
-  "conflict": "Slc Turnberry Limited (Trump Turnberry)",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Slc Turnberry Limited (Trump Turnberry)"
+  "conflict": "Dt Tower I",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dt Tower I"
 }

@@ -144,7 +144,7 @@ d3.json("data/stories.json", function (err, data) {
         .group(function (d) {
             return conflictHeader(d) + ethicsPopupLink(d);
         })  
-        .size(50)
+        .size(9)  // Remove this and add scroll!!
         .columns([
             function (d) { return dateToYMD(d.sourceDate); },
             function(d) { return d.link; }

@@ -1,0 +1,21 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Pres. Trump retains an ownership interest in Trump National Golf Club - Charlotte. It is not clear whether this business entity is the same as an entity called &quot;TNGC Charlotte LLC,&quot; from which he resigned as president in 2017. No positions with Trump National Golf Club - Charlotte have been listed on his financial disclosures; the current activity status and ownership structure of TNGC Charlotte LLC also have not been listed.",
+      "business": "Trump National Golf Club - Charlotte",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "317",
+  "conflict": "Trump National Golf Club - Charlotte",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump National Golf Club - Charlotte"
+}

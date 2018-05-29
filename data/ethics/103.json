@@ -3,33 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Pine Hill Development LLC",
-      "conflictStatus": "Active"
-    },
-    {
-      "ethicsDocuments": [
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
-        }
-      ],
-      "ownerships": [],
-      "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Pine Hill Development Managing Member Corp.",
-      "conflictStatus": "Active"
+      "description": "Has held an investment in United Technologies Corp. bonds. United Technologies Corp. is the parent company of Carrier Corp. and UTEC, which make heating and air conditioning products. The asset was listed in Trump&#39;s 2016 financial disclosure, but not in his disclosure from 2017.",
+      "business": "Holds United Technologies Corp",
+      "conflictStatus": "Potential"
     }
   ],
   "conflictId": "103",
-  "conflict": "Pine Hill Development",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Pine Hill Development"
+  "conflict": "Holds United Technologies",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Holds United Technologies"
 }

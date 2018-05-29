@@ -3,33 +3,33 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Ft. Lauderdale LLC",
+      "description": "Pres. Trump resigned as director and president/treasurer/secretary of Briarcliff Properties, Inc. The company reportedly has no independent value or income, and is part of other entity structures. Trump retains an ownership interest.",
+      "business": "Briarcliff Properties, Inc.",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Trump Marks Ft. Lauderdale Member Corp.",
+      "description": "Former president of Trump Briarcliff Manor Development LLC (F/K/A Briar Hall Development LLC), in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and provides back office support functions to other entities.",
+      "business": "Trump Briarcliff Manor Development LLC (F/K/A Briar Hall Development LLC)",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "222",
-  "conflict": "Trump Marks Ft. Lauderdale",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Marks Ft. Lauderdale"
+  "conflict": "Trump Briarcliff Manor Development (Formerly Briar Hall Development)",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Briarcliff Manor Development (Formerly Briar Hall Development)"
 }

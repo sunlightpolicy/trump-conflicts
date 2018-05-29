@@ -3,19 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "Donald J Trump Enterprises III LLC",
+      "description": "Former president/director of the now-dormant or inactive DJ Aerospace (Bermuda) Limited, of which Trump has retained an ownership stake through The Donald J. Trump Revocable Trust.",
+      "business": "Dj Aerospace (Bermuda) Limited",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "34",
-  "conflict": "Donald J Trump Enterprises Iii",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Donald J Trump Enterprises Iii"
+  "conflict": "Dj Aerospace (Bermuda)",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Dj Aerospace (Bermuda)"
 }

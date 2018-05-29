@@ -3,29 +3,19 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2015 Office of Government Ethics Form 278e",
-          "date": "7/15/2015 12:00:00 AM",
-          "link": "https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-fec-financial-disclosure-2015.pdf"
-        },
-        {
           "name": "2016 Office of Government Ethics Form 278e",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-        },
-        {
-          "name": "2017 Office of Government Ethics Form 278e",
-          "date": "6/14/2017 12:00:00 AM",
-          "link": "https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c"
         }
       ],
       "ownerships": [],
       "familyMember": "Donald Trump",
-      "description": "<div class=\"softmerge-inner\" style=\"width: 331px; left: -1px;\"",
-      "business": "The Trump Hotel Corp.",
+      "description": "Former director/president/secretary/treasurer of the now-dormant or inactive Reg-Tru Equities, Ltd.,in which Pres. Trump retains an ownership interest.",
+      "business": "Reg-Tru Equities, Ltd.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "147",
-  "conflict": "The Trump Hotel",
-  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): The Trump Hotel"
+  "conflict": "Reg-Tru Equities",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Reg-Tru Equities"
 }

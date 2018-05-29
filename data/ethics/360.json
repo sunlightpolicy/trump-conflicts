@@ -1,0 +1,49 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president of Trump Vineyard Estates LLC, in which Pres. Trump retains an ownership interest.",
+      "business": "Trump Vineyard Estates LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president of Trump Vineyard Estates Lot 3 Owner LLC (F/K/A Eric Trump Land Holdings LLC), in which Pres. Trump retains an ownership interest.",
+      "business": "Trump Vineyard Estates Lot 3 Owner LLC (F/K/A Eric Trump Land Holdings LLC)",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/director/chairman of Trump Vineyard Estates Manager Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+      "business": "Trump Vineyard Estates Manager Corp.",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "360",
+  "conflict": "Trump Vineyard Estates (Formerly Eric Trump Land Holdings)",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Vineyard Estates (Formerly Eric Trump Land Holdings)"
+}

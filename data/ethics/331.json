@@ -1,0 +1,35 @@
+{
+  "familyMemberBusinessWithEthicsList": [
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/member of the now-dormant or inactive Trump Panama Condominium Management LLC, in which Pres. Trump retains an ownership interest.",
+      "business": "Trump Panama Condominium Management LLC",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Donald Trump",
+      "description": "Former president/director/chairman of the now-dormant or inactive Trump Panama Condominium Member Corp., in which Pres. Trump retains an ownership interest.",
+      "business": "Trump Panama Condominium Member Corp.",
+      "conflictStatus": "Active"
+    }
+  ],
+  "conflictId": "331",
+  "conflict": "Trump Panama Condominium",
+  "conflictDescription": "TEST DESCRIPTION FOR THE CONFLICT (Friendly Name): Trump Panama Condominium"
+}
