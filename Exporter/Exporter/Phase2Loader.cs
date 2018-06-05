@@ -135,11 +135,12 @@ namespace Phase2 {
         public Phase2Loader(String path) {
             var parentsFile = "Copy of Donald & Melania.html";
 
-            var childrenFile = "Donald Trump Jr., Eric Trump, Ivanka Trump & Jared Kushner.html";
+            var childrenFile = "Copy of Other Family.html";
 
             var conflicts = new List<Conflict>();
-            ImportPage(conflicts, path + "\\" + parentsFile);
-            WriteSql("c:\\trump-conflicts\\Exporter\\Exporter\\db\\Phase2\\");
+            //ImportPage(conflicts, path + "\\" + parentsFile);
+            ImportPage(conflicts, path + "\\" + childrenFile);
+            WriteSql("c:\\trump-conflicts\\Exporter\\Exporter\\db\\Phase2B\\");
 
             Console.ReadLine();
         }
@@ -285,8 +286,8 @@ namespace Phase2 {
             if (mediaOutlet == "")
                 return;
 
-            if (link == "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/")
-                Console.WriteLine("X");
+            //if (link == "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/")
+            //    Console.WriteLine("X");
 
             // It is a story
                 if (mediaOutlet != "Office of Government Ethics") {
@@ -308,13 +309,13 @@ namespace Phase2 {
                 }
             } else { // it is a Ethics Doc reference 
                 // Add a new Ethics Doc if neccessary
-                if ((mediaOutlet != "") && (!EthicsDocuments.ContainsKey(mediaOutlet))) {
-                    EthicsDocuments.Add(mediaOutlet, new EthicsDocument(familyMember, dte, link));
+                if ((mediaOutlet != "") && (!EthicsDocuments.ContainsKey(link))) {
+                    EthicsDocuments.Add(link, new EthicsDocument(familyMember, dte, link));
                 }
 
                 var ethicsDocRef = new EthicsDocumentBusiness();
                 ethicsDocRef.Business = business;
-                EthicsDocuments.TryGetValue(mediaOutlet, out ethicsDocRef.EthicsDocument); 
+                EthicsDocuments.TryGetValue(link, out ethicsDocRef.EthicsDocument); 
                 EthicsDocumentBusiness.Add(ethicsDocRef);
             }   
         }

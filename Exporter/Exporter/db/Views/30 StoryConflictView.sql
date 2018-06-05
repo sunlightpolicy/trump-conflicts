@@ -26,7 +26,6 @@ LEFT JOIN (SELECT COUNT(*) ethicsCount, ConflictID FROM BusinessConflictView GRO
 
 
 
-
 GO
 
 

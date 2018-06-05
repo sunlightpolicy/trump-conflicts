@@ -189,7 +189,7 @@ GO
 
 CREATE TABLE [dbo].[Business](
 	[ID] [int] IDENTITY(1,1) NOT NULL,
-	Name Varchar(500) NOT NULL DEFAULT '',
+	Name Varchar(500) UNIQUE NOT NULL DEFAULT '',
  CONSTRAINT [PK_Business] PRIMARY KEY CLUSTERED 
 (
 	[ID] ASC

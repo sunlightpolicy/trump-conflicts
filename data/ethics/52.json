@@ -6,6 +6,11 @@
           "name": "2016 Office of Government Ethics Form 278e",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "Ethics Document ",
+          "date": "7/20/2017 12:00:00 AM",
+          "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
         }
       ],
       "ownerships": [],
@@ -26,6 +31,25 @@
       "familyMember": "Donald Trump",
       "description": "Former director/chairman/president of DT Bali Technical Services Manager Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
       "business": "Dt Bali Technical Services Manager Member Corp.",
+      "conflictStatus": "Active"
+    },
+    {
+      "ethicsDocuments": [
+        {
+          "name": "2016 Office of Government Ethics Form 278e",
+          "date": "5/18/2016 12:00:00 AM",
+          "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+        },
+        {
+          "name": "Ethics Document ",
+          "date": "7/20/2017 12:00:00 AM",
+          "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+        }
+      ],
+      "ownerships": [],
+      "familyMember": "Ivanka Trump",
+      "description": "Ivanka Trump served as Executive Vice President of DT BALI TECHNICAL SERVICES MANAGER LLC from Jun 1, 2015, until Jan 1, 2017. Ivanka Trump lists DT Bali Technical Services Manager LLC (Technical services for hotel construction; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there&#39;s no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+      "business": "Dt Bali Technical Services Manager LLC",
       "conflictStatus": "Active"
     }
   ],

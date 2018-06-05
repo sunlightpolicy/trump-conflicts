@@ -1,11 +1,12 @@
 USE Trump 
 GO
 
--- 16
-UPDATE EthicsDocument SET Title = '2016 Office of Government Ethics Form 278e' WHERE ID = 1
 
--- 15
-UPDATE EthicsDocument SET Title = '2015 Office of Government Ethics Form 278e' WHERE ID = 2
+UPDATE EthicsDocument SET Title = 'DJT 2016' WHERE Link = 'https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf' 
+UPDATE EthicsDocument SET Title = 'DJT 2015' WHERE Link = 'https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-fec-financial-disclosure-2015.pdf' 
+UPDATE EthicsDocument SET Title = 'DJT 2017' WHERE Link = 'https://oge.app.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c' 
+UPDATE EthicsDocument SET Title = 'Jared 2017' WHERE Link = 'https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html' 
+UPDATE EthicsDocument SET Title = 'Ivanka 2017' WHERE Link = 'https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html' 
 
--- 17
-UPDATE EthicsDocument SET Title = '2017 Office of Government Ethics Form 278e' WHERE ID = 3
+
+-- SELECT Link, Title FROM EthicsDocument 

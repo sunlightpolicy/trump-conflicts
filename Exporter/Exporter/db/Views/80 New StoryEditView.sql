@@ -23,3 +23,14 @@ JOIN StoryStatus ss ON s.StoryStatusID = ss.ID
 JOIN SystemUser su ON s.EditorID = su.ID
 --ORDER BY Date
 GO
+
+
+--SELECT 
+--	Name, 
+--	Description, 
+--	Notes 
+--FROM Conflict WHERe Name <> 'Unknown' AND Name <> '>'
+--ORDER BY Name
+
+
+
