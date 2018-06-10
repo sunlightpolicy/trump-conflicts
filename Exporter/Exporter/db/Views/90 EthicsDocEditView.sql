@@ -105,6 +105,35 @@ LEFT JOIN BusinessEthicsDocEditView ed ON ed.ID = b.ID
 GO
 
 
+UPDATE BusinessOwnership SET OwnerID = 1 WHERE ID = 60
 
-SELECT DISTINCT * FROM EthicsDocEditView -- 1253
+DELETE FROM Business WHERE Name = '>'
+
+
+-- For AirTable
+
+--SELECT Name 
+--FROM Business 
+--ORDER BY Name -- 1265
+
+--SELECT DISTINCT 
+--	ID
+--	, Conflict
+--	, Business
+--	, FamilyMember
+--	, Owner1
+--	, OwnershipPercentage1
+--	, Owner2
+--	, OwnershipPercentage2
+--	, Owner3
+--	, OwnershipPercentage3
+--	, '' Owner4
+--	, 0 OwnershipPercentage4
+--	, Description
+--	, ConflictStatus
+--	, EthicsDoc1
+--	, EthicsDoc2
+--	, EThicsDoc3
+--FROM EthicsDocEditView 
+--ORDER BY FamilyMember, Business -- 1538
 

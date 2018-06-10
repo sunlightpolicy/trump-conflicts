@@ -137,12 +137,10 @@ UPDATE Business SET Name = Replace(Name, 'Jp ', 'JP ')
 UPDATE Business SET Name = Replace(Name, 'Kay &Amp; Arr Realty Associates (Residential Real Estate In Elizabeth, NJ)', 'Kay & ARR Realty Associates (Residential Real Estate In Elizabeth, NJ)')
 UPDATE Business SET Name = Replace(Name, 'VAriable', 'Variable')
 UPDATE Business SET Name = Replace(Name, 'Lw ', 'LW ')
+UPDATE Business SET Name = Replace(Name, 'Dsn ', 'DSN ')
+UPDATE Business SET Name = Replace(Name, 'Bls ', 'BLS ')
 
 
 
 
-
-
-
-SELECT * FROM Business
 

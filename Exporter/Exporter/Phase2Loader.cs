@@ -189,10 +189,15 @@ namespace Phase2 {
             string text = File.ReadAllText(file, Encoding.UTF8);
 
             int rowNum = 0;
-            int max = 656;  // !!
+            int max = 1340;  // !!
             var rows = text.Split(new[] { "<tr " }, StringSplitOptions.None);
             foreach (string row in rows) {
                 if (rowNum < max && rowNum > 1) {
+
+                    // Bad date
+                    if (file.Contains("Other Family") && rowNum == 948)
+                        continue;
+
 
                     string theRow = row.Replace("<td></td>", "<td ></td>");
                     var cols = theRow.Split(new[] { "<td " }, StringSplitOptions.None);
