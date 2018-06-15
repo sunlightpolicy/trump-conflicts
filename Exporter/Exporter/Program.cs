@@ -29,8 +29,9 @@ namespace Phase2 {
             //JsonGenerator.Run("c:\\trump-conflicts\\data\\");
 
 
-            AirTableLoader.Load("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\");
+            AirTableLoader.Load("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
 
+            Console.WriteLine("Done");
             Console.ReadLine();
         }
     }
