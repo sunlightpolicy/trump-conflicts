@@ -1,0 +1,31 @@
+{
+  "name": "Trump Brazil",
+  "description": "",
+  "id": "221",
+  "mediaOutlets": [
+    {
+      "name": "New York Times",
+      "data": [
+        {
+          "date": "11/26/2016 12:00:00 AM",
+          "details": {
+            "link": "https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1",
+            "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington Post",
+      "data": [
+        {
+          "date": "11/20/2016 12:00:00 AM",
+          "details": {
+            "link": "https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html",
+            "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire"
+          }
+        }
+      ]
+    }
+  ]
+}
