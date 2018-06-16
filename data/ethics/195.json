@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,11 +11,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Pres. Trump earns royalty income from the book Think Like a Billionaire, published 2004 by Random House.",
-      "business": "Think Like A Billionaire",
+      "business": "Think Like a Billionaire",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "195",
-  "conflict": "Think Like A Billionaire",
+  "conflict": "Think Like a Billionaire",
   "conflictDescription": ""
 }

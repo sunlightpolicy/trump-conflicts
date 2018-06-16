@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former member/president and owner of the now-dormant or inactive DT App Warrant Holding LLC, in which Pres. Trump retains an ownership interest.",
-      "business": "Dt App Warrant Holding LLC",
+      "business": "DT APP Warrant Holding LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former director/chairman/president and owner of the now-dormant or inactive DT App Warrant Holding Managing Member Corp., in which Pres. Trump retains an ownership interest.",
-      "business": "Dt App Warrant Holding Managing Member Corp.",
+      "business": "DT App Warrant Holding Managing Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "49",
-  "conflict": "Dt App Warrant Holding",
+  "conflict": "DT App Warrant Holding",
   "conflictDescription": ""
 }

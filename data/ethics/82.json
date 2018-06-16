@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former president of DT Tower II LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
-      "business": "Dt Tower Ii LLC",
+      "business": "DT Tower II LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former director/chairman/president of DT Tower II Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
-      "business": "Dt Tower Ii Member Corp.",
+      "business": "DT Tower II Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "82",
-  "conflict": "Dt Tower Ii",
+  "conflict": "DT Tower II",
   "conflictDescription": ""
 }

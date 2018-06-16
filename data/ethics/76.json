@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former member/president of DT Marks Qatar LLC. The company reportedly was dissolved on Jan. 26, 2017.",
-      "business": "Dt Marks Qatar LLC",
+      "business": "DT Marks Qatar LLC",
       "conflictStatus": "Resolved"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former director/chairman/president of DT Marks Qatar Member Corp. The company reportedly was dissolved on Jan. 26, 2017.",
-      "business": "Dt Marks Qatar Member Corp.",
+      "business": "DT Marks Qatar Member Corp.",
       "conflictStatus": "Resolved"
     }
   ],
   "conflictId": "76",
-  "conflict": "Dt Marks Qatar",
+  "conflict": "DT Marks Qatar",
   "conflictDescription": ""
 }

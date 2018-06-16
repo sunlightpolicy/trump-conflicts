@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former member/president of THC Qatar Hotel Manager LLC, which reportedly was dissolved on Jan. 26, 2017. Pres. Trump held an ownership interest in the company at the time.",
-      "business": "Thc Qatar Hotel Manager LLC",
+      "business": "THC Qatar Hotel Manager LLC",
       "conflictStatus": "Resolved"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former chairman/director/president of THC Qatar Hotel Manager Member Corp., which reportedly was dissolved on Jan. 26, 2017. Pres. Trump held an ownership interest in the company at the time.",
-      "business": "Thc Qatar Hotel Manager Member Corp.",
+      "business": "THC Qatar Hotel Manager Member Corp.",
       "conflictStatus": "Resolved"
     }
   ],
   "conflictId": "179",
-  "conflict": "Thc Qatar Hotel Manager",
+  "conflict": "THC Qatar Hotel Manager",
   "conflictDescription": ""
 }

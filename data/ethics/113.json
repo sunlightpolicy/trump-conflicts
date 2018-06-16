@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,11 +11,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Pres. Trump retains an ownership interest in HWA 1290 V LLC. Any current or former position he may have held with the company has not been disclosed. The company reportedly has no independent value or income, and is part of other entity structures.",
-      "business": "Hwa 1290 V LLC",
+      "business": "HWA 1290 V LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "113",
-  "conflict": "Hwa 1290 V",
+  "conflict": "HWA 1290 V",
   "conflictDescription": ""
 }

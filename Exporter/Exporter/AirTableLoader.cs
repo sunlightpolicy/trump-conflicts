@@ -47,7 +47,55 @@ namespace Phase2 {
 
 
         // Makes INSERT or UPDATE for each row and write to file
-        public void Load() {
+        public void Load() {            
+
+            List<string> cmds = new List<string>();
+            if (TableName != "StoryConflict") 
+                cmds = LoadCsv();
+            else
+                cmds = LoadConflictStatus();
+
+
+            using (TextWriter tw = new StreamWriter(this.OutputPath + this.TableName + ".sql")) {
+                if (TableName == "StoryConflict")
+                    tw.WriteLine("DELETE FROM StoryConflict");
+                if (TableName == "Story")
+                    tw.WriteLine("DELETE FROM Story");
+
+                foreach (String cmd in cmds)
+                    tw.WriteLine(cmd);
+            }
+        }
+
+        private List<string> LoadConflictStatus() {
+
+            var csv = GetCsvParser(CsvFile);
+            csv.ReadLine();
+
+            var storyConflicts = new List<Tuple<string, string>>();
+            while (!csv.EndOfData) {
+                string[] fields = csv.ReadFields();
+
+                var story = fields[0];
+                string[] conflicts = fields[4].Split(',');
+                foreach (string conflict in conflicts)
+                    if (story != "")
+                        storyConflicts.Add(Tuple.Create(story.Trim(), conflict.Trim()));
+            }
+
+            var cmds = new List<string>();
+            foreach (Tuple<string, string> storyConfict in storyConflicts)
+                cmds.Add(
+                    "INSERT INTO StoryConflict VALUES (" +
+                    "(SELECT ID FROM Story WHERE Link = '" + storyConfict.Item1 + "'), " +
+                    "(SELECT ID FROM Conflict WHERE Name = '" + storyConfict.Item2 + "'))"
+                );
+            return cmds;
+        }
+
+
+
+        private List<string> LoadCsv() {
             var keys = GetKeys();
 
             // Ignore header rows
@@ -62,7 +110,7 @@ namespace Phase2 {
                 // https://stackoverflow.com/questions/10888040/how-to-convert-%C3%A2%E2%82%AC-to-apostrophe-in-c?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
                 for (int i = 0; i < fields.Count(); i++) {
                     // Actually this doesn't work either - fixed in with SQL 
-                    
+
                     //fields[i] = fields[i].Replace("â€™", "'");
                     //var bytes = Encoding.Default.GetBytes(fields[i]);
                     //fields[i] = Encoding.UTF8.GetString(bytes);
@@ -73,12 +121,9 @@ namespace Phase2 {
                 else
                     cmds.Add(InsertStatment(fields));
             }
-
-            using (TextWriter tw = new StreamWriter(this.OutputPath + this.TableName + ".sql")) {
-                foreach (String cmd in cmds)
-                    tw.WriteLine(cmd);
-            }
+            return cmds;
         }
+
 
 
         protected string InsertStatment(string[] fields) {            
@@ -132,9 +177,8 @@ namespace Phase2 {
             return keys;
         }
 
-        // System.Text.UTF8Encoding
         protected static TextFieldParser GetCsvParser(string csvFile) {
-            TextFieldParser csv = new TextFieldParser(csvFile, Encoding.GetEncoding("ISO-8859-15"));
+            TextFieldParser csv = new TextFieldParser(csvFile, Encoding.Default);
             csv.CommentTokens = new string[] { "#" };
             csv.SetDelimiters(new string[] { "," });
             csv.HasFieldsEnclosedInQuotes = true;
@@ -151,6 +195,8 @@ namespace Phase2 {
         public static void Load(string inputPath, string outputPath) {
             LoadConflicts(inputPath + "Conflicts-Grid view.csv", outputPath);
             LoadStories(inputPath + "Stories-Grid view.csv", outputPath);
+
+            LoadStoryConflicts(inputPath + "Stories-Grid view.csv", outputPath);
         }
         
         private static void LoadConflicts(string csvFile, string outputPath) {
@@ -199,17 +245,9 @@ namespace Phase2 {
                 csvFile,
                 outputPath,
                 new List<Column>() {
-                    new Column(0, "Link"), // URL of Story
-                    new Column(1, "Headline"), // Headline
-                    new Column(2, "MediaOutletID", "MediaOutlet"), // Media Outlet
-                    new Column(3, "Date"), // Publication Date
-                    //new Column(4, ""), // Conflicts!!!
-                    new Column(5, "EditorID", "SystemUserView", "UserName"), // EnteredBy
-                    new Column(6, "StoryStatusID", "StoryStatus"), // Pub Status
-                    new Column(7, "InternalNotes"), // Internal Notes
-                    new Column(8, "Notes") // Notes
-                },
-                "Link"
+                    new Column(0, "StoryID", "Story", "Link"),
+                    new Column(4, ""), // Comma-separated conflict names!! 
+                }
             );
             storyTable.Load();
         }

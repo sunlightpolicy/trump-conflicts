@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former member/president of DT Marks Products International LLC. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
-      "business": "Dt Marks Products International LLC",
+      "business": "DT Marks Products International LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former director/chairman/president of DT Marks Products International Member Corp. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
-      "business": "Dt Marks Products International Member Corp.",
+      "business": "DT Marks Products International Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "73",
-  "conflict": "Dt Marks Products International",
+  "conflict": "DT Marks Products International",
   "conflictDescription": ""
 }

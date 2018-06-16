@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former president/member of THC Baku Hotel Manager Services LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
-      "business": "Thc Baku Hotel Manager Services LLC",
+      "business": "THC Baku Hotel Manager Services LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former director/chairman/president of THC Baku Hotel Manager Services Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
-      "business": "Thc Baku Hotel Manager Services Member Corp.",
+      "business": "THC Baku Hotel Manager Services Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "165",
-  "conflict": "Thc Baku Hotel Manager Services",
+  "conflict": "THC Baku Hotel Manager Services",
   "conflictDescription": ""
 }

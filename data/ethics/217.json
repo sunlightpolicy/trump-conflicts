@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former member/president/treasurer of Trump 845 UN GP LLC, in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
-      "business": "Trump 845 Un Gp LLC",
+      "business": "Trump 845 UN GP LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former president of Trump 845 UN MGR Corp., in which Pres. Trump retains ownership interests.",
-      "business": "Trump 845 Un Mgr Corp.",
+      "business": "Trump 845 UN Mgr Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "217",
-  "conflict": "Trump 845 Un",
+  "conflict": "Trump 845 UN",
   "conflictDescription": ""
 }

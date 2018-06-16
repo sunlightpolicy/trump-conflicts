@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former member/president of the now-dormant or inactive Trump AC Casino Marks LLC, in which Pres. Trump retains ownership interests.",
-      "business": "Trump Ac Casino Marks LLC",
+      "business": "Trump AC Casino Marks LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former president/chairman/director of the now-dormant or inactive Trump AC Casino Marks Member Corp., in which Pres. Trump retains ownership interests.",
-      "business": "Trump Ac Casino Marks Member Corp",
+      "business": "Trump AC Casino Marks Member Corp",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "218",
-  "conflict": "Trump Ac Casino Marks",
+  "conflict": "Trump AC Casino Marks",
   "conflictDescription": ""
 }

@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,11 +11,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former member/president of DJT Operations I LLC, in which Pres. Trump retains an ownership interest.",
-      "business": "Djt Operations I LLC",
+      "business": "DJT Operations I LLC",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "39",
-  "conflict": "Djt Operations I",
+  "conflict": "DJT Operations I",
   "conflictDescription": ""
 }

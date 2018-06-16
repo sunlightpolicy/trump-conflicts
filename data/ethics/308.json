@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former president/member of Trump Marks Sunny Isles II Member Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
-      "business": "Trump Marks Sunny Isles Ii LLC",
+      "business": "Trump Marks Sunny Isles II LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former director/president of Trump Marks Sunny Isles II LLC, in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
-      "business": "Trump Marks Sunny Isles Ii Member Corp.",
+      "business": "Trump Marks Sunny Isles II Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "308",
-  "conflict": "Trump Marks Sunny Isles Ii",
+  "conflict": "Trump Marks Sunny Isles II",
   "conflictDescription": ""
 }

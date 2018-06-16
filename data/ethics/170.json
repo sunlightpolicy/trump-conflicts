@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former member/president of the now-dormant or inactive THC China Technical Services LLC, of which Pres. Trump retains an ownership interest.",
-      "business": "Thc China Technical Services LLC",
+      "business": "THC China Technical Services LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former chairman/director/president of the now-dormant or inactive THC China Technical Services Manager Corp., of which Pres. Trump retains an ownership interest.",
-      "business": "Thc China Technical Services Manager Corp.",
+      "business": "THC China Technical Services Manager Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "170",
-  "conflict": "Thc China Technical Services",
+  "conflict": "THC China Technical Services",
   "conflictDescription": ""
 }

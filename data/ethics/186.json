@@ -3,7 +3,7 @@
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -11,13 +11,13 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former member/president of THC Venture II LLC. The company is reportedly dormant or inactive. Trump retains an ownership interest.",
-      "business": "Thc Venture Ii LLC",
+      "business": "THC Venture II LLC",
       "conflictStatus": "Active"
     },
     {
       "ethicsDocuments": [
         {
-          "name": "2016 Office of Government Ethics Form 278e",
+          "name": "DJT 2016",
           "date": "5/18/2016 12:00:00 AM",
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
@@ -25,11 +25,11 @@
       "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former chairman/director/president of THC Venture II Managing Member Corp. The company is reportedly dormant or inactive. Trump retains an ownership interest.",
-      "business": "Thc Venture Ii Managing Member Corp.",
+      "business": "THC Venture II Managing Member Corp.",
       "conflictStatus": "Active"
     }
   ],
   "conflictId": "186",
-  "conflict": "Thc Venture Ii",
+  "conflict": "THC Venture II",
   "conflictDescription": ""
 }
