@@ -78,7 +78,7 @@ d3.json("data/stories.json", function (err, data) {
     }
 
     var totalGroup = facts.groupAll().reduce(
-        function (p, v) { // add finction
+        function (p, v) { // add function
             return p += v.amount;
         },
         function (p, v) { // subtract function
@@ -99,7 +99,7 @@ d3.json("data/stories.json", function (err, data) {
     //    })
     //    .formatNumber(function (d) { return Math.round(d) + " Billion"; });
     
-    var leftWidth = 430;
+    var leftWidth = 520;
 
     var changeDateDim = facts.dimension(function (d) { return d.sourceDate; });
     var changeDateGroup = changeDateDim.group(d3.time.day);
@@ -125,15 +125,15 @@ d3.json("data/stories.json", function (err, data) {
     var col1Width = leftWidth / 2;
     var col2Width = leftWidth / 2;
     
-    familyMemberChart = new RowChart(facts, "familyMember", col1Width, 6, 110);
-    categoryChart = new RowChart(facts, "category", col2Width, 6, 110);
-    categoryChart.filter("Active");
+    //familyMemberChart = new RowChart(facts, "familyMember", col1Width, 6, 110);
+    //categoryChart = new RowChart(facts, "category", col2Width, 6, 110);
+    //categoryChart.filter("Active");
 
-    sourceTypeChart = new RowChart(facts, "sourceType", leftWidth, 2, 70);
-    sourceTypeChart.filter("Media");
+    //sourceTypeChart = new RowChart(facts, "sourceType", leftWidth, 2, 70);
+    //sourceTypeChart.filter("Media");
 
-    conflictChart = new RowChart(facts, "conflict", col1Width, 10);
-    mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 10);
+    conflictChart = new RowChart(facts, "conflict", col1Width, 30);
+    mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 30);
     
     dataTable = dc.dataTable("#dc-chart-table");
 
@@ -229,8 +229,7 @@ function timeline(conflictId) {
   var data = [],
     start = new Date('2016-06-02T20:14:22.691Z'),
     today = new Date('2018-06-08T17:59:06.134Z');
-  
-  debugger;
+ 
   var mediaOutlets = conflictData.mediaOutlets
   for (var x in mediaOutlets) { 
     data[x] = {};

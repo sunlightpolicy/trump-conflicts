@@ -4,7 +4,7 @@
         "logo       title      title       title       title       title" 
         "search     search     stats       stats       stats       download" 
         "date       date       results     results     results     results" 
-        "family     status     results     results     results     results" 
+        "conflict   outlet     results     results     results     results" 
         "conflict   outlet     results     results     results     results"; 
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 30px 20px 20px 60px, 60px;
@@ -42,13 +42,13 @@
     height: 100px;
 }
 
-.family {
+/* .family {
     grid-area: family;
 }
 
 .status {
     grid-area: status;
-}
+} */
 
 .conflict {
     grid-area: conflict;
