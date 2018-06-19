@@ -164,7 +164,7 @@ function conflictHeader(d) {
 
 function ethicsPopupLink(d) {
     let link = ""; 
-    if (d.hasEthics)
+    //if (d.hasEthics)
         //link = " <a href=\"#\" onclick=\"ethicsPopup(" + d.conflictId + "); return false\"><b>Ethics Report</b></a>"
         link = " <a href=\"#\" onclick=\"timeline(" + d.conflictId + "); return false\"><b>Timeline</b></a>"
     return link;
@@ -250,10 +250,13 @@ function timeline(conflictId) {
     .start(today - TWO_YEARS)
     .minScale(ONE_WEEK / ONE_MONTH)
     .maxScale(ONE_WEEK / ONE_HOUR)
-    .slider(false)
-    .lineHeight(30)
+    .slider(false)  // Scale thing to the right
+    .context(false) // Brush below the timeline
+    .marker(false)  // Floating popup under mouse with date range
+    .lineHeight(15)
     //.eventPopover("HI")
     .eventClick(function(el) {
+        debugger;
       var table = '<table class="table table-striped table-bordered">';
       if(el.hasOwnProperty("events")) {
         table = table + '<thead>This is a group of ' + el.events.length + ' events starting on '+ el.date + '</thead><tbody>';
@@ -275,17 +278,18 @@ function timeline(conflictId) {
       $('#legend').html(table);
   
     });
-  /* if(countNames(data) <= 0) {
-    timeline.labelWidth(60);
-  } */
+    /* if(countNames(data) <= 0) {
+        timeline.labelWidth(60);
+    } */
   
   
-  // Keep this
-  var element = d3.select('#timeline').append('div').datum(data.filter(function(eventGroup) {
-    return eventGroup.display === true;
-  }));
-  timeline(element);
-    });
+    // Keep this
+    d3.select('#timeline').selectAll("svg").remove();
+    var element = d3.select('#timeline').append('div').datum(data.filter(function(eventGroup) {
+        return eventGroup.display === true;
+    }));
+    timeline(element);
+  });
 }
 
 function addEthicsDocuments(modal, data) {

@@ -27,7 +27,7 @@ AS
 SELECT
 	c.ID
 	, c.Name Conflict
-	, c.Description ConlfictDescription
+	, c.Description ConflictDescription
 	, m.Name MediaOutlet
 	, s.Link
 	, s.Headline
@@ -40,7 +40,7 @@ JOIN MediaOutlet m ON s.MediaOutletID = m.ID
 
 
 
-SELECT * 
-FROM ConflictTimelineView
-ORDER BY 
-	Conflict, MediaOutlet
+--SELECT * 
+--FROM ConflictTimelineView
+--ORDER BY 
+--	Conflict, MediaOutlet

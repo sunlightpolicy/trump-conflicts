@@ -8,23 +8,18 @@
     <script src='lib/crossfilter.js' type='text/javascript'></script>
     <script src='lib/dc.min.js' type='text/javascript'></script>
     <script src='lib/timeline.js' type='text/javascript'></script>
-
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    
     <script src='//code.jquery.com/jquery-2.1.4.min.js'></script>
 
 
     <script src='js/trump-conflicts.js' type='text/javascript'></script>
 
-    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>-->
-
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/patternfly/3.9.0/css/patternfly.min.css" />
-
-    <link href='css/layout.css' rel='stylesheet' type='text/css'>
-    <link href='css/style.css' rel='stylesheet' type='text/css'>
-
     <link rel="stylesheet" href="css/timeline.css">
     <link href='css/dc.css' rel='stylesheet' type='text/css'>
+    
+    <link href='css/layout.css' rel='stylesheet' type='text/css'>
+    <link href='css/style.css' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
@@ -32,16 +27,17 @@
     <div id="ethicsModal" class="modal">
         <div class="modal-content">
             <div class="modal-header">
-                <h3 id="conflict">Conflict</h3>
-                <h4 id="conflictDescription">Description</h4>
                 <span class="close">&times;</span>
+                <h2 id="conflict">Conflict</h3>
+                <h3 id="conflictDescription">Description</h4>
             </div>
+            <div id="timeline"></div>
             <div id="ethicsModalBody" class="modal-body">
             </div>
         </div>
     </div>
 
-    <div id="timeline"></div>
+    
     
     <div class="container">
         <div class='logo'><img src="img/sunlight.png" alt="Sunlight" height="110" width="250"></div>

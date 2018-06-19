@@ -29,6 +29,12 @@ input {
 }
 
 
+.close {
+    font-weight: bold;
+    font-size: 25px;
+    color: #222;
+}
+
 .title {
     font-weight: bold;
     font-size: 30px;
@@ -88,14 +94,16 @@ input {
 
 /* Modal Header */
 .modal-header {
-    padding: 2px 16px;
+    padding: 2px 10px;
+    margin-top: 10px;
     /*background-color: #5cb85c;*/
     /*color: white;*/
 }
 
 /* Modal Body */
 .modal-body {
-    padding: 2px 16px;
+    margin-top: 10px;
+    padding: 2px 10px;
 }
 
 /* Modal Footer */
@@ -120,7 +128,6 @@ input {
 }
 
 
-/* Add Animation */
 @keyframes animatetop {
     from {
         top: -300px;
