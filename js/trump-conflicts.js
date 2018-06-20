@@ -30,7 +30,7 @@ d3.json("data/stories.json", function (err, data) {
         if (d.conflict == "")
             d.conflict = "N/A";
 
-        d.link = getHeadlineLink(d);
+        d.link = getMediaOutletAndHeadline(d);
 
         d.dateChanged = new Date(d.dateChanged);
         d.sourceDate = new Date(d.sourceDate);
@@ -274,16 +274,20 @@ function addStories(mediaOutlets) {
  
     table = '';
     mediaOutlets.forEach(pub => {
-        table = table + '<tr><td colspan="2"><b>' + pub.name + '</b></td><td></td></tr>';
+        //table = table + '<tr><td colspan="2"><b>' + pub.name + '</b></td><td></td></tr>';
 
         pub.data.forEach(story => {
-            table = table + '<tr><td>' + dateToYMD(new Date(story.date)) + '</td> <td>' + story.details.headline + '<td></tr>';
+            table = 
+                table + 
+                '<tr>' +
+                    '<td class="conflict-col-1">' + dateToYMD(new Date(story.date)) + '</td>' +
+                    '<td class="conflict-col-2"><a href="' + story.details.link + '" target="_blank"><b>' + pub.name + '</b> / ' + story.details.headline + '</a><td>' + 
+                '</tr>';
         });
     });
 
     table = '<table style="width:90%">' + table + '</table>'; 
-
-    d3.select('#stories').html(table);
+    d3.select('#stories').html('<h3>Media Accounts</h3>' + table);
 }
 
 function popup(el) {
@@ -337,21 +341,21 @@ function dateToYMD(date) {
     return '' + y + '-' + (m <= 9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
 }
 
+function getMediaOutletAndHeadline(d) {
+    var text = "<b>" + d.mediaOutlet + "</b>";
+    if (d.headline != "")
+        text = text + " / " + d.headline;
+
+    return text;
+    //return '<a href="' + d.link + '" target="_blank">' + text + '</a>';
+}
+
 function clearAll() {
     searchDim.filter(null); // clear text too?
     document.getElementById("search-input").value = "";
 
     dc.filterAll();
     dc.renderAll();
-}
-
-
-function getHeadlineLink(d) {
-    var text = "<b>" + d.mediaOutlet + "</b>";
-    if (d.headline != "")
-        text = text + " / " + d.headline;
-
-    return '<a href="' + d.link + '" target="_blank">' + text + '</a>';
 }
 
 
