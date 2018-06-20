@@ -60,6 +60,10 @@ input {
     padding-bottom: 6px;
 }
 
+.chart-title {
+    font-size: 16px;
+    font-weight: bold;
+}
 
 .dc-table-label {
     font-size: 12px;
@@ -70,7 +74,7 @@ input {
 }
 
 .dc-table-group {
-    background-color: #9ecae1;
+    background-color: #cee2ed;
 }
 
 
