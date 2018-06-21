@@ -196,11 +196,14 @@ function ethicsPopup(conflictId) {
 }
 
 function timelinePopup(conflictId) {
-    d3.json("data/media/" + conflictId + ".js", makeTimelinePopup);
+    queue()
+        .defer(d3.json, "data/media/" + conflictId + ".json")
+        .defer(d3.json, "data/ethics/" + conflictId + ".json")
+        .await(makeTimelinePopup);
 }
 
 
-function makeTimelinePopup(err, conflictData) {
+function makeTimelinePopup(err, conflictData, ethicsData) {
     
     var span = document.getElementsByClassName("close")[0];
     span.onclick = function () {
@@ -258,24 +261,24 @@ function makeTimelinePopup(err, conflictData) {
         .marker(false)  // Floating popup under mouse with date range
         .lineHeight(15)
         .eventClick(popup());
+    
+    d3.select('#timeline').selectAll("svg").remove();
+    var element = d3.select('#timeline')
+        .append('div')
+        .datum(data.filter(function(eventGroup) {
+            return eventGroup.display === true;
+    }));
+    timeline(element);    
 
     addStories(mediaOutlets);
-
-    d3.select('#timeline').selectAll("svg").remove();
-    var element = d3.select('#timeline').append('div').datum(data.filter(function(eventGroup) {
-        return eventGroup.display === true;
-    }));
-
-    timeline(element);
+    addEthics(ethicsData);
 }
 
 function addStories(mediaOutlets) {
     console.table(mediaOutlets);
  
-    table = '';
+    var table = '';
     mediaOutlets.forEach(pub => {
-        //table = table + '<tr><td colspan="2"><b>' + pub.name + '</b></td><td></td></tr>';
-
         pub.data.forEach(story => {
             table = 
                 table + 
@@ -285,9 +288,37 @@ function addStories(mediaOutlets) {
                 '</tr>';
         });
     });
-
     table = '<table style="width:90%">' + table + '</table>'; 
     d3.select('#stories').html('<h3>Media Accounts</h3>' + table);
+}
+
+function addEthics(data) {
+
+    d3.select('#ethics').html('');
+
+    d3.select('#ethics')
+        .append('h3')
+        .text('Ethics Disclosures')
+        .append('hr')
+
+    d3.select('#ethics')
+        .selectAll('h4')
+        .data(data.familyMemberBusinessWithEthicsList)
+        .enter()
+
+        .append("h4")
+        .text(function (d) { return d.business + " / " + d.familyMember + " / " + d.conflictStatus; })
+
+        .append("p")
+        .text(function (d) { return d.description; })
+        .style("font-size", "13px")
+
+        // This breaks if there are no ethics docs, and will only show the first if there are more than one!
+        .append("a")
+        .attr("href", function (d) { return d.ethicsDocuments[0].link; })
+        .text(function (d) { return " " + d.ethicsDocuments[0].name; })
+
+        .append("hr"); 
 }
 
 function popup(el) {
@@ -314,6 +345,7 @@ function popup(el) {
 } 
 
 function addEthicsDocuments(modal, data) {
+    
     modal.selectAll("h4")
         .data(data.familyMemberBusinessWithEthicsList)
         .enter()

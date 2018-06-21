@@ -88,7 +88,7 @@ namespace Phase2 {
                             currentMediaOutlet = null;
 
                             if (oldConflict != null && oldConflict.mediaOutlets.Count != 0)
-                                WriteConflictToJson(outputFileName + oldConflict.id + ".js", oldConflict);
+                                WriteConflictToJson(outputFileName + oldConflict.id + ".json", oldConflict);
 
                         }
 
