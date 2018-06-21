@@ -29,6 +29,25 @@ def import_story(id, url):
 
 	cursor.execute("UPDATE Story SET TopImage = ? WHERE ID = ?", article.top_image, id)
 	conn.commit()
+	#input("After TopImage")
+
+	cursor.execute("UPDATE Story SET Authors = ? WHERE ID = ?", ', '.join(article.authors), id)
+	conn.commit()
+	#input("After Authors")
+		
+	#cursor.execute("UPDATE Story SET Keywords = ? WHERE ID = ?", article.keywords, id)
+	#conn.commit()
+	#input("After Keywords")
+
+	cursor.execute("UPDATE Story SET Body = ? WHERE ID = ?", article.text, id)
+	conn.commit()
+	#input("After Body")
+		
+	cursor.execute("UPDATE Story SET Title = ? WHERE ID = ?", article.title, id)
+	conn.commit()
+	#input("After Title")
+
+
 
 	print(article.authors)
 	#cursor.execute("UPDATE Story SET Authors = ? WHERE ID = ?", article.authors, id)
