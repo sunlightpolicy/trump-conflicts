@@ -1,13 +1,18 @@
 
 function timelinePopup(conflictId) {
-    queue()
-        .defer(d3.json, "data/media/" + conflictId + ".json")
-        .defer(d3.json, "data/ethics/" + conflictId + ".json")
-        .await(makeTimelinePopup);
+
+    d3.json("data/ethics/" + conflictId + ".json", function(data) {
+        makeTimelinePopup(data, conflictId);
+    });
 }
 
 
-function makeTimelinePopup(err, conflictData, ethicsData) {
+function makeTimelinePopup(ethicsData, conflictId) {
+
+    var timeline = new TL.Timeline('timeline', 'data/timeline/' + conflictId + '.json', {
+        ga_property_id: "UA-27829802-4",
+        is_embed:true
+    });
     
     var span = document.getElementsByClassName("close")[0];
     span.onclick = function () {
@@ -23,58 +28,16 @@ function makeTimelinePopup(err, conflictData, ethicsData) {
     modal.style.display = "block";
 
     var conflict = d3.select('#conflict');
-    conflict.text(conflictData.name);
+    //conflict.text(conflictData.name);
 
     var conflictDescription = d3.select('#conflictDescription');
-    conflictDescription.text(conflictData.description);
+    //conflictDescription.text(conflictData.description);
 
-    //addEthicsDocuments(d3.select('#ethicsModalBody'), data);
-    const ONE_HOUR = 60 * 60 * 1000,
-    ONE_DAY = 24 * ONE_HOUR,
-    ONE_WEEK = 7 * ONE_DAY,
-    ONE_MONTH = 30 * ONE_DAY,
-    SIX_MONTHS = 6 * ONE_MONTH;
-    TWO_YEARS = 24 * ONE_MONTH;
-
-    var data = [],
-    start = new Date('2016-06-02T20:14:22.691Z'),
-    today = new Date('2018-06-08T17:59:06.134Z');
-
-    var mediaOutlets = conflictData.mediaOutlets
-    for (var x in mediaOutlets) { 
-        data[x] = {};
-        data[x].name = mediaOutlets[x].name;
-        data[x].data = [];
-        for (var y in mediaOutlets[x].data) {
-            data[x].data.push({});
-            data[x].data[y].date = new Date(mediaOutlets[x].data[y].date);
-            data[x].data[y].details = mediaOutlets[x].data[y].details;
-        }
-        //$('#timeline-selectpicker').append("<option>" + data[x].name + "</option>");
-        data[x].display = true;
-    }
-    //$('#timeline-selectpicker').selectpicker('selectAll');
-
-    var timeline = d3.chart.timeline()
-        .end(today)
-        .start(today - TWO_YEARS)
-        .minScale(ONE_WEEK / ONE_MONTH)
-        .maxScale(ONE_WEEK / ONE_HOUR)
-        .slider(false)  // Scale thing to the right
-        .context(false) // Brush below the timeline
-        .marker(false)  // Floating popup under mouse with date range
-        .lineHeight(15)
-        .eventClick(popup());
     
     d3.select('#timeline').selectAll("svg").remove();
-    var element = d3.select('#timeline')
-        .append('div')
-        .datum(data.filter(function(eventGroup) {
-            return eventGroup.display === true;
-    }));
-    timeline(element);    
+  
 
-    addStories(mediaOutlets);
+    //addStories(mediaOutlets);
     addEthics(ethicsData);
 }
 
@@ -114,33 +77,6 @@ function addStories(mediaOutlets) {
     table = '<table style="width:90%">' + table + '</table>'; 
     d3.select('#stories').html('<h3>Media Accounts</h3>' + table);
 } 
-
-
-function ethicsPopup(conflictId) {
-
-    d3.json("data/ethics/" + conflictId + ".json", function (err, data) {
-        var span = document.getElementsByClassName("close")[0];
-        span.onclick = function () {
-            modal.style.display = "none";
-        }
-        window.onclick = function (event) {
-            if (event.target == modal)
-                modal.style.display = "none";
-        }
-        console.log(data);
-
-        let modal = document.getElementById('ethicsModal');
-        modal.style.display = "block";
-
-        var conflict = d3.select('#conflict');
-        conflict.text(data.conflict);
-
-        var conflictDescription = d3.select('#conflictDescription');
-        conflictDescription.text(data.conflictDescription);
-
-        addEthicsDocuments(d3.select('#ethicsModalBody'), data);
-    });
-}
 
 
 function addEthics(data) {

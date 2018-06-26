@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Donald J. Trump Revocable Trust",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://assets.propublica.org/images/articles/20170403-trump-trust-1200x630.jpg?1529516134",
+        "caption": "",
+        "credit": "ProPublica"
+      },
+      "start_date": {
+        "month": "4",
+        "day": "4",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Trump Lawyer Confirms President Can Pull Money From His Businesses Whenever He Wants",
+        "text": "<a href='https://www.propublica.org/article/trump-pull-money-his-businesses-whenever-he-wants-without-telling-us' target='_blank'>ProPublica / Trump Lawyer Confirms President Can Pull Money From His Businesses Whenever He Wants</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

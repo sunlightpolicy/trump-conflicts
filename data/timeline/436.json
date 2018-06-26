@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Related Companies",
+      "text": "Related Companies purchased $80 million of stock in Ladder Capital, a Manhattan-based real estate investment trust best known for issuing more than $250 million in loans to the Trump Organization."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://therealdeal.com/wp-content/uploads/2015/03/Jeff-Blau-e1460758340176.jpg",
+        "caption": "",
+        "credit": "The Real Deal"
+      },
+      "start_date": {
+        "month": "2",
+        "day": "28",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Related makes $80M stock buy in Trump Organization’s second-largest lender",
+        "text": "<a href='https://therealdeal.com/2017/02/28/related-companies-makes-80m-stock-buy-in-trumps-second-largest-lender/' target='_blank'>The Real Deal / Related makes $80M stock buy in Trump Organization’s second-largest lender</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

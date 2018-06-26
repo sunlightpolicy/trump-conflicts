@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Goldman Sachs",
+      "text": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F624646258%2F960x0.jpg%3Ffit%3Dscale",
+        "caption": "",
+        "credit": "Forbes"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "29",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
+        "text": "<a href='https://www.forbes.com/sites/jenniferwang/2016/11/29/trumps-stock-portfolio-big-oil-big-banks-and-more-foreign-connections/#30d204ea464e' target='_blank'>Forbes / Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former director of The Donald J. Trump Foundation, Inc., the current activity status and control structures of which are not reported. The foundation received $150,000 from the Victor Pinchuk Foundation and Yalta European Strategy (YES) — an NGO founded by Mr. Pinchuk — for a video speech Trump made in September 2015.",
       "business": "The Donald J. Trump Foundation, Inc.",

@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former member/president of Restaurant 40 LLC. The company reportedly was dissolved on Nov. 9, 2016.",
       "business": "Restaurant 40 LLC",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/director/chairman/treasurer/secretary of Restaurant 40 Member Corp. The company reportedly was dissolved on Nov. 9, 2016.",
       "business": "Restaurant 40 Member Corp.",

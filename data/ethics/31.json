@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Pres. Trump earns royalty income from the book Crippled America, published 2015 by Threshold Editions.",
       "business": "Crippled America",

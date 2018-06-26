@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "U.S Department of Justice",
+      "text": "As head of the executive branch, President Trump oversees the Justice Department and the United States' relations with the rest of the world. Through his businesses he still has a lengthy series of financial relationships with private institutions and countries with business before the United States."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/Wires/Images/2016-09-30/AP/Campaign_2016_Nasty_Ads-1d674.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "9",
+        "day": "13",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump’s unusual conflict: Millions in debts to German bank now facing federal fines",
+        "text": "<a href='https://www.washingtonpost.com/news/wonk/wp/2016/09/30/trumps-unthinkable-conflict-millions-in-debts-to-german-bank-now-facing-federal-fines/?utm_term=.66663f022cff' target='_blank'>Washington Post / Trump’s unusual conflict: Millions in debts to German bank now facing federal fines</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

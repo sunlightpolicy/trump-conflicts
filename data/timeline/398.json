@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Dogan Holding",
+      "text": "The twinned Trump Towers bear the president-elect’s name in Istanbul. Dogan Holding, a massive media and real estate conglomerate in Turkey, owns the conjoined buildings and pays the Trump Organization to license the Trump name and brand. It can now rely on that name and brand to be sitting in the Oval Office and singing its praises to President Erdogan."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://img.huffingtonpost.com/asset/58361a521a00002500cc9945.jpeg?cache=4qfajeivbb&ops=1910_1000",
+        "caption": "",
+        "credit": "Huffington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "23",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Touted His Turkish Business Partner In A Call With President Erdogan",
+        "text": "<a href='http://www.huffingtonpost.com/entry/donald-trump-turkey-business_us_5836188ae4b01ba68ac41d9f?' target='_blank'>Huffington Post / Trump Touted His Turkish Business Partner In A Call With President Erdogan</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

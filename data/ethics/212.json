@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/CEO of Travel Enterprises Management Inc. (F/K/A Toys at Trump, Inc.), in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, is not inactive nor dormant, and is not part of an entity structure or license deal.",
       "business": "Travel Enterprises Management Inc. (F/K/A Toys at Trump, Inc.)",

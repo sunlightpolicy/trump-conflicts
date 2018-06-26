@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Ivanka Trump brand",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2018/05/28/world/00trump-china-1/00trump-china-1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "28",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE",
+        "text": "<a href='https://www.nytimes.com/2018/05/28/business/ivanka-trump-china-trademarks.html' target='_blank'>New York Times / Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

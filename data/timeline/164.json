@@ -1,0 +1,45 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "TC Marks Buenos Aires",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/11/23/National-Politics/Images/RTR2JPW9.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "25",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump’s presidency, overseas business deals and relations with foreign governments could all become intertwined",
+        "text": "<a href='https://www.washingtonpost.com/politics/trumps-presidency-overseas-business-deals-and-relations-with-foreign-governments-could-all-become-intertwined/2016/11/25/d2bc83f8-b0e2-11e6-8616-52b15787add0_story.html?utm_term=.6474a90a3947' target='_blank'>Washington Post / Trump’s presidency, overseas business deals and relations with foreign governments could all become intertwined</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20170105&t=2&i=1167630391&w=1200&r=LYNXMPED0405S",
+        "caption": "",
+        "credit": "Reuters"
+      },
+      "start_date": {
+        "month": "1",
+        "day": "4",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Trump Organization says it has no plans to build Buenos Aires tower",
+        "text": "<a href='https://www.reuters.com/article/us-usa-trump-argentina/trump-organization-says-it-has-no-plans-to-build-buenos-aires-tower-idUSKBN14N1W7' target='_blank'>Reuters / Trump Organization says it has no plans to build Buenos Aires tower</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

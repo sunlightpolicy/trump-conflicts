@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Bahrain",
+      "text": "In 2016 the hotel was host to a National Day celebration for the Kingdom of Bahrain."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://img.huffingtonpost.com/asset/583de36b1a00002500cca4f8.jpeg?ops=1910_1000",
+        "caption": "",
+        "credit": "Huffington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "29",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Bahrain To Hold Major Celebration At Donald Trump’s D.C. Hotel",
+        "text": "<a href='http://www.huffingtonpost.com/entry/donald-trump-bahrain_us_583de2a5e4b0c33c8e1282d0?inyv55o07g8horms4i' target='_blank'>Huffington Post / Bahrain To Hold Major Celebration At Donald Trump’s D.C. Hotel</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

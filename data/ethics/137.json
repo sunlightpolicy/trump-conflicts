@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/member of OWO Developer LLC. The company is reportedly inactive. Trump retains an ownership stake through DJT Holdings LLC and The Donald J. Trump Revocable Trust.",
       "business": "Owo Developer LLC",

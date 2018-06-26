@@ -13,7 +13,18 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Pres. Trump retains an ownership interest in Storage 106 LLC. Any current or former positions he may have with the company have not been listed on his financial disclosures.",
       "business": "Storage 106 LLC",

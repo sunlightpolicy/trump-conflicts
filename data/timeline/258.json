@@ -1,0 +1,96 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Trump International Golf Club Scotland",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/11/20/National-Politics/Images/Botsford161120TrumpNJ8951.JPG?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "20",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
+        "text": "<a href='https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html' target='_blank'>Washington Post / A scramble to assess the dangers of President-elect Donald Trump’s global business empire</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/11/22/us/22WINDFARM1/22WINDFARM1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "21",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "With a Meeting, Trump Renewed a British Wind Farm Fight",
+        "text": "<a href='https://www.nytimes.com/2016/11/21/business/with-a-meeting-trump-renewed-a-british-wind-farm-fight.html?_r=0' target='_blank'>New York Times / With a Meeting, Trump Renewed a British Wind Farm Fight</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/11/23/National-Politics/Images/RTR2JPW9.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "25",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump’s presidency, overseas business deals and relations with foreign governments could all become intertwined",
+        "text": "<a href='https://www.washingtonpost.com/politics/trumps-presidency-overseas-business-deals-and-relations-with-foreign-governments-could-all-become-intertwined/2016/11/25/d2bc83f8-b0e2-11e6-8616-52b15787add0_story.html?utm_term=.6474a90a3947' target='_blank'>Washington Post / Trump’s presidency, overseas business deals and relations with foreign governments could all become intertwined</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/11/27/world/27TRUMPWORLD-FULLBLEED/27TRUMPWORLD-FULLBLEED-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "26",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+        "text": "<a href='https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1' target='_blank'>New York Times / Potential Conflicts Around the Globe for Trump, the Businessman President</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/resizer/Qvmp4_XeyS2qYMKzmNQkonm4IC4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VOQGD3XAGAI6PCPI5XWBMN4QCA.jpg",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "21",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "The three biggest surprises in the Trump Organization’s financial filings",
+        "text": "<a href='https://www.washingtonpost.com/politics/the-three-biggest-surprises-in-the-trump-organizations-financial-filings/2018/05/21/db2f0420-5c94-11e8-9ee3-49d6d4814c4c_story.html?utm_term=.64de8850a39d' target='_blank'>Washington Post / The three biggest surprises in the Trump Organization’s financial filings</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

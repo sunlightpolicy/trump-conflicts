@@ -13,7 +13,18 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/director of Trump Marks Baja Corp. (resigned 2015). The company reportedly was dormant or inactive as of May 2016, at which time Trump retained an ownership interest. Its current activity status and ownership structure are not reported in his 2017 financial disclosure.",
       "business": "Trump Marks Baja Corp.",
@@ -32,7 +43,18 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former member &amp; president of Trump Marks Baja LLC (resigned 2015). The company reportedly was dormant or inactive as of May 2016, at which time Trump retained an ownership interest. Its current activity status and ownership structure are not reported in his 2017 financial disclosure.",
       "business": "Trump Marks Baja LLC",

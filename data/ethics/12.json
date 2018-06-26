@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Pres. Trump resigned his position from Ace Entertainment Holdings Inc. (F/K/A Trump Casinos, F/K/A Inc. Trump Taj Mahal, Inc.), which is reportedly dormant or inactive. However, he retains an ownership interest.",
       "business": "Ace Entertainment Holdings Inc. (F/K/A Trump Casinos, Inc., F/K/A Trump Taj Mahal, Inc.)",

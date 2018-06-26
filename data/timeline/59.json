@@ -1,0 +1,79 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "DT India Venture",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://img.etimg.com/thumb/msid-55465112,width-1070,height-580,imgsize-585750,overlay-etdefence/photo.jpg",
+        "caption": "",
+        "credit": "Economic Times"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "17",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Donald Trump meets Indian partners, hails PM Modi's work",
+        "text": "<a href='http://economictimes.indiatimes.com/news/politics-and-nation/donald-trump-meets-indian-partners-hails-pm-modis-work/articleshow/55465060.cms' target='_blank'>Economic Times / Donald Trump meets Indian partners, hails PM Modi's work</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/11/20/National-Politics/Images/Botsford161120TrumpNJ8951.JPG?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "20",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
+        "text": "<a href='https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html' target='_blank'>Washington Post / A scramble to assess the dangers of President-elect Donald Trump’s global business empire</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/11/27/world/27TRUMPWORLD-FULLBLEED/27TRUMPWORLD-FULLBLEED-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "26",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+        "text": "<a href='https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1' target='_blank'>New York Times / Potential Conflicts Around the Globe for Trump, the Businessman President</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://images.newrepublic.com/003079940d1a1620064903efeb8ba97bda53fd74.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+        "caption": "",
+        "credit": "The New Republic"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "21",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Political Corruption and the Art of the Deal How Trump's business partnerships in India are creating conflicts of interest in the White House and corrupting the presidency",
+        "text": "<a href='https://newrepublic.com/article/147351/political-corruption-art-deal' target='_blank'>The New Republic / Political Corruption and the Art of the Deal How Trump's business partnerships in India are creating conflicts of interest in the White House and corrupting the presidency</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

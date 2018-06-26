@@ -1,0 +1,62 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Trump Marks Philippines",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://media.npr.org/assets/img/2016/11/21/trump-manila-11-21-16_wide-7e40351d749914aa8820e54eb4b302602c4b9b90.jpg?s=1400",
+        "caption": "",
+        "credit": "NPR"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "22",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Who's The New Philippine Envoy? The Man Building Trump Tower Manila",
+        "text": "<a href='http://www.npr.org/sections/parallels/2016/11/22/502895797/whos-the-new-philippine-envoy-the-man-building-trump-tower-manila' target='_blank'>NPR / Who's The New Philippine Envoy? The Man Building Trump Tower Manila</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKhgkJK._f2w/v0/1200x800.jpg",
+        "caption": "",
+        "credit": "Bloomberg Politics"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "22",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump’s Business Partner Will Be Manila’s Man in Washington",
+        "text": "<a href='https://www.bloomberg.com/politics/articles/2016-11-22/trump-s-business-partner-will-be-manila-s-man-in-washington?cmpid=socialflow-twitter-business&amp;utm_content=business&amp;utm_campaign=socialflow-organic&amp;utm_source=twitter&amp;utm_medium=social' target='_blank'>Bloomberg Politics / Trump’s Business Partner Will Be Manila’s Man in Washington</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/11/27/world/27TRUMPWORLD-FULLBLEED/27TRUMPWORLD-FULLBLEED-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "26",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+        "text": "<a href='https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1' target='_blank'>New York Times / Potential Conflicts Around the Globe for Trump, the Businessman President</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

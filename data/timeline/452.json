@@ -1,0 +1,45 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Essential Consultants",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": "Press Release"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "10",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Absence of registration by Michael D. Cohen as a foreign agent under FARA, and as a lobbyist under LDA",
+        "text": "<a href='https://www.citizen.org/sites/default/files/may_2018_cohen_complaint_final.pdf' target='_blank'>Press Release / Absence of registration by Michael D. Cohen as a foreign agent under FARA, and as a lobbyist under LDA</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://cdn.cnn.com/cnnnext/dam/assets/180508231908-bt101-michael-cohen-05082018-file-photo-super-tease.jpg",
+        "caption": "",
+        "credit": "CNN"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "10",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Inside Michael Cohen's aggressive pitch promising access to Trump",
+        "text": "<a href='https://www.cnn.com/2018/05/09/politics/michael-cohen-trump-lobbying/index.html' target='_blank'>CNN / Inside Michael Cohen's aggressive pitch promising access to Trump</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

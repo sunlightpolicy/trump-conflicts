@@ -1,0 +1,62 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Donald J. Trump Foundation",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://img.buzzfeed.com/buzzfeed-static/static/2016-11/22/16/campaign_images/buzzfeed-prod-fastlane03/trump-foundation-received-150000-donation-in-exch-2-22492-1479850910-7_dblbig.jpg",
+        "caption": "",
+        "credit": "BuzzFeed"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "22",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Foundation Received $150,000 Donation In Exchange For 2015 Ukraine Speech",
+        "text": "<a href='https://www.buzzfeed.com/paulmcleod/trump-foundation-received-150000-donation-in-exchange-for-20?utm_term=.hwJDzPkYww#.exE32wrn11' target='_blank'>BuzzFeed / Trump Foundation Received $150,000 Donation In Exchange For 2015 Ukraine Speech</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fblogs-images.forbes.com%2Fdanalexander%2Ffiles%2F2017%2F02%2FCoverCard-TrumpFoundation-MobileCard-v1-1.jpg",
+        "caption": "",
+        "credit": "Forbes"
+      },
+      "start_date": {
+        "month": "2",
+        "day": "9",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Where Did Trump's Foundation Donate Its Money? IRS Documents Reveal Surprising Answers",
+        "text": "<a href='https://www.forbes.com/sites/danalexander/2017/02/09/where-did-trumps-foundation-donate-its-money-irs-documents-reveal-surprising-answers/#4d1fcb907b52' target='_blank'>Forbes / Where Did Trump's Foundation Donate Its Money? IRS Documents Reveal Surprising Answers</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2018/04/10/us/politics/10dc-inquiry1/10dc-inquiry1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "4",
+        "day": "9",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Mueller Investigating Ukrainian’s $150,000 Payment for a Trump Appearance",
+        "text": "<a href='https://www.nytimes.com/2018/04/09/us/politics/trump-mueller-ukraine-victor-pinchuk.html' target='_blank'>New York Times / Mueller Investigating Ukrainian’s $150,000 Payment for a Trump Appearance</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

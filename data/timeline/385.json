@@ -1,0 +1,62 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Stephanie Clifford (Aka Stormy Daniels)",
+      "text": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://thenypost.files.wordpress.com/2018/03/180305-michael-cohen-porn-star-payment-feature.jpg?quality=90&strip=all&w=1200",
+        "caption": "",
+        "credit": "New York Post"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "5",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Bank reported Trump lawyer’s payment to Stormy Daniels as suspicious",
+        "text": "<a href='https://nypost.com/2018/03/05/bank-reported-trump-lawyers-payment-to-stormy-daniels-as-suspicious/' target='_blank'>New York Post / Bank reported Trump lawyer’s payment to Stormy Daniels as suspicious</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://cdn.cnn.com/cnnnext/dam/assets/180508231908-bt101-michael-cohen-05082018-file-photo-super-tease.jpg",
+        "caption": "",
+        "credit": "CNN"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "10",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Inside Michael Cohen's aggressive pitch promising access to Trump",
+        "text": "<a href='https://www.cnn.com/2018/05/09/politics/michael-cohen-trump-lobbying/index.html' target='_blank'>CNN / Inside Michael Cohen's aggressive pitch promising access to Trump</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/resizer/VYwqdCEYbAVlmzUE0vxq14C5V_Y=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36PPQ6CZFQI6RBMPCK7MWTLAM4.jpg",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "16",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "In new financial disclosure, Trump reports apparent payment through his personal attorney to adult-film star",
+        "text": "<a href='https://www.washingtonpost.com/politics/in-new-financial-disclosure-trump-reports-apparent-payment-through-his-personal-attorney-to-adult-film-star/2018/05/16/cf6171f2-592c-11e8-b656-a5f8c2a9295d_story.html?noredirect=on&utm_term=.ded1e82e4416' target='_blank'>Washington Post / In new financial disclosure, Trump reports apparent payment through his personal attorney to adult-film star</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

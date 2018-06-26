@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president of TNGC Dutchess County LLC (F/K/A Trump Marks Classic Cars LLC). The company&#39;s current activity status and ownership structure have not been disclosed.",
       "business": "TNGC Dutchess Countv LLC",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/chairman/director of TNGC Dutchess County Member Corp. (Trump Marks Classic Cars Member Corp.), in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
       "business": "TNGC Dutchess County Member Corp. (F/K/A Trump Marks Classic Cars Member Corp.)",

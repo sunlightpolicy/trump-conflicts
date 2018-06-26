@@ -1,0 +1,96 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Hary Tanoesoedibjo",
+      "text": "Billionaire Hary Tanoesoedibjo, Trumps local partner in two Indonesian resort projects, is reportedly considering a run for national office in 2019."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://photos.prnewswire.com/prnvar/20150819/259733",
+        "caption": "",
+        "credit": "Press Release"
+      },
+      "start_date": {
+        "month": "8",
+        "day": "19",
+        "year": "2015"
+      },
+      "text": {
+        "headline": "TRUMP HOTEL COLLECTION Announces A Luxury Resort And Residential Development In Bali",
+        "text": "<a href='https://www.prnewswire.com/news-releases/trump-hotel-collection-announces-a-luxury-resort-and-residential-development-in-bali-300130927.html' target='_blank'>Press Release / TRUMP HOTEL COLLECTION Announces A Luxury Resort And Residential Development In Bali</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/12/27/world/27TRUMPINDONESIA-1/27TRUMPINDONESIA-1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "31",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
+        "text": "<a href='http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html' target='_blank'>New York Times / Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "http://thehill.com/sites/default/files/trump-xi_jinping_05232018_1.jpg",
+        "caption": "",
+        "credit": "The Hill"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "27",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "More than 60 Dem lawmakers demand ethics investigation into Trump's relationship with China",
+        "text": "<a href='http://thehill.com/homenews/house/389571-more-than-60-dem-lawmakers-demand-ethics-investigation-into-trumps' target='_blank'>The Hill / More than 60 Dem lawmakers demand ethics investigation into Trump's relationship with China</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2018/05/28/world/00trump-china-1/00trump-china-1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "28",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE",
+        "text": "<a href='https://www.nytimes.com/2018/05/28/business/ivanka-trump-china-trademarks.html' target='_blank'>New York Times / Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20180605&t=2&i=1269488839&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEE541ZQ",
+        "caption": "",
+        "credit": "Reuters"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "5",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources",
+        "text": "<a href='https://mobile.reuters.com/article/amp/idUSKCN1J12RP' target='_blank'>Reuters / Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

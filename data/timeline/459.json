@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Philippine Government",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "http://s.marketwatch.com/public/resources/MWimages/MW-FE470_trumph_ZG_20170125172905.jpg",
+        "caption": "",
+        "credit": "MarketWatch"
+      },
+      "start_date": {
+        "month": "4",
+        "day": "19",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Philippine government party to be held at Trump’s DC hotel",
+        "text": "<a href='https://www.marketwatch.com/story/philippine-government-party-to-be-held-at-trumps-dc-hotel-2018-04-19' target='_blank'>MarketWatch / Philippine government party to be held at Trump’s DC hotel</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

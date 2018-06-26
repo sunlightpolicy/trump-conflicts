@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/member of Trump Classic Cars LLC. The company, owned by Trump, was reportedly dissolved on Oct. 17, 2016.",
       "business": "Trump Classic Cars LLC",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/chairman/director of Trump Classic Cars Member Corp. The company, owned by Trump, was reportedly dissolved on Oct. 17, 2016.",
       "business": "Trump Classic Cars Member Corp.",

@@ -1,0 +1,45 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Trump Tower Managing Member",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "http://www.bloomberg.com/graphics/2016-trump-40-wall-street/img/2016-trump-40-wall-street-facebook.jpg",
+        "caption": "",
+        "credit": "Bloomberg"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "22",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Inside Trump’s Most Valuable Tower: Felons, Dictators and Girl Scouts",
+        "text": "<a href='https://www.bloomberg.com/graphics/2016-trump-40-wall-street/' target='_blank'>Bloomberg / Inside Trump’s Most Valuable Tower: Felons, Dictators and Girl Scouts</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://i.guim.co.uk/img/media/7172c47d96953d719cc95787c0d6a51986923156/0_69_1024_614/master/1024.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&s=31fad82b9d4c3878971c1aa3047ad296",
+        "caption": "",
+        "credit": "The Guardian"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "4",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Trump set to benefit as Qatar buys $6.5m apartment in New York tower",
+        "text": "<a href='https://www.theguardian.com/us-news/2018/may/04/trump-qatar-buys-apartment-new-york-tower' target='_blank'>The Guardian / Trump set to benefit as Qatar buys $6.5m apartment in New York tower</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

@@ -237,6 +237,8 @@ namespace Phase2 {
                 , reader["EthicsDocumentDate"].ToString()
                 , reader["EthicsDocumentLink"].ToString()
                 ));
+
+            lastBusiness.ownerships.Add(new BusinessOwnershipForJson("1", "1", "1"));
         }
 
         private static void AddConflict(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {

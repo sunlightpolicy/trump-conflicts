@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "DT Bali Hotel Manager",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/12/27/world/27TRUMPINDONESIA-1/27TRUMPINDONESIA-1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "31",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
+        "text": "<a href='http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html' target='_blank'>New York Times / Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

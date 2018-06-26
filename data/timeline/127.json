@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Miss Universe (Formerly Trump Pageants)",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/06/17/Others/Images/2016-06-17/GettyImages-1875006591466182751.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "17",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Inside Trump’s financial ties to Russia and his unusual flattery of Vladimir Putin",
+        "text": "<a href='https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html?utm_term=.58393114f26e' target='_blank'>Washington Post / Inside Trump’s financial ties to Russia and his unusual flattery of Vladimir Putin</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

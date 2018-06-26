@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Royal Bank of Canada",
+      "text": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F624646258%2F960x0.jpg%3Ffit%3Dscale",
+        "caption": "",
+        "credit": "Forbes"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "29",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
+        "text": "<a href='https://www.forbes.com/sites/jenniferwang/2016/11/29/trumps-stock-portfolio-big-oil-big-banks-and-more-foreign-connections/#30d204ea464e' target='_blank'>Forbes / Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

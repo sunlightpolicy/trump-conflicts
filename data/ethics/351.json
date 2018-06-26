@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president of Trump Toronto Hotel Management Corp., in which Pres. Trump retains an ownership interest. The company holds a management deal with Talon International Inc.",
       "business": "Trump Toronto Hotel Management Corp.",

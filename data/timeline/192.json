@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "The Daily Mail",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2017/02/08/us/08melania/08melania-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "2",
+        "day": "7",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "In Libel Suit, Melania Trump Cites Loss of Chance to Make Millions",
+        "text": "<a href='https://www.nytimes.com/2017/02/07/us/politics/melania-trump-libel-suit-daily-mail.html' target='_blank'>New York Times / In Libel Suit, Melania Trump Cites Loss of Chance to Make Millions</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

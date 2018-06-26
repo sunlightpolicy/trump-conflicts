@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Part-owner, with unnamed family members, of the now-dormant or inactive Clyde Hall, Inc. Any position with the company that he may hold or may have held in the past has not been disclosed.",
       "business": "Clyde Hall, Inc.",

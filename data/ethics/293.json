@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former director/president of the now-dormant or inactive Trump Marks Mortgage Corp., in which Pres. Trump retains ownership interests.",
       "business": "Trump Marks Mortgage Corp.",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/member of the now-dormant or inactive Trump Marks Mtg LLC, in which Pres. Trump retains ownership interests.",
       "business": "Trump Marks Mtg LLC",

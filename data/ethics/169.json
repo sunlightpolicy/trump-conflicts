@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president of THC China Development LLC (F/K/A Trump China Development LLC), of which Pres. Trump retains an ownership interest. The company is owned by Trump International Hotels Management LLC, which Trump owned as of his 2016 financial disclosure. The parent company&#39;s current activity status and ownership structure were not articulated in his 2017 disclosure.",
       "business": "THC China Development LLC (F/K/A Trump China Development LLC)",

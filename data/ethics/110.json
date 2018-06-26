@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former partner in Hudson Waterfront Associates V, L.P., in which Pres. Trump retains an ownership interest. His resignation from this company was noted in a 19-page resignation letter the day before his inauguration in January 2017. The former position was not listed on his 2017 financial disclosure, but its ownership structure was articulated. The company reportedly has no independent value or income, and is part of other entity structures.",
       "business": "Hudson Waterfront Associates V, LP",

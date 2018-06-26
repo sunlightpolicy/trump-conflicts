@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/member of Trump Realty Services, LLC (F/K/A Trump Mortgage Services LLC (03) &amp; Tower Mortgage Services LLC), in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, is not inactive nor dormant, and is not part of an entity structure or license deal.",
       "business": "Trump Realty Services, LLC (F/K/A Trump Mortgage Services LLC (03) & Tower Mortgage Services LLC)",

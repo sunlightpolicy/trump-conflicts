@@ -1,0 +1,45 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Holds United Technologies",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.gannett-cdn.com/-mm-/4fa9b7831c679ca2e04a820f58b5c2f5a2dededb/c=0-171-2800-1746&r=x1683&c=3200x1680/local/-/media/2016/05/08/Indianapolis/B9322059240Z.1_20160508161913_000_GTOEA78LI.1-0.jpg",
+        "caption": "",
+        "credit": "Indy Star"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "19",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Donald Trump profited from investment in Carrier's parent company",
+        "text": "<a href='http://www.indystar.com/story/news/politics/2016/05/19/donald-trump-profited-investment-carriers-parent-company/84593308/' target='_blank'>Indy Star / Donald Trump profited from investment in Carrier's parent company</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://si.wsj.net/public/resources/images/BN-QK669_1025un_TOP_20161024144452.jpg",
+        "caption": "",
+        "credit": "Wall Street Journal"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "2",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Donald Trump Had Investments in Carrier Corp.’s Parent",
+        "text": "<a href='https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443?mod=e2tw&amp;mg=id-wsj' target='_blank'>Wall Street Journal / Donald Trump Had Investments in Carrier Corp.’s Parent</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Pres. Trump holds a 4 percent limited partnership interest in the commercial real estate firm Spring Creek Plaza through several entities, including the The Donald J. Trump Revocable Trust.",
       "business": "Spring Creek Plaza",

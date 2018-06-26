@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Truth About Israel",
+      "text": "Organized a ball at Mar-a-Lago to show support for President Trump."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/resizer/0w28gI89MD-2kqXFEgPG4NaqiDI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MGFXLTWRY3K5I4WV2U4HBV564.JPG",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "2",
+        "day": "26",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Israel-focused charity praises Trump — and pays him — at Mar-a-Lago gala",
+        "text": "<a href='https://www.washingtonpost.com/news/post-politics/wp/2018/02/26/israel-focused-charity-praises-trump-and-pays-him-at-mar-a-lago-gala/?utm_term=.59e4b7dbed4c' target='_blank'>Washington Post / Israel-focused charity praises Trump — and pays him — at Mar-a-Lago gala</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

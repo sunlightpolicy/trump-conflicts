@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "175 Pearl Street",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": "Bloomberg"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "13",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Kushner Conflict Cloud Hovers Over Brooklyn Sale Linked to Japan",
+        "text": "<a href='https://www.bloomberg.com/amp/news/articles/2018-03-13/kushner-conflict-cloud-hovers-over-brooklyn-sale-linked-to-japan' target='_blank'>Bloomberg / Kushner Conflict Cloud Hovers Over Brooklyn Sale Linked to Japan</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

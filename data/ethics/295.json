@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former director/president of Trump Marks New Rochelle Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
       "business": "Trump Marks New Rochelle Corp.",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/member of Trump Marks New Rochelle LLC, in which Pres. Trump retains ownership interests. The company holds a license deal with New Roc Parcel 1A LLC.",
       "business": "Trump Marks New Rochelle LLC",

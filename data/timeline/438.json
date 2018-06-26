@@ -1,0 +1,45 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Treasury Department",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://thenypost.files.wordpress.com/2018/03/180305-michael-cohen-porn-star-payment-feature.jpg?quality=90&strip=all&w=1200",
+        "caption": "",
+        "credit": "New York Post"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "5",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Bank reported Trump lawyer’s payment to Stormy Daniels as suspicious",
+        "text": "<a href='https://nypost.com/2018/03/05/bank-reported-trump-lawyers-payment-to-stormy-daniels-as-suspicious/' target='_blank'>New York Post / Bank reported Trump lawyer’s payment to Stormy Daniels as suspicious</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://amp.thedailybeast.com/public/favicon.ico?v=1",
+        "caption": "",
+        "credit": "Daily Beast"
+      },
+      "start_date": {
+        "month": "4",
+        "day": "18",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Trump Org ‘Gifts’ Treasury $150K in Foreign ‘Emoluments’",
+        "text": "<a href='https://amp.thedailybeast.com/trump-org-gifts-treasury-dollar150k-in-foreign-government-emoluments' target='_blank'>Daily Beast / Trump Org ‘Gifts’ Treasury $150K in Foreign ‘Emoluments’</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Mar-a-Lago Club",
+      "text": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static.politico.com/d1/c3/6d4d8acf4930a57613faaf380667/161230-maralago-ap-1160.jpg",
+        "caption": "",
+        "credit": "Politico"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "30",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Mar-a-Lago sold tickets to New Year's Eve party with Trump",
+        "text": "<a href='http://www.politico.com/story/2016/12/mar-a-lago-donald-trump-new-years-eve-party-233070' target='_blank'>Politico / Mar-a-Lago sold tickets to New Year's Eve party with Trump</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/resizer/0w28gI89MD-2kqXFEgPG4NaqiDI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MGFXLTWRY3K5I4WV2U4HBV564.JPG",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "2",
+        "day": "26",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Israel-focused charity praises Trump — and pays him — at Mar-a-Lago gala",
+        "text": "<a href='https://www.washingtonpost.com/news/post-politics/wp/2018/02/26/israel-focused-charity-praises-trump-and-pays-him-at-mar-a-lago-gala/?utm_term=.59e4b7dbed4c' target='_blank'>Washington Post / Israel-focused charity praises Trump — and pays him — at Mar-a-Lago gala</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": "Palm Beach Post"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "4",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Mar-a-Lago events raise money for politicos, revenues for Trump",
+        "text": "<a href='https://www.palmbeachpost.com/news/national-govt--politics/mar-lago-events-raise-money-for-politicos-revenues-for-trump/F0EK7JzzOeDTT6nTSe8qyO/amp.html' target='_blank'>Palm Beach Post / Mar-a-Lago events raise money for politicos, revenues for Trump</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/resizer/Qvmp4_XeyS2qYMKzmNQkonm4IC4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VOQGD3XAGAI6PCPI5XWBMN4QCA.jpg",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "21",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "The three biggest surprises in the Trump Organization’s financial filings",
+        "text": "<a href='https://www.washingtonpost.com/politics/the-three-biggest-surprises-in-the-trump-organizations-financial-filings/2018/05/21/db2f0420-5c94-11e8-9ee3-49d6d4814c4c_story.html?utm_term=.64de8850a39d' target='_blank'>Washington Post / The three biggest surprises in the Trump Organization’s financial filings</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former member/president of THC Qatar Hotel Manager LLC, which reportedly was dissolved on Jan. 26, 2017. Pres. Trump held an ownership interest in the company at the time.",
       "business": "THC Qatar Hotel Manager LLC",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former chairman/director/president of THC Qatar Hotel Manager Member Corp., which reportedly was dissolved on Jan. 26, 2017. Pres. Trump held an ownership interest in the company at the time.",
       "business": "THC Qatar Hotel Manager Member Corp.",

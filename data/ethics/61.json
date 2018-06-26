@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former member/president of DT Jeddah Technical Services Manager LLC, which reportedly was dissolved on Nov. 15, 2016. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
       "business": "DT Jeddah Technical Services Manager LLC",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former director/chairman/president of DT Jeddah Technical Services Manager Member Corp., which was dissolved on Nov. 15, 2016. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
       "business": "DT Jeddah Technical Services Manager Member Corp.",

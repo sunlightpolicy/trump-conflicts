@@ -13,7 +13,18 @@
           "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former member/president of DT Bali Technical Services Manager LLC, in which Pres. Trump retains an ownership interest. The company holds a management deal with PT Bali Nirwana Resort.",
       "business": "DT Bali Technical Services Manager LLC",
@@ -27,7 +38,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former director/chairman/president of DT Bali Technical Services Manager Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
       "business": "DT Bali Technical Services Manager Member Corp.",
@@ -46,7 +63,18 @@
           "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Ivanka Trump",
       "description": "Ivanka Trump served as Executive Vice President of DT BALI TECHNICAL SERVICES MANAGER LLC from Jun 1, 2015, until Jan 1, 2017. Ivanka Trump lists DT Bali Technical Services Manager LLC (Technical services for hotel construction; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there&#39;s no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
       "business": "DT Bali Technical Services Manager LLC",

@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Trump Las Vegas",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/12/22/business/22trumplabor1/22trumplabor1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "21",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+        "text": "<a href='https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html' target='_blank'>New York Times / Trump Organization Moves to Avoid Possible Conflicts of Interest</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

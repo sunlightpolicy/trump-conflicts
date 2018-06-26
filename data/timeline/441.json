@@ -1,0 +1,45 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "MNC Group",
+      "text": "The Trump Organization’s partner in a lavish Indonesian development project boasting a six-star hotel and golf course with President Trump’s name has brought on a new ally: a Chinese state-owned company. The Indonesian partner, the MNC Group, said it had struck a deal with an arm of Metallurgical Corporation of China, a state-owned construction company, to build a theme park next door to the planned Trump properties."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "http://thehill.com/sites/default/files/trump-xi_jinping_05232018_1.jpg",
+        "caption": "",
+        "credit": "The Hill"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "27",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "More than 60 Dem lawmakers demand ethics investigation into Trump's relationship with China",
+        "text": "<a href='http://thehill.com/homenews/house/389571-more-than-60-dem-lawmakers-demand-ethics-investigation-into-trumps' target='_blank'>The Hill / More than 60 Dem lawmakers demand ethics investigation into Trump's relationship with China</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20180605&t=2&i=1269488839&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEE541ZQ",
+        "caption": "",
+        "credit": "Reuters"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "5",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources",
+        "text": "<a href='https://mobile.reuters.com/article/amp/idUSKCN1J12RP' target='_blank'>Reuters / Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

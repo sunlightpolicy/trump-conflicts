@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "40 Wall Street",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "http://www.bloomberg.com/graphics/2016-trump-40-wall-street/img/2016-trump-40-wall-street-facebook.jpg",
+        "caption": "",
+        "credit": "Bloomberg"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "22",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Inside Trump’s Most Valuable Tower: Felons, Dictators and Girl Scouts",
+        "text": "<a href='https://www.bloomberg.com/graphics/2016-trump-40-wall-street/' target='_blank'>Bloomberg / Inside Trump’s Most Valuable Tower: Felons, Dictators and Girl Scouts</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

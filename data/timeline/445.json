@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Cadre",
+      "text": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "http://www.trbimg.com/img-5b043f78/turbine/ct-kushner-cadre-softbank-funds-20180522",
+        "caption": "",
+        "credit": "Chicago Tribune"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "22",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Jared Kushner's tech startup seeking at least $100 million from Saudi-backed fund",
+        "text": "<a href='http://www.chicagotribune.com/business/national/ct-kushner-cadre-softbank-funds-20180522-story,amp.html' target='_blank'>Chicago Tribune / Jared Kushner's tech startup seeking at least $100 million from Saudi-backed fund</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

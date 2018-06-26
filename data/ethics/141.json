@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former partner in Park Briar Associates, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
       "business": "Park Briar Associates",

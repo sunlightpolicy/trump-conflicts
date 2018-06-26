@@ -1,0 +1,266 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Trump Organization Inc.",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/06/17/Others/Images/2016-06-17/GettyImages-1875006591466182751.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "17",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Inside Trump’s financial ties to Russia and his unusual flattery of Vladimir Putin",
+        "text": "<a href='https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html?utm_term=.58393114f26e' target='_blank'>Washington Post / Inside Trump’s financial ties to Russia and his unusual flattery of Vladimir Putin</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/08/19/nyregion/21TRUMPDEBT1/21TRUMPDEBT1-facebookJumbo-v2.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "8",
+        "day": "20",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump’s Empire: A Maze of Debts and Opaque Ties",
+        "text": "<a href='https://www.nytimes.com/2016/08/21/us/politics/donald-trump-debt.html' target='_blank'>New York Times / Trump’s Empire: A Maze of Debts and Opaque Ties</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/Wires/Images/2016-09-30/AP/Campaign_2016_Nasty_Ads-1d674.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "9",
+        "day": "13",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump’s unusual conflict: Millions in debts to German bank now facing federal fines",
+        "text": "<a href='https://www.washingtonpost.com/news/wonk/wp/2016/09/30/trumps-unthinkable-conflict-millions-in-debts-to-german-bank-now-facing-federal-fines/?utm_term=.66663f022cff' target='_blank'>Washington Post / Trump’s unusual conflict: Millions in debts to German bank now facing federal fines</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "http://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2016/09/12/0923trump07.jpg",
+        "caption": "",
+        "credit": "Newsweek"
+      },
+      "start_date": {
+        "month": "9",
+        "day": "14",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "How the Trump Organization's Foreign Business Ties Could Upend U.S. National Security",
+        "text": "<a href='http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html' target='_blank'>Newsweek / How the Trump Organization's Foreign Business Ties Could Upend U.S. National Security</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/11/06/us/06TRUMPBIZ/06TRUMPBIZ-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "5",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Thin Line Splits Donald Trump's Politics and Businesses",
+        "text": "<a href='https://www.nytimes.com/2016/11/06/us/politics/donald-trump-business-tax-records.html?mtrref=undefined' target='_blank'>New York Times / Thin Line Splits Donald Trump's Politics and Businesses</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://tnimage.taiwannews.com.tw/photos/shares/582c14f96aba3.jpg",
+        "caption": "",
+        "credit": "Taiwan News"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "16",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump wants to expand business empire to Taiwan, creating another potential conflict of interest",
+        "text": "<a href='https://www.taiwannews.com.tw/en/news/3031091' target='_blank'>Taiwan News / Trump wants to expand business empire to Taiwan, creating another potential conflict of interest</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://media.npr.org/assets/img/2016/11/21/trump-manila-11-21-16_wide-7e40351d749914aa8820e54eb4b302602c4b9b90.jpg?s=1400",
+        "caption": "",
+        "credit": "NPR"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "22",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Who's The New Philippine Envoy? The Man Building Trump Tower Manila",
+        "text": "<a href='http://www.npr.org/sections/parallels/2016/11/22/502895797/whos-the-new-philippine-envoy-the-man-building-trump-tower-manila' target='_blank'>NPR / Who's The New Philippine Envoy? The Man Building Trump Tower Manila</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKhgkJK._f2w/v0/1200x800.jpg",
+        "caption": "",
+        "credit": "Bloomberg Politics"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "22",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump’s Business Partner Will Be Manila’s Man in Washington",
+        "text": "<a href='https://www.bloomberg.com/politics/articles/2016-11-22/trump-s-business-partner-will-be-manila-s-man-in-washington?cmpid=socialflow-twitter-business&amp;utm_content=business&amp;utm_campaign=socialflow-organic&amp;utm_source=twitter&amp;utm_medium=social' target='_blank'>Bloomberg Politics / Trump’s Business Partner Will Be Manila’s Man in Washington</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/11/23/National-Politics/Images/RTR2JPW9.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "25",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump’s presidency, overseas business deals and relations with foreign governments could all become intertwined",
+        "text": "<a href='https://www.washingtonpost.com/politics/trumps-presidency-overseas-business-deals-and-relations-with-foreign-governments-could-all-become-intertwined/2016/11/25/d2bc83f8-b0e2-11e6-8616-52b15787add0_story.html?utm_term=.6474a90a3947' target='_blank'>Washington Post / Trump’s presidency, overseas business deals and relations with foreign governments could all become intertwined</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/12/22/business/22trumplabor1/22trumplabor1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "21",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+        "text": "<a href='https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html' target='_blank'>New York Times / Trump Organization Moves to Avoid Possible Conflicts of Interest</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20170105&t=2&i=1167630391&w=1200&r=LYNXMPED0405S",
+        "caption": "",
+        "credit": "Reuters"
+      },
+      "start_date": {
+        "month": "1",
+        "day": "4",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Trump Organization says it has no plans to build Buenos Aires tower",
+        "text": "<a href='https://www.reuters.com/article/us-usa-trump-argentina/trump-organization-says-it-has-no-plans-to-build-buenos-aires-tower-idUSKBN14N1W7' target='_blank'>Reuters / Trump Organization says it has no plans to build Buenos Aires tower</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://i2.cdn.turner.com/money/dam/assets/170123075113-trump-resign-businesses-780x439.jpg",
+        "caption": "",
+        "credit": "CNN"
+      },
+      "start_date": {
+        "month": "1",
+        "day": "23",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Trump Organization documents say he has resigned from more than 400 businesses",
+        "text": "<a href='http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/' target='_blank'>CNN / Trump Organization documents say he has resigned from more than 400 businesses</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2018/03/11/autossell/11reg-trumpkushner7/11reg-trumpkushner7-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "10",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Out of Public View, Trumps and Kushners Are Talking Business",
+        "text": "<a href='https://mobile.nytimes.com/2018/03/10/business/trumps-kushners-hotel-deals.html?referer=https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2018/03/11/politics/new-york-times-jared-kushner-donald-trump-hotel/index.html' target='_blank'>New York Times / Out of Public View, Trumps and Kushners Are Talking Business</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "http://www.mcclatchydc.com/news/politics-government/white-house/9r2hcb/picture204578299/alternates/LANDSCAPE_1140/AP_17348757778582",
+        "caption": "",
+        "credit": "McClatchy"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "12",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Ivanka Trump never cut ties with the Trump Organization. That’s turned into a problem.",
+        "text": "<a href='http://www.mcclatchydc.com/article204578309.html' target='_blank'>McClatchy / Ivanka Trump never cut ties with the Trump Organization. That’s turned into a problem.</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://amp.thedailybeast.com/public/favicon.ico?v=1",
+        "caption": "",
+        "credit": "Daily Beast"
+      },
+      "start_date": {
+        "month": "4",
+        "day": "18",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Trump Org ‘Gifts’ Treasury $150K in Foreign ‘Emoluments’",
+        "text": "<a href='https://amp.thedailybeast.com/trump-org-gifts-treasury-dollar150k-in-foreign-government-emoluments' target='_blank'>Daily Beast / Trump Org ‘Gifts’ Treasury $150K in Foreign ‘Emoluments’</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

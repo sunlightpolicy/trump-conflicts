@@ -1,0 +1,79 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Trump Hotel Rio De Janeiro",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/11/27/world/27TRUMPWORLD-FULLBLEED/27TRUMPWORLD-FULLBLEED-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "26",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+        "text": "<a href='https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1' target='_blank'>New York Times / Potential Conflicts Around the Globe for Trump, the Businessman President</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/12/14/Foreign/Images/RIOTRUMP001.JPG?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "13",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump company pulls its name off a Brazil hotel caught up in an investigation",
+        "text": "<a href='https://www.washingtonpost.com/world/the_americas/trump-company-pulls-its-name-off-a-brazil-hotel-caught-up-in-an-investigation/2016/12/13/c332dc2c-b078-4885-8a29-5f29b7da442e_story.html?utm_term=.3f329b9e8342' target='_blank'>Washington Post / Trump company pulls its name off a Brazil hotel caught up in an investigation</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/12/15/world/15Trumpbrazil1/15Trumpbrazil1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "14",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Firm Quits Brazil Hotel Project That Was Named in Criminal Inquiry",
+        "text": "<a href='https://www.nytimes.com/2016/12/14/world/americas/donald-trump-hotel-rio-brazil-investigation.html' target='_blank'>New York Times / Trump Firm Quits Brazil Hotel Project That Was Named in Criminal Inquiry</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/12/22/business/22trumplabor1/22trumplabor1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "21",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+        "text": "<a href='https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html' target='_blank'>New York Times / Trump Organization Moves to Avoid Possible Conflicts of Interest</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Trump Entrepreneur InitiatIVe (Formerly Trump UnIVersity Ca)",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/11/06/us/06TRUMPBIZ/06TRUMPBIZ-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "5",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Thin Line Splits Donald Trump's Politics and Businesses",
+        "text": "<a href='https://www.nytimes.com/2016/11/06/us/politics/donald-trump-business-tax-records.html?mtrref=undefined' target='_blank'>New York Times / Thin Line Splits Donald Trump's Politics and Businesses</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/11/18/National-Politics/Images/Trump_University_Lawsuit-d69e2.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "18",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump agrees to $25 million settlement in Trump University fraud cases",
+        "text": "<a href='https://www.washingtonpost.com/politics/source-trump-nearing-settlement-in-trump-university-fraud-cases/2016/11/18/8dc047c0-ada0-11e6-a31b-4b6397e625d0_story.html' target='_blank'>Washington Post / Trump agrees to $25 million settlement in Trump University fraud cases</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/12/22/business/22trumplabor1/22trumplabor1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "21",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+        "text": "<a href='https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html' target='_blank'>New York Times / Trump Organization Moves to Avoid Possible Conflicts of Interest</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

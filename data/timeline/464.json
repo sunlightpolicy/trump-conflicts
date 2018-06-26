@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Pier Village",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2018/03/11/autossell/11reg-trumpkushner7/11reg-trumpkushner7-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "10",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Out of Public View, Trumps and Kushners Are Talking Business",
+        "text": "<a href='https://mobile.nytimes.com/2018/03/10/business/trumps-kushners-hotel-deals.html?referer=https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2018/03/11/politics/new-york-times-jared-kushner-donald-trump-hotel/index.html' target='_blank'>New York Times / Out of Public View, Trumps and Kushners Are Talking Business</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

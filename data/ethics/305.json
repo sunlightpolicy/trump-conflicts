@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/chairman/director of Trump Marks SOHO License Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
       "business": "Trump Marks Soho License Corp.",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/member of Trump Marks SOHO LLC, in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
       "business": "Trump Marks Soho LLC",

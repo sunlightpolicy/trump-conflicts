@@ -18,7 +18,23 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Pres. Trump retains an ownership interest in the now-dormant or inactive All County Building Supply &amp; Maintenance Corp. Any current or former positions with the company have not been reported in his financial disclosures.",
       "business": "All County Building Supply &Amp; Maintenance Corp.",

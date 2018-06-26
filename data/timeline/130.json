@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "NBC",
+      "text": "Real estate tycoon (and now U.S. President) Donald Trump was the show's host for the first fourteen seasons. After he declared his candidacy for the presidency, NBC announced that actor and former California Governor Arnold Schwarzenegger would become the new host of The Celebrity Apprentice. In December 2016, MGM confirmed to Variety that Trump has retained his EP credit on the series. The larger issue for MGM, NBC, and the White House is the payment that Trump will receive for the series. It’s unclear what his per-episode fee is, but it is likely to be in the low five-figures, at minimum."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://pmcvariety.files.wordpress.com/2016/12/donald-trum-celeb-apprentice.png?w=700&h=393&crop=1",
+        "caption": "",
+        "credit": "Variety"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "8",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Donald Trump to Remain Executive Producer on \"Celebrity Apprentice\" (EXCLUSIVE)",
+        "text": "<a href='http://variety.com/2016/tv/news/donald-trump-mark-burnett-celebrity-apprentice-executive-producer-1201937420/' target='_blank'>Variety / Donald Trump to Remain Executive Producer on \"Celebrity Apprentice\" (EXCLUSIVE)</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

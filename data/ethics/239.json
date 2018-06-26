@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former member/president of Trump Drinks Israel Holdings (resigned 2015). The company&#39;s current activity status and ownership structure are not disclosed.",
       "business": "Trump Drinks Israel Holdings",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/director/chairman of Trump Drinks Israel Holdings Member Corp. (resigned 2015). The company&#39;s current activity status and ownership structure are not disclosed.",
       "business": "Trump Drinks Israel Holdings Member Corp.",

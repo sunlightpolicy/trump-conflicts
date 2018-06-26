@@ -1,0 +1,198 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Trump International Hotel DC",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.gsa.gov/sites/gsa.gov/templates/resources/images/inner-nav-logo.jpg",
+        "caption": "",
+        "credit": "Press Release"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "5",
+        "year": "2013"
+      },
+      "text": {
+        "headline": "GSA and Trump Organization Reach Deal on Old Post Office Lease",
+        "text": "<a href='https://www.gsa.gov/portal/content/172963' target='_blank'>Press Release / GSA and Trump Organization Reach Deal on Old Post Office Lease</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static.politico.com/c8/06/ad77c4bd49e7ad28888c91d82209/trump-hotel-gy-1160.jpg",
+        "caption": "",
+        "credit": "Politico"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "22",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Labor Department investigating Trump's Old Post Office project",
+        "text": "<a href='http://www.politico.com/story/2016/06/trump-dc-hotel-investigation-labor-department-224678' target='_blank'>Politico / Labor Department investigating Trump's Old Post Office project</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/11/18/National-Economy/Images/Trump_Hotel-5110a.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "18",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "For foreign diplomats, Trump hotel is place to be",
+        "text": "<a href='https://www.washingtonpost.com/business/capitalbusiness/2016/11/18/9da9c572-ad18-11e6-977a-1030f822fc35_story.html?tid=pm_business_pop&amp;utm_term=.e1df6827c09c' target='_blank'>Washington Post / For foreign diplomats, Trump hotel is place to be</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://cdn.govexec.com/media/img/upload/2016/11/28/shutterstock_519983854.jpg",
+        "caption": "",
+        "credit": "Government Executive"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "28",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "GSA's Trump Hotel Lease Debacle",
+        "text": "<a href='http://m.govexec.com/excellence/promising-practices/2016/11/gsas-trump-hotel-lease-debacle/133424/' target='_blank'>Government Executive / GSA's Trump Hotel Lease Debacle</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://img.huffingtonpost.com/asset/583de36b1a00002500cca4f8.jpeg?ops=1910_1000",
+        "caption": "",
+        "credit": "Huffington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "29",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Bahrain To Hold Major Celebration At Donald Trump’s D.C. Hotel",
+        "text": "<a href='http://www.huffingtonpost.com/entry/donald-trump-bahrain_us_583de2a5e4b0c33c8e1282d0?inyv55o07g8horms4i' target='_blank'>Huffington Post / Bahrain To Hold Major Celebration At Donald Trump’s D.C. Hotel</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/12/22/business/22trumplabor1/22trumplabor1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "21",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+        "text": "<a href='https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html' target='_blank'>New York Times / Trump Organization Moves to Avoid Possible Conflicts of Interest</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://wamu.org/wp-content/uploads/2018/03/AP_18079610763919-e1521719688948.jpg",
+        "caption": "",
+        "credit": "WAMU"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "21",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Summons Issued For Trump In Emoluments Case",
+        "text": "<a href='https://wamu.org/story/18/03/21/summons-issued-trump-emoluments-case/' target='_blank'>WAMU / Summons Issued For Trump In Emoluments Case</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://cdn.cnn.com/cnnnext/dam/assets/180201165614-trump-hotel-dc-super-tease.jpg",
+        "caption": "",
+        "credit": "CNN"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "28",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Judge allows lawsuit alleging Trump took illegal foreign gifts",
+        "text": "<a href='https://www.cnn.com/2018/03/28/politics/emoluments-lawsuit-trump-hotel/index.html' target='_blank'>CNN / Judge allows lawsuit alleging Trump took illegal foreign gifts</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "http://s.marketwatch.com/public/resources/MWimages/MW-FE470_trumph_ZG_20170125172905.jpg",
+        "caption": "",
+        "credit": "MarketWatch"
+      },
+      "start_date": {
+        "month": "4",
+        "day": "19",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Philippine government party to be held at Trump’s DC hotel",
+        "text": "<a href='https://www.marketwatch.com/story/philippine-government-party-to-be-held-at-trumps-dc-hotel-2018-04-19' target='_blank'>MarketWatch / Philippine government party to be held at Trump’s DC hotel</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/graphics/2018/politics/trump-hotel-events/img/trump-hotel-promo-2300.jpg",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "4",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Tracking who is spending money at President Trump’s D.C. hotel",
+        "text": "<a href='https://www.washingtonpost.com/graphics/2018/politics/trump-hotel-events/?noredirect=on&utm_term=.e324edc7d621' target='_blank'>Washington Post / Tracking who is spending money at President Trump’s D.C. hotel</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/resizer/Qvmp4_XeyS2qYMKzmNQkonm4IC4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VOQGD3XAGAI6PCPI5XWBMN4QCA.jpg",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "21",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "The three biggest surprises in the Trump Organization’s financial filings",
+        "text": "<a href='https://www.washingtonpost.com/politics/the-three-biggest-surprises-in-the-trump-organizations-financial-filings/2018/05/21/db2f0420-5c94-11e8-9ee3-49d6d4814c4c_story.html?utm_term=.64de8850a39d' target='_blank'>Washington Post / The three biggest surprises in the Trump Organization’s financial filings</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

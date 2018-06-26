@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Brookfield Asset Management",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2018/05/18/nyregion/18kushner/18kushner-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "17",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Kushners Near Deal With Qatar-Linked Company for Troubled Tower",
+        "text": "<a href='https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html' target='_blank'>New York Times / Kushners Near Deal With Qatar-Linked Company for Troubled Tower</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

@@ -13,7 +13,18 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former member/president of DT Connect LLC. As of Trump&#39;s 2016 financial disclosure, he held an ownership interest; the company&#39;s ownership structure was not reported in 2017.",
       "business": "DT Connect LLC",
@@ -32,7 +43,18 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former director/chairman/president of DT Connect Managing Member Corp. As of Trump&#39;s 2016 financial disclosure, he held an ownership interest; the company&#39;s ownership structure was not reported in 2017.",
       "business": "DT Connect Managing Member Corp.",

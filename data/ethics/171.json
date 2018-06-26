@@ -23,7 +23,28 @@
           "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        },
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president of THC DC Restaurant Hospitality LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
       "business": "THC DC Restaurant Hospitality LLC",

@@ -1,0 +1,45 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "General Services Administration",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.gsa.gov/sites/gsa.gov/templates/resources/images/inner-nav-logo.jpg",
+        "caption": "",
+        "credit": "Press Release"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "5",
+        "year": "2013"
+      },
+      "text": {
+        "headline": "GSA and Trump Organization Reach Deal on Old Post Office Lease",
+        "text": "<a href='https://www.gsa.gov/portal/content/172963' target='_blank'>Press Release / GSA and Trump Organization Reach Deal on Old Post Office Lease</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://cdn.govexec.com/media/img/upload/2016/11/28/shutterstock_519983854.jpg",
+        "caption": "",
+        "credit": "Government Executive"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "28",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "GSA's Trump Hotel Lease Debacle",
+        "text": "<a href='http://m.govexec.com/excellence/promising-practices/2016/11/gsas-trump-hotel-lease-debacle/133424/' target='_blank'>Government Executive / GSA's Trump Hotel Lease Debacle</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

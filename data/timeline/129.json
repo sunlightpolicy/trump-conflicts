@@ -1,0 +1,62 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "National Labor Relations Board",
+      "text": "As a business owner, Pres. Trump has been involved in labor disputes that potentially could be brought to the National Labor Relations Board for intervention. Since taking office, he has appointed board leaders who have come under scrutiny for perceived business-friendly ties and potential ethics violations."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2016/12/22/business/22trumplabor1/22trumplabor1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "21",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+        "text": "<a href='https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html' target='_blank'>New York Times / Trump Organization Moves to Avoid Possible Conflicts of Interest</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://assets.propublica.org/images/articles/20180123-william-emanuel-OG.jpg?1529522401",
+        "caption": "",
+        "credit": "ProPublica"
+      },
+      "start_date": {
+        "month": "1",
+        "day": "26",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "NLRB Member Is Under Investigation for a Conflict of Interest",
+        "text": "<a href='https://www.propublica.org/article/william-emanuel-nlrb-member-is-under-investigation-for-a-conflict-of-interest' target='_blank'>ProPublica / NLRB Member Is Under Investigation for a Conflict of Interest</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivoQ2Mi.XDDM/v0/1200x643.jpg",
+        "caption": "",
+        "credit": "Bloomberg"
+      },
+      "start_date": {
+        "month": "2",
+        "day": "14",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "",
+        "text": "<a href='https://www.bloomberg.com/news/articles/2018-02-14/trump-s-nlrb-scorned-by-grad-students' target='_blank'>Bloomberg</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

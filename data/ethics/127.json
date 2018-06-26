@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former partner in Miss Universe L.P., LLLP (F/K/A Trump Pageants, L.P.), in which Pres. Trump retains an ownership interest.",
       "business": "Miss Universe L.P., LlLP (F/K/A Trump Pageants, LP)",

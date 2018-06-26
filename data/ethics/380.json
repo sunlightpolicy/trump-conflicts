@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former member/president of the now-dormant or inactive Yorktown Real Estate LLC (F/K/A Yorktown Development Associates LLC), in which Pres. Trump retains an ownership interest.",
       "business": "Yorktown Real Estate LLC (F/K/A Yorktown Development Associates LLC)",

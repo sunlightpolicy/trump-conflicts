@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president of Trump National Golf Club LLC (Trump National Golf Club - Westchester), in which Pres. Trump retains ownership interests.",
       "business": "Trump National Golf Club LLC (Trump National Golf Club - Westchester)",

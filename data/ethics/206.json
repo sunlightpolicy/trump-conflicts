@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president of TNGC Charlotte LLC. It is not clear whether this business entity is the same as an entity called &quot;Trump National Golf Club - Charlotte,&quot; in which Pres. Trump retains ownership interests. The current activity status and ownership structure of TNGC Charlotte LLC have not been listed on his financial disclosures.",
       "business": "TNGC Charlotte LLC",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former president/chairman/director of TNGC Charlotte Manager Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
       "business": "TNGC Charlotte Manager Corp",

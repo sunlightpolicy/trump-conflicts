@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Internal Revenue Service",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "http://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2016/05/11/0511donaldtrumptaxes.jpg",
+        "caption": "",
+        "credit": "Newsweek"
+      },
+      "start_date": {
+        "month": "8",
+        "day": "10",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Is Donald Trump Really Being Audited by the IRS?",
+        "text": "<a href='http://www.newsweek.com/where-trump-irs-tax-audit-letter-488904' target='_blank'>Newsweek / Is Donald Trump Really Being Audited by the IRS?</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

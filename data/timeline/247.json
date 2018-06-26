@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Trump Florida",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/10/25/Others/Images/2016-10-25/TRUMPRUSSIANS25_041477432266.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "4",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "In \"Little Moscow,\" Russians helped Donald Trump's brand survive the recession",
+        "text": "<a href='https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html?utm_term=.a6cf0ab24f58' target='_blank'>Washington Post / In \"Little Moscow,\" Russians helped Donald Trump's brand survive the recession</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

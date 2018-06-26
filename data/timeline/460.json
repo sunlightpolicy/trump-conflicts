@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Victor Pinchuk",
+      "text": "Investigators subpoenaed the Trump Organization this year for an array of records about business with foreign nationals. In response, the company handed over documents about a $150,000 donation that the Ukrainian billionaire, Victor Pinchuk, made in September 2015 to the Donald J. Trump Foundation in exchange for a 20-minute appearance by Mr. Trump that month through a video link to a conference in Kiev."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2018/04/10/us/politics/10dc-inquiry1/10dc-inquiry1-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "4",
+        "day": "9",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Mueller Investigating Ukrainian’s $150,000 Payment for a Trump Appearance",
+        "text": "<a href='https://www.nytimes.com/2018/04/09/us/politics/trump-mueller-ukraine-victor-pinchuk.html' target='_blank'>New York Times / Mueller Investigating Ukrainian’s $150,000 Payment for a Trump Appearance</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

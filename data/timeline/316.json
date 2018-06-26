@@ -1,0 +1,45 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Trump Mortgage",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/02/29/Others/Images/2016-02-29/GettyImages-1135253981456788970.jpg?t=20170517",
+        "caption": "",
+        "credit": "Washington Post"
+      },
+      "start_date": {
+        "month": "2",
+        "day": "29",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Mortgage failed. Here’s what that says about the GOP front-runner.",
+        "text": "<a href='https://www.washingtonpost.com/politics/trump-mortgage-failed-heres-what-that-says-about-the-gop-front-runner/2016/02/28/f8701880-d00f-11e5-88cd-753e80cd29ad_story.html?utm_term=.246ad0d15e54' target='_blank'>Washington Post / Trump Mortgage failed. Here’s what that says about the GOP front-runner.</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://i2.cdn.turner.com/money/dam/assets/160309151119-trump-mortgage-780x439.jpg",
+        "caption": "",
+        "credit": "CNN"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "14",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump Mortgage...in 2 minutes",
+        "text": "<a href='http://money.cnn.com/2016/03/14/pf/trump-mortgage/index.html' target='_blank'>CNN / Trump Mortgage...in 2 minutes</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

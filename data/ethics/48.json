@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former member/presdient and owner of DSN Licensing LLC (F/K/A Trump Marks Network LLC), which reportedly was dissolved on Nov. 9, 2016.",
       "business": "DSN Licensing LLC",
@@ -22,7 +28,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "Former director/chairman, president and owner of DSN Licensing Member Corp. (F/K/A Trump Marks Network Member Inc.), which reportedly was dissolved on Nov. 9, 2016.",
       "business": "DSN Licensing Member Corp. (F/K/A Trump Marks Network Member Inc.)",

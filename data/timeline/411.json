@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Pfizer",
+      "text": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F624646258%2F960x0.jpg%3Ffit%3Dscale",
+        "caption": "",
+        "credit": "Forbes"
+      },
+      "start_date": {
+        "month": "11",
+        "day": "29",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
+        "text": "<a href='https://www.forbes.com/sites/jenniferwang/2016/11/29/trumps-stock-portfolio-big-oil-big-banks-and-more-foreign-connections/#30d204ea464e' target='_blank'>Forbes / Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

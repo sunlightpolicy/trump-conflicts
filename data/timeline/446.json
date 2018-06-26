@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "SoftBank Vision Fund",
+      "text": "SoftBank Vision Fund, a technology investment vehicle that gets almost half of its $100 billion from the Saudi government's Public Investment Fund. The United Arab Emirates has put at least $15 billion into the Vision Fund through its sovereign wealth fund as well. In May 2018, Cadre, a real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner, is sought an investment of at least $100 million from the Fund."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "http://www.trbimg.com/img-5b043f78/turbine/ct-kushner-cadre-softbank-funds-20180522",
+        "caption": "",
+        "credit": "Chicago Tribune"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "22",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Jared Kushner's tech startup seeking at least $100 million from Saudi-backed fund",
+        "text": "<a href='http://www.chicagotribune.com/business/national/ct-kushner-cadre-softbank-funds-20180522-story,amp.html' target='_blank'>Chicago Tribune / Jared Kushner's tech startup seeking at least $100 million from Saudi-backed fund</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

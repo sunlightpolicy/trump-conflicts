@@ -1,0 +1,45 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Ladder Capital",
+      "text": "Ladder Capital, a real estate investment firm that specializes in risky lending, has loaned at least $260 million to Donald Trump's businesses — including $160 million for the ground lease at 40 Wall Street and $100 million for Trump Tower. In February 2017, the firm Related Companies purchased $80 million worth of stock in Ladder Capital."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+        "caption": "",
+        "credit": "Reuters"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "2",
+        "year": "2016"
+      },
+      "text": {
+        "headline": "Exclusive: Trump financier Ladder Capital explores sale - sources",
+        "text": "<a href='https://www.reuters.com/article/us-laddercapital-m-a-exclusive-idUSKBN13R276' target='_blank'>Reuters / Exclusive: Trump financier Ladder Capital explores sale - sources</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://therealdeal.com/wp-content/uploads/2015/03/Jeff-Blau-e1460758340176.jpg",
+        "caption": "",
+        "credit": "The Real Deal"
+      },
+      "start_date": {
+        "month": "2",
+        "day": "28",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Related makes $80M stock buy in Trump Organization’s second-largest lender",
+        "text": "<a href='https://therealdeal.com/2017/02/28/related-companies-makes-80m-stock-buy-in-trumps-second-largest-lender/' target='_blank'>The Real Deal / Related makes $80M stock buy in Trump Organization’s second-largest lender</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

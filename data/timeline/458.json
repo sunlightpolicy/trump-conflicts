@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Country of Vietnam",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://assets.propublica.org/images/articles/20180425-trump-inc-vietnam-1200x630.jpg?1529504375",
+        "caption": "",
+        "credit": "ProPublica"
+      },
+      "start_date": {
+        "month": "4",
+        "day": "25",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "The Hidden Hand of a Casino Company in Trump’s Contact with Vietnam — “Trump, Inc.” Podcast",
+        "text": "<a href='https://www.propublica.org/article/trump-inc-podcast-vietnam-casino' target='_blank'>ProPublica / The Hidden Hand of a Casino Company in Trump’s Contact with Vietnam — “Trump, Inc.” Podcast</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

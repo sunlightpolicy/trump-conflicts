@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "New Sunshine LLC",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/f0ef9940-0523-430e-b1f0-404d6dd2765a/592ba951-d30f-4275-becf-dac86360d70a/1280x720/match/image.jpg",
+        "caption": "",
+        "credit": "McClatchy"
+      },
+      "start_date": {
+        "month": "2",
+        "day": "22",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "White House says Melania isn’t in business. So why are her companies still active?",
+        "text": "<a href='http://www.mcclatchydc.com/news/politics-government/congress/article134287344.html' target='_blank'>McClatchy / White House says Melania isn’t in business. So why are her companies still active?</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

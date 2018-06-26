@@ -1,0 +1,113 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Kushner Companies",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2018/03/11/autossell/11reg-trumpkushner7/11reg-trumpkushner7-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "10",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Out of Public View, Trumps and Kushners Are Talking Business",
+        "text": "<a href='https://mobile.nytimes.com/2018/03/10/business/trumps-kushners-hotel-deals.html?referer=https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2018/03/11/politics/new-york-times-jared-kushner-donald-trump-hotel/index.html' target='_blank'>New York Times / Out of Public View, Trumps and Kushners Are Talking Business</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": "Bloomberg"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "13",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Kushner Conflict Cloud Hovers Over Brooklyn Sale Linked to Japan",
+        "text": "<a href='https://www.bloomberg.com/amp/news/articles/2018-03-13/kushner-conflict-cloud-hovers-over-brooklyn-sale-linked-to-japan' target='_blank'>Bloomberg / Kushner Conflict Cloud Hovers Over Brooklyn Sale Linked to Japan</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": "Office of Government Ethics"
+      },
+      "start_date": {
+        "month": "3",
+        "day": "22",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "U.S. Office of Government Ethics (OGE) said the White House Counsel’s office is investigating whether loans to Jared Kushner’s family business broke laws or regulations",
+        "text": "<a href='https://www.oge.gov/web/oge.nsf/All%20Documents/2C62A672E2AF5BAC8525825C00518004/$FILE/Letter%20to%20Congressman%20Krishnamoorthi.pdf?open' target='_blank'>Office of Government Ethics / U.S. Office of Government Ethics (OGE) said the White House Counsel’s office is investigating whether loans to Jared Kushner’s family business broke laws or regulations</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://static01.nyt.com/images/2018/05/18/nyregion/18kushner/18kushner-facebookJumbo.jpg",
+        "caption": "",
+        "credit": "New York Times"
+      },
+      "start_date": {
+        "month": "5",
+        "day": "17",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Kushners Near Deal With Qatar-Linked Company for Troubled Tower",
+        "text": "<a href='https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html' target='_blank'>New York Times / Kushners Near Deal With Qatar-Linked Company for Troubled Tower</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://amp.businessinsider.com/images/5b11d9561ae6621b008b477f-1136-852.jpg",
+        "caption": "",
+        "credit": "Business Insider"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "1",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Charles Kushner explains his meeting with Qatar's finance minister, says it was 'a wrong thing to do,' but 'none of us knew the rules of government'",
+        "text": "<a href='https://amp.businessinsider.com/charles-kushner-qatar-finance-minister-meeting-666-fifth-ave-2018-6' target='_blank'>Business Insider / Charles Kushner explains his meeting with Qatar's finance minister, says it was 'a wrong thing to do,' but 'none of us knew the rules of government'</a>"
+      },
+      "group": "Donald Trump"
+    },
+    {
+      "media": {
+        "url": "https://www.gannett-cdn.com/-mm-/feed8c5736de22e880f6c09e6c9594775e3130bd/c=43-0-5438-3048&r=x1683&c=3200x1680/local/-/media/2018/06/06/USATODAY/USATODAY/636638843788306017-XXX-175-225-3rd-st-192-100371581.JPG",
+        "caption": "",
+        "credit": "USA Today"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "7",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Cozy land deals meant big money for Trump family and friends",
+        "text": "<a href='https://www.usatoday.com/story/news/2018/06/07/cozy-land-deals-meant-big-money-trump-family-and-friends/677126002/' target='_blank'>USA Today / Cozy land deals meant big money for Trump family and friends</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}

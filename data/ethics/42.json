@@ -8,7 +8,13 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [],
+      "ownerships": [
+        {
+          "owneeId": "1",
+          "owner": "1",
+          "percentage": "1"
+        }
+      ],
       "familyMember": "Donald Trump",
       "description": "The now-dormant or inactive Donald J Trump Enterprises II LLC is wholly owned by unnamed Trump family members. Any position with the company that he may hold or may have held in the past has not been disclosed.",
       "business": "Donald J Trump Enterprises II LLC",

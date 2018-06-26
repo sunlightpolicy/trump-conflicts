@@ -1,0 +1,28 @@
+{
+  "title": {
+    "media": null,
+    "text": {
+      "headline": "Commerce Department",
+      "text": ""
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20180605&t=2&i=1269488839&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEE541ZQ",
+        "caption": "",
+        "credit": "Reuters"
+      },
+      "start_date": {
+        "month": "6",
+        "day": "5",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources",
+        "text": "<a href='https://mobile.reuters.com/article/amp/idUSKCN1J12RP' target='_blank'>Reuters / Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources</a>"
+      },
+      "group": "Donald Trump"
+    }
+  ]
+}
