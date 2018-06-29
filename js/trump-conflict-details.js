@@ -13,7 +13,8 @@ function makeTimelinePopup(ethicsData, conflictId) {
         ga_property_id: "UA-27829802-4",
         is_embed:true
     });
-    
+    timeline._el.container.offsetHeight = 400;
+
     var span = document.getElementsByClassName("close")[0];
     span.onclick = function () {
         modal.style.display = "none";
@@ -58,25 +59,6 @@ function addStories(mediaOutlets) {
     table = '<table style="width:90%">' + table + '</table>'; 
     d3.select('#stories').html('<h3>Media Accounts</h3>' + table);
 }
-
-
-function addStories(mediaOutlets) {
-    console.table(mediaOutlets);
- 
-    var table = '';
-    mediaOutlets.forEach(pub => {
-        pub.data.forEach(story => {
-            table = 
-                table + 
-                '<tr>' +
-                    '<td class="conflict-col-1">' + dateToYMD(new Date(story.date)) + '</td>' +
-                    '<td class="conflict-col-2"><a href="' + story.details.link + '" target="_blank"><b>' + pub.name + '</b> / ' + story.details.headline + '</a><td>' + 
-                '</tr>';
-        });
-    });
-    table = '<table style="width:90%">' + table + '</table>'; 
-    d3.select('#stories').html('<h3>Media Accounts</h3>' + table);
-} 
 
 
 function addEthics(data) {
