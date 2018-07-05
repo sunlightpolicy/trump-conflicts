@@ -4,10 +4,10 @@
         "logo       title      title       title       title       title" 
         "search     search     stats       stats       stats       download" 
         "date       date       results     results     results     results" 
-        "conflict   outlet     results     results     results     results" 
-        "conflict   outlet     results     results     results     results"; 
+        "conflict   conflict   results     results     results     results" 
+        "conflict   conflict   results     results     results     results"; 
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 30px 20px 20px 60px, 60px;
+    grid-template-rows: 30px 20px 10px 60px, 60px;
     grid-gap: .5em;
     margin: 0 auto;
 }

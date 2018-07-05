@@ -2,7 +2,7 @@ function makeTable (cols, data) {
 
     head = '';
     for(i = 0; i < cols.length; i++)
-        head += th(cols[i].header);
+        head += th(cols[i].header, cols[i].class);
     head = thead(head);    
 
     body = ''; 
@@ -35,15 +35,17 @@ function thead(s) {
     return "<thead>" + s + "</thead>";
 }
 
-function th(s) {
-    return "<th>" + s + "</th>";
+function th(s, cls) {
+    var css = ""
+    if (cls)
+        css = " class='" + cls + "'";
+    return "<th" + css + ">" + s + "</th>";
 }
 
 function td(s, cls) {
     var css = ""
     if (cls)
         css = " class='" + cls + "'";
-
     return "<td" + css + ">" + s + "</td>";
 }
 

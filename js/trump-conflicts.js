@@ -97,7 +97,7 @@ d3.json("data/stories.json", function (err, data) {
     //    })
     //    .formatNumber(function (d) { return Math.round(d) + " Billion"; });
     
-    var leftWidth = 520;
+    var leftWidth = 400;
 
     var changeDateDim = facts.dimension(function (d) { return d.sourceDate; });
     var changeDateGroup = changeDateDim.group(d3.time.day);
@@ -108,7 +108,7 @@ d3.json("data/stories.json", function (err, data) {
         .x(d3.time.scale().domain([new Date(2016, 2, 15), new Date(2018, 6, 15)]))
         .xUnits(d3.time.day)
         .width(leftWidth)
-        .height(240)
+        .height(140)
         .margins({ top: 15, right: 20, bottom: 20, left: 40 })
         .elasticY(true)
         .filter([new Date(2016, 2, 25), new Date(2018, 6, 10)]) // Months are zero based
@@ -130,8 +130,8 @@ d3.json("data/stories.json", function (err, data) {
     //sourceTypeChart = new RowChart(facts, "sourceType", leftWidth, 2, 70);
     //sourceTypeChart.filter("Media");
 
-    conflictChart = new RowChart(facts, "conflict", col1Width, 30);
-    mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 30);
+    conflictChart = new RowChart(facts, "conflict", leftWidth, 50);
+    //mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 30);
     
     dataTable = dc.dataTable("#dc-chart-table");
 

@@ -10,7 +10,6 @@ body {
     width: 1100px;
 }
 
-
 a {
     color: steelblue;
 }
@@ -28,7 +27,7 @@ h2 {
     margin-top: 20px;
     margin-right: 20px;
     margin-bottom: 6px;
-    margin-left: 20px;
+    margin-left: 5px;
     /* font-weight: bold; */
     font-size: 18px;
 }
@@ -42,14 +41,51 @@ h3 {
     font-size: 16px;
 }
 
-p {
-    margin-top: 20px;
+h4 {
+    margin-top: 18px;
     margin-right: 20px;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+p {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 6px;
     margin-left: 20px;
     font-size: 15px;
     color: #737373;
     line-height: 1.5;
+}
+
+table {
+    margin-left: 20px; 
+}
+
+th {
+    border-bottom-color: rgb(209, 209, 209);
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    padding-top: 5;
+    padding-bottom: 5;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+td {
+    border-bottom-color: rgb(209, 209, 209);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    padding-top: 5;
+    padding-bottom: 5;
+    font-size: 14px;
+    font-weight: 400;
 }
 
 input {

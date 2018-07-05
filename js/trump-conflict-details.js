@@ -54,6 +54,7 @@ function addEthics(data) {
     ];
 
     var ethicsHtml = h2("Ethics Disclosures");
+    ethicsHtml += "<hr>"; 
     
     data.familyMemberBusinessWithEthicsList.forEach(bus => {
         ethicsHtml += h4(bus.business + " / " + bus.familyMember + " / " + bus.conflictStatus);
