@@ -10,9 +10,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "481",
+          "owner": "DTTM Operations Managing Member Corp.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -30,8 +30,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "482",
+          "owner": "DTTM Operations LLC",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "482",
+          "owner": "The Trump Marks Real Estate Corp.",
           "percentage": "1"
         }
       ],

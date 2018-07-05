@@ -10,8 +10,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "22",
+          "owner": "DJT Holdings LLC",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "22",
+          "owner": "809 North Canon Member Corporation",
           "percentage": "1"
         }
       ],
@@ -30,9 +35,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "21",
+          "owner": "DJT Holdings Managing Member LLC",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",

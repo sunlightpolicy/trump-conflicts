@@ -10,8 +10,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "375",
+          "owner": "DTTM Operations LLC",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "375",
+          "owner": "Trump EU Marks Member Corp",
           "percentage": "1"
         }
       ],
@@ -30,9 +35,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "374",
+          "owner": "DTTM Operations Managing Member Corp.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",

@@ -10,9 +10,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "410",
+          "owner": "DJT Holdings Managing Member LLC",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -30,9 +30,14 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "411",
+          "owner": "DJT Holdings LLC",
+          "percentage": "94"
+        },
+        {
+          "owneeId": "411",
+          "owner": "Trump Las Vegas Corp.",
+          "percentage": "6"
         }
       ],
       "familyMember": "Donald Trump",
@@ -50,9 +55,14 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "412",
+          "owner": "DJT Holdings LLC",
+          "percentage": "94"
+        },
+        {
+          "owneeId": "412",
+          "owner": "Trump Las Vegas Corp.",
+          "percentage": "6"
         }
       ],
       "familyMember": "Donald Trump",

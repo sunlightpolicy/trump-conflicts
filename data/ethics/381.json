@@ -10,9 +10,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "616",
+          "owner": "The Donald J. Trump Revocable Trust",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -30,9 +30,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "599",
+          "owner": "DTTM Operations Managing Member Corp.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -50,9 +50,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "617",
+          "owner": "DJT Holdings LLC",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -70,9 +70,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "600",
+          "owner": "DTTM Operations Managing Member Corp.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -90,9 +90,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "618",
+          "owner": "DJT Holdings LLC",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -110,9 +110,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "601",
+          "owner": "DTTM Operations Managing Member Corp.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -130,9 +130,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "401",
+          "owner": "The Donald J. Trump Revocable Trust",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -150,9 +150,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "402",
+          "owner": "The Donald J. Trump Revocable Trust",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -170,9 +170,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "624",
+          "owner": "401 Mezz Venture LLC",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -190,9 +190,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "612",
+          "owner": "DJT Holdings LLC",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -210,9 +210,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "602",
+          "owner": "DJT Holdings LLC",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -230,8 +230,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "614",
+          "owner": "DTTM Operations LLC",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "614",
+          "owner": "Trump Toronto Member Corp. (F/K/A Trump Toronto Management Member Corp.)",
           "percentage": "1"
         }
       ],
@@ -258,23 +263,7 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        },
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        },
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        }
-      ],
+      "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Former member of the board of Trump SoHo Hotel Condominium New York, a condominium association. Its ownership structure is not clear; it has not been reported on any of his financial disclosures.",
       "business": "Trump Soho Hotel Condominium New York",

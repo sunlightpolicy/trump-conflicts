@@ -15,14 +15,14 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "103",
+          "owner": "DT Lido Hotel Manager Member Corp.",
           "percentage": "1"
         },
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "103",
+          "owner": "TTTT Venture LLC",
+          "percentage": ""
         }
       ],
       "familyMember": "Donald Trump",
@@ -40,9 +40,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "102",
+          "owner": "DJT Holdings Managing Member LLC",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -65,14 +65,14 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "103",
+          "owner": "DT Lido Hotel Manager Member Corp.",
           "percentage": "1"
         },
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "103",
+          "owner": "TTTT Venture LLC",
+          "percentage": ""
         }
       ],
       "familyMember": "Ivanka Trump",

@@ -10,9 +10,14 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "145",
+          "owner": "The Donald J. Trump Revocable Trust",
+          "percentage": "99.9"
+        },
+        {
+          "owneeId": "145",
+          "owner": "Plaza Consulting Corp.",
+          "percentage": "0.1"
         }
       ],
       "familyMember": "Donald Trump",

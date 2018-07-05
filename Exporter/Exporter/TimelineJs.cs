@@ -121,10 +121,13 @@ namespace Phase2 {
                             var timeline = 
                                 new TimelineJs(
                                     reader["Id"].ToString(),
-                                    new List<Event>(), 
-                                    new Title(null, new text(conflict, reader["conflictDescription"].ToString())));
+                                    new List<Event>(),  
+                                    // We don't need a title slide because the title and description are shown above the timeline
+                                    null);
+                                    //new Title(null, new text(conflict, reader["conflictDescription"].ToString())));
 
                             timelines.Add(timeline);
+
                             events = timeline.events;
                             oldConflict = conflict;
                         }

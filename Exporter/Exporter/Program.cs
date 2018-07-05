@@ -33,7 +33,7 @@ namespace Phase2 {
 
 
             //TimelineImport.MakeJson("c:\\trump-conflicts\\data\\media\\");
-            TimelineJsImport.MakeJson("c:\\trump-conflicts\\data\\timeline\\");
+            //TimelineJsImport.MakeJson("c:\\trump-conflicts\\data\\timeline\\");
 
             Console.WriteLine("Done");
             Console.ReadLine();

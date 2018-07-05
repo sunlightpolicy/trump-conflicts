@@ -10,9 +10,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "499",
+          "owner": "DTTM Operations Managing Member Corp.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -30,8 +30,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "500",
+          "owner": "DTTM Operations LLC",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "500",
+          "owner": "Trump Marks White Plains Corp.",
           "percentage": "1"
         }
       ],

@@ -20,19 +20,19 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "5",
+          "owner": "HWA 1290 Ill LLC",
+          "percentage": "52"
         },
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "5",
+          "owner": "HWA 1290 V LLC",
+          "percentage": "27.8"
         },
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "5",
+          "owner": "HWA 1290 IV LLC",
+          "percentage": "20.2"
         }
       ],
       "familyMember": "Donald Trump",

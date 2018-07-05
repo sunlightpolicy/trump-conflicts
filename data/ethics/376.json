@@ -18,23 +18,7 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        },
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        },
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        }
-      ],
+      "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Pres. Trump reportedly resigned from any positions with the William Trump Medical Fund LLC the day before his inauguration in January 2017. However, its current activity status and ownership structure are unclear, as the company has never been reported on his financial disclosures. His specific position with the company also has not been disclosed.",
       "business": "William Trump Medical Fund LLC",

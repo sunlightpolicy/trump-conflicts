@@ -6,11 +6,19 @@ function timelinePopup(conflictId) {
 }
 
 function addHeader(data) {
+    var name = "No conflict name - ethics data for conflict not found";
+    var description = "No conlfict description - ethics data for conflict not found";
+
+    if (data != null) {
+        name = data.conflict;
+        description = data.conflictDescription;
+    }
+
     var conflict = d3.select('#conflict');
-    conflict.text(data.conflict);
+    conflict.text(name);
 
     var conflictDescription = d3.select('#conflictDescription');
-    conflictDescription.text(data.conflictDescription);
+    conflictDescription.text(description);
 
     addEthics(data);
     return data;
@@ -40,7 +48,25 @@ function makeTimelinePopup(conflictId) {
 
 function addEthics(data) {
 
-    d3.select('#ethics').html('');
+    var cols = [
+        {"header": "Owner",      "class": "td-text",    "field": "owner"}, 
+        {"header": "Percentage", "class": "td-percent", "field": "percentage"}
+    ];
+
+    var ethicsHtml = h2("Ethics Disclosures");
+    
+    data.familyMemberBusinessWithEthicsList.forEach(bus => {
+        ethicsHtml += h4(bus.business + " / " + bus.familyMember + " / " + bus.conflictStatus);
+        ethicsHtml += p(bus.description);
+        ethicsHtml += makeTable(cols, bus.ownerships);
+    });
+    
+    d3.select('#ethics').html(ethicsHtml);
+    return;
+
+
+    if (data == null)
+        return;
 
     d3.select('#ethics')
         .append('h3')
@@ -64,7 +90,9 @@ function addEthics(data) {
         .attr("href", function (d) { return d.ethicsDocuments[0].link; })
         .text(function (d) { return " " + d.ethicsDocuments[0].name; })
 
-        .append("hr"); 
+        .append("p")
+        .data(data.familyMemberBusinessWithEthicsList.ownerships[0].owner);
+        //.append("hr"); 
 }
 
 

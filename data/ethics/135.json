@@ -20,19 +20,14 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "213",
+          "owner": "Trump Central Park West Corp.",
+          "percentage": "50"
         },
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        },
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "213",
+          "owner": "Galbreath Columbus Circle Development Associates LP",
+          "percentage": "50"
         }
       ],
       "familyMember": "Donald Trump",
@@ -60,19 +55,14 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "214",
+          "owner": "CPW PT Partners GP",
+          "percentage": "65.7"
         },
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        },
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "214",
+          "owner": "One Central Park West Associates",
+          "percentage": "34.3"
         }
       ],
       "familyMember": "Donald Trump",

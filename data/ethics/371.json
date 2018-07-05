@@ -10,9 +10,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "579",
+          "owner": "DJT Holdings Managing Member LLC",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -30,8 +30,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "580",
+          "owner": "DJT Holdings LLC",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "580",
+          "owner": "UnIT 2502 Enterprises Corp.",
           "percentage": "1"
         }
       ],

@@ -15,14 +15,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        },
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "427",
+          "owner": "Trump, Donald J.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -45,13 +40,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "428",
+          "owner": "Trump, Donald J.",
+          "percentage": "99"
         },
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "428",
+          "owner": "Trump Marks Baja Corp.",
           "percentage": "1"
         }
       ],

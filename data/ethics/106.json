@@ -10,8 +10,18 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "172",
+          "owner": "Hudson Westside Associates I, L.P.",
+          "percentage": "69"
+        },
+        {
+          "owneeId": "172",
+          "owner": "The Donald J. Trump Revocable Trust",
+          "percentage": "30"
+        },
+        {
+          "owneeId": "172",
+          "owner": "Hudson Waterfront I Corporation",
           "percentage": "1"
         }
       ],

@@ -10,9 +10,14 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "50",
+          "owner": "Trump Family Members",
+          "percentage": "75"
+        },
+        {
+          "owneeId": "50",
+          "owner": "DJT Holdings LLC",
+          "percentage": "25"
         }
       ],
       "familyMember": "Donald Trump",

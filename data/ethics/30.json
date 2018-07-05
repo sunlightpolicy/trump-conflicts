@@ -8,13 +8,7 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        }
-      ],
+      "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "CPW PT Partners GP owns 65.7 percent of One Central Park West PT Associates.",
       "business": "CPW PT Partners GP",

@@ -74,10 +74,25 @@ namespace Phase2 {
 
         public static string ConnectionString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
 
+        private static Dictionary<string, string> businesses;
+
         public static void Run(string path) {
             var stories = MakeStories();
-            WriteStoryJson(path, stories);
-            WriteStoryCsv(path, stories);
+
+            // Temporarily get rid of these duplicates
+            var filteredStories = new List<Conflicts.Story>();  
+            foreach (Conflicts.Story s in stories) {
+
+                Console.WriteLine(s.conflict);
+
+                if ((s.conflict != "Trump Organization LLC D/B/A The Trump Organization") &&
+                   (s.conflict != "") &&
+                   (s.conflict != "Trump International Hotel DC"))
+                    filteredStories.Add(s);
+            }
+
+            WriteStoryJson(path, filteredStories);
+            WriteStoryCsv(path, filteredStories);
 
             List<FamilyMemberBusinessEthicsForConflict> ethicsForConflict = MakeEthicsInfos();
 
@@ -87,11 +102,17 @@ namespace Phase2 {
             WriteEthicsInfosToJson(path, ethicsForConflict);
         }
 
-        private static void AddOwnersips(List<FamilyMemberBusinessEthicsForConflict> businesses) {
+        private static void AddOwnersips(List<FamilyMemberBusinessEthicsForConflict> businessesForConflict) {
             List<BusinessOwnershipForJson> ownerships = MakeBusinessOwnerships();
 
-            foreach (FamilyMemberBusinessEthicsForConflict b in businesses) {
-
+            foreach (FamilyMemberBusinessEthicsForConflict b in businessesForConflict) {
+                foreach (FamilyMemberBusinessWithEthics bus in b.familyMemberBusinessWithEthicsList) {
+                    foreach (BusinessOwnershipForJson ownership in ownerships) {
+                        var busId = IdForBusinessName(bus.business);
+                        if (busId == ownership.owneeId)
+                            bus.ownerships.Add(ownership);
+                    }
+                }
             }
         }
 
@@ -188,6 +209,24 @@ namespace Phase2 {
             return ethics;
         }
 
+        private static string IdForBusinessName(string name) {
+            if (businesses == null) {
+                businesses = new Dictionary<string, string>();
+                string query = "SELECT ID, Name FROM Business";
+                using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
+                    using (SqlCommand cmd = new SqlCommand(query, conn)) {
+                        cmd.CommandType = CommandType.Text;
+                        conn.Open();
+                        SqlDataReader reader = cmd.ExecuteReader();
+
+                        while (reader.Read())
+                            businesses.Add(reader["Name"].ToString(), reader["ID"].ToString());
+                    }
+                }
+            }
+            return businesses[name];
+        }
+
         private static List<BusinessOwnershipForJson> MakeBusinessOwnerships() {
             var ownerships = new List<BusinessOwnershipForJson>();
 
@@ -238,7 +277,7 @@ namespace Phase2 {
                 , reader["EthicsDocumentLink"].ToString()
                 ));
 
-            lastBusiness.ownerships.Add(new BusinessOwnershipForJson("1", "1", "1"));
+            //lastBusiness.ownerships.Add(new BusinessOwnershipForJson("1", "1", "1"));
         }
 
         private static void AddConflict(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {

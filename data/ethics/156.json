@@ -10,9 +10,19 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "242",
+          "owner": "Trump Village Construction Corp.",
+          "percentage": "1.84"
+        },
+        {
+          "owneeId": "242",
+          "owner": "Shore Haven Apt#1, Inc.",
+          "percentage": "1.72"
+        },
+        {
+          "owneeId": "242",
+          "owner": "Beach Haven Apt#1. Inc.",
+          "percentage": "0.86"
         }
       ],
       "familyMember": "Donald Trump",

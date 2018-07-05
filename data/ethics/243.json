@@ -10,9 +10,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "370",
+          "owner": "The Trump Entrepreneur Initiative LLC (NY Domestic)",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -30,9 +30,19 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "365",
+          "owner": "Sexton, Michael",
+          "percentage": "4.5"
+        },
+        {
+          "owneeId": "365",
+          "owner": "Spitalny, Jonathan",
+          "percentage": "3.5"
+        },
+        {
+          "owneeId": "365",
+          "owner": "DJT Entrepreneur Managing Member LLC (F/K/A DJT University Managing Member LLC)",
+          "percentage": "0.1"
         }
       ],
       "familyMember": "Donald Trump",

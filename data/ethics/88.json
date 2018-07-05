@@ -10,8 +10,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "149",
+          "owner": "The Donald J. Trump Revocable Trust",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "149",
+          "owner": "Eid Venture II Member Corp.",
           "percentage": "1"
         }
       ],
@@ -30,9 +35,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "148",
+          "owner": "The Donald J. Trump Revocable Trust",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",

@@ -8,13 +8,7 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        }
-      ],
+      "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Has held an investment in United Technologies Corp. bonds. United Technologies Corp. is the parent company of Carrier Corp. and UTEC, which make heating and air conditioning products. The asset was listed in Trump&#39;s 2016 financial disclosure, but not in his disclosure from 2017.",
       "business": "Holds United Technologies Corp",

@@ -10,8 +10,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "322",
+          "owner": "Trump, Donald J.",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "322",
+          "owner": "TP CFD Manager Corp.",
           "percentage": "1"
         }
       ],
@@ -30,9 +35,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "321",
+          "owner": "Trump, Donald J.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",

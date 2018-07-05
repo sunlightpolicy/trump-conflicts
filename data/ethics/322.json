@@ -10,8 +10,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "514",
+          "owner": "DJT Holdings LLC",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "514",
+          "owner": "Trump National Golf Club Member Corp.",
           "percentage": "1"
         }
       ],

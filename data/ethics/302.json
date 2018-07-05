@@ -10,8 +10,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "478",
+          "owner": "Trump, Donald J.",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "478",
+          "owner": "Trump Marks Puerto Rico II Member Corp.",
           "percentage": "1"
         }
       ],
@@ -30,9 +35,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "477",
+          "owner": "Trump, Donald J.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",

@@ -8,13 +8,7 @@
           "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
         }
       ],
-      "ownerships": [
-        {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        }
-      ],
+      "ownerships": [],
       "familyMember": "Donald Trump",
       "description": "Merrill Lynch Credit Corporation holds two mortgages for Pres. Trump, both of which mature are scheduled to mature in 2019.",
       "business": "Merrill Lynch CredIT Corporation",

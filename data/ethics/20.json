@@ -20,18 +20,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "42",
+          "owner": "Caribusiness MRE LLC",
+          "percentage": "99"
         },
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
-        },
-        {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "42",
+          "owner": "The Caribusiness RE Corp",
           "percentage": "1"
         }
       ],
@@ -50,8 +45,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "41",
+          "owner": "DJT Holdings LLC",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "41",
+          "owner": "The Caribusiness RE Corp",
           "percentage": "1"
         }
       ],

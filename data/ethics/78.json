@@ -10,8 +10,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "131",
+          "owner": "The Donald J. Trump Revocable Trust",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "131",
+          "owner": "DT Marks Vancouver Manager Corp.",
           "percentage": "1"
         }
       ],
@@ -30,9 +35,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "130",
+          "owner": "DTTM Operations Managing Member Corp.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",

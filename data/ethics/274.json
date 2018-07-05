@@ -10,9 +10,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "420",
+          "owner": "DTTM Operations Managing Member Corp.",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
@@ -30,8 +30,13 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
+          "owneeId": "421",
+          "owner": "DTTM Operations LLC",
+          "percentage": "99"
+        },
+        {
+          "owneeId": "421",
+          "owner": "Trump Marks GP Corp.",
           "percentage": "1"
         }
       ],
@@ -50,9 +55,9 @@
       ],
       "ownerships": [
         {
-          "owneeId": "1",
-          "owner": "1",
-          "percentage": "1"
+          "owneeId": "422",
+          "owner": "Trump Marks Holdings LP (F/K/A Trump Marks LP)",
+          "percentage": "100"
         }
       ],
       "familyMember": "Donald Trump",
