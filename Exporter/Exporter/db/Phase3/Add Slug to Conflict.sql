@@ -1,0 +1,5 @@
+USE Trump
+GO
+
+ALTER TABLE Conflict ADD Slug VARCHAR(1000) NOT NULL DEFAULT ''
+ 

@@ -8,7 +8,7 @@ using Microsoft.VisualBasic.FileIO;
 
 using System.Data;
 using System.Data.SqlClient;
-
+using System.Text.RegularExpressions;
 
 namespace Phase2 {
 
@@ -193,12 +193,60 @@ namespace Phase2 {
     public class AirTableLoader {
 
         public static void Load(string inputPath, string outputPath) {
-            LoadConflicts(inputPath + "Conflicts-Grid view.csv", outputPath);
-            LoadStories(inputPath + "Stories-Grid view.csv", outputPath);
+            //LoadConflicts(inputPath + "Conflicts-Grid view.csv", outputPath);
+            //LoadStories(inputPath + "Stories-Grid view.csv", outputPath);
 
-            LoadStoryConflicts(inputPath + "Stories-Grid view.csv", outputPath);
+            //LoadStoryConflicts(inputPath + "Stories-Grid view.csv", outputPath);
+
+            WriteSlugs(outputPath);
         }
-        
+
+        private static void WriteSlugs(string outputPath) {
+
+            var slugUpdates = new List<string>();
+
+            string query = "SELECT ID, Name FROM Conflict";
+            using (SqlConnection conn = new SqlConnection("Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;")) {
+                using (SqlCommand cmd = new SqlCommand(query, conn)) {
+                    cmd.CommandType = CommandType.Text;
+                    conn.Open();
+                    SqlDataReader reader = cmd.ExecuteReader();
+                    while (reader.Read())
+                        slugUpdates.Add("UPDATE Conflict SET Slug = '" + ToUrlSlug(reader["Name"].ToString()) + "' WHERE ID = " + reader["ID"].ToString());
+                }
+            }
+            using (TextWriter tw = new StreamWriter(outputPath + "UpdateSlugs.sql")) {
+                
+                foreach (String cmd in slugUpdates)
+                    tw.WriteLine(cmd);
+            }
+        }
+
+        public static string ToUrlSlug(string value) {
+
+            //First to lower case
+            value = value.ToLowerInvariant();
+
+            //Remove all accents
+            var bytes = Encoding.GetEncoding("Cyrillic").GetBytes(value);
+            value = Encoding.ASCII.GetString(bytes);
+
+            //Replace spaces
+            value = Regex.Replace(value, @"\s", "-", RegexOptions.Compiled);
+
+            //Remove invalid chars
+            value = Regex.Replace(value, @"[^a-z0-9\s-_]", "", RegexOptions.Compiled);
+
+            //Trim dashes from end
+            value = value.Trim('-', '_');
+
+            //Replace double occurences of - or _
+            value = Regex.Replace(value, @"([-_]){2,}", "$1", RegexOptions.Compiled);
+
+            return value;
+        }
+
+
         private static void LoadConflicts(string csvFile, string outputPath) {
 
             Table conflictTable = new Table(

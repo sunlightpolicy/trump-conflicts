@@ -64,6 +64,12 @@ table {
     margin-left: 20px; 
 }
 
+
+tr {
+    border-left-width: 0px;
+    border-right-width: 0px; 
+}
+
 th {
     border-bottom-color: rgb(209, 209, 209);
     border-bottom-width: 2px;
@@ -77,11 +83,14 @@ th {
 }
 
 td {
-    border-bottom-color: rgb(209, 209, 209);
+  /*   border-bottom-color: rgb(209, 209, 209);
     border-bottom-width: 1px;
     border-bottom-style: solid;
     border-left-width: 0px;
-    border-right-width: 0px;
+    border-right-width: 0px; */
+
+    border-bottom: 1px solid rgb(209, 209, 209);
+
     padding-top: 5;
     padding-bottom: 5;
     font-size: 14px;

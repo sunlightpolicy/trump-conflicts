@@ -1,11 +1,11 @@
 
 function timelinePopup(conflictId) {
-    var ethicsData = d3.json("data/ethics/" + conflictId + ".json", data => addHeader(data)); 
+    d3.json("data/ethics/" + conflictId + ".json", data => addHeader(data, conflictId)); 
 
     makeTimelinePopup(conflictId);
 }
 
-function addHeader(data) {
+function addHeader(data, conflictId) {
     var name = "No conflict name - ethics data for conflict not found";
     var description = "No conlfict description - ethics data for conflict not found";
 
@@ -20,6 +20,7 @@ function addHeader(data) {
     var conflictDescription = d3.select('#conflictDescription');
     conflictDescription.text(description);
 
+    addStoryTable(conflictId);
     addEthics(data);
     return data;
 }
@@ -45,6 +46,13 @@ function makeTimelinePopup(conflictId) {
     modal.style.display = "block";
 }
 
+function addStoryTable(conflictId) {
+    d3.json("data/timeline/" + conflictId + ".json", function (data) {
+        var stories = data.events;
+        
+        console.table(stories);
+    }); 
+} 
 
 function addEthics(data) {
 

@@ -77,6 +77,7 @@ namespace Phase2 {
         private static Dictionary<string, string> businesses;
 
         public static void Run(string path) {
+
             var stories = MakeStories();
 
             // Temporarily get rid of these duplicates
