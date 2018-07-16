@@ -163,7 +163,7 @@ function conflictHeader(d) {
 function ethicsPopupLink(d) {
     let link = ""; 
     //link = " <a href=\"#\" onclick=\"timelinePopup(" + d.conflictId + "); return false\"><b>Timeline</b></a>"
-    link = " <a href=\"#\" onclick=\"timelinePopup('" + d.conflictSlug + "'); return false\"><b>Timeline</b></a>"
+    link = " <a href=\"#\" onclick=\"timelinePopup('" + d.conflictSlug + "'); return false\"><b>Details</b></a>"
     return link;
 }
 

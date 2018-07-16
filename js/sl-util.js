@@ -1,4 +1,6 @@
 function makeTable (cols, data) {
+    if (data.length == 0)
+        return "";
 
     head = '';
     for(i = 0; i < cols.length; i++)
