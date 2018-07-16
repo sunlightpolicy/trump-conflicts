@@ -1,0 +1,34 @@
+{
+  "name": "TIHT Holding Company",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "308",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of TIHT Holding Company LLC, of which Pres. Trump retains ownership interests.",
+          "business": "TIHT Holding Company LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "201",
+      "conflict": "TIHT Holding Company",
+      "conflictDescription": ""
+    }
+  ]
+}

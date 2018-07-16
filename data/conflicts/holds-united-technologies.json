@@ -1,0 +1,55 @@
+{
+  "name": "Holds United Technologies",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Holds United Technologies",
+      "category": "Active",
+      "mediaOutlet": "Indy Star",
+      "link": "http://www.indystar.com/story/news/politics/2016/05/19/donald-trump-profited-investment-carriers-parent-company/84593308/",
+      "sourceDate": "2016-05-19T00:00:00",
+      "headline": "Donald Trump profited from investment in Carrier's parent company",
+      "conflictId": "103",
+      "conflictSlug": "holds-united-technologies",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Holds United Technologies",
+      "category": "Active",
+      "mediaOutlet": "Wall Street Journal",
+      "link": "https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443?mod=e2tw&amp;mg=id-wsj",
+      "sourceDate": "2016-12-02T00:00:00",
+      "headline": "Donald Trump Had Investments in Carrier Corp.’s Parent",
+      "conflictId": "103",
+      "conflictSlug": "holds-united-technologies",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Has held an investment in United Technologies Corp. bonds. United Technologies Corp. is the parent company of Carrier Corp. and UTEC, which make heating and air conditioning products. The asset was listed in Trump&#39;s 2016 financial disclosure, but not in his disclosure from 2017.",
+          "business": "Holds United Technologies Corp",
+          "conflictStatus": "Potential"
+        }
+      ],
+      "conflictId": "103",
+      "conflict": "Holds United Technologies",
+      "conflictDescription": ""
+    }
+  ]
+}

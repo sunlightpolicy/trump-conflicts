@@ -1,0 +1,83 @@
+{
+  "name": "THC Jeddah Hotel Advisor",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "THC Jeddah Hotel Advisor",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html",
+      "sourceDate": "2016-11-20T00:00:00",
+      "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
+      "conflictId": "176",
+      "conflictSlug": "thc-jeddah-hotel-advisor",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "271",
+              "owner": "Trump, Donald J.",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "271",
+              "owner": "THC Jeddah Hotel Advisor Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of THC Jeddah Hotel Advisor LLC. According to Trump&#39;s 2016 financial disclosure, the company, which he alone owned, had no independent value or income and existed to hold license deals that were prospective, inactive, or otherwise did not currently have valuable assets or create income. The company&#39;s current activity status and ownership structure were not articulated in his 2017 disclosure.",
+          "business": "THC Jeddah Hotel Advisor LLC",
+          "conflictStatus": "Potential"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "270",
+              "owner": "Trump, Donald J.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/chairman/president of THC Jeddah Hotel Advisor Member Corp. According to Trump&#39;s 2016 financial disclosure, the company, which he alone owned, had no independent value or income and existed to hold license deals that were prospective, inactive, or otherwise did not currently have valuable assets or create income. The company&#39;s current activity status and ownership structure were not articulated in his 2017 disclosure.",
+          "business": "THC Jeddah Hotel Advisor Member Corp.",
+          "conflictStatus": "Potential"
+        }
+      ],
+      "conflictId": "176",
+      "conflict": "THC Jeddah Hotel Advisor",
+      "conflictDescription": ""
+    }
+  ]
+}

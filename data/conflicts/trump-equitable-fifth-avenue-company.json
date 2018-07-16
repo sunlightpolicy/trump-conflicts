@@ -1,0 +1,53 @@
+{
+  "name": "Trump Equitable Fifth Avenue Company",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Equitable Fifth Avenue Company",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/08/21/us/politics/donald-trump-debt.html",
+      "sourceDate": "2016-08-20T00:00:00",
+      "headline": "Trump’s Empire: A Maze of Debts and Opaque Ties",
+      "conflictId": "244",
+      "conflictSlug": "trump-equitable-fifth-avenue-company",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "153",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "153",
+              "owner": "Tipperary Realty Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former partner in The Trump Equitable Fifth Avenue Company, of which Pres. Trump retains an ownership interest.",
+          "business": "The Trump Equitable Fifth Avenue Company",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "244",
+      "conflict": "Trump Equitable Fifth Avenue Company",
+      "conflictDescription": ""
+    }
+  ]
+}

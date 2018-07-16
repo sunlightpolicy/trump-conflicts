@@ -1,0 +1,79 @@
+{
+  "name": "T Express",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "248",
+              "owner": "TTTT Venture LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "248",
+              "owner": "T Express Manager Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump retains an ownership interest in T Express LLC. Any current or former positions he may have with the company have not been reported on his financial disclosures. The company reportedly has no independent value or income, is not inactive nor dormant, and is not part of an entity structure or license deal.",
+          "business": "T Express LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "247",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump retains an ownership interest in T Express Manager Member Corp. Any current or former positions he may have with the company have not been reported on his financial disclosures. The company reportedly has no independent value or income and is part of other entity structures.",
+          "business": "T Express Manager Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "161",
+      "conflict": "T Express",
+      "conflictDescription": ""
+    }
+  ]
+}

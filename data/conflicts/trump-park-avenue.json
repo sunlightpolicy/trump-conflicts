@@ -1,0 +1,64 @@
+{
+  "name": "Trump Park Avenue",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "528",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Park Avenue Acquisition LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "Trump Park Avenue Acquisition LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "530",
+              "owner": "Trump Delmonico LLC",
+              "percentage": "50"
+            },
+            {
+              "owneeId": "530",
+              "owner": "Trump Park Avenue Acquisition LLC",
+              "percentage": "49.9"
+            },
+            {
+              "owneeId": "530",
+              "owner": "Gept Delmonico LLC",
+              "percentage": "0.1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump Park Avenue LLC, in which Pres. Trump retains an ownership interest.",
+          "business": "Trump Park Avenue LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "334",
+      "conflict": "Trump Park Avenue",
+      "conflictDescription": ""
+    }
+  ]
+}

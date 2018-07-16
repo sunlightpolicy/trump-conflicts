@@ -1,0 +1,59 @@
+{
+  "name": "DT Home Marks International",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "92",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "92",
+              "owner": "DT Home Marks International Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of DT Home Marks International LLC, of which Pres. Trump retains an ownership interest. The company holds a license deal with RNA Resources Group Ltd., Dorya International LLC, Homestudio International SA, Wonu Co. Ltd.",
+          "business": "DT Home Marks International LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "91",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/chairman/president of DT Home Marks International Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "DT Home Marks International Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "58",
+      "conflict": "DT Home Marks International",
+      "conflictDescription": ""
+    }
+  ]
+}

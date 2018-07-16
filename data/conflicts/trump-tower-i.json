@@ -1,0 +1,46 @@
+{
+  "name": "Trump Tower I",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Tower I",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article210477439.html",
+      "sourceDate": "2018-06-19T00:00:00",
+      "headline": "Buyers tied to Russia, former Soviet republics paid $109 million cash for Trump properties",
+      "conflictId": "466",
+      "conflictSlug": "trump-tower-i",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Tower I",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/trump-tenants/#4fcc6c891d32",
+      "sourceDate": "2018-02-13T00:00:00",
+      "headline": "Landlord-in-Chief",
+      "conflictId": "466",
+      "conflictSlug": "trump-tower-i",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Tower I",
+      "category": "Active",
+      "mediaOutlet": "ProPublica",
+      "link": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
+      "sourceDate": "2018-06-27T00:00:00",
+      "headline": "We’ve Found $16.1 Million in Political and Taxpayer Spending at Trump Properties",
+      "conflictId": "466",
+      "conflictSlug": "trump-tower-i",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

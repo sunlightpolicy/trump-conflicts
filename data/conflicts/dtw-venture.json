@@ -1,0 +1,54 @@
+{
+  "name": "DTW Venture",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "143",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member of DTW Venture LLC, of which Pres. Trump retains an ownership interest.",
+          "business": "DTW Venture LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "142",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/president of DTW Venture Managing Member Corp., of which Pres. Trump retains an ownership interest.",
+          "business": "DTW Venture Managing Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "85",
+      "conflict": "DTW Venture",
+      "conflictDescription": ""
+    }
+  ]
+}

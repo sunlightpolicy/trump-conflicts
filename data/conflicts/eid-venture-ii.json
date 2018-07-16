@@ -1,0 +1,59 @@
+{
+  "name": "EID Venture II",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "149",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "149",
+              "owner": "Eid Venture II Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of EID Venture II LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and provide back office support functions to other entities.",
+          "business": "Eid Venture II LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "148",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/chairman/president of EID Venture II Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and provide back office support functions to other entities.",
+          "business": "Eid Venture II Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "88",
+      "conflict": "EID Venture II",
+      "conflictDescription": ""
+    }
+  ]
+}

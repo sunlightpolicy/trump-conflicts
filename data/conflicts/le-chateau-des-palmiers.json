@@ -1,0 +1,33 @@
+{
+  "name": "Le Chateau des Palmiers",
+  "description": "Trump's resort on the island of St. Martin.",
+  "stories": [
+    {
+      "description": "Trump's resort on the island of St. Martin.",
+      "familyMember": "Donald Trump",
+      "conflict": "Le Chateau des Palmiers",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2017/05/11/527811206/sale-of-trump-property-raises-ethical-questions-about-potential-buyers-motives",
+      "sourceDate": "2017-05-11T00:00:00",
+      "headline": "Sale Of Trump Property Raises Ethical Questions About Potential Buyer's Motives",
+      "conflictId": "447",
+      "conflictSlug": "le-chateau-des-palmiers",
+      "hasEthics": false
+    },
+    {
+      "description": "Trump's resort on the island of St. Martin.",
+      "familyMember": "Donald Trump",
+      "conflict": "Le Chateau des Palmiers",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/news/post-politics/wp/2017/08/01/the-asking-price-for-president-trumps-caribbean-estate-has-been-cut-dramatically/?utm_term=.63fee190a91a",
+      "sourceDate": "2017-08-01T00:00:00",
+      "headline": "The asking price for President Trump’s Caribbean estate has been cut dramatically",
+      "conflictId": "447",
+      "conflictSlug": "le-chateau-des-palmiers",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

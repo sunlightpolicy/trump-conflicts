@@ -1,0 +1,59 @@
+{
+  "name": "China State Construction Engineering Corp.",
+  "description": "The Chinese government-owned company was awarded a $19.6 million contract for road and infrastructure work as part of the residential piece of Trump World Golf Club Dubai project called Akoya Oxygen, according to a news release dated Sunday. CSCEC was awarded a $32 million contract to build a six-lane road in early 2017, just as President Donald Trump was inaugurated and it was hired in February to construct one of the buildings at a cost of $163 million.",
+  "stories": [
+    {
+      "description": "The Chinese government-owned company was awarded a $19.6 million contract for road and infrastructure work as part of the residential piece of Trump World Golf Club Dubai project called Akoya Oxygen, according to a news release dated Sunday. CSCEC was awarded a $32 million contract to build a six-lane road in early 2017, just as President Donald Trump was inaugurated and it was hired in February to construct one of the buildings at a cost of $163 million.",
+      "familyMember": "Donald Trump",
+      "conflict": "China State Construction Engineering Corp.",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/politics-government/white-house/article213164779.html",
+      "sourceDate": "2018-06-14T00:00:00",
+      "headline": "Company owned by Chinese government awarded another contract at Trump development",
+      "conflictId": "477",
+      "conflictSlug": "china-state-construction-engineering-corp",
+      "hasEthics": false
+    },
+    {
+      "description": "The Chinese government-owned company was awarded a $19.6 million contract for road and infrastructure work as part of the residential piece of Trump World Golf Club Dubai project called Akoya Oxygen, according to a news release dated Sunday. CSCEC was awarded a $32 million contract to build a six-lane road in early 2017, just as President Donald Trump was inaugurated and it was hired in February to construct one of the buildings at a cost of $163 million.",
+      "familyMember": "Donald Trump",
+      "conflict": "China State Construction Engineering Corp.",
+      "category": "Active",
+      "mediaOutlet": "Press Release",
+      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
+      "sourceDate": "2018-06-10T00:00:00",
+      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
+      "conflictId": "477",
+      "conflictSlug": "china-state-construction-engineering-corp",
+      "hasEthics": false
+    },
+    {
+      "description": "The Chinese government-owned company was awarded a $19.6 million contract for road and infrastructure work as part of the residential piece of Trump World Golf Club Dubai project called Akoya Oxygen, according to a news release dated Sunday. CSCEC was awarded a $32 million contract to build a six-lane road in early 2017, just as President Donald Trump was inaugurated and it was hired in February to construct one of the buildings at a cost of $163 million.",
+      "familyMember": "Donald Trump",
+      "conflict": "China State Construction Engineering Corp.",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article172443417.html",
+      "sourceDate": "2017-09-01T00:00:00",
+      "headline": "Trump promised not to work with foreign entities. His company just did",
+      "conflictId": "477",
+      "conflictSlug": "china-state-construction-engineering-corp",
+      "hasEthics": false
+    },
+    {
+      "description": "The Chinese government-owned company was awarded a $19.6 million contract for road and infrastructure work as part of the residential piece of Trump World Golf Club Dubai project called Akoya Oxygen, according to a news release dated Sunday. CSCEC was awarded a $32 million contract to build a six-lane road in early 2017, just as President Donald Trump was inaugurated and it was hired in February to construct one of the buildings at a cost of $163 million.",
+      "familyMember": "Donald Trump",
+      "conflict": "China State Construction Engineering Corp.",
+      "category": "Active",
+      "mediaOutlet": "Construction Week Online",
+      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
+      "sourceDate": "2018-06-10T00:00:00",
+      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
+      "conflictId": "477",
+      "conflictSlug": "china-state-construction-engineering-corp",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

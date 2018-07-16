@@ -1,0 +1,86 @@
+{
+  "name": "DT Tower I",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "DT Tower I",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article210477439.html",
+      "sourceDate": "2018-06-19T00:00:00",
+      "headline": "Buyers tied to Russia, former Soviet republics paid $109 million cash for Trump properties",
+      "conflictId": "81",
+      "conflictSlug": "dt-tower-i",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "DT Tower I",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/trump-tenants/#4fcc6c891d32",
+      "sourceDate": "2018-02-13T00:00:00",
+      "headline": "Landlord-in-Chief",
+      "conflictId": "81",
+      "conflictSlug": "dt-tower-i",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "137",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "137",
+              "owner": "DT Tower I Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of DT Tower I LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
+          "business": "DT Tower I LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "136",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/chairman/president of DT Tower I Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
+          "business": "DT Tower I Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "81",
+      "conflict": "DT Tower I",
+      "conflictDescription": ""
+    }
+  ]
+}

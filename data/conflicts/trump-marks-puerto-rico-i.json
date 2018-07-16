@@ -1,0 +1,59 @@
+{
+  "name": "Trump Marks Puerto Rico I",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "476",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "476",
+              "owner": "Trump Marks Puerto Rico I Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of the now-dormant or inactive Trump Marks Puerto Rico I LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Puerto Rico I LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "475",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director/chairman of the now-dormant or inactive Trump Marks Puerto Rico I Member Corp., in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Puerto Rico I Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "301",
+      "conflict": "Trump Marks Puerto Rico I",
+      "conflictDescription": ""
+    }
+  ]
+}

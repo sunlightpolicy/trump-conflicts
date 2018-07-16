@@ -1,0 +1,73 @@
+{
+  "name": "THC Rio",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "THC Rio",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1",
+      "sourceDate": "2016-11-26T00:00:00",
+      "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+      "conflictId": "180",
+      "conflictSlug": "thc-rio",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "279",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "279",
+              "owner": "THC Rio Managing Member Corp",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of the now-dormant or inactive THC Rio Manager LLC, in which Pres. Trump retains an ownership interest.",
+          "business": "THC Rio Manager LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "278",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former chairman/director/president of the now-dormant or inactive THC Rio Managing Member Corp., in which Pres. Trump retains an ownership interest.",
+          "business": "THC Rio Managing Member Corp",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "180",
+      "conflict": "THC Rio",
+      "conflictDescription": ""
+    }
+  ]
+}

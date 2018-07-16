@@ -1,0 +1,48 @@
+{
+  "name": "TAG Air",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "TAG Air",
+      "category": "Active",
+      "mediaOutlet": "ProPublica",
+      "link": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
+      "sourceDate": "2018-06-27T00:00:00",
+      "headline": "We’ve Found $16.1 Million in Political and Taxpayer Spending at Trump Properties",
+      "conflictId": "163",
+      "conflictSlug": "tag-air",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "250",
+              "owner": "DJT Operations II LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director of Tag Air, Inc., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and provides back office support functions to other entities. It was set up to lease a 757 from DJT Operations I LLC.",
+          "business": "Tag Air, Inc.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "163",
+      "conflict": "TAG Air",
+      "conflictDescription": ""
+    }
+  ]
+}

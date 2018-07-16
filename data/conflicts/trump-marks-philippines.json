@@ -1,0 +1,99 @@
+{
+  "name": "Trump Marks Philippines",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Marks Philippines",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "http://www.npr.org/sections/parallels/2016/11/22/502895797/whos-the-new-philippine-envoy-the-man-building-trump-tower-manila",
+      "sourceDate": "2016-11-22T00:00:00",
+      "headline": "Who's The New Philippine Envoy? The Man Building Trump Tower Manila",
+      "conflictId": "299",
+      "conflictSlug": "trump-marks-philippines",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Marks Philippines",
+      "category": "Active",
+      "mediaOutlet": "Bloomberg Politics",
+      "link": "https://www.bloomberg.com/politics/articles/2016-11-22/trump-s-business-partner-will-be-manila-s-man-in-washington?cmpid=socialflow-twitter-business&amp;utm_content=business&amp;utm_campaign=socialflow-organic&amp;utm_source=twitter&amp;utm_medium=social",
+      "sourceDate": "2016-11-22T00:00:00",
+      "headline": "Trump’s Business Partner Will Be Manila’s Man in Washington",
+      "conflictId": "299",
+      "conflictSlug": "trump-marks-philippines",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Marks Philippines",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1",
+      "sourceDate": "2016-11-26T00:00:00",
+      "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+      "conflictId": "299",
+      "conflictSlug": "trump-marks-philippines",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "471",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/president of Trump Marks Philippines Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "Trump Marks Philippines Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "472",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "472",
+              "owner": "Trump Marks Philippines Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Marks Philippines LLC, in which Pres. Trump retains ownership interests. The company holds a license deal with Century City Development Corp.",
+          "business": "Trump Marks Philippines LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "299",
+      "conflict": "Trump Marks Philippines",
+      "conflictDescription": ""
+    }
+  ]
+}

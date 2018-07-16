@@ -1,0 +1,34 @@
+{
+  "name": "DT Connect Europe",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "84",
+              "owner": "Golf Recreation Scotland Limited",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director of DT Connect Europe Limited, of which Pres. Trump retains an ownership interest.",
+          "business": "DT Connect Europe Limited",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "54",
+      "conflict": "DT Connect Europe",
+      "conflictDescription": ""
+    }
+  ]
+}

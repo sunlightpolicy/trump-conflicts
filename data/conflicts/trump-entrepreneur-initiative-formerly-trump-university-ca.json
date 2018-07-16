@@ -1,0 +1,104 @@
+{
+  "name": "Trump Entrepreneur InitiatIVe (Formerly Trump UnIVersity Ca)",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Entrepreneur InitiatIVe (Formerly Trump UnIVersity Ca)",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/11/06/us/politics/donald-trump-business-tax-records.html?mtrref=undefined",
+      "sourceDate": "2016-11-05T00:00:00",
+      "headline": "Thin Line Splits Donald Trump's Politics and Businesses",
+      "conflictId": "243",
+      "conflictSlug": "trump-entrepreneur-initiative-formerly-trump-university-ca",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Entrepreneur InitiatIVe (Formerly Trump UnIVersity Ca)",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/source-trump-nearing-settlement-in-trump-university-fraud-cases/2016/11/18/8dc047c0-ada0-11e6-a31b-4b6397e625d0_story.html",
+      "sourceDate": "2016-11-18T00:00:00",
+      "headline": "Trump agrees to $25 million settlement in Trump University fraud cases",
+      "conflictId": "243",
+      "conflictSlug": "trump-entrepreneur-initiative-formerly-trump-university-ca",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Entrepreneur InitiatIVe (Formerly Trump UnIVersity Ca)",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html",
+      "sourceDate": "2016-12-21T00:00:00",
+      "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+      "conflictId": "243",
+      "conflictSlug": "trump-entrepreneur-initiative-formerly-trump-university-ca",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "370",
+              "owner": "The Trump Entrepreneur Initiative LLC (NY Domestic)",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member of The Trump Entrepreneur Initiative LLC (f/k/a Trump University CA LLC). Trump retains an ownership interest.",
+          "business": "The Trump Entrepreneur Initiative LLC (F/K/A Trump University Ca LLC)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "365",
+              "owner": "Sexton, Michael",
+              "percentage": "4.5"
+            },
+            {
+              "owneeId": "365",
+              "owner": "Spitalny, Jonathan",
+              "percentage": "3.5"
+            },
+            {
+              "owneeId": "365",
+              "owner": "DJT Entrepreneur Managing Member LLC (F/K/A DJT University Managing Member LLC)",
+              "percentage": "0.1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Trump retains an ownership interest in The Trump Entrepreneur Initiative LLC (NY Domestic), which reportedly has no independent value or income and is part of other entity structures. The company is not listed as an entity outside of federal government in which he holds a position.",
+          "business": "The Trump Entrepreneur Initiative LLC (NY Domestic)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "243",
+      "conflict": "Trump Entrepreneur InitiatIVe (Formerly Trump UnIVersity Ca)",
+      "conflictDescription": ""
+    }
+  ]
+}

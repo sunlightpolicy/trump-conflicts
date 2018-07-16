@@ -1,0 +1,61 @@
+{
+  "name": "Trump Brazil",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Brazil",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html",
+      "sourceDate": "2016-11-20T00:00:00",
+      "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
+      "conflictId": "221",
+      "conflictSlug": "trump-brazil",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Brazil",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1",
+      "sourceDate": "2016-11-26T00:00:00",
+      "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+      "conflictId": "221",
+      "conflictSlug": "trump-brazil",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "334",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of the now-dormant or inactive Trump Brazil LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Brazil LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "221",
+      "conflict": "Trump Brazil",
+      "conflictDescription": ""
+    }
+  ]
+}

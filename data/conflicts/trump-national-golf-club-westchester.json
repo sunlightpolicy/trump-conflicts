@@ -1,0 +1,39 @@
+{
+  "name": "Trump National Golf Club - Westchester",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "514",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "514",
+              "owner": "Trump National Golf Club Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump National Golf Club LLC (Trump National Golf Club - Westchester), in which Pres. Trump retains ownership interests.",
+          "business": "Trump National Golf Club LLC (Trump National Golf Club - Westchester)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "322",
+      "conflict": "Trump National Golf Club - Westchester",
+      "conflictDescription": ""
+    }
+  ]
+}

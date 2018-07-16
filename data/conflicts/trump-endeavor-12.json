@@ -1,0 +1,59 @@
+{
+  "name": "Trump Endeavor 12",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "369",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "369",
+              "owner": "Trump Endeavor 12 Manager Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump Endeavor 12 LLC (Trump National Doral), in which Pres. Trump retains ownership interests.",
+          "business": "Trump Endeavor 12 LLC (Trump National Doral)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "368",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Trump Endeavor 12 Manager Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "Trump Endeavor 12 Manager Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "242",
+      "conflict": "Trump Endeavor 12",
+      "conflictDescription": ""
+    }
+  ]
+}

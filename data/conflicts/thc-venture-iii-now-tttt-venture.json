@@ -1,0 +1,44 @@
+{
+  "name": "THC Venture III (Now TTTT Venture)",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "293",
+              "owner": "DTTM Operations LLC",
+              "percentage": "76.272"
+            },
+            {
+              "owneeId": "293",
+              "owner": "Trump Family Members",
+              "percentage": "22.728"
+            },
+            {
+              "owneeId": "293",
+              "owner": "THC Venture III Member Corp. - N/K/A TTTT Venture Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of THC Venture III LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "THC Venture III LLC (N/K/A TTTT Venture LLC)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "187",
+      "conflict": "THC Venture III (Now TTTT Venture)",
+      "conflictDescription": ""
+    }
+  ]
+}

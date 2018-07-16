@@ -1,0 +1,28 @@
+{
+  "name": "How To Get Rich",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump earns royalty income from the book How to Get Rich, published 2004 by Random House.",
+          "business": "How To Get Rich",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "104",
+      "conflict": "How To Get Rich",
+      "conflictDescription": ""
+    }
+  ]
+}

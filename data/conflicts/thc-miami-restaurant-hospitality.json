@@ -1,0 +1,59 @@
+{
+  "name": "THC Miami Restaurant Hospitality",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "275",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "275",
+              "owner": "THC Miami Restaurant Hospitality Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of THC Miami Restaurant Hospitality LLC, in which Pres. Trump retains an ownership interest.",
+          "business": "THC Miami Restaurant Hospitality LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "274",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former chairman/director/president of THC Miami Restaurant Hospitality Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "THC Miami Restaurant Hospitality Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "178",
+      "conflict": "THC Miami Restaurant Hospitality",
+      "conflictDescription": ""
+    }
+  ]
+}

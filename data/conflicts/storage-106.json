@@ -1,0 +1,39 @@
+{
+  "name": "Storage 106",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "245",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump retains an ownership interest in Storage 106 LLC. Any current or former positions he may have with the company have not been listed on his financial disclosures.",
+          "business": "Storage 106 LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "159",
+      "conflict": "Storage 106",
+      "conflictDescription": ""
+    }
+  ]
+}

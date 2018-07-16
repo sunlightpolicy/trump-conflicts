@@ -1,0 +1,64 @@
+{
+  "name": "OPO Hotel Manager",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "216",
+              "owner": "DJT Holdings LLC",
+              "percentage": "76.5"
+            },
+            {
+              "owneeId": "216",
+              "owner": "Trump Family Members",
+              "percentage": "22.5"
+            },
+            {
+              "owneeId": "216",
+              "owner": "Opo Hotel Manager Member Corp",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of OPO Hotel Manager LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, is not inactive nor dormant, and is not part of an entity structure or license deal.",
+          "business": "Opo Hotel Manager LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "215",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/chairman/president of OPO Hotel Manager Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "Opo Hotel Manager Member Corp",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "136",
+      "conflict": "OPO Hotel Manager",
+      "conflictDescription": ""
+    }
+  ]
+}

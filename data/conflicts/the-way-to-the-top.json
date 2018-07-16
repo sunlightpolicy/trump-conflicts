@@ -1,0 +1,28 @@
+{
+  "name": "The Way to the Top",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump earns royalty income from the book The Way to the Top, published 2004 by Bill Adler Books.",
+          "business": "The Way to the Top",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "193",
+      "conflict": "The Way to the Top",
+      "conflictDescription": ""
+    }
+  ]
+}

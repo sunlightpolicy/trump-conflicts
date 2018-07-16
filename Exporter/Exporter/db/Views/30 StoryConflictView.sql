@@ -9,8 +9,9 @@ SELECT
 	c.Id ConflictId
 	, c.Name Conflict
 	, c.Description ConflictDescription
-	, c.DateChanged ConflictUpdateDate
-	, c.Notes ConflictNotes
+	--, c.DateChanged ConflictUpdateDate
+	--, c.Notes ConflictNotes
+	, c.Slug
 	, 'Donald Trump' FamilyMember -- !!
 	, 'Active' ConflictStatus -- !!
 	, s.MediaOutlet
@@ -23,10 +24,7 @@ FROM StoryConflict sc
 JOIN StoryView s ON sc.StoryID = s.ID 
 JOIN Conflict c ON sc.ConflictID = c.ID
 LEFT JOIN (SELECT COUNT(*) ethicsCount, ConflictID FROM BusinessConflictView GROUP BY ConflictID) e ON e.ConflictID = c.ID
-
+WHERE s.Status = 'Approved'
 
 
 GO
-
-
-

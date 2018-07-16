@@ -1,0 +1,28 @@
+{
+  "name": "Trump 101: The Way To Success",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump earns royalty income from the book Trump 101: The Way to Success, published 2007 by John Wiley &amp; Sons, Inc.",
+          "business": "Trump 101: The Way to Success",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "213",
+      "conflict": "Trump 101: The Way To Success",
+      "conflictDescription": ""
+    }
+  ]
+}

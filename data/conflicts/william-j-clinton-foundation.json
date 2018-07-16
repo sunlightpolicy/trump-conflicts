@@ -1,0 +1,20 @@
+{
+  "name": "William J. Clinton Foundation",
+  "description": "The Donald J. Trump Foundation gave away $10.9 million from 2001 to 2014, taking a scattershot approach to philanthropy with donations to more than 400 different charities, according to a Forbes analysis of 14 years of IRS documents. Among the notable recipients: the William J. Clinton Foundation, a state branch of the ACLU and a nonprofit run by the New York Times, which Trump routinely criticizes on Twitter. Only $2.8 million of that money came from Trump himself.",
+  "stories": [
+    {
+      "description": "The Donald J. Trump Foundation gave away $10.9 million from 2001 to 2014, taking a scattershot approach to philanthropy with donations to more than 400 different charities, according to a Forbes analysis of 14 years of IRS documents. Among the notable recipients: the William J. Clinton Foundation, a state branch of the ACLU and a nonprofit run by the New York Times, which Trump routinely criticizes on Twitter. Only $2.8 million of that money came from Trump himself.",
+      "familyMember": "Donald Trump",
+      "conflict": "William J. Clinton Foundation",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/sites/danalexander/2017/02/09/where-did-trumps-foundation-donate-its-money-irs-documents-reveal-surprising-answers/#4d1fcb907b52",
+      "sourceDate": "2017-02-09T00:00:00",
+      "headline": "Where Did Trump's Foundation Donate Its Money? IRS Documents Reveal Surprising Answers",
+      "conflictId": "429",
+      "conflictSlug": "william-j-clinton-foundation",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

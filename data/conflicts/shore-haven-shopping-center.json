@@ -1,0 +1,39 @@
+{
+  "name": "Shore Haven Shopping Center",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "239",
+              "owner": "Trump Family Members",
+              "percentage": "75"
+            },
+            {
+              "owneeId": "239",
+              "owner": "DJT Holdings LLC",
+              "percentage": "25"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member of the now-dormant or inactive Shore Haven Shopping Center LLC, in which Pres. Trump retains an ownership interest.",
+          "business": "Shore Haven Shopping Center LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "155",
+      "conflict": "Shore Haven Shopping Center",
+      "conflictDescription": ""
+    }
+  ]
+}

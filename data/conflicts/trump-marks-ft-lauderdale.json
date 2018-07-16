@@ -1,0 +1,59 @@
+{
+  "name": "Trump Marks Ft. Lauderdale",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "444",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "444",
+              "owner": "Trump Marks Ft. Lauderdale Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of the now-dormant or inactive Trump Marks Ft. Lauderdale LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Ft. Lauderdale LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "443",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director/chairman of the now-dormant or inactive Trump Marks Ft. Lauderdale Member Corp., in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Ft. Lauderdale Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "285",
+      "conflict": "Trump Marks Ft. Lauderdale",
+      "conflictDescription": ""
+    }
+  ]
+}

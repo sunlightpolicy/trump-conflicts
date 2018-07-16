@@ -1,0 +1,134 @@
+{
+  "name": "DT Lido Hotel Manager",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "DT Lido Hotel Manager",
+      "category": "Active",
+      "mediaOutlet": "Reuters",
+      "link": "https://mobile.reuters.com/article/amp/idUSKCN1J12RP",
+      "sourceDate": "2018-06-05T00:00:00",
+      "headline": "Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources",
+      "conflictId": "63",
+      "conflictSlug": "dt-lido-hotel-manager",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "DT Lido Hotel Manager",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2018/06/07/617310039/trump-organization-deals-in-asia-fuel-debate-on-emoluments-lawsuit",
+      "sourceDate": "2018-06-07T00:00:00",
+      "headline": "Trump Organization Deals In Asia Fuel Debate On Emoluments Lawsuit",
+      "conflictId": "63",
+      "conflictSlug": "dt-lido-hotel-manager",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "DT Lido Hotel Manager",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/trump-business-dealings-raises-serious-concerns-ethics-office-says/2018/06/22/b71de20a-7642-11e8-9780-b1dd6a09b549_story.html?utm_term=.6784ef6af365",
+      "sourceDate": "2018-06-23T00:00:00",
+      "headline": "Trump business dealings raise ‘serious concerns,’ ethics office says",
+      "conflictId": "63",
+      "conflictSlug": "dt-lido-hotel-manager",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "103",
+              "owner": "DT Lido Hotel Manager Member Corp.",
+              "percentage": "1"
+            },
+            {
+              "owneeId": "103",
+              "owner": "TTTT Venture LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of DT Lido Hotel Manager LLC, of which Pres. Trump retains an ownership stake. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
+          "business": "DT Lido Hotel Manager LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "102",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/chairman/president of DT Lido Hotel Manager Member Corp., of which Pres. Trump retains an ownership stake. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
+          "business": "DT Lido Hotel Manager Member Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "103",
+              "owner": "DT Lido Hotel Manager Member Corp.",
+              "percentage": "1"
+            },
+            {
+              "owneeId": "103",
+              "owner": "TTTT Venture LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT LIDO HOTEL MANAGER LLC from Jun 1, 2015, until Jan 1, 2017. Ivanka Trump lists DT Lido Hotel Manager LLC (Management of Future Hotel; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there&#39;s no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "DT Lido Hotel Manager LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "63",
+      "conflict": "DT Lido Hotel Manager",
+      "conflictDescription": ""
+    }
+  ]
+}

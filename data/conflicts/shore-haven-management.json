@@ -1,0 +1,44 @@
+{
+  "name": "Shore Haven Management",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "238",
+              "owner": "Trump Family Members",
+              "percentage": "75"
+            },
+            {
+              "owneeId": "238",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "25"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/vice-president of the now-dormant or inactive Shore Haven Management Corp. Pres. Trump reportedly resigned his position with the company the day before his inauguration in January 2017. The company was not listed on his 2017 financial disclosure, although it was reported as dormant/inactive on his 2016 disclosure. He appeared to retain an ownership interest at the time.",
+          "business": "Shore Haven Management Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "154",
+      "conflict": "Shore Haven Management",
+      "conflictDescription": ""
+    }
+  ]
+}

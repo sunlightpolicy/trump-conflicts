@@ -1,0 +1,59 @@
+{
+  "name": "Trump Marks Las Vegas",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "451",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/president of the now-dormant or inactive Trump Marks Las Vegas Corp, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Las Vegas Corp",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "452",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "452",
+              "owner": "Trump Marks Las Vegas Corp",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of the now-dormant or inactive Trump Marks Las Vegas LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Las Vegas LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "289",
+      "conflict": "Trump Marks Las Vegas",
+      "conflictDescription": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Nitto World",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "210",
+              "owner": "SLC Turnberry Limited (Trump Turnberry)",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director of the now-dormant or inactive Nitto World Co., Limited, in which Pres. Trump retains an ownership interest.",
+          "business": "Nitto World Co., Limited",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "133",
+      "conflict": "Nitto World",
+      "conflictDescription": ""
+    }
+  ]
+}

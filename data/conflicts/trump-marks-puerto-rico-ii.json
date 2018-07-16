@@ -1,0 +1,59 @@
+{
+  "name": "Trump Marks Puerto Rico II",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "478",
+              "owner": "Trump, Donald J.",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "478",
+              "owner": "Trump Marks Puerto Rico II Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Marks Puerto Rico II LLC. The company, owned by Trump, was reportedly dissolved on Nov. 9, 2016.",
+          "business": "Trump Marks Puerto Rico II LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "477",
+              "owner": "Trump, Donald J.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/chairman/director of Trump Marks Puerto Rico II Member Corp. The company, owned by Trump, was reportedly dissolved on Nov. 10, 2016.",
+          "business": "Trump Marks Puerto Rico II Member Corp.",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "302",
+      "conflict": "Trump Marks Puerto Rico II",
+      "conflictDescription": ""
+    }
+  ]
+}

@@ -38,6 +38,7 @@ namespace Conflicts {
         public string ConflictingEntity;
         public string Category;
         public string Notes;
+        
         public DateTime DateChanged;
         public List<Source> Sources;
 
@@ -108,15 +109,16 @@ namespace Conflicts {
         public string familyMember;
         public string conflict;
         public string category;
-        public string notes;
-        public DateTime dateChanged;
-
+        //public string notes;
+        //public DateTime dateChanged;
+        
         public string mediaOutlet;
         public string link;
         public DateTime sourceDate;
         public string headline;
 
-        public string conflictId;
+        public string conflictId; // Could go?
+        public string conflictSlug;
 
         public bool hasEthics;
 
@@ -125,8 +127,8 @@ namespace Conflicts {
             familyMember = conflict.FamilyMember;
             this.conflict = conflict.ConflictingEntity;
             category = conflict.Category;
-            notes = conflict.Notes;
-            dateChanged = conflict.DateChanged;
+            //notes = conflict.Notes;
+            //dateChanged = conflict.DateChanged;
 
             mediaOutlet = source.Name;
             link = source.Link;
@@ -134,14 +136,19 @@ namespace Conflicts {
             headline = source.Headline;
         }
 
+        public string GetID () {
+            return conflictId;
+        }
+
 
         public Story (
             string description
             , string familyMember
             , string conflict
+            , string conflictSlug
             , string category
-            , string notes
-            , string dateChanged
+            //, string notes
+            //, string dateChanged
 
             , string mediaOutlet  // was source
             , string link
@@ -154,9 +161,10 @@ namespace Conflicts {
             this.description = description;
             this.familyMember = familyMember;
             this.conflict = conflict;
+            this.conflictSlug = conflictSlug;
             this.category = category;
-            this.notes = notes;
-            this.dateChanged = Convert.ToDateTime(dateChanged);
+            //this.notes = notes;
+            //this.dateChanged = Convert.ToDateTime(dateChanged);
 
             this.mediaOutlet = mediaOutlet;
             this.link = link;
@@ -207,8 +215,8 @@ namespace Conflicts {
                 familyMember + "," +
                 "\"" + Util.RepeatQuotes(conflict) + "\"," +
                 category + ", " +
-                "\"" + Util.RepeatQuotes(notes) + "\"," +
-                String.Format("{0:MM/dd/yyyy}", dateChanged) + "," + 
+                //"\"" + Util.RepeatQuotes(notes) + "\"," +
+                //String.Format("{0:MM/dd/yyyy}", dateChanged) + "," + 
 
                 "\"" + Util.RemoveQuotes(mediaOutlet) + "\"," +
                 "\"" + Util.RemoveQuotes(link) + "\"," +

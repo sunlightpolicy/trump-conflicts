@@ -1,0 +1,20 @@
+{
+  "name": "175 Pearl Street",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "175 Pearl Street",
+      "category": "Active",
+      "mediaOutlet": "Bloomberg",
+      "link": "https://www.bloomberg.com/amp/news/articles/2018-03-13/kushner-conflict-cloud-hovers-over-brooklyn-sale-linked-to-japan",
+      "sourceDate": "2018-03-13T00:00:00",
+      "headline": "Kushner Conflict Cloud Hovers Over Brooklyn Sale Linked to Japan",
+      "conflictId": "462",
+      "conflictSlug": "175-pearl-street",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

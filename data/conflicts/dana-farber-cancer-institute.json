@@ -1,0 +1,20 @@
+{
+  "name": "Dana-Farber Cancer Institute",
+  "description": "An estimated 36% of the foundation’s money went to roughly 100 organizations promoting healthcare, the Forbes examination revealed. The Trump Foundation gave more than $465,000 to both the Dana-Farber Cancer Institute and Operation Smile, which offers free surgeries to children born with cleft palates in developing countries.",
+  "stories": [
+    {
+      "description": "An estimated 36% of the foundation’s money went to roughly 100 organizations promoting healthcare, the Forbes examination revealed. The Trump Foundation gave more than $465,000 to both the Dana-Farber Cancer Institute and Operation Smile, which offers free surgeries to children born with cleft palates in developing countries.",
+      "familyMember": "Donald Trump",
+      "conflict": "Dana-Farber Cancer Institute",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/sites/danalexander/2017/02/09/where-did-trumps-foundation-donate-its-money-irs-documents-reveal-surprising-answers/#4d1fcb907b52",
+      "sourceDate": "2017-02-09T00:00:00",
+      "headline": "Where Did Trump's Foundation Donate Its Money? IRS Documents Reveal Surprising Answers",
+      "conflictId": "430",
+      "conflictSlug": "dana-farber-cancer-institute",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

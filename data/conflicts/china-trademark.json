@@ -1,0 +1,61 @@
+{
+  "name": "China Trademark",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "China Trademark",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/06/07/politics/court-case-emoluments-foreign-payments-federal-judge-trump-businesses/index.html",
+      "sourceDate": "2018-06-07T00:00:00",
+      "headline": "Democratic lawmakers make their case in court to stop Trump business from accepting foreign payments",
+      "conflictId": "24",
+      "conflictSlug": "china-trademark",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "China Trademark",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/05/28/business/ivanka-trump-china-trademarks.html",
+      "sourceDate": "2018-05-28T00:00:00",
+      "headline": "Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE",
+      "conflictId": "24",
+      "conflictSlug": "china-trademark",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "45",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of the now-dormant or inactive China Trademark LLC, in which Pres. Trump retains an owernship interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "China Trademark LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "24",
+      "conflict": "China Trademark",
+      "conflictDescription": ""
+    }
+  ]
+}

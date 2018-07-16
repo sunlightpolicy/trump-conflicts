@@ -1,0 +1,59 @@
+{
+  "name": "Trump Carousel",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "342",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "342",
+              "owner": "Trump Carousel Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Carousel LLC, in which Pres. Trump retains ownership interests. The company holds an operating agreement with the New York City Department of Parks &amp; Recreation.",
+          "business": "Trump Carousel LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "341",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/chairman/director of Trump Carousel Member Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income and is part of other entity structures.",
+          "business": "Trump Carousel Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "226",
+      "conflict": "Trump Carousel",
+      "conflictDescription": ""
+    }
+  ]
+}

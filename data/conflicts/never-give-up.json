@@ -1,0 +1,28 @@
+{
+  "name": "Never Give Up",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump earns royalty income from the book Never Give Up, published 2008 by John Wiley &amp; Sons, Inc.",
+          "business": "Never Give Up",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "131",
+      "conflict": "Never Give Up",
+      "conflictDescription": ""
+    }
+  ]
+}

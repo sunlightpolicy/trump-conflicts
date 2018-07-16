@@ -1,0 +1,28 @@
+{
+  "name": "Crippled America",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump earns royalty income from the book Crippled America, published 2015 by Threshold Editions.",
+          "business": "Crippled America",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "31",
+      "conflict": "Crippled America",
+      "conflictDescription": ""
+    }
+  ]
+}

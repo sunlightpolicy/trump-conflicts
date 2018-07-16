@@ -1,0 +1,84 @@
+{
+  "name": "Trump Jets (Formerly Sentient Jets)",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "406",
+              "owner": "Trump, Donald J.",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "406",
+              "owner": "Sentient Jets Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member of Sentient Jets LLC (N/K/A Trump Jets LLC). The company reportedly was dissolved on Nov. 9, 2016. (See also Trump Jets LLC)",
+          "business": "Sentient Jets LLC (N/K/A Trump Jets LLC)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "405",
+              "owner": "Trump, Donald J.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director of Sentient Jets Member Corp., reportedly dissolved on Nov. 9, 2016.",
+          "business": "Sentient Jets Member Corp.",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "407",
+              "owner": "Trump, Donald J.",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "407",
+              "owner": "Sentient Jets Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member of Trump Jets LLC (F/K/A Sentient Jets LLC). The company, owned 99 percent by Donald J. Trump, was reportedly dissolved on Nov. 9, 2016. (See also Sentient Jets LLC)",
+          "business": "Trump Jets LLC (F/K/A Sentient Jets LLC)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "265",
+      "conflict": "Trump Jets (Formerly Sentient Jets)",
+      "conflictDescription": ""
+    }
+  ]
+}

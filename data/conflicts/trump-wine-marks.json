@@ -1,0 +1,59 @@
+{
+  "name": "Trump Wine Marks",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "569",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "569",
+              "owner": "Trump Wine Marks Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/secretary/treasurer of the now-dormant or inactive Trump Wine Marks LLC, in which Pres. Trump retains an ownership interest.",
+          "business": "Trump Wine Marks LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "568",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director &amp; chairman/president of the now-dormant or inactive Trump Wine Marks Member Corp., in which Pres. Trump retains an ownership interest.",
+          "business": "Trump Wine Marks Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "363",
+      "conflict": "Trump Wine Marks",
+      "conflictDescription": ""
+    }
+  ]
+}

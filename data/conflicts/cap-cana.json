@@ -1,0 +1,33 @@
+{
+  "name": "Cap Cana",
+  "description": "Project being developed by the Trump Organization and the Cap Cana Group in the Dominican Republic.",
+  "stories": [
+    {
+      "description": "Project being developed by the Trump Organization and the Cap Cana Group in the Dominican Republic.",
+      "familyMember": "Donald Trump",
+      "conflict": "Cap Cana",
+      "category": "Active",
+      "mediaOutlet": "Fast Company",
+      "link": "https://www.fastcompany.com/40526424/trump-organization-revives-project-in-dominican-republic-roiling-local-politics",
+      "sourceDate": "2018-02-07T00:00:00",
+      "headline": "Trump Organization Revives Project In Dominican Republic, Roiling Local Politics",
+      "conflictId": "467",
+      "conflictSlug": "cap-cana",
+      "hasEthics": false
+    },
+    {
+      "description": "Project being developed by the Trump Organization and the Cap Cana Group in the Dominican Republic.",
+      "familyMember": "Donald Trump",
+      "conflict": "Cap Cana",
+      "category": "Active",
+      "mediaOutlet": "Newsweek",
+      "link": "http://www.newsweek.com/if-trump-organization-launches-dominican-republic-projects-it-could-be-grounds-801765",
+      "sourceDate": "2018-02-10T00:00:00",
+      "headline": "TRUMP ORGANIZATION'S DOMINICAN REPUBLIC PROJECTS COULD BE GROUNDS FOR IMPEACHMENT: EXPERTS",
+      "conflictId": "467",
+      "conflictSlug": "cap-cana",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

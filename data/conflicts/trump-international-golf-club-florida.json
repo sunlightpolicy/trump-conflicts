@@ -1,0 +1,53 @@
+{
+  "name": "Trump International Golf Club - Florida",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump International Golf Club - Florida",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/the-three-biggest-surprises-in-the-trump-organizations-financial-filings/2018/05/21/db2f0420-5c94-11e8-9ee3-49d6d4814c4c_story.html?utm_term=.64de8850a39d",
+      "sourceDate": "2018-05-21T00:00:00",
+      "headline": "The three biggest surprises in the Trump Organization’s financial filings",
+      "conflictId": "257",
+      "conflictSlug": "trump-international-golf-club-florida",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "393",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "99.999"
+            },
+            {
+              "owneeId": "393",
+              "owner": "Trump International Golf Club, Inc.",
+              "percentage": "0.001"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of Trump International Golf Club LC (Trump International Golf Club - Florida), in which Pres. Trump retains ownership interests.",
+          "business": "Trump International Golf Club Lc (Trump International Golf Club - Florida)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "257",
+      "conflict": "Trump International Golf Club - Florida",
+      "conflictDescription": ""
+    }
+  ]
+}

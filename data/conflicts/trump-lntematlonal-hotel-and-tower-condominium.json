@@ -1,0 +1,52 @@
+{
+  "name": "Trump Lntematlonal Hotel And Tower Condominium",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Lntematlonal Hotel And Tower Condominium",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/trump-tenants/#4fcc6c891d32",
+      "sourceDate": "2018-02-13T00:00:00",
+      "headline": "Landlord-in-Chief",
+      "conflictId": "270",
+      "conflictSlug": "trump-lntematlonal-hotel-and-tower-condominium",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump lntematlonal Hotel and Tower Condominium. The company&#39;s activty status and ownership structure are not disclosed.",
+          "business": "Trump Lntematlonal Hotel And Tower Condominium",
+          "conflictStatus": "Potential"
+        }
+      ],
+      "conflictId": "270",
+      "conflict": "Trump Lntematlonal Hotel And Tower Condominium",
+      "conflictDescription": ""
+    }
+  ]
+}

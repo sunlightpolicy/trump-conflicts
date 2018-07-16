@@ -1,0 +1,66 @@
+{
+  "name": "Trump International Hotel HawaII",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump International Hotel HawaII",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/06/28/politics/trump-irs-nominee-charles-rettig/index.html",
+      "sourceDate": "2018-06-28T00:00:00",
+      "headline": "Trump IRS nominee owns property at Trump-branded hotel",
+      "conflictId": "262",
+      "conflictSlug": "trump-international-hotel-hawaii",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump International Hotel HawaII",
+      "category": "Active",
+      "mediaOutlet": "Newsweek",
+      "link": "http://www.newsweek.com/donald-trump-irs-nominee-hotel-999627?amp=1",
+      "sourceDate": "2018-06-28T00:00:00",
+      "headline": "DONALD TRUMP'S IRS NOMINEE DIDN'T DISCLOSE HE OWNED MULTIPLE PROPERTIES IN TRUMP HOTEL",
+      "conflictId": "262",
+      "conflictSlug": "trump-international-hotel-hawaii",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "403",
+              "owner": "TIHH Member LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "403",
+              "owner": "TIHH Member Corp",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump International Hotel Hawaii LLC, in which Pres. Trump retains ownership interests. The company holds management and license agreements with Irongate Azrep BW LLC.",
+          "business": "Trump International Hotel HawaII LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "262",
+      "conflict": "Trump International Hotel HawaII",
+      "conflictDescription": ""
+    }
+  ]
+}

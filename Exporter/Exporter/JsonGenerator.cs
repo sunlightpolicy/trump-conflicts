@@ -11,13 +11,13 @@ using Newtonsoft.Json;
 
 namespace Phase2 {
 
-    
+
     public class EthicsDocumentForJson {
         public string name { get; set; }
         public string date { get; set; }
         public string link { get; set; }
 
-        public EthicsDocumentForJson (string name, string date, string link) {
+        public EthicsDocumentForJson(string name, string date, string link) {
             this.name = name;
             this.date = date;
             this.link = link;
@@ -43,17 +43,17 @@ namespace Phase2 {
         }
     }
 
-    class FamilyMemberBusinessEthicsForConflict {
+    public class FamilyMemberBusinessEthicsForConflict {
         public string conflictId { get; set; }
         public string conflict { get; set; }
         public string conflictDescription { get; set; }
-        public List<FamilyMemberBusinessWithEthics> familyMemberBusinessWithEthicsList;
+        public List<FamilyMemberBusinessWithEthics> familyMemberEthics;
 
         public FamilyMemberBusinessEthicsForConflict(string conflictId, string conflict, string conflictDescription) {
             this.conflictId = conflictId;
             this.conflict = conflict;
             this.conflictDescription = conflictDescription;
-            familyMemberBusinessWithEthicsList = new List<FamilyMemberBusinessWithEthics>();
+            familyMemberEthics = new List<FamilyMemberBusinessWithEthics>();
         }
     }
 
@@ -70,150 +70,181 @@ namespace Phase2 {
         }
     }
 
-    public class JsonGenerator {
+    // Everything for the conflict details page
+    // ID, Name, Slug, Description
+    // List of Stories
+    // Ethics Info
+    public class ConflictJson {
+        private string slug { get; set; }
 
-        public static string ConnectionString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+        public string name { get; set; }
+        public string description { get; set; }
 
-        private static Dictionary<string, string> businesses;
+        public List<Conflicts.Story> stories { get; set; }
 
-        public static void Run(string path) {
+        public List<FamilyMemberBusinessEthicsForConflict> ethics { get; set; }
 
-            var stories = MakeStories();
-
-            // Temporarily get rid of these duplicates
-            var filteredStories = new List<Conflicts.Story>();  
-            foreach (Conflicts.Story s in stories) {
-
-                Console.WriteLine(s.conflict);
-
-                if ((s.conflict != "Trump Organization LLC D/B/A The Trump Organization") &&
-                   (s.conflict != "") &&
-                   (s.conflict != "Trump International Hotel DC"))
-                    filteredStories.Add(s);
-            }
-
-            WriteStoryJson(path, filteredStories);
-            WriteStoryCsv(path, filteredStories);
-
-            List<FamilyMemberBusinessEthicsForConflict> ethicsForConflict = MakeEthicsInfos();
-
-            // ugh - add the ownerships to all businesses as a separate step
-            AddOwnersips(ethicsForConflict);
-
-            WriteEthicsInfosToJson(path, ethicsForConflict);
+        public string GetSlug() {
+            return slug;
         }
 
-        private static void AddOwnersips(List<FamilyMemberBusinessEthicsForConflict> businessesForConflict) {
-            List<BusinessOwnershipForJson> ownerships = MakeBusinessOwnerships();
 
-            foreach (FamilyMemberBusinessEthicsForConflict b in businessesForConflict) {
-                foreach (FamilyMemberBusinessWithEthics bus in b.familyMemberBusinessWithEthicsList) {
-                    foreach (BusinessOwnershipForJson ownership in ownerships) {
-                        var busId = IdForBusinessName(bus.business);
-                        if (busId == ownership.owneeId)
-                            bus.ownerships.Add(ownership);
+        public ConflictJson(string name, string description, string slug, 
+            List<Conflicts.Story> stories, 
+            List<FamilyMemberBusinessEthicsForConflict> ethics ) {
+
+            this.name = name;
+            this.description = description;
+            this.slug = slug;
+
+            this.stories = stories;
+            this.ethics = ethics;
+        }
+    }
+
+
+
+
+        public class JsonGenerator {
+
+            public static string ConnectionString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+
+            private static Dictionary<string, string> businesses;
+
+
+
+            // New Stuff
+            public static void RunConflicts(string path) {
+
+                var allStories = MakeStories();
+
+                // Temporarily get rid of these duplicates
+                var filteredStories = new List<Conflicts.Story>();
+                foreach (Conflicts.Story s in allStories) {
+                    if ((s.conflict != "Trump Organization LLC D/B/A The Trump Organization") &&
+                       (s.conflict != "") &&
+                       (s.conflict != "Trump International Hotel DC"))
+                        filteredStories.Add(s);
+                }
+
+                WriteStoryJson(path, filteredStories);
+                WriteStoryCsv(path, filteredStories);
+
+                List<FamilyMemberBusinessEthicsForConflict> ethicsForConflict = MakeEthicsInfos();
+                // ugh - add the ownerships to all businesses as a separate step
+                AddOwnersips(ethicsForConflict);
+
+                var conflicts = new List<ConflictJson>();
+                var reader = SqlUtil.Query("SELECT ID, Name, Description, Slug FROM Conflict");
+                while (reader.Read()) {
+                    var conflictId = reader["ID"].ToString();
+
+                    List<Conflicts.Story> stories = new List<Conflicts.Story>();
+                    foreach (Conflicts.Story story in filteredStories)
+                        if (story.GetID() == conflictId)
+                            stories.Add(story);
+
+                    var ethicsList = new List<FamilyMemberBusinessEthicsForConflict>();
+                    foreach (FamilyMemberBusinessEthicsForConflict ethics in ethicsForConflict)
+                        if (ethics.conflictId == conflictId)
+                            ethicsList.Add(ethics);
+
+                conflicts.Add(
+                    new ConflictJson(
+                        reader["Name"].ToString()
+                        , reader["Description"].ToString()
+                        , reader["Slug"].ToString()
+                        , stories
+                        , ethicsList
+                        )
+                    );
+                }
+                WriteConflictJson(path, conflicts);
+            }
+        
+            private static void WriteConflictJson(string path, List<ConflictJson> conflicts) {
+                string fullPath = path + "conflicts\\";
+                try {
+                    Directory.Delete(fullPath, true);
+                }
+                catch (Exception e) {
+                }
+                Directory.CreateDirectory(fullPath);
+
+                foreach (ConflictJson conflict in conflicts) {
+                    string json = JsonConvert.SerializeObject(conflict);
+                    var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
+
+                    System.IO.File.WriteAllText(fullPath + conflict.GetSlug() + ".json", niceJson);
+                }
+            }
+
+            // End New Stuff
+
+
+            public static void Run(string path) {
+
+                var stories = MakeStories();
+
+                // Temporarily get rid of these duplicates
+                var filteredStories = new List<Conflicts.Story>();
+                foreach (Conflicts.Story s in stories) {
+
+                    Console.WriteLine(s.conflict);
+
+                    if ((s.conflict != "Trump Organization LLC D/B/A The Trump Organization") &&
+                       (s.conflict != "") &&
+                       (s.conflict != "Trump International Hotel DC"))
+                        filteredStories.Add(s);
+                }
+
+                WriteStoryJson(path, filteredStories);
+                WriteStoryCsv(path, filteredStories);
+
+                List<FamilyMemberBusinessEthicsForConflict> ethicsForConflict = MakeEthicsInfos();
+
+                // ugh - add the ownerships to all businesses as a separate step
+                AddOwnersips(ethicsForConflict);
+
+                WriteEthicsInfosToJson(path, ethicsForConflict);    
+            }
+
+            private static void AddOwnersips(List<FamilyMemberBusinessEthicsForConflict> businessesForConflict) {
+                List<BusinessOwnershipForJson> ownerships = MakeBusinessOwnerships();
+
+                foreach (FamilyMemberBusinessEthicsForConflict b in businessesForConflict) {
+                    foreach (FamilyMemberBusinessWithEthics bus in b.familyMemberEthics) {
+                        foreach (BusinessOwnershipForJson ownership in ownerships) {
+                            var busId = IdForBusinessName(bus.business);
+                            if (busId == ownership.owneeId)
+                                bus.ownerships.Add(ownership);
+                        }
                     }
                 }
             }
-        }
 
-        private static void WriteEthicsInfosToJson(string path, List<FamilyMemberBusinessEthicsForConflict> ethicsForConflicts) {
-            string fullPath = path + "ethics\\";
-            try {
-                Directory.Delete(fullPath, true);
-            } catch (Exception e) {
-            }
-            Directory.CreateDirectory(fullPath);
+            private static void WriteEthicsInfosToJson(string path, List<FamilyMemberBusinessEthicsForConflict> ethicsForConflicts) {
+                string fullPath = path + "ethics\\";
+                try {
+                    Directory.Delete(fullPath, true);
+                }
+                catch (Exception e) {
+                }
+                Directory.CreateDirectory(fullPath);
 
-            foreach (FamilyMemberBusinessEthicsForConflict conflict in ethicsForConflicts) {
-                string json = JsonConvert.SerializeObject(conflict);
-                var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
+                foreach (FamilyMemberBusinessEthicsForConflict conflict in ethicsForConflicts) {
+                    string json = JsonConvert.SerializeObject(conflict);
+                    var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
 
-                System.IO.File.WriteAllText(fullPath + conflict.conflictId + ".json", niceJson);
-            }
-        }
-
-        private static List<Conflicts.Story> MakeStories() {
-            var stories = new List<Conflicts.Story>();
-
-            //string connString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
-            string query = "SELECT * FROM StoryConflictView";
-            using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
-                using (SqlCommand cmd = new SqlCommand(query, conn)) {
-                    cmd.CommandType = CommandType.Text;
-                    conn.Open();
-                    SqlDataReader reader = cmd.ExecuteReader();
-
-                    while (reader.Read())
-                        AddStory(reader, stories);
-
-                    Console.WriteLine(stories.Count.ToString() + " Stories");
+                    System.IO.File.WriteAllText(fullPath + conflict.conflictId + ".json", niceJson);
                 }
             }
-            return stories;
-        }
 
-        private static void AddStory(SqlDataReader reader, List<Conflicts.Story> stories) {
-            var story = new Conflicts.Story(
-                reader["ConflictDescription"].ToString() // Description
-                , reader["FamilyMember"].ToString() // FamilyMember
-                , reader["Conflict"].ToString() // ConflictingEntity // NOW Conflict
-                , reader["ConflictStatus"].ToString() // Category
-                , reader["ConflictNotes"].ToString() // Notes
-                , reader["ConflictUpdateDate"].ToString() // DateChanged
-                , reader["MediaOutlet"].ToString() // Source - NOW MediaOutlet
-                , reader["Link"].ToString() // Link
-                , reader["Date"].ToString() // Date
-                , reader["Headline"].ToString() // Headline
+            private static List<Conflicts.Story> MakeStories() {
+                var stories = new List<Conflicts.Story>();
 
-                , reader["ConflictId"].ToString()
-                , reader["EthicsCount"].ToString() != "0"
-            );
-            stories.Add(story);
-        }
-
-        private static void WriteStoryJson(string path, List<Conflicts.Story> stories) {
-            string json = JsonConvert.SerializeObject(stories);
-            var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
-            System.IO.File.WriteAllText(path + "stories.json", niceJson);
-        }
-
-        private static void WriteStoryCsv(string path, List<Conflicts.Story> stories) {
-            var storyStrings = new List<String>();
-            storyStrings.Add(Conflicts.Story.CsvHeader());
-            foreach (Conflicts.Story story in stories) 
-                storyStrings.Add(story.ToCsv());
-                
-            var strings = new StringBuilder();
-            strings.Append(String.Join("\r\n", storyStrings.ToArray()));
-            System.IO.File.WriteAllText(path + "stories.csv", strings.ToString());
-            
-            //string json = JsonConvert.SerializeObject(stories);
-            //var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
-            //System.IO.File.WriteAllText(path + "stories.csv", niceJson);
-        }
-
-        private static List<FamilyMemberBusinessEthicsForConflict> MakeEthicsInfos() {
-            var ethics = new List<FamilyMemberBusinessEthicsForConflict>();
-            //string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
-            string query = "SELECT * FROM BusinessConflictView ORDER BY ConflictID, FamilyMember, Business, EthicsDocument";
-            using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
-                using (SqlCommand cmd = new SqlCommand(query, conn)) {
-                    cmd.CommandType = CommandType.Text;
-                    conn.Open();
-                    SqlDataReader reader = cmd.ExecuteReader();
-
-                    while (reader.Read())
-                        AddEthics(reader, ethics);
-                }
-            }
-            return ethics;
-        }
-
-        private static string IdForBusinessName(string name) {
-            if (businesses == null) {
-                businesses = new Dictionary<string, string>();
-                string query = "SELECT ID, Name FROM Business";
+                //string connString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+                string query = "SELECT * FROM StoryConflictView";
                 using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
                     using (SqlCommand cmd = new SqlCommand(query, conn)) {
                         cmd.CommandType = CommandType.Text;
@@ -221,81 +252,159 @@ namespace Phase2 {
                         SqlDataReader reader = cmd.ExecuteReader();
 
                         while (reader.Read())
-                            businesses.Add(reader["Name"].ToString(), reader["ID"].ToString());
+                            AddStory(reader, stories);
+
+                        Console.WriteLine(stories.Count.ToString() + " Stories");
                     }
                 }
+                return stories;
             }
-            return businesses[name];
-        }
 
-        private static List<BusinessOwnershipForJson> MakeBusinessOwnerships() {
-            var ownerships = new List<BusinessOwnershipForJson>();
+            private static void AddStory(SqlDataReader reader, List<Conflicts.Story> stories) {
+                var story = new Conflicts.Story(
+                    reader["ConflictDescription"].ToString() // Description
+                    , reader["FamilyMember"].ToString() // FamilyMember
+                    , reader["Conflict"].ToString() // ConflictingEntity // NOW Conflict
+                    , reader["Slug"].ToString() 
+                    , reader["ConflictStatus"].ToString() // Category
+                    //, reader["ConflictNotes"].ToString() // Notes
+                    //, reader["ConflictUpdateDate"].ToString() // DateChanged
+                    , reader["MediaOutlet"].ToString() // Source - NOW MediaOutlet
+                    , reader["Link"].ToString() // Link
+                    , reader["Date"].ToString() // Date
+                    , reader["Headline"].ToString() // Headline
 
-            //string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
-            string query = "SELECT * FROM BusinessOwnershipView ORDER BY owneeId, ownershipPercentage DESC";
-            using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
-                using (SqlCommand cmd = new SqlCommand(query, conn)) {
-                    cmd.CommandType = CommandType.Text;
-                    conn.Open();
-                    SqlDataReader reader = cmd.ExecuteReader();
+                    , reader["ConflictId"].ToString()
+                    , reader["EthicsCount"].ToString() != "0"
+                );
+                stories.Add(story);
+            }
 
-                    while (reader.Read())
-                        ownerships.Add(new BusinessOwnershipForJson(
-                            reader["OwneeID"].ToString()
-                            , reader["Owner"].ToString()
-                            , reader["OwnershipPercentage"].ToString()
-                        )
-                    );
+            private static void WriteStoryJson(string path, List<Conflicts.Story> stories) {
+                string json = JsonConvert.SerializeObject(stories);
+                var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
+                System.IO.File.WriteAllText(path + "stories.json", niceJson);
+            }
+
+            private static void WriteStoryCsv(string path, List<Conflicts.Story> stories) {
+                var storyStrings = new List<String>();
+                storyStrings.Add(Conflicts.Story.CsvHeader());
+                foreach (Conflicts.Story story in stories)
+                    storyStrings.Add(story.ToCsv());
+
+                var strings = new StringBuilder();
+                strings.Append(String.Join("\r\n", storyStrings.ToArray()));
+                System.IO.File.WriteAllText(path + "stories.csv", strings.ToString());
+
+                //string json = JsonConvert.SerializeObject(stories);
+                //var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
+                //System.IO.File.WriteAllText(path + "stories.csv", niceJson);
+            }
+
+            private static List<FamilyMemberBusinessEthicsForConflict> MakeEthicsInfos() {
+                var ethics = new List<FamilyMemberBusinessEthicsForConflict>();
+                //string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+                string query = "SELECT * FROM BusinessConflictView ORDER BY ConflictID, FamilyMember, Business, EthicsDocument";
+                using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
+                    using (SqlCommand cmd = new SqlCommand(query, conn)) {
+                        cmd.CommandType = CommandType.Text;
+                        conn.Open();
+                        SqlDataReader reader = cmd.ExecuteReader();
+
+                        while (reader.Read())
+                            AddEthics(reader, ethics);
+                    }
                 }
-            }
-            return ownerships;
-        }
-
-        private static void AddEthics(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {
-
-            var conflictId = reader["ConflictId"].ToString();
-            var business = reader["Business"].ToString();
-
-            FamilyMemberBusinessEthicsForConflict lastConflict = (ethicsInfos.Count == 0) ? null : ethicsInfos.Last();
-            bool addConflict = ((lastConflict == null) || (lastConflict.conflictId != conflictId));
-            if (addConflict) {
-                AddConflict(reader, ethicsInfos);
-                lastConflict = ethicsInfos.Last();
+                return ethics;
             }
 
-            FamilyMemberBusinessWithEthics lastBusiness = null;
-            if (lastConflict != null)
-                lastBusiness = (ethicsInfos.Last().familyMemberBusinessWithEthicsList.Count == 0) ? null : ethicsInfos.Last().familyMemberBusinessWithEthicsList.Last();
-            bool addBusiness = ((lastBusiness == null) || (lastConflict.familyMemberBusinessWithEthicsList.Last().business != business));
-            if (addBusiness) {
-                AddBusiness(reader, ethicsInfos.Last());
-                lastBusiness = ethicsInfos.Last().familyMemberBusinessWithEthicsList.Last();
+            private static string IdForBusinessName(string name) {
+                if (businesses == null) {
+                    businesses = new Dictionary<string, string>();
+                    string query = "SELECT ID, Name FROM Business";
+                    using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
+                        using (SqlCommand cmd = new SqlCommand(query, conn)) {
+                            cmd.CommandType = CommandType.Text;
+                            conn.Open();
+                            SqlDataReader reader = cmd.ExecuteReader();
+
+                            while (reader.Read())
+                                businesses.Add(reader["Name"].ToString(), reader["ID"].ToString());
+                        }
+                    }
+                }
+                return businesses[name];
             }
 
-            lastBusiness.ethicsDocuments.Add(new EthicsDocumentForJson(
-                reader["EthicsDocument"].ToString()
-                , reader["EthicsDocumentDate"].ToString()
-                , reader["EthicsDocumentLink"].ToString()
+            private static List<BusinessOwnershipForJson> MakeBusinessOwnerships() {
+                var ownerships = new List<BusinessOwnershipForJson>();
+
+                //string connString = "Server=PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+                string query = "SELECT * FROM BusinessOwnershipView ORDER BY owneeId, ownershipPercentage DESC";
+                using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
+                    using (SqlCommand cmd = new SqlCommand(query, conn)) {
+                        cmd.CommandType = CommandType.Text;
+                        conn.Open();
+                        SqlDataReader reader = cmd.ExecuteReader();
+
+                        while (reader.Read())
+                            ownerships.Add(new BusinessOwnershipForJson(
+                                reader["OwneeID"].ToString()
+                                , reader["Owner"].ToString()
+                                , reader["OwnershipPercentage"].ToString()
+                            )
+                        );
+                    }
+                }
+                return ownerships;
+            }
+
+            private static void AddEthics(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {
+
+                var conflictId = reader["ConflictId"].ToString();
+                var business = reader["Business"].ToString();
+
+                FamilyMemberBusinessEthicsForConflict lastConflict = (ethicsInfos.Count == 0) ? null : ethicsInfos.Last();
+                bool addConflict = ((lastConflict == null) || (lastConflict.conflictId != conflictId));
+                if (addConflict) {
+                    AddConflict(reader, ethicsInfos);
+                    lastConflict = ethicsInfos.Last();
+                }
+
+                FamilyMemberBusinessWithEthics lastBusiness = null;
+                if (lastConflict != null)
+                    lastBusiness = (ethicsInfos.Last().familyMemberEthics.Count == 0) ? null : ethicsInfos.Last().familyMemberEthics.Last();
+                bool addBusiness = ((lastBusiness == null) || (lastConflict.familyMemberEthics.Last().business != business));
+                if (addBusiness) {
+                    AddBusiness(reader, ethicsInfos.Last());
+                    lastBusiness = ethicsInfos.Last().familyMemberEthics.Last();
+                }
+
+                lastBusiness.ethicsDocuments.Add(new EthicsDocumentForJson(
+                    reader["EthicsDocument"].ToString()
+                    , reader["EthicsDocumentDate"].ToString()
+                    , reader["EthicsDocumentLink"].ToString()
+                    ));
+
+                //lastBusiness.ownerships.Add(new BusinessOwnershipForJson("1", "1", "1"));
+            }
+
+            private static void AddConflict(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {
+                ethicsInfos.Add(new FamilyMemberBusinessEthicsForConflict(
+                    reader["ConflictID"].ToString()
+                    , reader["Conflict"].ToString()
+                    , reader["ConflictDescription"].ToString()));
+            }
+
+            private static void AddBusiness(SqlDataReader reader, FamilyMemberBusinessEthicsForConflict conflict) {
+                conflict.familyMemberEthics.Add(new FamilyMemberBusinessWithEthics(
+                    reader["FamilyMember"].ToString()
+                    , reader["Description"].ToString()
+                    , reader["Business"].ToString()
+                    , reader["ConflictStatus"].ToString()
                 ));
-
-            //lastBusiness.ownerships.Add(new BusinessOwnershipForJson("1", "1", "1"));
-        }
-
-        private static void AddConflict(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {
-            ethicsInfos.Add(new FamilyMemberBusinessEthicsForConflict(
-                reader["ConflictID"].ToString()
-                , reader["Conflict"].ToString()
-                , reader["ConflictDescription"].ToString()));
-        }
-
-        private static void AddBusiness(SqlDataReader reader, FamilyMemberBusinessEthicsForConflict conflict) {
-            conflict.familyMemberBusinessWithEthicsList.Add(new FamilyMemberBusinessWithEthics(
-                reader["FamilyMember"].ToString() 
-                , reader["Description"].ToString() 
-                , reader["Business"].ToString() 
-                , reader["ConflictStatus"].ToString() 
-            ));
+            }
         }
     }
-}
+
 

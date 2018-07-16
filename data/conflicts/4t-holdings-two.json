@@ -1,0 +1,34 @@
+{
+  "name": "4T Holdings Two",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "19",
+              "owner": "TTTT Venture LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump retains an ownership interest in the now-dormant or inactive 4T Holdings Two LLC. Any current or former positions he may have held with the company are not reported on his financial disclosures.",
+          "business": "4T Holdings Two LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "7",
+      "conflict": "4T Holdings Two",
+      "conflictDescription": ""
+    }
+  ]
+}

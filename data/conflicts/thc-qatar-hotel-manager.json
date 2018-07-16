@@ -1,0 +1,73 @@
+{
+  "name": "THC Qatar Hotel Manager",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "THC Qatar Hotel Manager",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html",
+      "sourceDate": "2016-11-20T00:00:00",
+      "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
+      "conflictId": "179",
+      "conflictSlug": "thc-qatar-hotel-manager",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "277",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "277",
+              "owner": "THC Qatar Hotel Manager Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of THC Qatar Hotel Manager LLC, which reportedly was dissolved on Jan. 26, 2017. Pres. Trump held an ownership interest in the company at the time.",
+          "business": "THC Qatar Hotel Manager LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "276",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former chairman/director/president of THC Qatar Hotel Manager Member Corp., which reportedly was dissolved on Jan. 26, 2017. Pres. Trump held an ownership interest in the company at the time.",
+          "business": "THC Qatar Hotel Manager Member Corp.",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "179",
+      "conflict": "THC Qatar Hotel Manager",
+      "conflictDescription": ""
+    }
+  ]
+}

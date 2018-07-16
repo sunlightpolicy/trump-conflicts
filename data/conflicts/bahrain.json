@@ -1,0 +1,20 @@
+{
+  "name": "Bahrain",
+  "description": "In 2016 the hotel was host to a National Day celebration for the Kingdom of Bahrain.",
+  "stories": [
+    {
+      "description": "In 2016 the hotel was host to a National Day celebration for the Kingdom of Bahrain.",
+      "familyMember": "Donald Trump",
+      "conflict": "Bahrain",
+      "category": "Active",
+      "mediaOutlet": "Huffington Post",
+      "link": "http://www.huffingtonpost.com/entry/donald-trump-bahrain_us_583de2a5e4b0c33c8e1282d0?inyv55o07g8horms4i",
+      "sourceDate": "2016-11-29T00:00:00",
+      "headline": "Bahrain To Hold Major Celebration At Donald Trump’s D.C. Hotel",
+      "conflictId": "426",
+      "conflictSlug": "bahrain",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

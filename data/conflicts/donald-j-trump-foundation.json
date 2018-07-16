@@ -1,0 +1,146 @@
+{
+  "name": "Donald J. Trump Foundation",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "BuzzFeed",
+      "link": "https://www.buzzfeed.com/paulmcleod/trump-foundation-received-150000-donation-in-exchange-for-20?utm_term=.hwJDzPkYww#.exE32wrn11",
+      "sourceDate": "2016-11-22T00:00:00",
+      "headline": "Trump Foundation Received $150,000 Donation In Exchange For 2015 Ukraine Speech",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/sites/danalexander/2017/02/09/where-did-trumps-foundation-donate-its-money-irs-documents-reveal-surprising-answers/#4d1fcb907b52",
+      "sourceDate": "2017-02-09T00:00:00",
+      "headline": "Where Did Trump's Foundation Donate Its Money? IRS Documents Reveal Surprising Answers",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/04/09/us/politics/trump-mueller-ukraine-victor-pinchuk.html",
+      "sourceDate": "2018-04-09T00:00:00",
+      "headline": "Mueller Investigating Ukrainian’s $150,000 Payment for a Trump Appearance",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/new-york-files-suit-against-president-trump-alleging-his-charity-engaged-in-illegal-conduct/2018/06/14/c3cbf71e-6fc9-11e8-bd50-b80389a4e569_story.html?utm_term=.4ceb5b79cb06",
+      "sourceDate": "2018-06-14T00:00:00",
+      "headline": "New York files civil suit against President Trump, alleging his charity engaged in ‘illegal conduct’",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2018/06/14/620103280/new-york-attorney-general-sues-trump-foundation-and-its-board-of-directors",
+      "sourceDate": "2018-06-14T00:00:00",
+      "headline": "New York Attorney General Sues Trump Foundation And Its Board Of Directors",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2018/06/14/619959270/new-yorks-attorney-general-sues-the-trump-foundation",
+      "sourceDate": "2018-06-14T00:00:00",
+      "headline": "New York's Attorney General Sues The Trump Foundation",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2018/06/14/619974462/n-y-attorney-general-files-suit-against-trump-foundation",
+      "sourceDate": "2018-06-14T00:00:00",
+      "headline": "N.Y. Attorney General Files Suit Against Trump Foundation",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.nbcnews.com/politics/donald-trump/new-york-attorney-general-sues-trump-foundation-what-might-happen-n883901",
+      "sourceDate": "2018-06-16T00:00:00",
+      "headline": "New York attorney general sues Trump Foundation: What might happen next",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://edition.cnn.com/2018/06/19/politics/trump-foundation-q-and-a/",
+      "sourceDate": "2018-06-19T00:00:00",
+      "headline": "Exactly how much trouble is the Trump Foundation in?",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former director of The Donald J. Trump Foundation, Inc., the current activity status and control structures of which are not reported. The foundation received $150,000 from the Victor Pinchuk Foundation and Yalta European Strategy (YES) — an NGO founded by Mr. Pinchuk — for a video speech Trump made in September 2015.",
+          "business": "The Donald J. Trump Foundation, Inc.",
+          "conflictStatus": "Potential"
+        }
+      ],
+      "conflictId": "45",
+      "conflict": "Donald J. Trump Foundation",
+      "conflictDescription": ""
+    }
+  ]
+}

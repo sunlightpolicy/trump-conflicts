@@ -1,0 +1,28 @@
+{
+  "name": "Gept Delmonico",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "GEPT Delmonico LLC owns 0.1 percent of Trump Park Avenue LLC.",
+          "business": "Gept Delmonico LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "98",
+      "conflict": "Gept Delmonico",
+      "conflictDescription": ""
+    }
+  ]
+}

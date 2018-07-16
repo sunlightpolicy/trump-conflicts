@@ -1,0 +1,28 @@
+{
+  "name": "The Art Of The Comeback",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump earns royalty income from the book The Art of the Comeback, published 1997 by Random House.",
+          "business": "The Art of the Comeback",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "189",
+      "conflict": "The Art Of The Comeback",
+      "conflictDescription": ""
+    }
+  ]
+}

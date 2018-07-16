@@ -22,11 +22,14 @@ namespace Phase2 {
             //var loader = new Phase2Loader("c:\\trump-conflicts\\Exporter\\Exporter\\data\\WORKING CURRENT COPY Tracking Trump's Conflicts of Interest");
 
 
-            AirTableLoader.Load("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
+            //AirTableLoader.Load("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
                     
             
             // Queries db and generates json - need to run scripts above before running this
+            // NOT USED
             //JsonGenerator.Run("c:\\trump-conflicts\\data\\");
+
+            JsonGenerator.RunConflicts("c:\\trump-conflicts\\data\\");
 
 
             // Timeline JS

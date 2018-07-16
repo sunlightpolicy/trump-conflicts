@@ -1,0 +1,59 @@
+{
+  "name": "Trump AC Casino Marks",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "329",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "329",
+              "owner": "Trump AC Casino Marks Member Corp",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of the now-dormant or inactive Trump AC Casino Marks LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump AC Casino Marks LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "328",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/chairman/director of the now-dormant or inactive Trump AC Casino Marks Member Corp., in which Pres. Trump retains ownership interests.",
+          "business": "Trump AC Casino Marks Member Corp",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "218",
+      "conflict": "Trump AC Casino Marks",
+      "conflictDescription": ""
+    }
+  ]
+}

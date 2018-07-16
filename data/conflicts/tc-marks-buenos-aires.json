@@ -1,0 +1,61 @@
+{
+  "name": "TC Marks Buenos Aires",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "TC Marks Buenos Aires",
+      "category": "Active",
+      "mediaOutlet": "Reuters",
+      "link": "https://www.reuters.com/article/us-usa-trump-argentina/trump-organization-says-it-has-no-plans-to-build-buenos-aires-tower-idUSKBN14N1W7",
+      "sourceDate": "2017-01-04T00:00:00",
+      "headline": "Trump Organization says it has no plans to build Buenos Aires tower",
+      "conflictId": "164",
+      "conflictSlug": "tc-marks-buenos-aires",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "TC Marks Buenos Aires",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/trumps-presidency-overseas-business-deals-and-relations-with-foreign-governments-could-all-become-intertwined/2016/11/25/d2bc83f8-b0e2-11e6-8616-52b15787add0_story.html?utm_term=.6474a90a3947",
+      "sourceDate": "2016-11-25T00:00:00",
+      "headline": "Trump’s presidency, overseas business deals and relations with foreign governments could all become intertwined",
+      "conflictId": "164",
+      "conflictSlug": "tc-marks-buenos-aires",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "251",
+              "owner": "TTTT Venture LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of TC Marks Buenos Aires LLC. The company, dissolved on Jan. 26, 2017, reportedly had no independent value or income, and existed to hold license deals that were prospective, inactive, or otherwise did not currently have valuable assets or create income.",
+          "business": "TC Marks Buenos Aires LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "164",
+      "conflict": "TC Marks Buenos Aires",
+      "conflictDescription": ""
+    }
+  ]
+}

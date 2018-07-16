@@ -1,0 +1,20 @@
+{
+  "name": "Carl C. Icahn",
+  "description": "Mr. Trump has forged relationships with powerful political figures in Indonesia, where such connections are crucial to pushing through big projects. That tangle of relationships includes an Indonesian business partner who aspires to high office; a powerful politician accused of trying to extort billions of dollars from an American mining company; as well as Mr. Trump’s adviser on regulatory issues, Carl C. Icahn, who is a top shareholder in the same mining company.",
+  "stories": [
+    {
+      "description": "Mr. Trump has forged relationships with powerful political figures in Indonesia, where such connections are crucial to pushing through big projects. That tangle of relationships includes an Indonesian business partner who aspires to high office; a powerful politician accused of trying to extort billions of dollars from an American mining company; as well as Mr. Trump’s adviser on regulatory issues, Carl C. Icahn, who is a top shareholder in the same mining company.",
+      "familyMember": "Donald Trump",
+      "conflict": "Carl C. Icahn",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html",
+      "sourceDate": "2016-12-31T00:00:00",
+      "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
+      "conflictId": "428",
+      "conflictSlug": "carl-c-icahn",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

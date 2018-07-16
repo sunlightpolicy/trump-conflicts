@@ -1,0 +1,59 @@
+{
+  "name": "THC Venture II",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "291",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "291",
+              "owner": "THC Venture II Managing Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of THC Venture II LLC. The company is reportedly dormant or inactive. Trump retains an ownership interest.",
+          "business": "THC Venture II LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "290",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former chairman/director/president of THC Venture II Managing Member Corp. The company is reportedly dormant or inactive. Trump retains an ownership interest.",
+          "business": "THC Venture II Managing Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "186",
+      "conflict": "THC Venture II",
+      "conflictDescription": ""
+    }
+  ]
+}

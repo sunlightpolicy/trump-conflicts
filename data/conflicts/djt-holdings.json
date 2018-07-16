@@ -1,0 +1,64 @@
+{
+  "name": "DJT Holdings",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "8",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "8",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member &amp; president of DJT Holdings LLC, in which Pres. Trump retains an ownership interest.",
+          "business": "DJT Holdings LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "10",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "100"
+            },
+            {
+              "owneeId": "10",
+              "owner": "",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member &amp; president of DJT Holdings Managing Member LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "DJT Holdings Managing Member LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "36",
+      "conflict": "DJT Holdings",
+      "conflictDescription": ""
+    }
+  ]
+}

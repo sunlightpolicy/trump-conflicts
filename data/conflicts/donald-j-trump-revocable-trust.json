@@ -1,0 +1,42 @@
+{
+  "name": "Donald J. Trump Revocable Trust",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Donald J. Trump Revocable Trust",
+      "category": "Active",
+      "mediaOutlet": "ProPublica",
+      "link": "https://www.propublica.org/article/trump-pull-money-his-businesses-whenever-he-wants-without-telling-us",
+      "sourceDate": "2017-04-04T00:00:00",
+      "headline": "Trump Lawyer Confirms President Can Pull Money From His Businesses Whenever He Wants",
+      "conflictId": "47",
+      "conflictSlug": "donald-j-trump-revocable-trust",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former trustee of The Donald J. Trump Revocable Trust, which was established to hold Trump&#39;s exclusive assets. Its trustees as of Jan. 17, 2017, were Donald Trump Jr. and Trump Organization CFO Allen Weisselberg. Pres. Trump may withdraw money and underlying assets from the revocable trust as he pleases.",
+          "business": "The Donald J. Trump Revocable Trust",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "47",
+      "conflict": "Donald J. Trump Revocable Trust",
+      "conflictDescription": ""
+    }
+  ]
+}

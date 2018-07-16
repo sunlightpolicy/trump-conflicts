@@ -1,0 +1,59 @@
+{
+  "name": "TNGC Pine Hill / Trump National Golf Club - Philadelphia (Formerly Crest Court)",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "319",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "319",
+              "owner": "TNGC Pine Hill Member Corp. (F/K/A Crest Court Member Court)",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of TNGC Pine Hill LLC (F/K/A Crest Court LLC) (Trump National Golf Club - Philadelphia), in which Pres. Trump retains ownership interests.",
+          "business": "TNGC Pine Hill LLC (F/K/A Crest Court LLC) (Trump National Golf Club - Philadelphia)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "318",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/chairman/director of TNGC Pine Hill Member Corp. (F/K/A Crest Court Member Court), in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "TNGC Pine Hill Member Corp. (F/K/A Crest Court Member Court)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "209",
+      "conflict": "TNGC Pine Hill / Trump National Golf Club - Philadelphia (Formerly Crest Court)",
+      "conflictDescription": ""
+    }
+  ]
+}

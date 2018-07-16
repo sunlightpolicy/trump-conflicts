@@ -1,0 +1,59 @@
+{
+  "name": "Trump Marks Mortgage",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "459",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/president of the now-dormant or inactive Trump Marks Mortgage Corp., in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Mortgage Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "460",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "460",
+              "owner": "Trump Marks Mortgage Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of the now-dormant or inactive Trump Marks Mtg LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Mtg LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "293",
+      "conflict": "Trump Marks Mortgage",
+      "conflictDescription": ""
+    }
+  ]
+}

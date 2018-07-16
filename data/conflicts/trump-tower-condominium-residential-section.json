@@ -1,0 +1,65 @@
+{
+  "name": "Trump Tower Condominium Residential Section",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Tower Condominium Residential Section",
+      "category": "Active",
+      "mediaOutlet": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2018/may/04/trump-qatar-buys-apartment-new-york-tower",
+      "sourceDate": "2018-05-04T00:00:00",
+      "headline": "Trump set to benefit as Qatar buys $6.5m apartment in New York tower",
+      "conflictId": "354",
+      "conflictSlug": "trump-tower-condominium-residential-section",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Tower Condominium Residential Section",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article210477439.html",
+      "sourceDate": "2018-06-19T00:00:00",
+      "headline": "Buyers tied to Russia, former Soviet republics paid $109 million cash for Trump properties",
+      "conflictId": "354",
+      "conflictSlug": "trump-tower-condominium-residential-section",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump Tower Condominium Residential Section. The company&#39;s ownership structure is not clear; it has not been reported on any of his financial disclosures.",
+          "business": "Trump Tower Condominium Residential Section",
+          "conflictStatus": "Potential"
+        }
+      ],
+      "conflictId": "354",
+      "conflict": "Trump Tower Condominium Residential Section",
+      "conflictDescription": ""
+    }
+  ]
+}

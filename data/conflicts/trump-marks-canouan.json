@@ -1,0 +1,59 @@
+{
+  "name": "Trump Marks Canouan",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "433",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director/chairman of the now-dormant or inactive Trump Marks Canouan Corp., in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Canouan Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "434",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "434",
+              "owner": "Trump Marks Canouan Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of the now-dormant or inactive Trump Marks Canouan LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Canouan LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "280",
+      "conflict": "Trump Marks Canouan",
+      "conflictDescription": ""
+    }
+  ]
+}

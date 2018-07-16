@@ -1,0 +1,59 @@
+{
+  "name": "TP CFD",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "322",
+              "owner": "Trump, Donald J.",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "322",
+              "owner": "TP CFD Manager Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of TP CFD LLC. The company, owned by Trump, was reportedly dissolved on Oct. 18, 2016.",
+          "business": "TP CFD LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "321",
+              "owner": "Trump, Donald J.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/chairman/director of TP CFD Manager Corp. The company, owned by Trump, was reportedly dissolved on Oct. 18, 2016.",
+          "business": "TP CFD Manager Corp.",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "211",
+      "conflict": "TP CFD",
+      "conflictDescription": ""
+    }
+  ]
+}

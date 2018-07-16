@@ -1,0 +1,28 @@
+{
+  "name": "Daewoo America",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Daewoo America Development (New York) Corp. owns 41 parent of Trump Korea LLC.",
+          "business": "Daewoo America Development (New York) Corp",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "33",
+      "conflict": "Daewoo America",
+      "conflictDescription": ""
+    }
+  ]
+}

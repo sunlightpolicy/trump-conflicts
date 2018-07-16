@@ -31,13 +31,15 @@ namespace Phase2 {
 
         public enum CrudOp { Insert, Update }
 
+        public string FileNumber;   // First part of file name 
         public string TableName;    // Name of db table
         public string CsvFile;      // Full path to csv file
         public string OutputPath;   // Where sql file goes
         public List<Column> Columns;
         public string KeyField;     // Unique name field of db table
         
-        public Table(string tableName, string csvFile, string outputPath, List<Column> columns, string keyField = "Name") {
+        public Table(string fileNumber, string tableName, string csvFile, string outputPath, List<Column> columns, string keyField = "Name") {
+            FileNumber = fileNumber;
             TableName = tableName;
             CsvFile = csvFile;
             OutputPath = outputPath;
@@ -56,11 +58,20 @@ namespace Phase2 {
                 cmds = LoadConflictStatus();
 
 
-            using (TextWriter tw = new StreamWriter(this.OutputPath + this.TableName + ".sql")) {
-                if (TableName == "StoryConflict")
+            using (TextWriter tw = new StreamWriter(this.OutputPath + this.FileNumber + " " + this.TableName + ".sql")) {
+                tw.WriteLine("USE Trump");
+                tw.WriteLine("GO");
+                
+                if (TableName == "StoryConflict") {
                     tw.WriteLine("DELETE FROM StoryConflict");
-                if (TableName == "Story")
+                }
+
+                if (TableName == "Story") {
+                    tw.WriteLine("DELETE FROM StoryConflict");
+                    tw.WriteLine("GO");
                     tw.WriteLine("DELETE FROM Story");
+                    tw.WriteLine("GO");
+                }
 
                 foreach (String cmd in cmds)
                     tw.WriteLine(cmd);
@@ -77,7 +88,8 @@ namespace Phase2 {
                 string[] fields = csv.ReadFields();
 
                 var story = fields[0];
-                string[] conflicts = fields[4].Split(',');
+                //string[] conflicts = fields[4].Split(',');
+                List<string> conflicts = GetColumns(fields[4]);
                 foreach (string conflict in conflicts)
                     if (story != "")
                         storyConflicts.Add(Tuple.Create(story.Trim(), conflict.Trim()));
@@ -185,6 +197,45 @@ namespace Phase2 {
 
             return csv;
         }
+
+
+        // Parse a csv string. It can handle some of the fileds being quoted (bacuse they have commas) and some not quoted
+        private List<string> GetColumns(string input) {
+            var str = input;
+
+            // No quotes, just return comma separated items 
+            if (!str.Contains('\"'))
+                return str.Split(',').ToList();
+
+            List<string> list = new List<string>();
+            if (string.IsNullOrWhiteSpace(str))
+                return list;
+
+            int firstQ = -1;
+            bool more = true;
+            while (more) {
+                for (int i = 0; i < str.Length; i++) {
+                    if (str[i] == '\"') {
+                        if (firstQ == -1) {
+                            firstQ = i;
+                        }
+                        else {
+                            list.Add(str.Substring(firstQ + 1, i - firstQ - 1));
+                            str = str.Remove(firstQ, i - firstQ + 2);
+                            firstQ = -1;
+                            break; 
+                        }
+                    }
+                    if (i == str.Length - 1)
+                        more = false;
+                }
+            }
+            var others = str.Split(',').ToList();
+            foreach (string s in others)
+                list.Add(s);
+
+            return list;
+        }
     }
 
 
@@ -193,10 +244,9 @@ namespace Phase2 {
     public class AirTableLoader {
 
         public static void Load(string inputPath, string outputPath) {
-            //LoadConflicts(inputPath + "Conflicts-Grid view.csv", outputPath);
-            //LoadStories(inputPath + "Stories-Grid view.csv", outputPath);
-
-            //LoadStoryConflicts(inputPath + "Stories-Grid view.csv", outputPath);
+            LoadConflicts(inputPath + "Conflicts-Grid view.csv", outputPath);
+            LoadStories(inputPath + "Stories-Grid view.csv", outputPath);
+            LoadStoryConflicts(inputPath + "Stories-Grid view.csv", outputPath);
 
             WriteSlugs(outputPath);
         }
@@ -215,8 +265,10 @@ namespace Phase2 {
                         slugUpdates.Add("UPDATE Conflict SET Slug = '" + ToUrlSlug(reader["Name"].ToString()) + "' WHERE ID = " + reader["ID"].ToString());
                 }
             }
-            using (TextWriter tw = new StreamWriter(outputPath + "UpdateSlugs.sql")) {
-                
+            using (TextWriter tw = new StreamWriter(outputPath + "04 UpdateSlugs.sql")) {
+                tw.WriteLine("USE Trump");
+                tw.WriteLine("GO");
+
                 foreach (String cmd in slugUpdates)
                     tw.WriteLine(cmd);
             }
@@ -250,6 +302,7 @@ namespace Phase2 {
         private static void LoadConflicts(string csvFile, string outputPath) {
 
             Table conflictTable = new Table(
+                "01",
                 "Conflict",
                 csvFile,
                 outputPath,
@@ -267,6 +320,7 @@ namespace Phase2 {
         private static void LoadStories(string csvFile, string outputPath) {
 
             Table storyTable = new Table(
+                "02",
                 "Story",
                 csvFile,
                 outputPath,
@@ -289,6 +343,7 @@ namespace Phase2 {
         private static void LoadStoryConflicts(string csvFile, string outputPath) {
 
             Table storyTable = new Table(
+                "03",
                 "StoryConflict",
                 csvFile,
                 outputPath,

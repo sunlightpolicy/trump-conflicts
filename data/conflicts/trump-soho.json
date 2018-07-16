@@ -1,0 +1,48 @@
+{
+  "name": "Trump Soho",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Soho",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/nation-world/article213846794.html",
+      "sourceDate": "2018-06-26T00:00:00",
+      "headline": "The winding money trail from Kazakhstan to Trump SoHo",
+      "conflictId": "349",
+      "conflictSlug": "trump-soho",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "550",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of the now-dormant or inactive Trump Soho Member LLC, in which Pres. Trump retains an ownership interest.",
+          "business": "Trump Soho Member LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "349",
+      "conflict": "Trump Soho",
+      "conflictDescription": ""
+    }
+  ]
+}

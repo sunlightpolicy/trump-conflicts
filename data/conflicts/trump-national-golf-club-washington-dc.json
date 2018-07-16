@@ -1,0 +1,59 @@
+{
+  "name": "Trump National Golf Club - Washington DC",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "512",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "512",
+              "owner": "Trump National Golf Club Washington Dc Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump National Golf Club Washington DC LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump National Golf Club Washington Dc LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "511",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director/chairman of Trump National Golf Club Washington DC Member Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "Trump National Golf Club Washington Dc Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "321",
+      "conflict": "Trump National Golf Club - Washington DC",
+      "conflictDescription": ""
+    }
+  ]
+}

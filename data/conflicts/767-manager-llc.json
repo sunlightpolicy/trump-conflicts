@@ -1,0 +1,33 @@
+{
+  "name": "767 Manager LLC",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former member &amp; president of 767 Manager LLC (resigned 2014). The company&#39;s current activity status and ownership structure is not disclosed. (See also: Trump 767 Management LLC)",
+          "business": "767 Manager LLC",
+          "conflictStatus": "Potential"
+        }
+      ],
+      "conflictId": "8",
+      "conflict": "767 Manager LLC",
+      "conflictDescription": ""
+    }
+  ]
+}

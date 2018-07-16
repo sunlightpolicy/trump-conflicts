@@ -1,0 +1,20 @@
+{
+  "name": "The Patriot Legal Defense Fund Trust, LLC",
+  "description": "The Patriot Legal Defense Fund Trust, LLC is a pro-Trump legal fund with anonymous backing. It's intended to help pay legal bills for staffers from the Trump campaign, the transition and the White House. The fund's manager is former Congresswoman Nan Hayworth. Here she is in a promo video.",
+  "stories": [
+    {
+      "description": "The Patriot Legal Defense Fund Trust, LLC is a pro-Trump legal fund with anonymous backing. It's intended to help pay legal bills for staffers from the Trump campaign, the transition and the White House. The fund's manager is former Congresswoman Nan Hayworth. Here she is in a promo video.",
+      "familyMember": "Donald Trump",
+      "conflict": "The Patriot Legal Defense Fund Trust, LLC",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2018/06/15/620230403/legal-defense-funds-for-trump-allies-multiply",
+      "sourceDate": "2018-06-15T00:00:00",
+      "headline": "Legal Defense Funds For Trump Allies Multiply",
+      "conflictId": "474",
+      "conflictSlug": "the-patriot-legal-defense-fund-trust-llc",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

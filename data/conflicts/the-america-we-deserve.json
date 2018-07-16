@@ -1,0 +1,28 @@
+{
+  "name": "The America We Deserve",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump earns royalty income from the book The America We Deserve, published 2000 by Renaissance Books.",
+          "business": "The America We Deserve",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "188",
+      "conflict": "The America We Deserve",
+      "conflictDescription": ""
+    }
+  ]
+}

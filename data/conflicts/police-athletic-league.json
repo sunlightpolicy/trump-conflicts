@@ -1,0 +1,42 @@
+{
+  "name": "Police Athletic League",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Police Athletic League",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/sites/danalexander/2017/02/09/where-did-trumps-foundation-donate-its-money-irs-documents-reveal-surprising-answers/#4d1fcb907b52",
+      "sourceDate": "2017-02-09T00:00:00",
+      "headline": "Where Did Trump's Foundation Donate Its Money? IRS Documents Reveal Surprising Answers",
+      "conflictId": "145",
+      "conflictSlug": "police-athletic-league",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former board member of The Police Athletic League, Inc., which also has been a notable beneficiary of charitable giving from the Donald J. Trump Foundation.",
+          "business": "The Police Athletic League, Inc.",
+          "conflictStatus": "Potential"
+        }
+      ],
+      "conflictId": "145",
+      "conflict": "Police Athletic League",
+      "conflictDescription": ""
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "name": "DT Dubai II Golf Manager",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "DT Dubai II Golf Manager",
+      "category": "Active",
+      "mediaOutlet": "Press Release",
+      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
+      "sourceDate": "2018-06-10T00:00:00",
+      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
+      "conflictId": "57",
+      "conflictSlug": "dt-dubai-ii-golf-manager",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "DT Dubai II Golf Manager",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article172443417.html",
+      "sourceDate": "2017-09-01T00:00:00",
+      "headline": "Trump promised not to work with foreign entities. His company just did",
+      "conflictId": "57",
+      "conflictSlug": "dt-dubai-ii-golf-manager",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "DT Dubai II Golf Manager",
+      "category": "Active",
+      "mediaOutlet": "Construction Week Online",
+      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
+      "sourceDate": "2018-06-10T00:00:00",
+      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
+      "conflictId": "57",
+      "conflictSlug": "dt-dubai-ii-golf-manager",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "90",
+              "owner": "TTTT Venture LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "90",
+              "owner": "DT Dubai II Golf Manager Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of DT Dubai II Golf Manager LLC, of which Pres. Trump retains an ownership interest. The company holds a management deal with Frontline Investment Management Co. LLC (an affiliate of DAMAC).",
+          "business": "DT Dubai II Golf Manager LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "89",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/chairman/president of DT Dubai II Golf Manager Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of the other entity structures.",
+          "business": "DT Dubai II Golf Manager Member Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "90",
+              "owner": "TTTT Venture LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "90",
+              "owner": "DT Dubai II Golf Manager Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT DUBAI II GOLF MANAGER LLC from Oct 1, 2014, until Jan 1, 2017. Ivanka Trump lists DT Dubai II Golf Manager LLC (Management of future golf course; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there&#39;s no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "DT Dubai II Golf Manager LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "57",
+      "conflict": "DT Dubai II Golf Manager",
+      "conflictDescription": ""
+    }
+  ]
+}

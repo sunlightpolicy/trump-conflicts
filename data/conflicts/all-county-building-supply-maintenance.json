@@ -1,0 +1,49 @@
+{
+  "name": "All County Building Supply & Maintenance",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "29",
+              "owner": "Trump Family Members",
+              "percentage": "75"
+            },
+            {
+              "owneeId": "29",
+              "owner": "DJT Holdings LLC",
+              "percentage": "25"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump retains an ownership interest in the now-dormant or inactive All County Building Supply &amp; Maintenance Corp. Any current or former positions with the company have not been reported in his financial disclosures.",
+          "business": "All County Building Supply &Amp; Maintenance Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "13",
+      "conflict": "All County Building Supply & Maintenance",
+      "conflictDescription": ""
+    }
+  ]
+}

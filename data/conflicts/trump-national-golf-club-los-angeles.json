@@ -1,0 +1,54 @@
+{
+  "name": "Trump National Golf Club - Los Angeles",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "509",
+              "owner": "RPV Development LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former secretary/president/director of VH Property Corp. (Trump National Golf Club - Los Angeles), in which Pres. Trump retains an ownership interest.",
+          "business": "VH Property Corp. (Trump National Golf Club - Los Angeles)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "510",
+              "owner": "VH Property Corp. (Trump National Golf Club - Los Angeles)",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of VHPS LLC, in which Pres. Trump retains an ownership interest.",
+          "business": "VHPS LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "320",
+      "conflict": "Trump National Golf Club - Los Angeles",
+      "conflictDescription": ""
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Miss Universe (Formerly Trump Pageants)",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Miss Universe (Formerly Trump Pageants)",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html?utm_term=.58393114f26e",
+      "sourceDate": "2016-06-17T00:00:00",
+      "headline": "Inside Trump’s financial ties to Russia and his unusual flattery of Vladimir Putin",
+      "conflictId": "127",
+      "conflictSlug": "miss-universe-formerly-trump-pageants",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "202",
+              "owner": "DJT Holdings LLC",
+              "percentage": "98"
+            },
+            {
+              "owneeId": "202",
+              "owner": "Trump Pageants, Inc.",
+              "percentage": "2"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former partner in Miss Universe L.P., LLLP (F/K/A Trump Pageants, L.P.), in which Pres. Trump retains an ownership interest.",
+          "business": "Miss Universe L.P., LlLP (F/K/A Trump Pageants, LP)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "127",
+      "conflict": "Miss Universe (Formerly Trump Pageants)",
+      "conflictDescription": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Stephanie Clifford (Aka Stormy Daniels)",
+  "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+  "stories": [
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "familyMember": "Donald Trump",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "New York Post",
+      "link": "https://nypost.com/2018/03/05/bank-reported-trump-lawyers-payment-to-stormy-daniels-as-suspicious/",
+      "sourceDate": "2018-03-05T00:00:00",
+      "headline": "Bank reported Trump lawyer’s payment to Stormy Daniels as suspicious",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "familyMember": "Donald Trump",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/03/08/opinions/stormy-daniels-trump-lawsuit-could-be-trouble-rangappa-opinion/index.html",
+      "sourceDate": "2018-03-08T00:00:00",
+      "headline": "Stormy Daniels suit could back Trump into a corner",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "familyMember": "Donald Trump",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/in-new-financial-disclosure-trump-reports-apparent-payment-through-his-personal-attorney-to-adult-film-star/2018/05/16/cf6171f2-592c-11e8-b656-a5f8c2a9295d_story.html?noredirect=on&utm_term=.ded1e82e4416",
+      "sourceDate": "2018-05-16T00:00:00",
+      "headline": "In new financial disclosure, Trump reports apparent payment through his personal attorney to adult-film star",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "familyMember": "Donald Trump",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/05/09/politics/michael-cohen-trump-lobbying/index.html",
+      "sourceDate": "2018-05-10T00:00:00",
+      "headline": "Inside Michael Cohen's aggressive pitch promising access to Trump",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "familyMember": "Donald Trump",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/prosecutors-cancel-meeting-with-stormy-daniels/2018/06/25/ff69bdb2-7887-11e8-8df3-007495a78738_story.html?utm_term=.5773519d5874",
+      "sourceDate": "2018-06-28T00:00:00",
+      "headline": "Prosecutors cancel meeting with Stormy Daniels",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

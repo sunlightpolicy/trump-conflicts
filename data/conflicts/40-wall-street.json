@@ -1,0 +1,104 @@
+{
+  "name": "40 Wall Street",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "13",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "99.9"
+            },
+            {
+              "owneeId": "13",
+              "owner": "PARC Consulting, Inc.",
+              "percentage": "0.1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump resigned as a member and president of 40 Wall Development Associates LLC, but retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "40 Wall Development Associates LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "14",
+              "owner": "40 Wall Development Associates LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump resigned as president of 40 Wall Street Commercial LLC, but retains an ownership interest.",
+          "business": "40 Wall Street Commercial LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "16",
+              "owner": "40 Wall Development Associates LLC",
+              "percentage": "99.9"
+            },
+            {
+              "owneeId": "16",
+              "owner": "40 Wall Street Member Corp",
+              "percentage": "0.1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump resigned his position from 40 Wall Street LLC, but retains an ownership interest.",
+          "business": "40 Wall Street LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "15",
+              "owner": "40 Wall Development Associates LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump resigned his position from 40 Wall Street Member Corp., but retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "40 Wall Street Member Corp",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "5",
+      "conflict": "40 Wall Street",
+      "conflictDescription": ""
+    }
+  ]
+}

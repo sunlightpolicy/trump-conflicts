@@ -1,0 +1,28 @@
+{
+  "name": "Hudson Waterfront Associates",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former partner in Hudson Waterfront Associates, L.P., in which Pres. Trump retains an ownership interest. His resignation from this company was noted in a 19-page resignation letter the day before his inauguration in January 2017. The former position was not listed on his 2017 financial disclosure. Neither was its current ownership structure articulated, though it was reported as dormant or inactive in his 2016 financial disclosure.",
+          "business": "Hudson Waterfront Associates, LP",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "105",
+      "conflict": "Hudson Waterfront Associates",
+      "conflictDescription": ""
+    }
+  ]
+}

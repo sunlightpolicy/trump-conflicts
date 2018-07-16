@@ -1,0 +1,98 @@
+{
+  "name": "Trump Las Vegas",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Las Vegas",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html",
+      "sourceDate": "2016-12-21T00:00:00",
+      "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+      "conflictId": "267",
+      "conflictSlug": "trump-las-vegas",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "410",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/president of Trump Las Vegas Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "Trump Las Vegas Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "411",
+              "owner": "DJT Holdings LLC",
+              "percentage": "94"
+            },
+            {
+              "owneeId": "411",
+              "owner": "Trump Las Vegas Corp.",
+              "percentage": "6"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Las Vegas Managing Member LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Las Vegas Managing Member LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "412",
+              "owner": "DJT Holdings LLC",
+              "percentage": "94"
+            },
+            {
+              "owneeId": "412",
+              "owner": "Trump Las Vegas Corp.",
+              "percentage": "6"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Las Vegas Member LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Las Vegas Member LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "267",
+      "conflict": "Trump Las Vegas",
+      "conflictDescription": ""
+    }
+  ]
+}

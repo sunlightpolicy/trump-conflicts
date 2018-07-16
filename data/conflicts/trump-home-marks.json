@@ -1,0 +1,59 @@
+{
+  "name": "Trump Home Marks",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "387",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "387",
+              "owner": "Trump Home Marks Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of Trump Home Marks LLC, in which Pres. Trump retains ownership interests. The company holds a license deal with Downlite International Inc., Gourmet Home Products LLC, Northpoint Trading LLC, Sign of Times Inc., TPS SAS.",
+          "business": "Trump Home Marks LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "386",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/president of Trump Home Marks Member Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "Trump Home Marks Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "252",
+      "conflict": "Trump Home Marks",
+      "conflictDescription": ""
+    }
+  ]
+}

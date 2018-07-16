@@ -1,0 +1,59 @@
+{
+  "name": "Restaurant 40",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "232",
+              "owner": "Trump, Donald J.",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "232",
+              "owner": "Restaurant 40 Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of Restaurant 40 LLC. The company reportedly was dissolved on Nov. 9, 2016.",
+          "business": "Restaurant 40 LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "231",
+              "owner": "Trump, Donald J.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director/chairman/treasurer/secretary of Restaurant 40 Member Corp. The company reportedly was dissolved on Nov. 9, 2016.",
+          "business": "Restaurant 40 Member Corp.",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "148",
+      "conflict": "Restaurant 40",
+      "conflictDescription": ""
+    }
+  ]
+}

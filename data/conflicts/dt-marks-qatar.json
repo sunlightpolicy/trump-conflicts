@@ -1,0 +1,73 @@
+{
+  "name": "DT Marks Qatar",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "DT Marks Qatar",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html",
+      "sourceDate": "2016-11-20T00:00:00",
+      "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
+      "conflictId": "76",
+      "conflictSlug": "dt-marks-qatar",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "127",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "127",
+              "owner": "DT Marks Qatar Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of DT Marks Qatar LLC. The company reportedly was dissolved on Jan. 26, 2017.",
+          "business": "DT Marks Qatar LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "126",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/chairman/president of DT Marks Qatar Member Corp. The company reportedly was dissolved on Jan. 26, 2017.",
+          "business": "DT Marks Qatar Member Corp.",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "76",
+      "conflict": "DT Marks Qatar",
+      "conflictDescription": ""
+    }
+  ]
+}

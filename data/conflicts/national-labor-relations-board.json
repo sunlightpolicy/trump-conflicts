@@ -1,0 +1,33 @@
+{
+  "name": "National Labor Relations Board",
+  "description": "As a business owner, Pres. Trump has been involved in labor disputes that potentially could be brought to the National Labor Relations Board for intervention. Since taking office, he has appointed board leaders who have come under scrutiny for perceived business-friendly ties and potential ethics violations.",
+  "stories": [
+    {
+      "description": "As a business owner, Pres. Trump has been involved in labor disputes that potentially could be brought to the National Labor Relations Board for intervention. Since taking office, he has appointed board leaders who have come under scrutiny for perceived business-friendly ties and potential ethics violations.",
+      "familyMember": "Donald Trump",
+      "conflict": "National Labor Relations Board",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html",
+      "sourceDate": "2016-12-21T00:00:00",
+      "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+      "conflictId": "129",
+      "conflictSlug": "national-labor-relations-board",
+      "hasEthics": false
+    },
+    {
+      "description": "As a business owner, Pres. Trump has been involved in labor disputes that potentially could be brought to the National Labor Relations Board for intervention. Since taking office, he has appointed board leaders who have come under scrutiny for perceived business-friendly ties and potential ethics violations.",
+      "familyMember": "Donald Trump",
+      "conflict": "National Labor Relations Board",
+      "category": "Active",
+      "mediaOutlet": "ProPublica",
+      "link": "https://www.propublica.org/article/william-emanuel-nlrb-member-is-under-investigation-for-a-conflict-of-interest",
+      "sourceDate": "2018-01-26T00:00:00",
+      "headline": "NLRB Member Is Under Investigation for a Conflict of Interest",
+      "conflictId": "129",
+      "conflictSlug": "national-labor-relations-board",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

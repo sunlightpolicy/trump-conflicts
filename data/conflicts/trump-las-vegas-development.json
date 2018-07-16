@@ -1,0 +1,34 @@
+{
+  "name": "Trump Las Vegas Development",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "413",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Las Vegas Development LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Las Vegas Development LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "268",
+      "conflict": "Trump Las Vegas Development",
+      "conflictDescription": ""
+    }
+  ]
+}

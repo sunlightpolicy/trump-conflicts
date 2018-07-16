@@ -1,0 +1,109 @@
+{
+  "name": "THC Dubai II Hotel Manager",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "THC Dubai II Hotel Manager",
+      "category": "Active",
+      "mediaOutlet": "Press Release",
+      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
+      "sourceDate": "2018-06-10T00:00:00",
+      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
+      "conflictId": "173",
+      "conflictSlug": "thc-dubai-ii-hotel-manager",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "THC Dubai II Hotel Manager",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article172443417.html",
+      "sourceDate": "2017-09-01T00:00:00",
+      "headline": "Trump promised not to work with foreign entities. His company just did",
+      "conflictId": "173",
+      "conflictSlug": "thc-dubai-ii-hotel-manager",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "THC Dubai II Hotel Manager",
+      "category": "Active",
+      "mediaOutlet": "Construction Week Online",
+      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
+      "sourceDate": "2018-06-10T00:00:00",
+      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
+      "conflictId": "173",
+      "conflictSlug": "thc-dubai-ii-hotel-manager",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "267",
+              "owner": "Trump, Donald J.",
+              "percentage": "99"
+            },
+            {
+              "owneeId": "267",
+              "owner": "THC Dubai II Hotel Manager Member Corp.",
+              "percentage": "1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of THC Dubai II Hotel Manager LLC. According to Trump&#39;s 2016 financial disclosure, the company, which he alone owned, was dormant or inactive. Its current activity status and ownership structure were not articulated in his 2017 financial disclosure.",
+          "business": "THC Dubai II Hotel Manager LLC",
+          "conflictStatus": "Potential"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "266",
+              "owner": "Trump, Donald J.",
+              "percentage": "100"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former chairman/director/president of THC Dubai II Hotel Manager LLC. According to his 2016 financial disclosure, the company, which he alone owned, was dormant or inactive. Its current activity status and ownership structure were not articulated in his 2017 financial disclosure.",
+          "business": "THC Dubai II Hotel Manager Member Corp.",
+          "conflictStatus": "Potential"
+        }
+      ],
+      "conflictId": "173",
+      "conflict": "THC Dubai II Hotel Manager",
+      "conflictDescription": ""
+    }
+  ]
+}

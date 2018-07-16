@@ -1,0 +1,39 @@
+{
+  "name": "East 61 St. Company",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "145",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "99.9"
+            },
+            {
+              "owneeId": "145",
+              "owner": "Plaza Consulting Corp.",
+              "percentage": "0.1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former partner in The East 61 St. Company, LP., in which Pres. Trump retains an ownership interest.",
+          "business": "The East 61 St. Company, LP",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "86",
+      "conflict": "East 61 St. Company",
+      "conflictDescription": ""
+    }
+  ]
+}

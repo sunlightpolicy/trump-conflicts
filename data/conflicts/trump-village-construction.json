@@ -1,0 +1,39 @@
+{
+  "name": "Trump Village Construction",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "240",
+              "owner": "Trump Family Members",
+              "percentage": "75"
+            },
+            {
+              "owneeId": "240",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "25"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/vice-president of Trump Village Construction Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "Trump Village Construction Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "359",
+      "conflict": "Trump Village Construction",
+      "conflictDescription": ""
+    }
+  ]
+}
