@@ -175,6 +175,18 @@ input {
     text-align: left;
 }
 
+.td-date {
+    text-align: left;
+    width: 85px;
+}
+
+.td-link a {
+    text-decoration: none;
+}
+.td-link {
+    text-align: left;
+    text-decoration: none;
+}
 
 #ethicsModal {
     width: 100%; height: 100%;
