@@ -130,13 +130,39 @@ d3.json("data/stories.json", function (err, data) {
     //sourceTypeChart = new RowChart(facts, "sourceType", leftWidth, 2, 70);
     //sourceTypeChart.filter("Media");
 
-    conflictChart = new RowChart(facts, "conflict", leftWidth, 50);
+    //conflictChart = new RowChart(facts, "conflict", leftWidth, 50);
     //mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 30);
-    
-    dataTable = dc.dataTable("#dc-chart-table");
+  
+/*     var conflictDim = facts.dimension(function(d) {
+        return d.familyMember;
+    });
 
+    //var conflictDim = facts.dimension(dc.pluck("conflict"));
+    dc.dataGrid("dc-chart-dataGrid")
+        .dimension(conflictDim)
+        .group(function (d) {
+            return d.familyMember;
+        })
+        .html(function (d) {
+             return "HELLO"; 
+        })
+        .htmlGroup (function (d) { return '<h2>HELLO</h2>'})
+        .size(1000) 
+        .order(function (d) {
+            return d.familyMember;
+        }) */
+       
+    dataTable = dc.dataTable("#dc-chart-dataGrid");
     var tableDim = facts.dimension(function(d) { return +d.Id; });
+    dataTable
+        .dimension(tableDim)
+        .group(function (d) {
+            return conflictHeader(d) + ethicsPopupLink(d);
+        })  
 
+
+/*     dataTable = dc.dataTable("#dc-chart-table");
+    var tableDim = facts.dimension(function(d) { return +d.Id; });
     dataTable
         .dimension(tableDim)
         .group(function (d) {
@@ -151,7 +177,9 @@ d3.json("data/stories.json", function (err, data) {
         .order(d3.ascending)
         .renderlet(function (table) {
             table.selectAll(".dc-table-group").classed("info", true);
-        });
+        }); */
+
+        
 
     dc.renderAll();    
 });

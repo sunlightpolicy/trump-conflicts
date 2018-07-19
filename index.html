@@ -6,7 +6,7 @@
 
     <script src='lib/d3.js' type='text/javascript'></script>
     <script src='lib/crossfilter.js' type='text/javascript'></script>
-    <script src='lib/dc.min.js' type='text/javascript'></script>
+    <script src='lib/dc.js' type='text/javascript'></script>
     <script src='lib/timeline-min.js' type='text/javascript'></script>
 
     <script src='js/sl-util.js' type='text/javascript'></script>
@@ -26,7 +26,8 @@
     <div id="ethicsModal" class="modal">
         <div class="modal-content">
             <div class="modal-header">
-                <span class="close">&times;</span>
+                <!-- <span class="close">&times;</span> -->
+                <span class="close">Back to Search</span>
                 <h1 id="conflict">Conflict</h1>
                 <p id="conflictDescription">Description</p>
             </div>
@@ -68,6 +69,7 @@
             </div>
         </div>
 
+
         <!--
         <div class='status' id='dc-chart-category'>
             <div>
@@ -76,12 +78,12 @@
             </div>
         </div> -->
 
-        <div class='conflict' id='dc-chart-conflict'>
+<!--         <div class='conflict' id='dc-chart-conflict'>
             <div>
                 <span class="chart-title">Potential Conflict</span>
                 <a class="reset" href="javascript:conflictChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
             </div>
-        </div>
+        </div> -->
 <!--         <div class='outlet' id='dc-chart-mediaOutlet'>
             <div>
                 <span class="chart-title">News Outlet</span>
@@ -111,6 +113,10 @@
     </div>-->
 
         <table class='results' id='dc-chart-table'></table>
+
+        <div class='conflict2' id='dc-chart-dataGrid'>
+            <span class="chart-title">Potential Conflicts</span>
+        </div>
 
     </div>
 </body>
