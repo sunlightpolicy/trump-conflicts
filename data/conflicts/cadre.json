@@ -1,20 +1,6 @@
 {
   "name": "Cadre",
   "description": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake",
-  "stories": [
-    {
-      "description": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake",
-      "familyMember": "Donald Trump",
-      "conflict": "Cadre",
-      "category": "Active",
-      "mediaOutlet": "Chicago Tribune",
-      "link": "http://www.chicagotribune.com/business/national/ct-kushner-cadre-softbank-funds-20180522-story,amp.html",
-      "sourceDate": "2018-05-22T00:00:00",
-      "headline": "Jared Kushner's tech startup seeking at least $100 million from Saudi-backed fund",
-      "conflictId": "445",
-      "conflictSlug": "cadre",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

@@ -1,33 +1,6 @@
 {
   "name": "Melania LLC",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Melania LLC",
-      "category": "Active",
-      "mediaOutlet": "McClatchy",
-      "link": "http://www.mcclatchydc.com/news/politics-government/congress/article134287344.html",
-      "sourceDate": "2017-02-22T00:00:00",
-      "headline": "White House says Melania isn’t in business. So why are her companies still active?",
-      "conflictId": "435",
-      "conflictSlug": "melania-llc",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Melania LLC",
-      "category": "Active",
-      "mediaOutlet": "NBC",
-      "link": "https://www.nbcnews.com/politics/donald-trump/news-media-paid-melania-trump-thousands-use-photos-positive-stories-n883111",
-      "sourceDate": "2018-07-02T00:00:00",
-      "headline": "News media paid Melania Trump thousands for use of photos in 'positive stories only'",
-      "conflictId": "435",
-      "conflictSlug": "melania-llc",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

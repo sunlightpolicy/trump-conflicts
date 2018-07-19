@@ -123,7 +123,7 @@ d3.json("data/stories.json", function (err, data) {
     var col1Width = leftWidth / 2;
     var col2Width = leftWidth / 2;
     
-    //familyMemberChart = new RowChart(facts, "familyMember", col1Width, 6, 110);
+    familyMemberChart = new RowChart(facts, "familyMember", leftWidth, 6, 110);
     //categoryChart = new RowChart(facts, "category", col2Width, 6, 110);
     //categoryChart.filter("Active");
 

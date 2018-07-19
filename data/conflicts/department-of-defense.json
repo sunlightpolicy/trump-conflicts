@@ -1,20 +1,6 @@
 {
   "name": "Department of Defense",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Department of Defense",
-      "category": "Active",
-      "mediaOutlet": "ProPublica",
-      "link": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
-      "sourceDate": "2018-06-27T00:00:00",
-      "headline": "We’ve Found $16.1 Million in Political and Taxpayer Spending at Trump Properties",
-      "conflictId": "483",
-      "conflictSlug": "department-of-defense",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

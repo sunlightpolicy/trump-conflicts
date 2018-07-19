@@ -1,20 +1,6 @@
 {
   "name": "Commerce Department",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Commerce Department",
-      "category": "Active",
-      "mediaOutlet": "Reuters",
-      "link": "https://mobile.reuters.com/article/amp/idUSKCN1J12RP",
-      "sourceDate": "2018-06-05T00:00:00",
-      "headline": "Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources",
-      "conflictId": "440",
-      "conflictSlug": "commerce-department",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

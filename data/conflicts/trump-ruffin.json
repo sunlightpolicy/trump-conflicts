@@ -17,7 +17,7 @@
             {
               "owneeId": "545",
               "owner": "Trump Ruffin Tower I LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -37,17 +37,17 @@
             {
               "owneeId": "543",
               "owner": "Hyde Park LLC",
-              "percentage": "50"
+              "percentage": "50.0"
             },
             {
               "owneeId": "543",
               "owner": "Trump Las Vegas Member LLC",
-              "percentage": "49"
+              "percentage": "49.0"
             },
             {
               "owneeId": "543",
               "owner": "Trump Las Vegas Managing Member LLC",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -67,7 +67,7 @@
             {
               "owneeId": "544",
               "owner": "Trump Ruffin LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",

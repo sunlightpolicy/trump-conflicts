@@ -1,20 +1,6 @@
 {
   "name": "TransCanada",
   "description": "Trump also has a small investment in Canadian energy company TransCanada, the developer of Keystone XL pipeline, which was rejected by President Barack Obama last year but supported by Trump.",
-  "stories": [
-    {
-      "description": "Trump also has a small investment in Canadian energy company TransCanada, the developer of Keystone XL pipeline, which was rejected by President Barack Obama last year but supported by Trump.",
-      "familyMember": "Donald Trump",
-      "conflict": "TransCanada",
-      "category": "Active",
-      "mediaOutlet": "Forbes",
-      "link": "https://www.forbes.com/sites/jenniferwang/2016/11/29/trumps-stock-portfolio-big-oil-big-banks-and-more-foreign-connections/#30d204ea464e",
-      "sourceDate": "2016-11-29T00:00:00",
-      "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
-      "conflictId": "420",
-      "conflictSlug": "transcanada",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

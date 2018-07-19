@@ -1,20 +1,6 @@
 {
   "name": "Saudi Arabia and Emirati Real Estate and Hotel Deals",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Saudi Arabia and Emirati Real Estate and Hotel Deals",
-      "category": "Active",
-      "mediaOutlet": "CNN",
-      "link": "https://www.cnn.com/2018/06/07/politics/court-case-emoluments-foreign-payments-federal-judge-trump-businesses/index.html",
-      "sourceDate": "2018-06-07T00:00:00",
-      "headline": "Democratic lawmakers make their case in court to stop Trump business from accepting foreign payments",
-      "conflictId": "396",
-      "conflictSlug": "saudi-arabia-and-emirati-real-estate-and-hotel-deals",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

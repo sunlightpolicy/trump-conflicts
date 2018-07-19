@@ -1,20 +1,6 @@
 {
   "name": "Qatar Government",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Qatar Government",
-      "category": "Active",
-      "mediaOutlet": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2018/may/04/trump-qatar-buys-apartment-new-york-tower",
-      "sourceDate": "2018-05-04T00:00:00",
-      "headline": "Trump set to benefit as Qatar buys $6.5m apartment in New York tower",
-      "conflictId": "456",
-      "conflictSlug": "qatar-government",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

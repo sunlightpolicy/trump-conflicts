@@ -12,18 +12,21 @@ using System.Text.RegularExpressions;
 
 namespace Phase2 {
 
-    
+    public enum ImportType { Insert, InsertUpdate, Reload }
+
 
     public class Column {
         public int SourceIndex;         // Column in csv
         public string Name;             // Name in target db table
         public string LookupTable;      // Optional table for foriegn key (use Name)  
         public string LookupNameField;  // Field to match in lookup table. Default to "Name", but could be something else
-        public Column(int sourceIndex, string name, string lookupTable = "", string lookupNameField = "Name") {
+        public string DefaultValue;     // Use this if no value is specified
+        public Column(int sourceIndex, string name, string lookupTable = "", string lookupNameField = "Name", string defaultValue = "") {
             SourceIndex = sourceIndex;
             Name = name;
             LookupTable = lookupTable;
             LookupNameField = lookupNameField;
+            DefaultValue = defaultValue;
         }
     }
 
@@ -31,13 +34,14 @@ namespace Phase2 {
 
         public enum CrudOp { Insert, Update }
 
+        
         public string FileNumber;   // First part of file name 
         public string TableName;    // Name of db table
         public string CsvFile;      // Full path to csv file
         public string OutputPath;   // Where sql file goes
         public List<Column> Columns;
         public string KeyField;     // Unique name field of db table
-        
+
         public Table(string fileNumber, string tableName, string csvFile, string outputPath, List<Column> columns, string keyField = "Name") {
             FileNumber = fileNumber;
             TableName = tableName;
@@ -49,10 +53,10 @@ namespace Phase2 {
 
 
         // Makes INSERT or UPDATE for each row and write to file
-        public void Load() {            
+        public virtual void Load() {
 
             List<string> cmds = new List<string>();
-            if (TableName != "StoryConflict") 
+            if (TableName != "StoryConflict")
                 cmds = LoadCsv();
             else
                 cmds = LoadConflictStatus();
@@ -61,7 +65,7 @@ namespace Phase2 {
             using (TextWriter tw = new StreamWriter(this.OutputPath + this.FileNumber + " " + this.TableName + ".sql")) {
                 tw.WriteLine("USE Trump");
                 tw.WriteLine("GO");
-                
+
                 if (TableName == "StoryConflict") {
                     tw.WriteLine("DELETE FROM StoryConflict");
                 }
@@ -107,7 +111,7 @@ namespace Phase2 {
 
 
 
-        private List<string> LoadCsv() {
+        protected virtual List<string> LoadCsv() {
             var keys = GetKeys();
 
             // Ignore header rows
@@ -138,13 +142,24 @@ namespace Phase2 {
 
 
 
-        protected string InsertStatment(string[] fields) {            
+        protected string InsertStatment(string[] fields) {
 
             var cols = new List<string>();
             var vals = new List<string>();
+
+            // Key field is blank
+            if (fields[Columns[0].SourceIndex] == "")
+                return "";
+
             for (int i = 0; i < this.Columns.Count; i++) {
                 cols.Add(Columns[i].Name);
-                vals.Add(ValueSql(Columns[i], fields[Columns[i].SourceIndex]));
+
+                // Could be a column-specific default, but they are now all blank strings
+                string val = "";
+                if (Columns[i].SourceIndex != -1)
+                    val = fields[Columns[i].SourceIndex].Replace("\"", "").Replace("'", "''");
+
+                vals.Add(ValueSql(Columns[i], val));
             }
             string sql = "INSERT INTO " + TableName + " (" + string.Join(", ", cols) + ") VALUES (" + string.Join(", ", vals) + ")";
 
@@ -152,7 +167,7 @@ namespace Phase2 {
         }
 
         protected string UpdateStatment(string[] fields) {
-            
+
             var sqlCols = new List<string>();
             for (int i = 1; i < this.Columns.Count; i++)
                 sqlCols.Add(Columns[i].Name + " = " + ValueSql(Columns[i], fields[Columns[i].SourceIndex]));
@@ -199,7 +214,7 @@ namespace Phase2 {
         }
 
 
-        // Parse a csv string. It can handle some of the fileds being quoted (bacuse they have commas) and some not quoted
+        // Parse a csv string. It can handle some of the fields being quoted (because they have commas) and some not quoted
         private List<string> GetColumns(string input) {
             var str = input;
 
@@ -223,7 +238,7 @@ namespace Phase2 {
                             list.Add(str.Substring(firstQ + 1, i - firstQ - 1));
                             str = str.Remove(firstQ, i - firstQ + 2);
                             firstQ = -1;
-                            break; 
+                            break;
                         }
                     }
                     if (i == str.Length - 1)
@@ -239,6 +254,80 @@ namespace Phase2 {
     }
 
 
+    public class EthicsTable: Table {
+
+        public ImportType ImportType;
+        public bool Delete;
+
+        public EthicsTable(string fileNumber, string tableName, string csvFile, string outputPath, List<Column> columns, string keyField = "Name", ImportType importType = ImportType.Reload, bool delete = false) :
+            base(fileNumber, tableName, csvFile, outputPath, columns, keyField) {
+            ImportType = importType;
+            Delete = delete;
+        }
+
+
+        protected override List<string> LoadCsv() {
+            List<string> keys = null;
+            if (ImportType == ImportType.InsertUpdate)
+                keys = GetKeys();
+
+            // Ignore header rows
+            var csv = GetCsvParser(CsvFile);
+            csv.ReadLine();
+
+            var cmds = new List<string>();
+            while (!csv.EndOfData) {
+                string[] fields = csv.ReadFields();
+
+                // If the conflict field is blank, ignore it.
+                if ((fields[4].Trim() == "") && (TableName == "Conflict" || TableName == "BusinessConflict"))
+                    continue;
+
+                if ((fields[Columns[0].SourceIndex].Trim() == "") && (TableName == "BusinessOwnership"))
+                    continue;
+
+                //bool exists = false;
+                //if (TableName == "Conflict")
+                //    exists = keys.Contains(fields[4].ToLower());
+
+                switch (ImportType) {
+                    case ImportType.Insert:
+                        cmds.Add(InsertStatment(fields));
+                        break;
+                    case ImportType.InsertUpdate:
+                        if (keys.Contains(fields[4].ToLower())) // Conflict field
+                            cmds.Add(InsertStatment(fields));
+                        else
+                            cmds.Add(UpdateStatment(fields));
+                        break;
+                    case ImportType.Reload:
+                        cmds.Add(InsertStatment(fields));
+                        break;
+                }
+            }
+            return cmds;
+        }
+
+
+        public override void Load() {
+
+            List<string> cmds = new List<string>();
+            cmds = LoadCsv();
+            
+            using (TextWriter tw = new StreamWriter(this.OutputPath + this.FileNumber + " " + this.TableName + ".sql")) {
+                tw.WriteLine("USE Trump");
+                tw.WriteLine("GO");
+
+                if (this.ImportType == ImportType.Reload && Delete) {
+                    tw.WriteLine("DELETE FROM " + TableName);
+                    tw.WriteLine("GO");
+                }
+
+                foreach (String cmd in cmds)
+                    tw.WriteLine(cmd);
+            }
+        }
+    }
 
 
     public class AirTableLoader {
@@ -353,6 +442,122 @@ namespace Phase2 {
                 }
             );
             storyTable.Load();
+        }
+
+
+        public static void LoadEthics(string inputPath, string outputPath) {
+            LoadEthicsConflicts(inputPath + "Ethics Doc Lines-Grid view.csv", outputPath);
+            LoadEthicsBusiness(inputPath + "Ethics Doc Lines-Grid view.csv", outputPath);
+            LoadEthicsBusinessConflicts(inputPath + "Ethics Doc Lines-Grid view.csv", outputPath);
+            LoadEthicsFamilyMemberBusiness(inputPath + "Ethics Doc Lines-Grid view.csv", outputPath);
+            LoadEthicsBusinessOwnership(inputPath + "Ethics Doc Lines-Grid view.csv", outputPath);
+        }
+
+
+        private static void LoadEthicsConflicts(string csvFile, string outputPath) {
+
+            EthicsTable table = new EthicsTable(
+                "01",
+                "Conflict",
+                csvFile,
+                outputPath,
+                new List<Column>() {
+                    new Column(4, "Name"),
+                    new Column(-1, "Description"),
+                    new Column(-1, "Notes"),
+                    new Column(-1, "ConflictPublicationStatusID", "ConflictPublicationStatus"), // !
+                    new Column(-1, "InternalNotes"),
+                },
+                "Name",
+                ImportType.Insert
+            );
+            table.Load();
+        }
+
+
+        private static void LoadEthicsBusiness(string csvFile, string outputPath) {
+
+            var colNums = new int[] { 5, 7, 9, 11, 13 };
+            int count = 2;
+            foreach (int col in colNums) {
+
+                EthicsTable table = new EthicsTable(
+                    "0" + count.ToString(),
+                    "Business",
+                    csvFile,
+                    outputPath,
+                    new List<Column>() {
+                        new Column(col, "Name"),
+                    },
+                    "Name",
+                    ImportType.Insert
+                );
+                table.Load();
+                count++;
+            }
+        }
+
+
+        private static void LoadEthicsBusinessConflicts(string csvFile, string outputPath) {
+
+            EthicsTable table = new EthicsTable(
+                "07",
+                "BusinessConflict",
+                csvFile,
+                outputPath,
+                new List<Column>() {
+                    new Column(4, "ConflictID", "Conflict", "Name"),
+                    new Column(5, "BusinessID", "Business", "Name"), 
+                },
+                "Name",
+                ImportType.Reload
+            );
+            table.Load();
+        }
+
+
+        private static void LoadEthicsFamilyMemberBusiness(string csvFile, string outputPath) {
+
+            EthicsTable table = new EthicsTable(
+                "08",
+                "FamilyMemberBusiness",
+                csvFile,
+                outputPath,
+                new List<Column>() {
+                    new Column(6, "FamilyMemberID", "FamilyMember", "Name"),
+                    new Column(5, "BusinessID", "Business", "Name"),
+                    new Column(16, "FamilyMemberConflictStatusID", "FamilyMemberConflictStatus", "Name"),
+                    new Column(3, "Description")
+                },
+                "Name",
+                ImportType.Reload
+            );
+            table.Load();
+        }
+
+        private static void LoadEthicsBusinessOwnership(string csvFile, string outputPath) {
+
+            var colNums = new int[] { 7, 9, 11, 13 };
+            int count = 9;
+            foreach (int col in colNums) {
+
+                EthicsTable table = new EthicsTable(
+                    "0" + count.ToString(),
+                    "BusinessOwnership",
+                    csvFile,
+                    outputPath,
+                    new List<Column>() {
+                         new Column(col, "OwnerID", "Business", "Name"),
+                         new Column(5, "OwneeID", "Business", "Name"),
+                         new Column(col + 1, "OwnershipPercentage")
+                    },
+                    "Name",
+                    ImportType.Reload,
+                    col == colNums[0]  // If it is the first of these, Delete the records 
+                );
+                table.Load();
+                count++;
+            }
         }
     }
 }

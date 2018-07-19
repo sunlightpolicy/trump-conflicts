@@ -22,13 +22,13 @@
             {
               "owneeId": "427",
               "owner": "Trump, Donald J.",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former president/director of Trump Marks Baja Corp. (resigned 2015). The company reportedly was dormant or inactive as of May 2016, at which time Trump retained an ownership interest. Its current activity status and ownership structure are not reported in his 2017 financial disclosure.",
           "business": "Trump Marks Baja Corp.",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         },
         {
           "ethicsDocuments": [
@@ -47,18 +47,18 @@
             {
               "owneeId": "428",
               "owner": "Trump, Donald J.",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "428",
               "owner": "Trump Marks Baja Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member &amp; president of Trump Marks Baja LLC (resigned 2015). The company reportedly was dormant or inactive as of May 2016, at which time Trump retained an ownership interest. Its current activity status and ownership structure are not reported in his 2017 financial disclosure.",
           "business": "Trump Marks Baja LLC",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         }
       ],
       "conflictId": "277",

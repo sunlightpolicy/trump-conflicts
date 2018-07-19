@@ -1,59 +1,6 @@
 {
   "name": "Federal Election Commission",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Federal Election Commission",
-      "category": "Active",
-      "mediaOutlet": "Washington Post",
-      "link": "https://www.washingtonpost.com/politics/new-york-files-suit-against-president-trump-alleging-his-charity-engaged-in-illegal-conduct/2018/06/14/c3cbf71e-6fc9-11e8-bd50-b80389a4e569_story.html?utm_term=.4ceb5b79cb06",
-      "sourceDate": "2018-06-14T00:00:00",
-      "headline": "New York files civil suit against President Trump, alleging his charity engaged in ‘illegal conduct’",
-      "conflictId": "465",
-      "conflictSlug": "federal-election-commission",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Federal Election Commission",
-      "category": "Active",
-      "mediaOutlet": "NPR",
-      "link": "https://www.npr.org/2018/06/14/619959270/new-yorks-attorney-general-sues-the-trump-foundation",
-      "sourceDate": "2018-06-14T00:00:00",
-      "headline": "New York's Attorney General Sues The Trump Foundation",
-      "conflictId": "465",
-      "conflictSlug": "federal-election-commission",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Federal Election Commission",
-      "category": "Active",
-      "mediaOutlet": "NPR",
-      "link": "https://www.npr.org/2018/06/14/619974462/n-y-attorney-general-files-suit-against-trump-foundation",
-      "sourceDate": "2018-06-14T00:00:00",
-      "headline": "N.Y. Attorney General Files Suit Against Trump Foundation",
-      "conflictId": "465",
-      "conflictSlug": "federal-election-commission",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Federal Election Commission",
-      "category": "Active",
-      "mediaOutlet": "NBC",
-      "link": "https://www.nbcnews.com/politics/donald-trump/new-york-attorney-general-sues-trump-foundation-what-might-happen-n883901",
-      "sourceDate": "2018-06-16T00:00:00",
-      "headline": "New York attorney general sues Trump Foundation: What might happen next",
-      "conflictId": "465",
-      "conflictSlug": "federal-election-commission",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

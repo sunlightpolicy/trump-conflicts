@@ -1,46 +1,6 @@
 {
   "name": "666 Fifth Ave",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "666 Fifth Ave",
-      "category": "Active",
-      "mediaOutlet": "Business Insider",
-      "link": "https://amp.businessinsider.com/charles-kushner-qatar-finance-minister-meeting-666-fifth-ave-2018-6",
-      "sourceDate": "2018-06-01T00:00:00",
-      "headline": "Charles Kushner explains his meeting with Qatar's finance minister, says it was 'a wrong thing to do,' but 'none of us knew the rules of government'",
-      "conflictId": "443",
-      "conflictSlug": "666-fifth-ave",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "666 Fifth Ave",
-      "category": "Active",
-      "mediaOutlet": "New York Times",
-      "link": "https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html",
-      "sourceDate": "2018-05-17T00:00:00",
-      "headline": "Kushners Near Deal With Qatar-Linked Company for Troubled Tower",
-      "conflictId": "443",
-      "conflictSlug": "666-fifth-ave",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "666 Fifth Ave",
-      "category": "Active",
-      "mediaOutlet": "Washington Post",
-      "link": "https://www.washingtonpost.com/politics/jared-kushner-and-ivanka-trump-made-at-least-82-million-in-outside-income-last-year-while-serving-in-the-white-house-filings-show/2018/06/11/a41d0720-6dab-11e8-bd50-b80389a4e569_story.html?utm_term=.9b5baa8980b3",
-      "sourceDate": "2018-06-12T00:00:00",
-      "headline": "Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show",
-      "conflictId": "443",
-      "conflictSlug": "666-fifth-ave",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

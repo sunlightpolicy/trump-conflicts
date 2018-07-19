@@ -17,12 +17,12 @@
             {
               "owneeId": "221",
               "owner": "DJT Holdings LLC",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "221",
               "owner": "Paramount RPV Holdings Manager Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -42,7 +42,7 @@
             {
               "owneeId": "220",
               "owner": "Trump, Donald J.",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",

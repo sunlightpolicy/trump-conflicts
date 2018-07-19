@@ -1,20 +1,6 @@
 {
   "name": "Ivanka Trump Business Trust",
   "description": "Created in March 2017, the trust is valued at more than $50 million.",
-  "stories": [
-    {
-      "description": "Created in March 2017, the trust is valued at more than $50 million.",
-      "familyMember": "Donald Trump",
-      "conflict": "Ivanka Trump Business Trust",
-      "category": "Active",
-      "mediaOutlet": "CNN",
-      "link": "http://money.cnn.com/2018/06/11/news/ivanka-trump-jared-kushner-finances/index.html",
-      "sourceDate": "1028-06-11T00:00:00",
-      "headline": "Ivanka Trump and Jared Kushner detail vast wealth: Real estate, fashion and investments",
-      "conflictId": "478",
-      "conflictSlug": "ivanka-trump-business-trust",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

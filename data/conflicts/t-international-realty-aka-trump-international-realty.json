@@ -2,5 +2,38 @@
   "name": "T International Realty (Aka Trump International Realty)",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "249",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "55.0"
+            },
+            {
+              "owneeId": "249",
+              "owner": "Trump Family Members",
+              "percentage": "45.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of the brokerage firm T International Realty (dba Trump International Realty), in which Pres. Trump retains an ownership interest.",
+          "business": "T International Realty LLC (Dba Trump International Realty)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "386",
+      "conflict": "T International Realty (Aka Trump International Realty)",
+      "conflictDescription": ""
+    }
+  ]
 }

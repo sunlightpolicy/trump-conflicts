@@ -17,12 +17,12 @@
             {
               "owneeId": "351",
               "owner": "DJT Holdings LLC",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "351",
               "owner": "Trump Chicago Retail Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -42,7 +42,7 @@
             {
               "owneeId": "350",
               "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",

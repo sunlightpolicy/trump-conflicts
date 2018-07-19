@@ -1,46 +1,6 @@
 {
   "name": "Ivanka Trump brand",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Ivanka Trump brand",
-      "category": "Active",
-      "mediaOutlet": "New York Times",
-      "link": "https://www.nytimes.com/2018/05/28/business/ivanka-trump-china-trademarks.html",
-      "sourceDate": "2018-05-28T00:00:00",
-      "headline": "Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE",
-      "conflictId": "444",
-      "conflictSlug": "ivanka-trump-brand",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Ivanka Trump brand",
-      "category": "Active",
-      "mediaOutlet": "NPR",
-      "link": "https://www.npr.org/2018/06/12/619101573/ivanka-trump-and-jared-kushner-earned-more-than-80-million-last-year-filings-sho",
-      "sourceDate": "2018-06-12T00:00:00",
-      "headline": "Ivanka Trump And Jared Kushner Earned More Than $80 Million Last Year, Filings Show",
-      "conflictId": "444",
-      "conflictSlug": "ivanka-trump-brand",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Ivanka Trump brand",
-      "category": "Active",
-      "mediaOutlet": "CNN",
-      "link": "http://money.cnn.com/2018/06/11/news/ivanka-trump-jared-kushner-finances/index.html",
-      "sourceDate": "1028-06-11T00:00:00",
-      "headline": "Ivanka Trump and Jared Kushner detail vast wealth: Real estate, fashion and investments",
-      "conflictId": "444",
-      "conflictSlug": "ivanka-trump-brand",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

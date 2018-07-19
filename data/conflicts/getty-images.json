@@ -1,20 +1,6 @@
 {
   "name": "Getty Images",
   "description": "The first lady earned six figures from an agreement with Getty Images that paid royalties to the Trumps and mandated photos be used in positive coverage.",
-  "stories": [
-    {
-      "description": "The first lady earned six figures from an agreement with Getty Images that paid royalties to the Trumps and mandated photos be used in positive coverage.",
-      "familyMember": "Donald Trump",
-      "conflict": "Getty Images",
-      "category": "Active",
-      "mediaOutlet": "NBC",
-      "link": "https://www.nbcnews.com/politics/donald-trump/news-media-paid-melania-trump-thousands-use-photos-positive-stories-n883111",
-      "sourceDate": "2018-07-02T00:00:00",
-      "headline": "News media paid Melania Trump thousands for use of photos in 'positive stories only'",
-      "conflictId": "480",
-      "conflictSlug": "getty-images",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

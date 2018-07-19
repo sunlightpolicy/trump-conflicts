@@ -1,59 +1,6 @@
 {
   "name": "Michael Cohen",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Michael Cohen",
-      "category": "Active",
-      "mediaOutlet": "Washington Post",
-      "link": "https://www.washingtonpost.com/politics/in-new-financial-disclosure-trump-reports-apparent-payment-through-his-personal-attorney-to-adult-film-star/2018/05/16/cf6171f2-592c-11e8-b656-a5f8c2a9295d_story.html?noredirect=on&utm_term=.ded1e82e4416",
-      "sourceDate": "2018-05-16T00:00:00",
-      "headline": "In new financial disclosure, Trump reports apparent payment through his personal attorney to adult-film star",
-      "conflictId": "449",
-      "conflictSlug": "michael-cohen",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Michael Cohen",
-      "category": "Active",
-      "mediaOutlet": "Press Release",
-      "link": "https://www.citizen.org/sites/default/files/may_2018_cohen_complaint_final.pdf",
-      "sourceDate": "2018-05-10T00:00:00",
-      "headline": "Absence of registration by Michael D. Cohen as a foreign agent under FARA, and as a lobbyist under LDA",
-      "conflictId": "449",
-      "conflictSlug": "michael-cohen",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Michael Cohen",
-      "category": "Active",
-      "mediaOutlet": "CNN",
-      "link": "https://www.cnn.com/2018/05/09/politics/michael-cohen-trump-lobbying/index.html",
-      "sourceDate": "2018-05-10T00:00:00",
-      "headline": "Inside Michael Cohen's aggressive pitch promising access to Trump",
-      "conflictId": "449",
-      "conflictSlug": "michael-cohen",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Michael Cohen",
-      "category": "Active",
-      "mediaOutlet": "New York Times",
-      "link": "https://www.nytimes.com/2018/04/09/us/politics/trump-mueller-ukraine-victor-pinchuk.html",
-      "sourceDate": "2018-04-09T00:00:00",
-      "headline": "Mueller Investigating Ukrainian’s $150,000 Payment for a Trump Appearance",
-      "conflictId": "449",
-      "conflictSlug": "michael-cohen",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

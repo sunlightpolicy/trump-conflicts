@@ -1,20 +1,6 @@
 {
   "name": "Department of Homeland Security",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Department of Homeland Security",
-      "category": "Active",
-      "mediaOutlet": "ProPublica",
-      "link": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
-      "sourceDate": "2018-06-27T00:00:00",
-      "headline": "We’ve Found $16.1 Million in Political and Taxpayer Spending at Trump Properties",
-      "conflictId": "484",
-      "conflictSlug": "department-of-homeland-security",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

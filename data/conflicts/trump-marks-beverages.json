@@ -22,13 +22,13 @@
             {
               "owneeId": "431",
               "owner": "Trump, Donald J.",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former president/director/chairman of Trump Marks Beverages Corp. The company was reportedly dormant or inactive as of May 2016, at which time Trump retained an ownership interest. Its current activity status and ownership structure are not reported in his 2017 financial disclosure.",
           "business": "Trump Marks Beverages Corp.",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         },
         {
           "ethicsDocuments": [
@@ -47,18 +47,18 @@
             {
               "owneeId": "432",
               "owner": "Trump, Donald J.",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "432",
               "owner": "Trump Marks Beverages Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/president of Trump Marks Beverages LLC. The company was reportedly dormant or inactive as of May 2016, at which time Trump retained an ownership interest. Its current activity status and ownership structure are not reported in his 2017 financial disclosure.",
           "business": "Trump Marks Beverages LLC",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         }
       ],
       "conflictId": "279",

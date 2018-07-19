@@ -1,20 +1,6 @@
 {
   "name": "Chevron",
   "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
-  "stories": [
-    {
-      "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
-      "familyMember": "Donald Trump",
-      "conflict": "Chevron",
-      "category": "Active",
-      "mediaOutlet": "Forbes",
-      "link": "https://www.forbes.com/sites/jenniferwang/2016/11/29/trumps-stock-portfolio-big-oil-big-banks-and-more-foreign-connections/#30d204ea464e",
-      "sourceDate": "2016-11-29T00:00:00",
-      "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
-      "conflictId": "416",
-      "conflictSlug": "chevron",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

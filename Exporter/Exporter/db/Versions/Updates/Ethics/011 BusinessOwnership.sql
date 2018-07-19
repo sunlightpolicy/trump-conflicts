@@ -1,0 +1,18 @@
+USE Trump
+GO
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Trump Chicago Member LLC'), (SELECT ID FROM Business WHERE Name = '401 Mezz Venture LLC'), '49.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'HWA 1290 V LLC'), (SELECT ID FROM Business WHERE Name = '1290 Avenue Of The Americas, A Tenancy-In-Common'), '27.8')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'CK Realty Holdings, LLC (Commercial Real Estate In New York, NY And Wippany, NJ)'), (SELECT ID FROM Business WHERE Name = 'Bruckner Plaza Center, LLC (Commercial Real Estate In New York, NY)'), '')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Hudson Westside Associates I, L.P.'), (SELECT ID FROM Business WHERE Name = 'Hudson Waterfront Associates I, LP'), '69.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'The Donald J. Trump Revocable Trust'), (SELECT ID FROM Business WHERE Name = 'Hudson Waterfront Associates II, LP'), '30.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Hudson Westside Associates III, L.P.'), (SELECT ID FROM Business WHERE Name = 'Hudson Waterfront Associates III, LP'), '69.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'The Donald J. Trump Revocable Trust'), (SELECT ID FROM Business WHERE Name = 'Hudson Waterfront Associates IV LP'), '30.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Hudson Westside Associates V, L.P.'), (SELECT ID FROM Business WHERE Name = 'Hudson Waterfront Associates V, LP'), '69.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Opo Hotel Manager Member Corp'), (SELECT ID FROM Business WHERE Name = 'Opo Hotel Manager LLC'), '1.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Beach Haven Apt#1. Inc.'), (SELECT ID FROM Business WHERE Name = 'Spring Creek Plaza'), '0.9')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Shore Haven Apt#1, Inc.'), (SELECT ID FROM Business WHERE Name = 'Starrett City Associates, L.P.'), '1.7')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Trump Family Members'), (SELECT ID FROM Business WHERE Name = 'THC Venture III LLC (N/K/A TTTT Venture LLC)'), '22.7')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Sexton, Michael'), (SELECT ID FROM Business WHERE Name = 'The Trump Entrepreneur Initiative LLC (NY Domestic)'), '4.5')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Trump Old Post Office Member Corp.'), (SELECT ID FROM Business WHERE Name = 'Trump Old Post Office LLC'), '1.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Trump Delmonico LLC'), (SELECT ID FROM Business WHERE Name = 'Trump Park Avenue LLC'), '50.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Hyde Park LLC'), (SELECT ID FROM Business WHERE Name = 'Trump Ruffin LLC'), '50.0')

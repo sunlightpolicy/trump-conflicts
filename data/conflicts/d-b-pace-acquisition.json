@@ -17,7 +17,7 @@
             {
               "owneeId": "53",
               "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -37,12 +37,12 @@
             {
               "owneeId": "54",
               "owner": "DJT Holdings LLC",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "54",
               "owner": "D B Pace Acquisition Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",

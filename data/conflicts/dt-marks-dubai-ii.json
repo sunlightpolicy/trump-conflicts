@@ -7,10 +7,10 @@
       "familyMember": "Donald Trump",
       "conflict": "DT Marks Dubai II",
       "category": "Active",
-      "mediaOutlet": "Press Release",
-      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
+      "mediaOutlet": "Construction Week Online",
+      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
       "sourceDate": "2018-06-10T00:00:00",
-      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
+      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
       "conflictId": "68",
       "conflictSlug": "dt-marks-dubai-ii",
       "hasEthics": true
@@ -33,10 +33,10 @@
       "familyMember": "Donald Trump",
       "conflict": "DT Marks Dubai II",
       "category": "Active",
-      "mediaOutlet": "Construction Week Online",
-      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
+      "mediaOutlet": "Press Release",
+      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
       "sourceDate": "2018-06-10T00:00:00",
-      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
+      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
       "conflictId": "68",
       "conflictSlug": "dt-marks-dubai-ii",
       "hasEthics": true
@@ -57,18 +57,18 @@
             {
               "owneeId": "113",
               "owner": "Trump, Donald J.",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "113",
               "owner": "DT Marks Dubai II Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/president of DT Marks Dubai II LLC. As of Trump&#39;s 2016 financial disclosure, the company was owned by Donald J. Trump, but was dormant or inactive. Neither its current status nor its current ownership structure were reported in 2017.",
           "business": "DT Marks Dubai II LLC",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         },
         {
           "ethicsDocuments": [
@@ -82,13 +82,13 @@
             {
               "owneeId": "112",
               "owner": "Trump, Donald J.",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former director/chairman/president of DT Marks Dubai II Member Corp. The company&#39;s current ownership structure is unclear. As of Trump&#39;s 2016 financial disclosure, the company was owned by Donald J. Trump, but was dormant or inactive. Neither its current status nor its current ownership structure were reported in 2017.",
           "business": "DT Marks Dubai II Member Corp.",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         }
       ],
       "conflictId": "68",

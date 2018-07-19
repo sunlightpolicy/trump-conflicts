@@ -17,12 +17,12 @@
             {
               "owneeId": "71",
               "owner": "DSN Licensing Member Corp. (F/K/A Trump Marks Network Member Inc.)",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "71",
               "owner": "Trump, Donald J.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -42,7 +42,7 @@
             {
               "owneeId": "70",
               "owner": "Trump, Donald J.",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",

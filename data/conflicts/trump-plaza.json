@@ -17,12 +17,12 @@
             {
               "owneeId": "535",
               "owner": "The Donald J. Trump Revocable Trust",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "535",
               "owner": "Trump Plaza Member Inc. (F/K/A Trump Plaza Corp.)",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -42,7 +42,7 @@
             {
               "owneeId": "534",
               "owner": "The Donald J. Trump Revocable Trust",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",

@@ -7,10 +7,10 @@
       "familyMember": "Donald Trump",
       "conflict": "DT Dubai Golf Manager",
       "category": "Active",
-      "mediaOutlet": "Press Release",
-      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
+      "mediaOutlet": "Construction Week Online",
+      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
       "sourceDate": "2018-06-10T00:00:00",
-      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
+      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
       "conflictId": "56",
       "conflictSlug": "dt-dubai-golf-manager",
       "hasEthics": true
@@ -33,10 +33,10 @@
       "familyMember": "Donald Trump",
       "conflict": "DT Dubai Golf Manager",
       "category": "Active",
-      "mediaOutlet": "Construction Week Online",
-      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
+      "mediaOutlet": "Press Release",
+      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
       "sourceDate": "2018-06-10T00:00:00",
-      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
+      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
       "conflictId": "56",
       "conflictSlug": "dt-dubai-golf-manager",
       "hasEthics": true
@@ -57,12 +57,12 @@
             {
               "owneeId": "88",
               "owner": "DJT Holdings LLC",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "88",
               "owner": "DT Dubai Golf Manager Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -82,7 +82,7 @@
             {
               "owneeId": "87",
               "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",

@@ -14,6 +14,19 @@
       "conflictId": "52",
       "conflictSlug": "dt-bali-technical-services-manager",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Ivanka Trump",
+      "conflict": "DT Bali Technical Services Manager",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html",
+      "sourceDate": "2016-12-31T00:00:00",
+      "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
+      "conflictId": "52",
+      "conflictSlug": "dt-bali-technical-services-manager",
+      "hasEthics": true
     }
   ],
   "ethics": [
@@ -27,6 +40,16 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -36,12 +59,22 @@
             {
               "owneeId": "80",
               "owner": "TTTT Venture LLC",
-              "percentage": "99"
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "80",
+              "owner": "TTTT Venture LLC",
+              "percentage": "99.0"
             },
             {
               "owneeId": "80",
               "owner": "DT Bali Technical Services Manager Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
+            },
+            {
+              "owneeId": "80",
+              "owner": "DT Bali Technical Services Manager Member Corp.",
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -61,7 +94,7 @@
             {
               "owneeId": "79",
               "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -77,6 +110,16 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -86,12 +129,22 @@
             {
               "owneeId": "80",
               "owner": "TTTT Venture LLC",
-              "percentage": "99"
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "80",
+              "owner": "TTTT Venture LLC",
+              "percentage": "99.0"
             },
             {
               "owneeId": "80",
               "owner": "DT Bali Technical Services Manager Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
+            },
+            {
+              "owneeId": "80",
+              "owner": "DT Bali Technical Services Manager Member Corp.",
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Ivanka Trump",

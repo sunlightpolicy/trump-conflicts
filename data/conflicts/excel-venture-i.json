@@ -17,7 +17,7 @@
             {
               "owneeId": "150",
               "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -37,12 +37,12 @@
             {
               "owneeId": "151",
               "owner": "DJT Holdings LLC",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "151",
               "owner": "Excel Venture I Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",

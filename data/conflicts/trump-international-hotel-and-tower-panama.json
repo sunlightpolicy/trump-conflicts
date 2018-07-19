@@ -1,46 +1,6 @@
 {
   "name": "Trump International Hotel And Tower (Panama)",
   "description": "Ethics experts say their fear has been realized as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotels majority owner cancelled the Trump Organizations management contract for the hotel.",
-  "stories": [
-    {
-      "description": "Ethics experts say their fear has been realized as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotels majority owner cancelled the Trump Organizations management contract for the hotel.",
-      "familyMember": "Donald Trump",
-      "conflict": "Trump International Hotel And Tower (Panama)",
-      "category": "Active",
-      "mediaOutlet": "Washington Post",
-      "link": "https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html",
-      "sourceDate": "2016-11-20T00:00:00",
-      "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
-      "conflictId": "261",
-      "conflictSlug": "trump-international-hotel-and-tower-panama",
-      "hasEthics": false
-    },
-    {
-      "description": "Ethics experts say their fear has been realized as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotels majority owner cancelled the Trump Organizations management contract for the hotel.",
-      "familyMember": "Donald Trump",
-      "conflict": "Trump International Hotel And Tower (Panama)",
-      "category": "Active",
-      "mediaOutlet": "Associated Press",
-      "link": "https://www.apnews.com/ce4dbdd4446c4862bb9c483425554c67/Trump-officials-fight-eviction-from-Panama-hotel-they-manage",
-      "sourceDate": "2018-02-24T00:00:00",
-      "headline": "Trump officials fight eviction from Panama hotel they manage",
-      "conflictId": "261",
-      "conflictSlug": "trump-international-hotel-and-tower-panama",
-      "hasEthics": false
-    },
-    {
-      "description": "Ethics experts say their fear has been realized as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotels majority owner cancelled the Trump Organizations management contract for the hotel.",
-      "familyMember": "Donald Trump",
-      "conflict": "Trump International Hotel And Tower (Panama)",
-      "category": "Active",
-      "mediaOutlet": "Business Insider",
-      "link": "http://www.businessinsider.com/trump-organization-panama-hotel-conflict-2018-3",
-      "sourceDate": "2018-03-03T00:00:00",
-      "headline": "Ethics experts say their \"fear has been realized\" as Trump faces one of his most consequential conflicts of interest yet",
-      "conflictId": "261",
-      "conflictSlug": "trump-international-hotel-and-tower-panama",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

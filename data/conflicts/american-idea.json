@@ -1,20 +1,6 @@
 {
   "name": "American Idea",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "American Idea",
-      "category": "Active",
-      "mediaOutlet": "New York Times",
-      "link": "https://mobile.nytimes.com/2018/06/21/business/trumps-kushners-end-hotel-deals.html",
-      "sourceDate": "2018-06-21T00:00:00",
-      "headline": "Trumps and Kushners Cut Ties on Hotel Deals That Raised Eyebrows",
-      "conflictId": "482",
-      "conflictSlug": "american-idea",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

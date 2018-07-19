@@ -7,32 +7,6 @@
       "familyMember": "Donald Trump",
       "conflict": "Trump Scotland",
       "category": "Active",
-      "mediaOutlet": "Washington Post",
-      "link": "https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html",
-      "sourceDate": "2016-11-20T00:00:00",
-      "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
-      "conflictId": "347",
-      "conflictSlug": "trump-scotland",
-      "hasEthics": true
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Trump Scotland",
-      "category": "Active",
-      "mediaOutlet": "Washington Post",
-      "link": "https://www.washingtonpost.com/politics/trumps-presidency-overseas-business-deals-and-relations-with-foreign-governments-could-all-become-intertwined/2016/11/25/d2bc83f8-b0e2-11e6-8616-52b15787add0_story.html?utm_term=.6474a90a3947",
-      "sourceDate": "2016-11-25T00:00:00",
-      "headline": "Trump’s presidency, overseas business deals and relations with foreign governments could all become intertwined",
-      "conflictId": "347",
-      "conflictSlug": "trump-scotland",
-      "hasEthics": true
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Trump Scotland",
-      "category": "Active",
       "mediaOutlet": "New York Times",
       "link": "https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1",
       "sourceDate": "2016-11-26T00:00:00",
@@ -47,9 +21,35 @@
       "conflict": "Trump Scotland",
       "category": "Active",
       "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html",
+      "sourceDate": "2016-11-20T00:00:00",
+      "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
+      "conflictId": "347",
+      "conflictSlug": "trump-scotland",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Scotland",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
       "link": "https://www.washingtonpost.com/politics/the-three-biggest-surprises-in-the-trump-organizations-financial-filings/2018/05/21/db2f0420-5c94-11e8-9ee3-49d6d4814c4c_story.html?utm_term=.64de8850a39d",
       "sourceDate": "2018-05-21T00:00:00",
       "headline": "The three biggest surprises in the Trump Organization’s financial filings",
+      "conflictId": "347",
+      "conflictSlug": "trump-scotland",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Scotland",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/trumps-presidency-overseas-business-deals-and-relations-with-foreign-governments-could-all-become-intertwined/2016/11/25/d2bc83f8-b0e2-11e6-8616-52b15787add0_story.html?utm_term=.6474a90a3947",
+      "sourceDate": "2016-11-25T00:00:00",
+      "headline": "Trump’s presidency, overseas business deals and relations with foreign governments could all become intertwined",
       "conflictId": "347",
       "conflictSlug": "trump-scotland",
       "hasEthics": true
@@ -70,7 +70,7 @@
             {
               "owneeId": "398",
               "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",

@@ -7,19 +7,6 @@
       "familyMember": "Donald Trump",
       "conflict": "Trump Marks Philippines",
       "category": "Active",
-      "mediaOutlet": "NPR",
-      "link": "http://www.npr.org/sections/parallels/2016/11/22/502895797/whos-the-new-philippine-envoy-the-man-building-trump-tower-manila",
-      "sourceDate": "2016-11-22T00:00:00",
-      "headline": "Who's The New Philippine Envoy? The Man Building Trump Tower Manila",
-      "conflictId": "299",
-      "conflictSlug": "trump-marks-philippines",
-      "hasEthics": true
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Trump Marks Philippines",
-      "category": "Active",
       "mediaOutlet": "Bloomberg Politics",
       "link": "https://www.bloomberg.com/politics/articles/2016-11-22/trump-s-business-partner-will-be-manila-s-man-in-washington?cmpid=socialflow-twitter-business&amp;utm_content=business&amp;utm_campaign=socialflow-organic&amp;utm_source=twitter&amp;utm_medium=social",
       "sourceDate": "2016-11-22T00:00:00",
@@ -40,6 +27,19 @@
       "conflictId": "299",
       "conflictSlug": "trump-marks-philippines",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Marks Philippines",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "http://www.npr.org/sections/parallels/2016/11/22/502895797/whos-the-new-philippine-envoy-the-man-building-trump-tower-manila",
+      "sourceDate": "2016-11-22T00:00:00",
+      "headline": "Who's The New Philippine Envoy? The Man Building Trump Tower Manila",
+      "conflictId": "299",
+      "conflictSlug": "trump-marks-philippines",
+      "hasEthics": true
     }
   ],
   "ethics": [
@@ -57,7 +57,7 @@
             {
               "owneeId": "471",
               "owner": "DTTM Operations Managing Member Corp.",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -77,12 +77,12 @@
             {
               "owneeId": "472",
               "owner": "DTTM Operations LLC",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "472",
               "owner": "Trump Marks Philippines Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",

@@ -27,18 +27,18 @@
             {
               "owneeId": "503",
               "owner": "TMG Member, LLC",
-              "percentage": "85"
+              "percentage": "85.0"
             },
             {
               "owneeId": "503",
               "owner": "Annie Veltri",
-              "percentage": "15"
+              "percentage": "15.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Pres. Trump retains an ownership interest in Trump Model Management LLC. Any current or former positions he may have held with the company have not been disclosed.",
           "business": "Trump Model Management LLC",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         }
       ],
       "conflictId": "315",

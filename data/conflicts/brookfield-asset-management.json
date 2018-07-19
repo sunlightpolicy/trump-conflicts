@@ -1,20 +1,6 @@
 {
   "name": "Brookfield Asset Management",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Brookfield Asset Management",
-      "category": "Active",
-      "mediaOutlet": "New York Times",
-      "link": "https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html",
-      "sourceDate": "2018-05-17T00:00:00",
-      "headline": "Kushners Near Deal With Qatar-Linked Company for Troubled Tower",
-      "conflictId": "448",
-      "conflictSlug": "brookfield-asset-management",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

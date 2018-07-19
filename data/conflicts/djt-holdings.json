@@ -17,12 +17,12 @@
             {
               "owneeId": "8",
               "owner": "The Donald J. Trump Revocable Trust",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "8",
               "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -42,12 +42,7 @@
             {
               "owneeId": "10",
               "owner": "The Donald J. Trump Revocable Trust",
-              "percentage": "100"
-            },
-            {
-              "owneeId": "10",
-              "owner": "",
-              "percentage": ""
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",

@@ -7,10 +7,10 @@
       "familyMember": "Donald Trump",
       "conflict": "DT Dubai II Golf Manager",
       "category": "Active",
-      "mediaOutlet": "Press Release",
-      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
+      "mediaOutlet": "Construction Week Online",
+      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
       "sourceDate": "2018-06-10T00:00:00",
-      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
+      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
       "conflictId": "57",
       "conflictSlug": "dt-dubai-ii-golf-manager",
       "hasEthics": true
@@ -33,10 +33,49 @@
       "familyMember": "Donald Trump",
       "conflict": "DT Dubai II Golf Manager",
       "category": "Active",
+      "mediaOutlet": "Press Release",
+      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
+      "sourceDate": "2018-06-10T00:00:00",
+      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
+      "conflictId": "57",
+      "conflictSlug": "dt-dubai-ii-golf-manager",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Ivanka Trump",
+      "conflict": "DT Dubai II Golf Manager",
+      "category": "Active",
       "mediaOutlet": "Construction Week Online",
       "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
       "sourceDate": "2018-06-10T00:00:00",
       "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
+      "conflictId": "57",
+      "conflictSlug": "dt-dubai-ii-golf-manager",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Ivanka Trump",
+      "conflict": "DT Dubai II Golf Manager",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article172443417.html",
+      "sourceDate": "2017-09-01T00:00:00",
+      "headline": "Trump promised not to work with foreign entities. His company just did",
+      "conflictId": "57",
+      "conflictSlug": "dt-dubai-ii-golf-manager",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Ivanka Trump",
+      "conflict": "DT Dubai II Golf Manager",
+      "category": "Active",
+      "mediaOutlet": "Press Release",
+      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
+      "sourceDate": "2018-06-10T00:00:00",
+      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
       "conflictId": "57",
       "conflictSlug": "dt-dubai-ii-golf-manager",
       "hasEthics": true
@@ -53,6 +92,16 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -62,12 +111,22 @@
             {
               "owneeId": "90",
               "owner": "TTTT Venture LLC",
-              "percentage": "99"
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "90",
+              "owner": "TTTT Venture LLC",
+              "percentage": "99.0"
             },
             {
               "owneeId": "90",
               "owner": "DT Dubai II Golf Manager Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
+            },
+            {
+              "owneeId": "90",
+              "owner": "DT Dubai II Golf Manager Member Corp.",
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -87,7 +146,7 @@
             {
               "owneeId": "89",
               "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -103,6 +162,16 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -112,12 +181,22 @@
             {
               "owneeId": "90",
               "owner": "TTTT Venture LLC",
-              "percentage": "99"
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "90",
+              "owner": "TTTT Venture LLC",
+              "percentage": "99.0"
             },
             {
               "owneeId": "90",
               "owner": "DT Dubai II Golf Manager Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
+            },
+            {
+              "owneeId": "90",
+              "owner": "DT Dubai II Golf Manager Member Corp.",
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Ivanka Trump",

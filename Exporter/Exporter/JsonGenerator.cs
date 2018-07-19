@@ -105,49 +105,49 @@ namespace Phase2 {
 
 
 
-        public class JsonGenerator {
+    public class JsonGenerator {
 
-            public static string ConnectionString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
+        public static string ConnectionString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
 
-            private static Dictionary<string, string> businesses;
+        private static Dictionary<string, string> businesses;
 
 
 
-            // New Stuff
-            public static void RunConflicts(string path) {
+        // New Stuff
+        public static void RunConflicts(string path) {
 
-                var allStories = MakeStories();
+            var allStories = MakeStories();
 
-                // Temporarily get rid of these duplicates
-                var filteredStories = new List<Conflicts.Story>();
-                foreach (Conflicts.Story s in allStories) {
-                    if ((s.conflict != "Trump Organization LLC D/B/A The Trump Organization") &&
-                       (s.conflict != "") &&
-                       (s.conflict != "Trump International Hotel DC"))
-                        filteredStories.Add(s);
-                }
+            // Temporarily get rid of these duplicates
+            var filteredStories = new List<Conflicts.Story>();
+            foreach (Conflicts.Story s in allStories) {
+                if ((s.conflict != "Trump Organization LLC D/B/A The Trump Organization") &&
+                   (s.conflict != "") &&
+                   (s.conflict != "Trump International Hotel DC"))
+                    filteredStories.Add(s);
+            }
 
-                WriteStoryJson(path, filteredStories);
-                WriteStoryCsv(path, filteredStories);
+            WriteStoryJson(path, filteredStories);
+            WriteStoryCsv(path, filteredStories);
 
-                List<FamilyMemberBusinessEthicsForConflict> ethicsForConflict = MakeEthicsInfos();
-                // ugh - add the ownerships to all businesses as a separate step
-                AddOwnersips(ethicsForConflict);
+            List<FamilyMemberBusinessEthicsForConflict> ethicsForConflict = MakeEthicsInfos();
+            // ugh - add the ownerships to all businesses as a separate step
+            AddOwnersips(ethicsForConflict);
 
-                var conflicts = new List<ConflictJson>();
-                var reader = SqlUtil.Query("SELECT ID, Name, Description, Slug FROM Conflict");
-                while (reader.Read()) {
-                    var conflictId = reader["ID"].ToString();
+            var conflicts = new List<ConflictJson>();
+            var reader = SqlUtil.Query("SELECT ID, Name, Description, Slug FROM Conflict");
+            while (reader.Read()) {
+                var conflictId = reader["ID"].ToString();
 
-                    List<Conflicts.Story> stories = new List<Conflicts.Story>();
-                    foreach (Conflicts.Story story in filteredStories)
-                        if (story.GetID() == conflictId)
-                            stories.Add(story);
+                List<Conflicts.Story> stories = new List<Conflicts.Story>();
+                foreach (Conflicts.Story story in filteredStories)
+                    if (story.GetID() == conflictId)
+                        stories.Add(story);
 
-                    var ethicsList = new List<FamilyMemberBusinessEthicsForConflict>();
-                    foreach (FamilyMemberBusinessEthicsForConflict ethics in ethicsForConflict)
-                        if (ethics.conflictId == conflictId)
-                            ethicsList.Add(ethics);
+                var ethicsList = new List<FamilyMemberBusinessEthicsForConflict>();
+                foreach (FamilyMemberBusinessEthicsForConflict ethics in ethicsForConflict)
+                    if (ethics.conflictId == conflictId)
+                        ethicsList.Add(ethics);
 
                 conflicts.Add(
                     new ConflictJson(
@@ -158,31 +158,41 @@ namespace Phase2 {
                         , ethicsList
                         )
                     );
-                }
-                WriteConflictJson(path, conflicts);
             }
-        
-            private static void WriteConflictJson(string path, List<ConflictJson> conflicts) {
-                string fullPath = path + "conflicts\\";
-                try {
-                    Directory.Delete(fullPath, true);
-                }
-                catch (Exception e) {
-                }
-                Directory.CreateDirectory(fullPath);
+            WriteConflictJson(path, conflicts);
+            //WriteEthicsJson(path);
+        }
 
-                foreach (ConflictJson conflict in conflicts) {
-                    string json = JsonConvert.SerializeObject(conflict);
-                    var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
-
-                    System.IO.File.WriteAllText(fullPath + conflict.GetSlug() + ".json", niceJson);
-                }
+        private static void WriteConflictJson(string path, List<ConflictJson> conflicts) {
+            string fullPath = path + "conflicts\\";
+            try {
+                Directory.Delete(fullPath, true);
             }
+            catch (Exception e) {
+            }
+            Directory.CreateDirectory(fullPath);
 
-            // End New Stuff
+            foreach (ConflictJson conflict in conflicts) {
+                string json = JsonConvert.SerializeObject(conflict);
+                var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
+
+                System.IO.File.WriteAllText(fullPath + conflict.GetSlug() + ".json", niceJson);
+            }
+        }
+
+        //private static void WriteEthicsJson(string path) { 
+        //    List<FamilyMemberBusinessEthicsForConflict> ethicsForConflict = MakeEthicsInfos();
+
+        //    // ugh - add the ownerships to all businesses as a separate step
+        //    AddOwnersips(ethicsForConflict);
+
+        //    WriteEthicsInfosToJson(path, ethicsForConflict);
+        //}
+
+        // End New Stuff
 
 
-            public static void Run(string path) {
+        public static void Run(string path) {
 
                 var stories = MakeStories();
 

@@ -36,18 +36,18 @@
             {
               "owneeId": "96",
               "owner": "Trump, Donald J.",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "96",
               "owner": "DT Jeddah Technical Services Advisor Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/president of DT Jeddah Technical Services Advisor LLC. As of Trump&#39;s 2016 financial disclosure, he held an ownership interest; the company&#39;s ownership structure was not reported in 2017.",
           "business": "DT Jeddah Technical Services Advisor LLC",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         },
         {
           "ethicsDocuments": [
@@ -66,13 +66,13 @@
             {
               "owneeId": "95",
               "owner": "Trump, Donald J.",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former director/chairman/president of DT Jeddah Technical Services Advisor Member Corp. As of Trump&#39;s 2016 financial disclosure, he held an ownership interest; the company&#39;s ownership structure was not reported in 2017.",
           "business": "DT Jeddah Technical Services Advisor Member Corp.",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         }
       ],
       "conflictId": "60",

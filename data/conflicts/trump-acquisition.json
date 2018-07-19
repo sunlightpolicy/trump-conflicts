@@ -17,7 +17,7 @@
             {
               "owneeId": "330",
               "owner": "DJT Holdings LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -37,12 +37,12 @@
             {
               "owneeId": "331",
               "owner": "DJT Holdings LLC",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "331",
               "owner": "Trump Acquisition Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",

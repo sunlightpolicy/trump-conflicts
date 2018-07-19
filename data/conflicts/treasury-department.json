@@ -1,46 +1,6 @@
 {
   "name": "Treasury Department",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Treasury Department",
-      "category": "Active",
-      "mediaOutlet": "New York Post",
-      "link": "https://nypost.com/2018/03/05/bank-reported-trump-lawyers-payment-to-stormy-daniels-as-suspicious/",
-      "sourceDate": "2018-03-05T00:00:00",
-      "headline": "Bank reported Trump lawyer’s payment to Stormy Daniels as suspicious",
-      "conflictId": "438",
-      "conflictSlug": "treasury-department",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Treasury Department",
-      "category": "Active",
-      "mediaOutlet": "Daily Beast",
-      "link": "https://amp.thedailybeast.com/trump-org-gifts-treasury-dollar150k-in-foreign-government-emoluments",
-      "sourceDate": "2018-04-18T00:00:00",
-      "headline": "Trump Org ‘Gifts’ Treasury $150K in Foreign ‘Emoluments’",
-      "conflictId": "438",
-      "conflictSlug": "treasury-department",
-      "hasEthics": false
-    },
-    {
-      "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "Treasury Department",
-      "category": "Active",
-      "mediaOutlet": "McClatchy",
-      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article210477439.html",
-      "sourceDate": "2018-06-19T00:00:00",
-      "headline": "Buyers tied to Russia, former Soviet republics paid $109 million cash for Trump properties",
-      "conflictId": "438",
-      "conflictSlug": "treasury-department",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

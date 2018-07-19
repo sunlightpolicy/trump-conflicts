@@ -4,7 +4,7 @@
   "stories": [
     {
       "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
-      "familyMember": "Donald Trump",
+      "familyMember": "Jared Kushner",
       "conflict": "Morgan Stanley",
       "category": "Active",
       "mediaOutlet": "Forbes",
@@ -13,8 +13,35 @@
       "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
       "conflictId": "402",
       "conflictSlug": "morgan-stanley",
-      "hasEthics": false
+      "hasEthics": true
     }
   ],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $1,001 - $2,500 in Interest income from MORGAN STANLEY, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Morgan Stanley, Bonds",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "402",
+      "conflict": "Morgan Stanley",
+      "conflictDescription": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks."
+    }
+  ]
 }

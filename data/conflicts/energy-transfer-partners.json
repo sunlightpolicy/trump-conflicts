@@ -1,20 +1,6 @@
 {
   "name": "Energy Transfer Partners",
   "description": "According to financial disclosures filed in May 2016, President Donald Trump owned between $15,000 and $50,000 in stock in Texas-based Energy Transfer Partners. That's down from between $500,000 and $1 million a year earlier.",
-  "stories": [
-    {
-      "description": "According to financial disclosures filed in May 2016, President Donald Trump owned between $15,000 and $50,000 in stock in Texas-based Energy Transfer Partners. That's down from between $500,000 and $1 million a year earlier.",
-      "familyMember": "Donald Trump",
-      "conflict": "Energy Transfer Partners",
-      "category": "Active",
-      "mediaOutlet": "Associated Press",
-      "link": "https://www.bloomberg.com/politics/articles/2016-11-25/trump-s-stock-in-oil-pipeline-company-raises-concern",
-      "sourceDate": "2016-11-25T00:00:00",
-      "headline": "Trump’s Stock in Dakota Access Oil Pipeline Company Raises Concern",
-      "conflictId": "393",
-      "conflictSlug": "energy-transfer-partners",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

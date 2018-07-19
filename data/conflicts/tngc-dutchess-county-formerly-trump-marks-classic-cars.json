@@ -17,18 +17,18 @@
             {
               "owneeId": "315",
               "owner": "DJT Holdings LLC",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "315",
               "owner": "TNGC Dutchess County Member Corp. (F/K/A Trump Marks Classic Cars Member Corp.)",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former president of TNGC Dutchess County LLC (F/K/A Trump Marks Classic Cars LLC). The company&#39;s current activity status and ownership structure have not been disclosed.",
           "business": "TNGC Dutchess Countv LLC",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         },
         {
           "ethicsDocuments": [
@@ -42,7 +42,7 @@
             {
               "owneeId": "314",
               "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",

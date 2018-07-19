@@ -1,20 +1,6 @@
 {
   "name": "Signature Bank",
   "description": "ne of three banks whose ties to Kushner have been widely reported to be under review by New York banking regulators. The bank’s board members have included Ivanka Trump and former Republican U.S. senator Al D’Amato, a dealmaker and power broker in New York business and politics who has been a vocal supporter of President Trump.",
-  "stories": [
-    {
-      "description": "ne of three banks whose ties to Kushner have been widely reported to be under review by New York banking regulators. The bank’s board members have included Ivanka Trump and former Republican U.S. senator Al D’Amato, a dealmaker and power broker in New York business and politics who has been a vocal supporter of President Trump.",
-      "familyMember": "Donald Trump",
-      "conflict": "Signature Bank",
-      "category": "Active",
-      "mediaOutlet": "USA Today",
-      "link": "https://www.usatoday.com/story/news/2018/06/07/cozy-land-deals-meant-big-money-trump-family-and-friends/677126002/",
-      "sourceDate": "2018-06-07T00:00:00",
-      "headline": "Cozy land deals meant big money for Trump family and friends",
-      "conflictId": "395",
-      "conflictSlug": "signature-bank",
-      "hasEthics": false
-    }
-  ],
+  "stories": [],
   "ethics": []
 }

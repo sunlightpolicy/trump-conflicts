@@ -7,10 +7,10 @@
       "familyMember": "Donald Trump",
       "conflict": "THC Dubai II Hotel Manager",
       "category": "Active",
-      "mediaOutlet": "Press Release",
-      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
+      "mediaOutlet": "Construction Week Online",
+      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
       "sourceDate": "2018-06-10T00:00:00",
-      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
+      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
       "conflictId": "173",
       "conflictSlug": "thc-dubai-ii-hotel-manager",
       "hasEthics": true
@@ -33,10 +33,10 @@
       "familyMember": "Donald Trump",
       "conflict": "THC Dubai II Hotel Manager",
       "category": "Active",
-      "mediaOutlet": "Construction Week Online",
-      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
+      "mediaOutlet": "Press Release",
+      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
       "sourceDate": "2018-06-10T00:00:00",
-      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
+      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
       "conflictId": "173",
       "conflictSlug": "thc-dubai-ii-hotel-manager",
       "hasEthics": true
@@ -62,18 +62,18 @@
             {
               "owneeId": "267",
               "owner": "Trump, Donald J.",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "267",
               "owner": "THC Dubai II Hotel Manager Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/president of THC Dubai II Hotel Manager LLC. According to Trump&#39;s 2016 financial disclosure, the company, which he alone owned, was dormant or inactive. Its current activity status and ownership structure were not articulated in his 2017 financial disclosure.",
           "business": "THC Dubai II Hotel Manager LLC",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         },
         {
           "ethicsDocuments": [
@@ -92,13 +92,13 @@
             {
               "owneeId": "266",
               "owner": "Trump, Donald J.",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former chairman/director/president of THC Dubai II Hotel Manager LLC. According to his 2016 financial disclosure, the company, which he alone owned, was dormant or inactive. Its current activity status and ownership structure were not articulated in his 2017 financial disclosure.",
           "business": "THC Dubai II Hotel Manager Member Corp.",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         }
       ],
       "conflictId": "173",

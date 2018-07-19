@@ -17,18 +17,18 @@
             {
               "owneeId": "313",
               "owner": "DJT Holdings LLC",
-              "percentage": "99"
+              "percentage": "99.0"
             },
             {
               "owneeId": "313",
               "owner": "TNGC Charlotte Manager Corp",
-              "percentage": "1"
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former president of TNGC Charlotte LLC. It is not clear whether this business entity is the same as an entity called &quot;Trump National Golf Club - Charlotte,&quot; in which Pres. Trump retains ownership interests. The current activity status and ownership structure of TNGC Charlotte LLC have not been listed on his financial disclosures.",
           "business": "TNGC Charlotte LLC",
-          "conflictStatus": "Potential"
+          "conflictStatus": "Unclear"
         },
         {
           "ethicsDocuments": [
@@ -42,7 +42,7 @@
             {
               "owneeId": "312",
               "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",

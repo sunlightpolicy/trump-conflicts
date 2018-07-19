@@ -13,6 +13,16 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -22,12 +32,22 @@
             {
               "owneeId": "135",
               "owner": "TTTT Venture LLC",
-              "percentage": "99"
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "135",
+              "owner": "TTTT Venture LLC",
+              "percentage": "99.0"
             },
             {
               "owneeId": "135",
               "owner": "DT Tower Gurgaon Managing Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
+            },
+            {
+              "owneeId": "135",
+              "owner": "DT Tower Gurgaon Managing Member Corp.",
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -47,7 +67,7 @@
             {
               "owneeId": "134",
               "owner": "DTTM Operations Managing Member Corp.",
-              "percentage": "100"
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
@@ -63,6 +83,16 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -72,12 +102,22 @@
             {
               "owneeId": "135",
               "owner": "TTTT Venture LLC",
-              "percentage": "99"
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "135",
+              "owner": "TTTT Venture LLC",
+              "percentage": "99.0"
             },
             {
               "owneeId": "135",
               "owner": "DT Tower Gurgaon Managing Member Corp.",
-              "percentage": "1"
+              "percentage": "1.0"
+            },
+            {
+              "owneeId": "135",
+              "owner": "DT Tower Gurgaon Managing Member Corp.",
+              "percentage": "1.0"
             }
           ],
           "familyMember": "Ivanka Trump",
