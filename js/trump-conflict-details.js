@@ -1,8 +1,17 @@
+function loadSection() {
+    var slug = location.hash.replace("#", "");
+    alert(slug);
+    if (slug != "")
+        timelinePopup(slug);
+}
+
 
 function timelinePopup(conflictSlug) {
     d3.json("data/conflicts/" + conflictSlug + ".json", data => buildConflictPage(data)); 
 
     showConflictPage();
+    
+    history.pushState(null, null, "index.html#" + conflictSlug);
 }
 
 function buildConflictPage(data) {
@@ -85,6 +94,7 @@ function showConflictPage() {
     var span = document.getElementsByClassName("close")[0];
     span.onclick = function () {
         modal.style.display = "none";
+        history.pushState(null, null, "index.html");
     }
     window.onclick = function (event) {
         if (event.target == modal)
