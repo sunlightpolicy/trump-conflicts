@@ -1,8 +1,15 @@
 function loadSection() {
     var slug = location.hash.replace("#", "");
-    alert(slug);
     if (slug != "")
         timelinePopup(slug);
+}
+
+function backOrForward() {
+    var slug = location.hash.replace("#", "");
+    if (slug != "")
+        timelinePopup(slug);
+    else
+        document.getElementById('ethicsModal').style.display = "none";       
 }
 
 
