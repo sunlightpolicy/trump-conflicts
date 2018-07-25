@@ -103,6 +103,25 @@ namespace Phase2 {
     }
 
 
+    public class ConflictSearchJson {
+        public string name { get; set; }
+        public string description { get; set; }
+        public string slug { get; set; }
+        public string stories { get; set; }
+        public string lastStory { get; set; }
+        public string familyMember { get; set; }
+        
+        public ConflictSearchJson(string name, string description, string slug,  string stories, string lastStory, string familyMember) {
+            this.name = name;
+            this.description = description;
+            this.slug = slug;
+            this.stories = stories;
+            this.lastStory = lastStory;
+            this.familyMember = familyMember;
+        }
+    }
+
+
 
 
     public class JsonGenerator {
@@ -118,6 +137,8 @@ namespace Phase2 {
 
             var allStories = MakeStories();
 
+            var conflictSearches = MakeConflictSearchJsons();
+
             // Temporarily get rid of these duplicates
             var filteredStories = new List<Conflicts.Story>();
             foreach (Conflicts.Story s in allStories) {
@@ -126,6 +147,9 @@ namespace Phase2 {
                    (s.conflict != "Trump International Hotel DC"))
                     filteredStories.Add(s);
             }
+
+
+            WriteConflictSearchJson(path, conflictSearches);
 
             WriteStoryJson(path, filteredStories);
             WriteStoryCsv(path, filteredStories);
@@ -178,6 +202,33 @@ namespace Phase2 {
 
                 System.IO.File.WriteAllText(fullPath + conflict.GetSlug() + ".json", niceJson);
             }
+        }
+
+
+        private static List<ConflictSearchJson> MakeConflictSearchJsons() {
+            var conflicts = new List<ConflictSearchJson>();
+
+            string query = "SELECT * FROM ConflictView";
+            using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
+                using (SqlCommand cmd = new SqlCommand(query, conn)) {
+                    cmd.CommandType = CommandType.Text;
+                    conn.Open();
+                    SqlDataReader reader = cmd.ExecuteReader();
+
+                    while (reader.Read())
+                        conflicts.Add(new ConflictSearchJson(
+                            reader["Conflict"].ToString()
+                            , reader["Description"].ToString()
+                            , reader["Slug"].ToString()
+                            , reader["Stories"].ToString()
+                            , reader["LastStory"].ToString()
+                            , reader["FamilyMember"].ToString()
+                        )
+                    );
+                    Console.WriteLine(conflicts.Count.ToString() + " Conflicts");
+                }
+            }
+            return conflicts;
         }
 
         //private static void WriteEthicsJson(string path) { 
@@ -294,6 +345,13 @@ namespace Phase2 {
                 string json = JsonConvert.SerializeObject(stories);
                 var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
                 System.IO.File.WriteAllText(path + "stories.json", niceJson);
+            }
+
+
+            private static void WriteConflictSearchJson(string path, List<ConflictSearchJson> conflicts) {
+                string json = JsonConvert.SerializeObject(conflicts);
+                var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
+                System.IO.File.WriteAllText(path + "conflicts.json", niceJson);
             }
 
             private static void WriteStoryCsv(string path, List<Conflicts.Story> stories) {

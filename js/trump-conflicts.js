@@ -9,14 +9,14 @@ var mediaOutletChart;
 
 var searchDim;
 
-
 d3.json("data/stories.json", function (err, data) {
+//d3.json("data/conflicts.json", function (err, data) {
     data.forEach(function (d) {
 
-        d.sourceType = "Office of Government Ethics";
+        //d.sourceType = "Office of Government Ethics";
 
-        if (d.mediaOutlet != "Office of Government Ethics")
-            d.sourceType = "Media";
+        //if (d.mediaOutlet != "Office of Government Ethics")
+        //    d.sourceType = "Media";
         
         //d.source = "N/A";
         //if (typeof (d.sources[0]) != "undefined") {
@@ -26,13 +26,13 @@ d3.json("data/stories.json", function (err, data) {
         //        d.source = "Multiple Sources";
         //}
 
-        if (d.conflict == "")
-            d.conflict = "N/A";
+        //if (d.conflict == "")
+        //    d.conflict = "N/A";
 
-        d.link = getMediaOutletAndHeadline(d);
+        //d.link = getMediaOutletAndHeadline(d);
 
-        d.dateChanged = new Date(d.dateChanged);
-        d.sourceDate = new Date(d.sourceDate);
+        //d.dateChanged = new Date(d.dateChanged);
+        //d.sourceDate = new Date(d.sourceDate);
     });
 
     //console.table(data);
@@ -99,7 +99,7 @@ d3.json("data/stories.json", function (err, data) {
     
     var leftWidth = 400;
 
-    var changeDateDim = facts.dimension(function (d) { return d.sourceDate; });
+    /* var changeDateDim = facts.dimension(function (d) { return d.sourceDate; });
     var changeDateGroup = changeDateDim.group(d3.time.day);
     changeDateChart = dc.barChart("#dc-chart-changeDate")
         .dimension(changeDateDim)
@@ -113,7 +113,7 @@ d3.json("data/stories.json", function (err, data) {
         .elasticY(true)
         .filter([new Date(2016, 2, 25), new Date(2018, 6, 10)]) // Months are zero based
     changeDateChart.yAxis().ticks(5);
-    changeDateChart.xAxis().ticks(5);
+    changeDateChart.xAxis().ticks(5); */
     
     var pieColors =
         ["#74C365", // light green 
@@ -202,14 +202,14 @@ function dateToYMD(date) {
     return '' + y + '-' + (m <= 9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
 }
 
-function getMediaOutletAndHeadline(d) {
+/* function getMediaOutletAndHeadline(d) {
     var text = "<b>" + d.mediaOutlet + "</b>";
     if (d.headline != "")
         text = text + " / " + d.headline;
 
     return text;
     //return '<a href="' + d.link + '" target="_blank">' + text + '</a>';
-}
+} */
 
 function clearAll() {
     searchDim.filter(null); // clear text too?
