@@ -2,12 +2,13 @@
     display: grid;
     grid-template-areas: 
         "logo       title      title       title       title       title" 
-        "searchBox  searchBox  conflict2   conflict2   conflict2   conflict2" 
-        "family     family     conflict2   conflict2   conflict2   conflict2" 
-        ".          .          conflict2   conflict2   conflict2   conflict2"
-        ".          .          conflict2   conflict2   conflict2   conflict2"; 
+        "info       info       info        info        info        info" 
+        "searchBox  searchBox  conflicts   conflicts   conflicts   conflicts" 
+        "family     family     conflicts   conflicts   conflicts   conflicts" 
+        ".          .          conflicts   conflicts   conflicts   conflicts"
+        ".          .          conflicts   conflicts   conflicts   conflicts"; 
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 100px 60px 50px 60px 60px 60px;
+    grid-template-rows: 100px 60px 60px 50px 60px 60px;
     grid-gap: .5em;
     margin: 0 auto;
 }
@@ -20,7 +21,12 @@
     grid-area: title;
 }
 
-.searchBox {
+
+.info {
+    grid-area: info;
+}
+
+.search-box {
     grid-area: searchBox;
 }
 
@@ -46,8 +52,8 @@
     height: 30px;
 }
 
-.conflict2 {
-    grid-area: conflict2;
+.conflicts {
+    grid-area: conflicts;
 }
 
 

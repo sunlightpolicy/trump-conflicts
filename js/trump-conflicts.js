@@ -143,7 +143,6 @@ d3.json("data/conflicts.json", function (err, data) {
         .sortBy(function(d) {
             var pad = "0000"
             var ans = pad.substring(0, pad.length - d.stories.length) + d.stories;
-            console.log(ans);
             return ans;
             //return 10000 - d.stories;
         })
@@ -207,7 +206,6 @@ function showFilters() {
                 filterStrings.push(filter);
         })
     })
-    // console.log(filterStrings)
 
     if (filterStrings.length == 0)
         filterString = "Showing all items in date range";

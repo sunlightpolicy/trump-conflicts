@@ -99,7 +99,7 @@ div.dc-chart {
 
 .dc-chart g.row text {
   fill: black;
-  font-size: 9px;
+  font-size: 13px;
   cursor: pointer; }
 
 .dc-chart g.dc-tooltip path {
