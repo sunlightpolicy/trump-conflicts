@@ -170,7 +170,13 @@ function conflictResult(d) {
     if (d.description)
         description = "<p class='conflict-description'>" + d.description + "</p>";
 
-    let stories = "<span class='conflict-stories'>" + d.stories + " media accounts, most recent " + d.lastStory + "</span>";
+    let stories = "<span class='conflict-stories'>No media accounts of this conflict</span>";
+    if (d.stories == 1)
+        stories = "<span class='conflict-stories'>" + d.stories + " media account, from " + d.lastStory + "</span>";
+    if (d.stories > 1)
+        stories = "<span class='conflict-stories'>" + d.stories + " media accounts, most recent " + d.lastStory + "</span>";
+
+
     return "<div " + classes + ">" + title + description + stories + "</div>";
 }
 
