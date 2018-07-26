@@ -99,6 +99,13 @@ td {
 
 input {
     width: 300px;
+    font-size: 15px;
+}
+
+
+.dc-chart {
+    padding-left: 10px;
+    padding-top: 10px;
 }
 
 
@@ -137,6 +144,12 @@ input {
 .chart-title {
     font-size: 16px;
     font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-bottom: 40px;
+    border-top: 40px;
 }
 
 .dc-table-label {

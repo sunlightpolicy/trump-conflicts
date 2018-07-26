@@ -2,12 +2,12 @@
     display: grid;
     grid-template-areas: 
         "logo       title      title       title       title       title" 
-        "search     search     stats       stats       stats       download" 
+        "searchBox  searchBox  conflict2   conflict2   conflict2   conflict2" 
         "family     family     conflict2   conflict2   conflict2   conflict2" 
-        "conflict   conflict   conflict2   conflict2   conflict2   conflict2"
-        "conflict   conflict   conflict2   conflict2   conflict2   conflict2"; 
+        ".          .          conflict2   conflict2   conflict2   conflict2"
+        ".          .          conflict2   conflict2   conflict2   conflict2"; 
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 30px 20px 10px 60px, 60px;
+    grid-template-rows: 100px 60px 50px 60px 60px 60px;
     grid-gap: .5em;
     margin: 0 auto;
 }
@@ -20,8 +20,12 @@
     grid-area: title;
 }
 
-.search {
-    grid-area: search;
+.searchBox {
+    grid-area: searchBox;
+}
+
+.family {
+    grid-area: family;
 }
 
 .stats {
@@ -46,10 +50,6 @@
     grid-area: conflict2;
 }
 
-
-.family {
-    grid-area: family;
-}
 
 /*
 .status {
