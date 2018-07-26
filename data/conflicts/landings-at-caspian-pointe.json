@@ -1,0 +1,33 @@
+{
+  "name": "Landings at Caspian Pointe",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received None (or less than $201) in (income type not disclosed) income from LANDINGS AT CASPIAN POINTE, LLC (Undeveloped Real Estate in Atlantic City, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Landings At Caspian Pointe, LLC (Undeveloped Real Estate In Atlantic City, NJ)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "973",
+      "conflict": "Landings at Caspian Pointe",
+      "conflictDescription": ""
+    }
+  ]
+}

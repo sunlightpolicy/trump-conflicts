@@ -1,0 +1,83 @@
+{
+  "name": "80 ML",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "716",
+              "owner": "80 Ml, LLC (Commercial Real Estate In New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Manager of 80 Maid LLC from Aug 1, 2014, to Jan 1, 2017.",
+          "business": "80 Maid LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $15,001 - $50,000 in Rent or Royalties income from 80 ML, LLC (Commercial Real Estate in New York, NY) the year before his appointment as Pres. Trump''s senior adviser. Jared Kushner served as Managing Member of 80 ML, LLC from Aug 1, 2014, to Jan 1, 2017. Although Jared Kushner has resigned his position(s) with this entity, it is also disclosed an asset; therefore, this database marks the potential conflict of interest as active.",
+          "business": "80 Ml, LLC (Commercial Real Estate In New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1142",
+              "owner": "80 Maid LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Executive Committee of NK 80 Maiden Holdings LLC from Aug 1, 2014, to Jan 1, 2017.",
+          "business": "Nk 80 Maiden Holdings LLC",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "525",
+      "conflict": "80 ML",
+      "conflictDescription": ""
+    }
+  ]
+}

@@ -305,7 +305,7 @@ namespace Phase2 {
                 var stories = new List<Conflicts.Story>();
 
                 //string connString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
-                string query = "SELECT * FROM StoryConflictView";
+                string query = "SELECT * FROM StoryConflictView ORDER BY Date DESC";
                 using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
                     using (SqlCommand cmd = new SqlCommand(query, conn)) {
                         cmd.CommandType = CommandType.Text;

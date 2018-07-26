@@ -1,0 +1,43 @@
+{
+  "name": "Bank of America",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner owes $1,000,001 - $5,000,000 in revolving debt to Bank of America. The unsecured line of credit was incurred in 2016 at a rate of LIBOR+2.5%. A separate debt of $1,000,001 - $5,000,000, payable June 15, 2018, was incurred in 2015 at a rate of LIBOR+2.75%.",
+          "business": "Bank of America",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "589",
+      "conflict": "Bank of America",
+      "conflictDescription": ""
+    }
+  ]
+}

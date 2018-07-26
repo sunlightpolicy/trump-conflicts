@@ -35,18 +35,24 @@ namespace Phase2 {
             JsonGenerator.RunConflicts("c:\\trump-conflicts\\data\\");
 
 
+            // Write script to update sslugs
+            //AirTableLoader.WriteSlugs("C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
+
             // Timeline JS
             //TimelineJsImport.MakeJson("c:\\trump-conflicts\\data\\timeline\\");
 
             Console.WriteLine("Done");
             Console.ReadLine();
-          
+
+
+
+
             
 
 
 
-            // NOT USED
-            //TimelineImport.MakeJson("c:\\trump-conflicts\\data\\media\\");
-        }
+                // NOT USED
+                //TimelineImport.MakeJson("c:\\trump-conflicts\\data\\media\\");
+         }
     }
 }

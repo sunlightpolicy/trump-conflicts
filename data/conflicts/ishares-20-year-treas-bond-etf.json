@@ -1,0 +1,33 @@
+{
+  "name": "Ishares 20+ Year Treas Bond ETF",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $15,001 - $50,000 in (income type not disclosed) income from ISHARES 20+ YEAR TREAS BOND ETF (TLT) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Ishares 20+ Year Treas Bond ETF (Tlt)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "881",
+      "conflict": "Ishares 20+ Year Treas Bond ETF",
+      "conflictDescription": ""
+    }
+  ]
+}

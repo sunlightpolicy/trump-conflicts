@@ -3,8 +3,8 @@
     grid-template-areas: 
         "logo       title      title       title       title       title" 
         "search     search     stats       stats       stats       download" 
-        "date       date       conflict2   conflict2   conflict2   conflict2" 
-        "family     family     conflict2   conflict2   conflict2   conflict2"
+        "family     family     conflict2   conflict2   conflict2   conflict2" 
+        "conflict   conflict   conflict2   conflict2   conflict2   conflict2"
         "conflict   conflict   conflict2   conflict2   conflict2   conflict2"; 
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 30px 20px 10px 60px, 60px;

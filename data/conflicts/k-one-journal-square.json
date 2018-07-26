@@ -1,0 +1,282 @@
+{
+  "name": "K One Journal Square",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains income from K ONE JOURNAL SQUARE, LLC (Undeveloped Real Estate in Jersey City, NJ) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "K One Journal Square, LLC (Undeveloped Real Estate In Jersey City, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1009",
+              "owner": "K One Journal Square LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "1009",
+              "owner": "K One Journal Square, LLC (Undeveloped Real Estate In Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains income from K2 One Journal Square Member LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "K2 One Journal Square Member LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1157",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "1157",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains income from One Journal Square Partners Holdings LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "One Journal Square Partners Holdings LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1158",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "1158",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains income from One Journal Square Tower North Holdings LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "One Journal Square Tower North Holdings LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1159",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "1159",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains income from One Journal Square Tower South Holdings LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "One Journal Square Tower South Holdings LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Managing Member of K One Journal Square LLC from Feb 1, 2014, to Jan 1, 2017. Jared Kushner received $1,000,001 - $5,000,000 in Capital Gains income from K ONE JOURNAL SQUARE, LLC (Undeveloped Real Estate in Jersey City, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser. Because his interest in this entity reportedly has been divested, the potential conflict of interest is marked in this database as resolved. Capital gains amount is estimated.",
+          "business": "K One Journal Square LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1009",
+              "owner": "K One Journal Square LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "1009",
+              "owner": "K One Journal Square, LLC (Undeveloped Real Estate In Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Manager of K2 One Journal Square Member LLC from Dec 1, 2014, to Jan 1, 2017.",
+          "business": "K2 One Journal Square Member LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1157",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "1157",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President &amp; Secretary of One Journal Square Partners Holdings LLC from Dec 1, 2014, to Jan 1, 2017.",
+          "business": "One Journal Square Partners Holdings LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1158",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "1158",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President &amp; Secretary of One Journal Square Tower North Holdings LLC from Dec 1, 2014, to Jan 1, 2017.",
+          "business": "One Journal Square Tower North Holdings LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1159",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "1159",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President &amp; Secretary of One Journal Square Tower South Holdings LLC from Dec 1, 2014, to Jan 1, 2017.",
+          "business": "One Journal Square Tower South Holdings LLC",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "905",
+      "conflict": "K One Journal Square",
+      "conflictDescription": ""
+    }
+  ]
+}

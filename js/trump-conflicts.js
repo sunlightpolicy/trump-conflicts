@@ -9,37 +9,18 @@ var mediaOutletChart;
 
 var searchDim;
 
-d3.json("data/stories.json", function (err, data) {
-//d3.json("data/conflicts.json", function (err, data) {
+//d3.json("data/stories.json", function (err, data) {
+d3.json("data/conflicts.json", function (err, data) {
     data.forEach(function (d) {
-
-        //d.sourceType = "Office of Government Ethics";
-
-        //if (d.mediaOutlet != "Office of Government Ethics")
-        //    d.sourceType = "Media";
-        
-        //d.source = "N/A";
-        //if (typeof (d.sources[0]) != "undefined") {
-        //    d.source = d.sources[0].name;
-
-        //    if ((typeof (d.sources[1]) != "undefined") && (d.sources[1].name != d.source))
-        //        d.source = "Multiple Sources";
-        //}
-
-        //if (d.conflict == "")
-        //    d.conflict = "N/A";
-
-        //d.link = getMediaOutletAndHeadline(d);
-
-        //d.dateChanged = new Date(d.dateChanged);
-        //d.sourceDate = new Date(d.sourceDate);
+        //d.stories = +d.stories;
     });
 
-    //console.table(data);
+    console.table(data);
     var facts = crossfilter(data);
 
     searchDim = facts.dimension(function (d) {
-        return d.mediaOutlet.toLowerCase() + " " + d.conflict.toLowerCase();
+        //return d.mediaOutlet.toLowerCase() + " " + d.conflict.toLowerCase();
+        return d.name.toLowerCase();
     });
     
     d3.select("#search-input").on('keyup', function (event) {
@@ -158,8 +139,17 @@ d3.json("data/stories.json", function (err, data) {
         .dimension(tableDim)
         .group(function (d) {
             return conflictHeader(d) + ethicsPopupLink(d);
-        })  
-
+        })
+        .sortBy(function(d) {
+            var pad = "0000"
+            var ans = pad.substring(0, pad.length - d.stories.length) + d.stories;
+            console.log(ans);
+            return ans;
+            //return 10000 - d.stories;
+        })
+        .size(1000)
+        .order(d3.descending);
+    
 
 /*     dataTable = dc.dataTable("#dc-chart-table");
     var tableDim = facts.dimension(function(d) { return +d.Id; });
@@ -184,14 +174,18 @@ d3.json("data/stories.json", function (err, data) {
     dc.renderAll();    
 });
 
-function conflictHeader(d) {
+/* function conflictHeader(d) {
     return "<b>" + d.conflict + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> "; // + d.description;
+} */
+
+function conflictHeader(d) {
+    return d.stories + " <b>" + d.name + "</b> <em>" + d.description + "</em>"; 
 }
 
 function ethicsPopupLink(d) {
     let link = ""; 
     //link = " <a href=\"#\" onclick=\"timelinePopup(" + d.conflictId + "); return false\"><b>Timeline</b></a>"
-    link = " <a href=\"#\" onclick=\"timelinePopup('" + d.conflictSlug + "'); return false\"><b>Details</b></a>"
+    link = " <a href=\"#\" onclick=\"timelinePopup('" + d.slug + "'); return false\"><b>Details</b></a>"
     return link;
 }
 
@@ -201,15 +195,6 @@ function dateToYMD(date) {
     var y = date.getFullYear();
     return '' + y + '-' + (m <= 9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
 }
-
-/* function getMediaOutletAndHeadline(d) {
-    var text = "<b>" + d.mediaOutlet + "</b>";
-    if (d.headline != "")
-        text = text + " / " + d.headline;
-
-    return text;
-    //return '<a href="' + d.link + '" target="_blank">' + text + '</a>';
-} */
 
 function clearAll() {
     searchDim.filter(null); // clear text too?

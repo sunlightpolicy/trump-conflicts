@@ -1,0 +1,54 @@
+{
+  "name": "KF Middle River",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1098",
+              "owner": "AK MEMBER LLC (Residential Real Estate in Middle River, MD)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "1098",
+              "owner": "AK MEMBER LLC (Residential Real Estate in Middle River, MD)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $100,001 - $1,000,000 in Rent or Royalties income from Middle River JV LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Middle River JV LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "581",
+      "conflict": "KF Middle River",
+      "conflictDescription": ""
+    }
+  ]
+}

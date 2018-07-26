@@ -1,0 +1,42 @@
+{
+  "name": "DJNJ Frito",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received 17375 in Brokerage Commissions income from DJNJ FRITO, LLC (Insurance brokerage license; Florham Park, NJ) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "DJNJ FRITO, LLC (Insurance Brokerage License; Florham Park, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Non-member Manager of DJNJ Frito, LLC from Jan 1, 2011, to Jan 1, 2017. Jared Kushner received 17375 in Brokerage commissions income from DJNJ FRITO, LLC (Insurance brokerage license; Florham Park, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser. Because his interest in this entity reportedly has been divested, the potential conflict of interest is marked in this database as resolved.",
+          "business": "DJNJ FRITO, LLC",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "673",
+      "conflict": "DJNJ Frito",
+      "conflictDescription": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Florham Park Realty Associates",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $100,001 - $1,000,000 in Rent or Royalties income from FLORHAM PARK REALTY ASSOCIATES, LLC (Commercial Real Estate in Florham Park, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Florham Park Realty Associates, LLC (Commercial Real Estate In Florham Park, NJ)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "821",
+      "conflict": "Florham Park Realty Associates",
+      "conflictDescription": ""
+    }
+  ]
+}

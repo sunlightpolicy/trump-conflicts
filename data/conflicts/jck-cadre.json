@@ -1,0 +1,47 @@
+{
+  "name": "JCK Cadre",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Managing Member of JCK Cadre LLC from Jul 1, 2014, to May 1, 2017. Jared Kushner received $100,001 - $1,000,000 in Capital Gains income from JCK Cadre LLC (prior holding company for Quadro Partners; New York, NY) the year before his appointment as Pres. Trump&#39;s senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "JCK Cadre LLC (Prior Holding Company for Quadro Partners; New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Board Member of Quadro Partners, Inc. (d/b/a Cadre) (Real Estate Platform) from May 1, 2015, to Jan 1, 2017. Jared Kushner received None (or less than $201) in (income type not disclosed) income from Quadro Partners (d/b/a Cadre) (Real Estate Investment Platform in New York, NY) the year before his appointment as Pres. Trump&#39;s senior adviser. Kushner&#39;s financial disclosure states: &quot;(Kushner) has been and will continue to be recused from particular matters in the broker-dealer, real estate, and online financial services sectors to the extent they would have a direct and predictable effect on Cadre.&quot; However, because he retains ownership in the asset, this database categorizes the potential conflict as &quot;active.&quot;",
+          "business": "Quadro Partners, Inc. (D/B/A Cadre) (Real Estate Investment Platform In New York, NY",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "882",
+      "conflict": "JCK Cadre",
+      "conflictDescription": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Mmll",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Managing Member of MMLL LLC from Aug 1, 2015, to May 1, 2017. Jared Kushner received None (or less than $201) in (income type not disclosed) income from MMLL LLC (liquor license for restaurant at Monmouth Mall, Eatontown, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser. Kushner&#39;s financial disclosure indicates he &quot;intended to resign from this position in January 2017 and has not personally functioned as an officer since that time,&quot; and that the entity is in the divestment process. However, because it is not finalized, the potential conflict is marked as active.",
+          "business": "Mmll LLC (Liquor License for Restaurant At Monmouth Mall, Eatontown, NJ)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "883",
+      "conflict": "Mmll",
+      "conflictDescription": ""
+    }
+  ]
+}

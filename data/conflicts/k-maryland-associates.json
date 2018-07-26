@@ -1,0 +1,58 @@
+{
+  "name": "K Maryland Associates",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $100,001 - $1,000,000 or more in Rent or Royalties income from K MARYLAND ASSOCIATES, LLC (Residential Real Estate in Baltimore, Garrett and Prince George’s counties in Maryland) the year before his appointment as Pres. Trump’s senior adviser.",
+          "business": "K Maryland Associates, LLC (Residential Real Estate In Baltimore & Prince George’s County, MD)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "1087",
+              "owner": "MARYLAND APARTMENT HOLDINGS 10-PACK INVESTOR , LLC (Residential Real Estate in Baltimore and Prince George's County, MD)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Executive Committee &amp; Venture Coordinator of Maryland Apartment Holdings 10-Pack JV, LLC from Aug 1, 2012, to Jan 1, 2017.",
+          "business": "Maryland Apartment Holdings 10-PaCK Jv, LLC",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "651",
+      "conflict": "K Maryland Associates",
+      "conflictDescription": ""
+    }
+  ]
+}

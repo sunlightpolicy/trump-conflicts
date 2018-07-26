@@ -1,0 +1,53 @@
+{
+  "name": "Flatbush 340",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "692",
+              "owner": "Flatbush 340 Lender LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President and Authorized Signatory of 340 Flatbush Lender, LLC from Dec 1, 2015, to Jan 1, 2017. The business entity holds a loan receivable from 9 Dekalb Owner LLC, Brooklyn, NY.",
+          "business": "340 Flatbush Lender, LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Non-member Manager of Flatbush 340 Lender, LLC from Dec 1, 2015, to Jan 1, 2017. Jared Kushner received $100,001 - $1,000,000 or more in Interest income from Flatbush 340 Lender LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY) the year before his appointment as Pres. Trump''s senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "Flatbush 340 Lender LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "558",
+      "conflict": "Flatbush 340",
+      "conflictDescription": ""
+    }
+  ]
+}

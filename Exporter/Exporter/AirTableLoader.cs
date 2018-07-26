@@ -340,7 +340,7 @@ namespace Phase2 {
             WriteSlugs(outputPath);
         }
 
-        private static void WriteSlugs(string outputPath) {
+        public static void WriteSlugs(string outputPath) {
 
             var slugUpdates = new List<string>();
 

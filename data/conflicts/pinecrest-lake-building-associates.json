@@ -1,0 +1,33 @@
+{
+  "name": "Pinecrest Lake Building Associates",
+  "description": "",
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received None (or less than $201) in (income type not disclosed) income from PINECREST LAKE BUILDING ASSOCIATES, LP (Undeveloped Real Estate in Tobyhanna Township, PA) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Pinecrest Lake Building Associates, LP (Undeveloped Real Estate In Tobyhanna Township, Pa)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "1112",
+      "conflict": "Pinecrest Lake Building Associates",
+      "conflictDescription": ""
+    }
+  ]
+}

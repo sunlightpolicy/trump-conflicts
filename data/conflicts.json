@@ -1,16 +1,8 @@
 [
   {
-    "name": ">",
-    "description": "",
-    "slug": "",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump"
-  },
-  {
     "name": "115 East 87",
     "description": "",
-    "slug": "",
+    "slug": "115-east-87",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -26,7 +18,7 @@
   {
     "name": "184 Kent Associates",
     "description": "",
-    "slug": "",
+    "slug": "184-kent-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -34,7 +26,7 @@
   {
     "name": "184 Kent Associates",
     "description": "",
-    "slug": "",
+    "slug": "184-kent-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -42,7 +34,7 @@
   {
     "name": "2 Rector Kushner",
     "description": "",
-    "slug": "",
+    "slug": "2-rector-kushner",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -50,7 +42,7 @@
   {
     "name": "20 de Bariloche",
     "description": "",
-    "slug": "",
+    "slug": "20-de-bariloche",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -58,7 +50,7 @@
   {
     "name": "21st Century Fox",
     "description": "",
-    "slug": "",
+    "slug": "21st-century-fox",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -66,7 +58,7 @@
   {
     "name": "29 Second Avenue Realty",
     "description": "",
-    "slug": "",
+    "slug": "29-second-avenue-realty",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -74,7 +66,7 @@
   {
     "name": "30 Florham Associates",
     "description": "",
-    "slug": "",
+    "slug": "30-florham-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -122,7 +114,7 @@
   {
     "name": "55 Challenger Road Associates",
     "description": "",
-    "slug": "",
+    "slug": "55-challenger-road-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -130,7 +122,7 @@
   {
     "name": "55 Challenger Road Associates",
     "description": "",
-    "slug": "",
+    "slug": "55-challenger-road-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -138,7 +130,7 @@
   {
     "name": "65 Bay",
     "description": "",
-    "slug": "",
+    "slug": "65-bay",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -146,7 +138,7 @@
   {
     "name": "65 Bay",
     "description": "",
-    "slug": "",
+    "slug": "65-bay",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -154,7 +146,7 @@
   {
     "name": "666 KC Management",
     "description": "",
-    "slug": "",
+    "slug": "666-kc-management",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -162,7 +154,7 @@
   {
     "name": "715 Park Avenue Associates",
     "description": "",
-    "slug": "",
+    "slug": "715-park-avenue-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -178,7 +170,7 @@
   {
     "name": "80 ML",
     "description": "",
-    "slug": "",
+    "slug": "80-ml",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -210,7 +202,7 @@
   {
     "name": "A&Q",
     "description": "",
-    "slug": "",
+    "slug": "aq",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -226,7 +218,7 @@
   {
     "name": "Alabama Public Schools",
     "description": "",
-    "slug": "",
+    "slug": "alabama-public-schools",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -258,7 +250,7 @@
   {
     "name": "B Monmouth Mall",
     "description": "",
-    "slug": "",
+    "slug": "b-monmouth-mall",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -266,7 +258,7 @@
   {
     "name": "B Monmouth Mall",
     "description": "",
-    "slug": "",
+    "slug": "b-monmouth-mall",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -282,7 +274,7 @@
   {
     "name": "Bank of America",
     "description": "",
-    "slug": "",
+    "slug": "bank-of-america",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -290,7 +282,7 @@
   {
     "name": "Battery Park City",
     "description": "",
-    "slug": "",
+    "slug": "battery-park-city",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -306,7 +298,7 @@
   {
     "name": "Bfps Ventures",
     "description": "",
-    "slug": "",
+    "slug": "bfps-ventures",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -314,7 +306,7 @@
   {
     "name": "Blackstone Strategic Alliance Fund II",
     "description": "",
-    "slug": "",
+    "slug": "blackstone-strategic-alliance-fund-ii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -322,7 +314,7 @@
   {
     "name": "Boeing",
     "description": "",
-    "slug": "",
+    "slug": "boeing",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -330,7 +322,7 @@
   {
     "name": "Boston MA Bonds",
     "description": "",
-    "slug": "",
+    "slug": "boston-ma-bonds",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -346,7 +338,7 @@
   {
     "name": "Broadband Proliferation Partners",
     "description": "",
-    "slug": "",
+    "slug": "broadband-proliferation-partners",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -354,7 +346,7 @@
   {
     "name": "Bruckner Plaza Center",
     "description": "",
-    "slug": "",
+    "slug": "bruckner-plaza-center",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -362,7 +354,7 @@
   {
     "name": "Bruckner Plaza Center",
     "description": "",
-    "slug": "",
+    "slug": "bruckner-plaza-center",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -378,7 +370,7 @@
   {
     "name": "C-III Recovery Fund I",
     "description": "",
-    "slug": "",
+    "slug": "c-iii-recovery-fund-i",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -386,7 +378,7 @@
   {
     "name": "California St Bonds",
     "description": "",
-    "slug": "",
+    "slug": "california-st-bonds",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -394,7 +386,7 @@
   {
     "name": "California St Dept of Wtr",
     "description": "",
-    "slug": "",
+    "slug": "california-st-dept-of-wtr",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -418,7 +410,7 @@
   {
     "name": "Centerview Capital",
     "description": "",
-    "slug": "",
+    "slug": "centerview-capital",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -426,7 +418,7 @@
   {
     "name": "Centerview Capital",
     "description": "",
-    "slug": "",
+    "slug": "centerview-capital",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -434,7 +426,7 @@
   {
     "name": "Charlotte NC",
     "description": "",
-    "slug": "",
+    "slug": "charlotte-nc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -442,7 +434,7 @@
   {
     "name": "Chatham Hill Associates",
     "description": "",
-    "slug": "",
+    "slug": "chatham-hill-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -450,7 +442,7 @@
   {
     "name": "Chatham Hill Associates",
     "description": "",
-    "slug": "",
+    "slug": "chatham-hill-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -482,7 +474,7 @@
   {
     "name": "Cisco Sys",
     "description": "",
-    "slug": "",
+    "slug": "cisco-sys",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -490,7 +482,7 @@
   {
     "name": "CK Bergen Associates",
     "description": "",
-    "slug": "",
+    "slug": "ck-bergen-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -498,7 +490,7 @@
   {
     "name": "CK Bergen Associates",
     "description": "",
-    "slug": "",
+    "slug": "ck-bergen-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -506,7 +498,7 @@
   {
     "name": "CK Livingston Esplanade",
     "description": "",
-    "slug": "",
+    "slug": "ck-livingston-esplanade",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -514,7 +506,7 @@
   {
     "name": "CK Livingston Esplanade",
     "description": "",
-    "slug": "",
+    "slug": "ck-livingston-esplanade",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -522,7 +514,7 @@
   {
     "name": "Claremount IV Associates",
     "description": "",
-    "slug": "",
+    "slug": "claremount-iv-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -530,7 +522,7 @@
   {
     "name": "Claremount IV Associates",
     "description": "",
-    "slug": "",
+    "slug": "claremount-iv-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -546,7 +538,7 @@
   {
     "name": "CNA FINL",
     "description": "",
-    "slug": "",
+    "slug": "cna-finl",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -554,7 +546,7 @@
   {
     "name": "Columbia Windows",
     "description": "",
-    "slug": "",
+    "slug": "columbia-windows",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -562,7 +554,7 @@
   {
     "name": "Columbia Windows",
     "description": "",
-    "slug": "",
+    "slug": "columbia-windows",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -610,7 +602,7 @@
   {
     "name": "Cranbury Building Associates",
     "description": "",
-    "slug": "",
+    "slug": "cranbury-building-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -618,7 +610,7 @@
   {
     "name": "Cranbury Building Associates",
     "description": "",
-    "slug": "",
+    "slug": "cranbury-building-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -650,7 +642,7 @@
   {
     "name": "Deer Tree Building Associates",
     "description": "",
-    "slug": "",
+    "slug": "deer-tree-building-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -658,7 +650,7 @@
   {
     "name": "Development Corporation for Israel",
     "description": "",
-    "slug": "",
+    "slug": "development-corporation-for-israel",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -666,7 +658,7 @@
   {
     "name": "Development Corporation for Israel",
     "description": "",
-    "slug": "",
+    "slug": "development-corporation-for-israel",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -682,7 +674,7 @@
   {
     "name": "DJNJ Frito",
     "description": "",
-    "slug": "",
+    "slug": "djnj-frito",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -690,7 +682,7 @@
   {
     "name": "DJNJ Frito",
     "description": "",
-    "slug": "",
+    "slug": "djnj-frito",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -746,7 +738,7 @@
   {
     "name": "Dominion Resources",
     "description": "",
-    "slug": "",
+    "slug": "dominion-resources",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1178,7 +1170,7 @@
   {
     "name": "Durham Cnty",
     "description": "",
-    "slug": "",
+    "slug": "durham-cnty",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1186,7 +1178,7 @@
   {
     "name": "Dutchess Cnty NY",
     "description": "",
-    "slug": "",
+    "slug": "dutchess-cnty-ny",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1202,7 +1194,7 @@
   {
     "name": "Eaton Vance Global",
     "description": "",
-    "slug": "",
+    "slug": "eaton-vance-global",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1210,7 +1202,7 @@
   {
     "name": "Ecolab",
     "description": "",
-    "slug": "",
+    "slug": "ecolab",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1234,7 +1226,7 @@
   {
     "name": "Elmwood V. Associates",
     "description": "",
-    "slug": "",
+    "slug": "elmwood-v-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1242,7 +1234,7 @@
   {
     "name": "Elmwood V. Associates",
     "description": "",
-    "slug": "",
+    "slug": "elmwood-v-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1250,7 +1242,7 @@
   {
     "name": "Erie County, NY",
     "description": "",
-    "slug": "",
+    "slug": "erie-county-ny",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1274,7 +1266,7 @@
   {
     "name": "FabFitFun",
     "description": "",
-    "slug": "",
+    "slug": "fabfitfun",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1282,7 +1274,7 @@
   {
     "name": "Faire Fund",
     "description": "",
-    "slug": "",
+    "slug": "faire-fund",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1290,7 +1282,7 @@
   {
     "name": "Faire Fund",
     "description": "",
-    "slug": "",
+    "slug": "faire-fund",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1322,7 +1314,7 @@
   {
     "name": "Flatbush 340",
     "description": "",
-    "slug": "",
+    "slug": "flatbush-340",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1338,7 +1330,7 @@
   {
     "name": "Florham Park Realty Associates",
     "description": "",
-    "slug": "",
+    "slug": "florham-park-realty-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1362,7 +1354,7 @@
   {
     "name": "Ford Mtr",
     "description": "",
-    "slug": "",
+    "slug": "ford-mtr",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1378,7 +1370,7 @@
   {
     "name": "Gallant Funding",
     "description": "",
-    "slug": "",
+    "slug": "gallant-funding",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1386,7 +1378,7 @@
   {
     "name": "Gallant Funding",
     "description": "",
-    "slug": "",
+    "slug": "gallant-funding",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1394,7 +1386,7 @@
   {
     "name": "Gellert 80 West End",
     "description": "",
-    "slug": "",
+    "slug": "gellert-80-west-end",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1402,7 +1394,7 @@
   {
     "name": "Gellert 80 West End",
     "description": "",
-    "slug": "",
+    "slug": "gellert-80-west-end",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1410,7 +1402,7 @@
   {
     "name": "Georgia St Bonds",
     "description": "",
-    "slug": "",
+    "slug": "georgia-st-bonds",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1442,7 +1434,7 @@
   {
     "name": "Gowan Associates",
     "description": "",
-    "slug": "",
+    "slug": "gowan-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1450,7 +1442,7 @@
   {
     "name": "Gowan Associates",
     "description": "",
-    "slug": "",
+    "slug": "gowan-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1458,7 +1450,7 @@
   {
     "name": "Greenburgh NY",
     "description": "",
-    "slug": "",
+    "slug": "greenburgh-ny",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1474,7 +1466,7 @@
   {
     "name": "Hennessy Gas Utility",
     "description": "",
-    "slug": "",
+    "slug": "hennessy-gas-utility",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1498,7 +1490,7 @@
   {
     "name": "Home Depot",
     "description": "",
-    "slug": "",
+    "slug": "home-depot",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1610,7 +1602,7 @@
   {
     "name": "Iroquois Properties",
     "description": "",
-    "slug": "",
+    "slug": "iroquois-properties",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1618,7 +1610,7 @@
   {
     "name": "Iroquois Properties",
     "description": "",
-    "slug": "",
+    "slug": "iroquois-properties",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1626,7 +1618,7 @@
   {
     "name": "Ishares 20+ Year Treas Bond ETF",
     "description": "",
-    "slug": "",
+    "slug": "ishares-20-year-treas-bond-etf",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1634,7 +1626,7 @@
   {
     "name": "J.P. Morgan",
     "description": "",
-    "slug": "",
+    "slug": "jp-morgan",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1642,7 +1634,7 @@
   {
     "name": "JCK Cadre",
     "description": "",
-    "slug": "",
+    "slug": "jck-cadre",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1650,7 +1642,7 @@
   {
     "name": "JK Thrive IV",
     "description": "",
-    "slug": "",
+    "slug": "jk-thrive-iv",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1658,7 +1650,7 @@
   {
     "name": "JK THRIVE V",
     "description": "",
-    "slug": "",
+    "slug": "jk-thrive-v",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1666,7 +1658,7 @@
   {
     "name": "JKM Capital",
     "description": "",
-    "slug": "",
+    "slug": "jkm-capital",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1682,7 +1674,7 @@
   {
     "name": "K 26 Journal Square",
     "description": "",
-    "slug": "",
+    "slug": "k-26-journal-square",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1690,7 +1682,7 @@
   {
     "name": "K 26 Journal Square",
     "description": "",
-    "slug": "",
+    "slug": "k-26-journal-square",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1698,7 +1690,7 @@
   {
     "name": "K 30 Journal Square",
     "description": "",
-    "slug": "",
+    "slug": "k-30-journal-square",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1706,7 +1698,7 @@
   {
     "name": "K 30 Journal Square",
     "description": "",
-    "slug": "",
+    "slug": "k-30-journal-square",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1714,7 +1706,7 @@
   {
     "name": "K Astoria",
     "description": "",
-    "slug": "",
+    "slug": "k-astoria",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1722,7 +1714,7 @@
   {
     "name": "K Astoria",
     "description": "",
-    "slug": "",
+    "slug": "k-astoria",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1730,7 +1722,7 @@
   {
     "name": "K Gaia Village  2 Associates",
     "description": "",
-    "slug": "",
+    "slug": "k-gaia-village-2-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1738,7 +1730,7 @@
   {
     "name": "K Gaia Village  2 Associates",
     "description": "",
-    "slug": "",
+    "slug": "k-gaia-village-2-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1746,7 +1738,7 @@
   {
     "name": "K Gaia Village 1 Associates",
     "description": "",
-    "slug": "",
+    "slug": "k-gaia-village-1-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1754,7 +1746,7 @@
   {
     "name": "K Gaia Village 1 Associates",
     "description": "",
-    "slug": "",
+    "slug": "k-gaia-village-1-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1762,7 +1754,7 @@
   {
     "name": "K Maryland Associates",
     "description": "",
-    "slug": "",
+    "slug": "k-maryland-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1770,7 +1762,7 @@
   {
     "name": "K One Journal Square",
     "description": "",
-    "slug": "",
+    "slug": "k-one-journal-square",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1778,7 +1770,7 @@
   {
     "name": "K One Journal Square",
     "description": "",
-    "slug": "",
+    "slug": "k-one-journal-square",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1786,7 +1778,7 @@
   {
     "name": "K Stonehage Village 1 Associates",
     "description": "",
-    "slug": "",
+    "slug": "k-stonehage-village-1-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1794,7 +1786,7 @@
   {
     "name": "K Stonehage Village 1 Associates",
     "description": "",
-    "slug": "",
+    "slug": "k-stonehage-village-1-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1802,7 +1794,7 @@
   {
     "name": "Kaszek Ventures",
     "description": "",
-    "slug": "",
+    "slug": "kaszek-ventures",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1810,7 +1802,7 @@
   {
     "name": "KC Dumbo Hotel",
     "description": "",
-    "slug": "",
+    "slug": "kc-dumbo-hotel",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1818,7 +1810,7 @@
   {
     "name": "KC Dumbo Hotel",
     "description": "",
-    "slug": "",
+    "slug": "kc-dumbo-hotel",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1826,7 +1818,7 @@
   {
     "name": "KC Dumbo Office",
     "description": "",
-    "slug": "",
+    "slug": "kc-dumbo-office",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1834,7 +1826,7 @@
   {
     "name": "KC Dumbo Office",
     "description": "",
-    "slug": "",
+    "slug": "kc-dumbo-office",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1842,7 +1834,7 @@
   {
     "name": "KCOF-215 Moore",
     "description": "",
-    "slug": "",
+    "slug": "kcof-215-moore",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1850,7 +1842,7 @@
   {
     "name": "KF Middle River",
     "description": "",
-    "slug": "",
+    "slug": "kf-middle-river",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1858,7 +1850,7 @@
   {
     "name": "KF Middle River",
     "description": "",
-    "slug": "",
+    "slug": "kf-middle-river",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1866,7 +1858,7 @@
   {
     "name": "KF Westwood Partner",
     "description": "",
-    "slug": "",
+    "slug": "kf-westwood-partner",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1874,7 +1866,7 @@
   {
     "name": "KF Westwood Partner",
     "description": "",
-    "slug": "",
+    "slug": "kf-westwood-partner",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1882,7 +1874,7 @@
   {
     "name": "KF- C-III Recovery Fund II",
     "description": "",
-    "slug": "",
+    "slug": "kf-c-iii-recovery-fund-ii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1890,7 +1882,7 @@
   {
     "name": "KF- C-III Recovery Fund II",
     "description": "",
-    "slug": "",
+    "slug": "kf-c-iii-recovery-fund-ii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1898,7 +1890,7 @@
   {
     "name": "KF- Faire Fund II",
     "description": "",
-    "slug": "",
+    "slug": "kf-faire-fund-ii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1906,7 +1898,7 @@
   {
     "name": "KF- Faire Fund II",
     "description": "",
-    "slug": "",
+    "slug": "kf-faire-fund-ii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1914,7 +1906,7 @@
   {
     "name": "KF- Park Street Capital Pe Fund Ix",
     "description": "",
-    "slug": "",
+    "slug": "kf-park-street-capital-pe-fund-ix",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1922,7 +1914,7 @@
   {
     "name": "KF- Park Street Capital Pe Fund Ix",
     "description": "",
-    "slug": "",
+    "slug": "kf-park-street-capital-pe-fund-ix",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1930,7 +1922,7 @@
   {
     "name": "KF- Rcg Longview Debt Fund IV",
     "description": "",
-    "slug": "",
+    "slug": "kf-rcg-longview-debt-fund-iv",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1938,7 +1930,7 @@
   {
     "name": "KF- Rcg Longview Debt Fund IV",
     "description": "",
-    "slug": "",
+    "slug": "kf-rcg-longview-debt-fund-iv",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1946,7 +1938,7 @@
   {
     "name": "KF-BLS Member",
     "description": "",
-    "slug": "",
+    "slug": "kf-bls-member",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1954,7 +1946,7 @@
   {
     "name": "KF-BLS Member",
     "description": "",
-    "slug": "",
+    "slug": "kf-bls-member",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1962,7 +1954,7 @@
   {
     "name": "KF-CENTERVIEW",
     "description": "",
-    "slug": "",
+    "slug": "kf-centerview",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -1970,7 +1962,7 @@
   {
     "name": "KF-CENTERVIEW",
     "description": "",
-    "slug": "",
+    "slug": "kf-centerview",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1978,7 +1970,7 @@
   {
     "name": "KF-WIP Co. Investors",
     "description": "",
-    "slug": "",
+    "slug": "kf-wip-co-investors",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1986,7 +1978,7 @@
   {
     "name": "KFF 29 Second Avenue",
     "description": "",
-    "slug": "",
+    "slug": "kff-29-second-avenue",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -1994,7 +1986,7 @@
   {
     "name": "KKC Associates",
     "description": "",
-    "slug": "",
+    "slug": "kkc-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2002,7 +1994,7 @@
   {
     "name": "Kushner Media Ventures",
     "description": "",
-    "slug": "",
+    "slug": "kushner-media-ventures",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2010,7 +2002,7 @@
   {
     "name": "Kushner Media Ventures",
     "description": "",
-    "slug": "",
+    "slug": "kushner-media-ventures",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2018,7 +2010,7 @@
   {
     "name": "Kushner Midwest Partners",
     "description": "",
-    "slug": "",
+    "slug": "kushner-midwest-partners",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2026,7 +2018,7 @@
   {
     "name": "Kushner Philadelphia Member",
     "description": "",
-    "slug": "",
+    "slug": "kushner-philadelphia-member",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2034,7 +2026,7 @@
   {
     "name": "Kushner Philadelphia Member",
     "description": "",
-    "slug": "",
+    "slug": "kushner-philadelphia-member",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2042,7 +2034,7 @@
   {
     "name": "Kushner Village 2 Member",
     "description": "",
-    "slug": "",
+    "slug": "kushner-village-2-member",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2066,7 +2058,7 @@
   {
     "name": "Landings Apartments",
     "description": "",
-    "slug": "",
+    "slug": "landings-apartments",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2074,7 +2066,7 @@
   {
     "name": "Landings Apartments",
     "description": "",
-    "slug": "",
+    "slug": "landings-apartments",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2082,7 +2074,7 @@
   {
     "name": "Landings at Caspian Pointe",
     "description": "",
-    "slug": "",
+    "slug": "landings-at-caspian-pointe",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2090,7 +2082,7 @@
   {
     "name": "Landings at Harborside",
     "description": "",
-    "slug": "",
+    "slug": "landings-at-harborside",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2106,7 +2098,7 @@
   {
     "name": "Leeds Equity Partners",
     "description": "",
-    "slug": "",
+    "slug": "leeds-equity-partners",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2122,7 +2114,7 @@
   {
     "name": "Lindenlawn Apartment Associates",
     "description": "",
-    "slug": "",
+    "slug": "lindenlawn-apartment-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2130,7 +2122,7 @@
   {
     "name": "LW Investors",
     "description": "",
-    "slug": "",
+    "slug": "lw-investors",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2138,7 +2130,7 @@
   {
     "name": "LW Investors",
     "description": "",
-    "slug": "",
+    "slug": "lw-investors",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2146,7 +2138,7 @@
   {
     "name": "Magnolia Building Associates",
     "description": "",
-    "slug": "",
+    "slug": "magnolia-building-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2162,7 +2154,7 @@
   {
     "name": "Maryland St Dept",
     "description": "",
-    "slug": "",
+    "slug": "maryland-st-dept",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2170,7 +2162,7 @@
   {
     "name": "Massachusetts St WTR Polutn Bonds",
     "description": "",
-    "slug": "",
+    "slug": "massachusetts-st-wtr-polutn-bonds",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2178,7 +2170,7 @@
   {
     "name": "Mecklenburg Cnty NC",
     "description": "",
-    "slug": "",
+    "slug": "mecklenburg-cnty-nc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2194,7 +2186,7 @@
   {
     "name": "Merritt Associates",
     "description": "",
-    "slug": "",
+    "slug": "merritt-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2202,7 +2194,7 @@
   {
     "name": "Met Transprtn Ser A",
     "description": "",
-    "slug": "",
+    "slug": "met-transprtn-ser-a",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2210,7 +2202,7 @@
   {
     "name": "Met Transprtn Ser C",
     "description": "",
-    "slug": "",
+    "slug": "met-transprtn-ser-c",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2218,7 +2210,7 @@
   {
     "name": "Metlife",
     "description": "",
-    "slug": "",
+    "slug": "metlife",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2226,7 +2218,7 @@
   {
     "name": "Microsoft",
     "description": "",
-    "slug": "",
+    "slug": "microsoft",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2250,7 +2242,7 @@
   {
     "name": "Mmll",
     "description": "",
-    "slug": "",
+    "slug": "mmll",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2266,7 +2258,7 @@
   {
     "name": "Monmouth Mall",
     "description": "",
-    "slug": "",
+    "slug": "monmouth-mall",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2274,7 +2266,7 @@
   {
     "name": "Monmouth Mall",
     "description": "",
-    "slug": "",
+    "slug": "monmouth-mall",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2282,7 +2274,7 @@
   {
     "name": "Monmouth Mall 2",
     "description": "",
-    "slug": "",
+    "slug": "monmouth-mall-2",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2290,7 +2282,7 @@
   {
     "name": "Monmouth Mall 2",
     "description": "",
-    "slug": "",
+    "slug": "monmouth-mall-2",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2306,7 +2298,7 @@
   {
     "name": "Nassau Cnty NY",
     "description": "",
-    "slug": "",
+    "slug": "nassau-cnty-ny",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2322,7 +2314,7 @@
   {
     "name": "New Jersey Renewable Power",
     "description": "",
-    "slug": "",
+    "slug": "new-jersey-renewable-power",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2330,7 +2322,7 @@
   {
     "name": "New Jersey Renewable Power",
     "description": "",
-    "slug": "",
+    "slug": "new-jersey-renewable-power",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2338,7 +2330,7 @@
   {
     "name": "New Jersey Renewable Power Corp",
     "description": "",
-    "slug": "",
+    "slug": "new-jersey-renewable-power-corp",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2346,7 +2338,7 @@
   {
     "name": "New York City NY Muni Wtr",
     "description": "",
-    "slug": "",
+    "slug": "new-york-city-ny-muni-wtr",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2354,7 +2346,7 @@
   {
     "name": "New York NY Ser B",
     "description": "",
-    "slug": "",
+    "slug": "new-york-ny-ser-b",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2362,7 +2354,7 @@
   {
     "name": "New York NY Ser E",
     "description": "",
-    "slug": "",
+    "slug": "new-york-ny-ser-e",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2370,7 +2362,7 @@
   {
     "name": "New York NY Var Subser",
     "description": "",
-    "slug": "",
+    "slug": "new-york-ny-var-subser",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2378,7 +2370,7 @@
   {
     "name": "New York St Bonds",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-bonds",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2386,7 +2378,7 @@
   {
     "name": "New York St Dorm Auth Ser A",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-dorm-auth-ser-a",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2394,7 +2386,7 @@
   {
     "name": "New York St Dorm Auth Ser E",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-dorm-auth-ser-e",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2402,7 +2394,7 @@
   {
     "name": "NEW YORK ST DORM AUTH ST PERSONAL Ser A",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-dorm-auth-st-personal-ser-a",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2410,7 +2402,7 @@
   {
     "name": "New York St Dorm UnIV B",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-dorm-univ-b",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2418,7 +2410,7 @@
   {
     "name": "New York ST Environ",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-environ",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2426,7 +2418,7 @@
   {
     "name": "New York ST Local Govt Assistance Corp",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-local-govt-assistance-corp",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2434,7 +2426,7 @@
   {
     "name": "New York St Ser A",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-ser-a",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2442,7 +2434,7 @@
   {
     "name": "New York St SER E",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-ser-e",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2450,7 +2442,7 @@
   {
     "name": "New York St Thruway",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-thruway",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2458,7 +2450,7 @@
   {
     "name": "New York ST Urban Dev",
     "description": "",
-    "slug": "",
+    "slug": "new-york-st-urban-dev",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2466,7 +2458,7 @@
   {
     "name": "New York State Urban Dev",
     "description": "",
-    "slug": "",
+    "slug": "new-york-state-urban-dev",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2474,7 +2466,7 @@
   {
     "name": "News Corporation",
     "description": "",
-    "slug": "",
+    "slug": "news-corporation",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2482,7 +2474,7 @@
   {
     "name": "Nextera Energy",
     "description": "",
-    "slug": "",
+    "slug": "nextera-energy",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2498,7 +2490,7 @@
   {
     "name": "Nuveen Enhanced Amt-Free Municipal CredIT Opportunities Fund",
     "description": "",
-    "slug": "",
+    "slug": "nuveen-enhanced-amt-free-municipal-credit-opportunities-fund",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2506,7 +2498,7 @@
   {
     "name": "Oakwood Garden Associates",
     "description": "",
-    "slug": "",
+    "slug": "oakwood-garden-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2514,7 +2506,7 @@
   {
     "name": "Oakwood Garden Associates",
     "description": "",
-    "slug": "",
+    "slug": "oakwood-garden-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2522,7 +2514,7 @@
   {
     "name": "Observer Capital",
     "description": "",
-    "slug": "",
+    "slug": "observer-capital",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2530,7 +2522,7 @@
   {
     "name": "OC Partners",
     "description": "",
-    "slug": "",
+    "slug": "oc-partners",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2554,7 +2546,7 @@
   {
     "name": "Onondaga",
     "description": "",
-    "slug": "",
+    "slug": "onondaga",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2570,7 +2562,7 @@
   {
     "name": "OppenheimerFunds",
     "description": "",
-    "slug": "",
+    "slug": "oppenheimerfunds",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2578,7 +2570,7 @@
   {
     "name": "Oregon St",
     "description": "",
-    "slug": "",
+    "slug": "oregon-st",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2594,7 +2586,7 @@
   {
     "name": "P.V. Development",
     "description": "",
-    "slug": "",
+    "slug": "pv-development",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2634,7 +2626,7 @@
   {
     "name": "Park Street Capital",
     "description": "",
-    "slug": "",
+    "slug": "park-street-capital",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2642,7 +2634,7 @@
   {
     "name": "Park Street Capital",
     "description": "",
-    "slug": "",
+    "slug": "park-street-capital",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2650,7 +2642,7 @@
   {
     "name": "Pepsico",
     "description": "",
-    "slug": "",
+    "slug": "pepsico",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2658,7 +2650,7 @@
   {
     "name": "Pimco Enhanced",
     "description": "",
-    "slug": "",
+    "slug": "pimco-enhanced",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2666,7 +2658,7 @@
   {
     "name": "Pimco Rae Fundamental Advantage Plus Fund",
     "description": "",
-    "slug": "",
+    "slug": "pimco-rae-fundamental-advantage-plus-fund",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2682,7 +2674,7 @@
   {
     "name": "Pinecrest Lake Building Associates",
     "description": "",
-    "slug": "",
+    "slug": "pinecrest-lake-building-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2714,7 +2706,7 @@
   {
     "name": "Port Auth of New York",
     "description": "",
-    "slug": "",
+    "slug": "port-auth-of-new-york",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2722,7 +2714,7 @@
   {
     "name": "Puck Building",
     "description": "",
-    "slug": "",
+    "slug": "puck-building",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2730,7 +2722,7 @@
   {
     "name": "Puck Building",
     "description": "",
-    "slug": "",
+    "slug": "puck-building",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2738,7 +2730,7 @@
   {
     "name": "Puck Residential Associates",
     "description": "",
-    "slug": "",
+    "slug": "puck-residential-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2746,7 +2738,7 @@
   {
     "name": "Puck Residential Associates",
     "description": "",
-    "slug": "",
+    "slug": "puck-residential-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2754,7 +2746,7 @@
   {
     "name": "RCG Longview Debt Fund IV",
     "description": "",
-    "slug": "",
+    "slug": "rcg-longview-debt-fund-iv",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2762,7 +2754,7 @@
   {
     "name": "RCG Longview Debt Fund IV",
     "description": "",
-    "slug": "",
+    "slug": "rcg-longview-debt-fund-iv",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2778,7 +2770,7 @@
   {
     "name": "Regal Bank",
     "description": "",
-    "slug": "",
+    "slug": "regal-bank",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2794,7 +2786,7 @@
   {
     "name": "Rockwell Automation",
     "description": "",
-    "slug": "",
+    "slug": "rockwell-automation",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2802,7 +2794,7 @@
   {
     "name": "Route 10 Associates",
     "description": "",
-    "slug": "",
+    "slug": "route-10-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2810,7 +2802,7 @@
   {
     "name": "Route 10 Associates",
     "description": "",
-    "slug": "",
+    "slug": "route-10-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2834,7 +2826,7 @@
   {
     "name": "Sales Tax Asset Receivable",
     "description": "",
-    "slug": "",
+    "slug": "sales-tax-asset-receivable",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2842,7 +2834,7 @@
   {
     "name": "Schlumberger LTD",
     "description": "",
-    "slug": "",
+    "slug": "schlumberger-ltd",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2890,7 +2882,7 @@
   {
     "name": "Sixty Capital Fund",
     "description": "",
-    "slug": "",
+    "slug": "sixty-capital-fund",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2898,7 +2890,7 @@
   {
     "name": "Sixty One Associates",
     "description": "",
-    "slug": "",
+    "slug": "sixty-one-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2906,7 +2898,7 @@
   {
     "name": "Sixty-Six West Associates",
     "description": "",
-    "slug": "",
+    "slug": "sixty-six-west-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2914,7 +2906,7 @@
   {
     "name": "Skyline Kushner",
     "description": "",
-    "slug": "",
+    "slug": "skyline-kushner",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2922,7 +2914,7 @@
   {
     "name": "Skyline Kushner",
     "description": "",
-    "slug": "",
+    "slug": "skyline-kushner",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2938,7 +2930,7 @@
   {
     "name": "SQ Associates",
     "description": "",
-    "slug": "",
+    "slug": "sq-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2946,7 +2938,7 @@
   {
     "name": "SQ Associates",
     "description": "",
-    "slug": "",
+    "slug": "sq-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2954,7 +2946,7 @@
   {
     "name": "SQK Associates",
     "description": "",
-    "slug": "",
+    "slug": "sqk-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2962,7 +2954,7 @@
   {
     "name": "SQK Associates",
     "description": "",
-    "slug": "",
+    "slug": "sqk-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2970,7 +2962,7 @@
   {
     "name": "Square Mile Partners",
     "description": "",
-    "slug": "",
+    "slug": "square-mile-partners",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -2978,7 +2970,7 @@
   {
     "name": "Square Mile Partners",
     "description": "",
-    "slug": "",
+    "slug": "square-mile-partners",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -2994,7 +2986,7 @@
   {
     "name": "State Tower of Syracuse Associates",
     "description": "",
-    "slug": "",
+    "slug": "state-tower-of-syracuse-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -3002,7 +2994,7 @@
   {
     "name": "Stone 16 Associates",
     "description": "",
-    "slug": "",
+    "slug": "stone-16-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -3058,7 +3050,7 @@
   {
     "name": "Templeton Gim",
     "description": "",
-    "slug": "",
+    "slug": "templeton-gim",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -3290,7 +3282,7 @@
   {
     "name": "The Obsidian Fund",
     "description": "",
-    "slug": "",
+    "slug": "the-obsidian-fund",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -3330,7 +3322,7 @@
   {
     "name": "Thrive Capital Partners",
     "description": "",
-    "slug": "",
+    "slug": "thrive-capital-partners",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -3338,7 +3330,7 @@
   {
     "name": "Thrive Capital Partners",
     "description": "",
-    "slug": "",
+    "slug": "thrive-capital-partners",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -3346,7 +3338,7 @@
   {
     "name": "Thrive Capital Partners II",
     "description": "",
-    "slug": "",
+    "slug": "thrive-capital-partners-ii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -3354,7 +3346,7 @@
   {
     "name": "Thrive Capital Partners II",
     "description": "",
-    "slug": "",
+    "slug": "thrive-capital-partners-ii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -3362,7 +3354,7 @@
   {
     "name": "Thrive Capital Partners III",
     "description": "",
-    "slug": "",
+    "slug": "thrive-capital-partners-iii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -3370,7 +3362,7 @@
   {
     "name": "Thrive Capital Partners III",
     "description": "",
-    "slug": "",
+    "slug": "thrive-capital-partners-iii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -3378,7 +3370,7 @@
   {
     "name": "Thrive Partners II GP",
     "description": "",
-    "slug": "",
+    "slug": "thrive-partners-ii-gp",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -3386,7 +3378,7 @@
   {
     "name": "Thrive Partners III GP",
     "description": "",
-    "slug": "",
+    "slug": "thrive-partners-iii-gp",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -3450,7 +3442,7 @@
   {
     "name": "Times Square Associates",
     "description": "",
-    "slug": "",
+    "slug": "times-square-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -3530,7 +3522,7 @@
   {
     "name": "Triborough",
     "description": "",
-    "slug": "",
+    "slug": "triborough",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4778,7 +4770,7 @@
   {
     "name": "Univ of Texas",
     "description": "",
-    "slug": "",
+    "slug": "univ-of-texas",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4786,7 +4778,7 @@
   {
     "name": "Utah St Ser A",
     "description": "",
-    "slug": "",
+    "slug": "utah-st-ser-a",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4794,7 +4786,7 @@
   {
     "name": "Utah St Ser C",
     "description": "",
-    "slug": "",
+    "slug": "utah-st-ser-c",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4802,7 +4794,7 @@
   {
     "name": "Village KF 2 km",
     "description": "",
-    "slug": "",
+    "slug": "village-kf-2-km",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -4810,7 +4802,7 @@
   {
     "name": "Village KF 2 km",
     "description": "",
-    "slug": "",
+    "slug": "village-kf-2-km",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4818,7 +4810,7 @@
   {
     "name": "VILLAGE KF 4-9-10 Associates, LLC",
     "description": "",
-    "slug": "",
+    "slug": "village-kf-4-9-10-associates-llc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -4826,7 +4818,7 @@
   {
     "name": "VILLAGE KF 4-9-10 Associates, LLC",
     "description": "",
-    "slug": "",
+    "slug": "village-kf-4-9-10-associates-llc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4834,7 +4826,7 @@
   {
     "name": "Village KF 4-9-10 Associates, LP",
     "description": "",
-    "slug": "",
+    "slug": "village-kf-4-9-10-associates-lp",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -4842,7 +4834,7 @@
   {
     "name": "Village KF 4-9-10 Associates, LP",
     "description": "",
-    "slug": "",
+    "slug": "village-kf-4-9-10-associates-lp",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4850,7 +4842,7 @@
   {
     "name": "Virginia Beach VA Bonds",
     "description": "",
-    "slug": "",
+    "slug": "virginia-beach-va-bonds",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4858,7 +4850,7 @@
   {
     "name": "Virginia St Bonds",
     "description": "",
-    "slug": "",
+    "slug": "virginia-st-bonds",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4866,7 +4858,7 @@
   {
     "name": "Vreeland Avenue Associates",
     "description": "",
-    "slug": "",
+    "slug": "vreeland-avenue-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -4874,7 +4866,7 @@
   {
     "name": "Vreeland Avenue Associates",
     "description": "",
-    "slug": "",
+    "slug": "vreeland-avenue-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4882,7 +4874,7 @@
   {
     "name": "Wake County, NC",
     "description": "",
-    "slug": "",
+    "slug": "wake-county-nc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4890,7 +4882,7 @@
   {
     "name": "Wallkill Apartments Associates",
     "description": "",
-    "slug": "",
+    "slug": "wallkill-apartments-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump"
@@ -4898,7 +4890,7 @@
   {
     "name": "Wallkill Apartments Associates",
     "description": "",
-    "slug": "",
+    "slug": "wallkill-apartments-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4906,7 +4898,7 @@
   {
     "name": "Warren At Bay",
     "description": "",
-    "slug": "",
+    "slug": "warren-at-bay",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4922,7 +4914,7 @@
   {
     "name": "West End Building Associates",
     "description": "",
-    "slug": "",
+    "slug": "west-end-building-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4938,7 +4930,7 @@
   {
     "name": "Westchester County, NY",
     "description": "",
-    "slug": "",
+    "slug": "westchester-county-ny",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4946,7 +4938,7 @@
   {
     "name": "Westmin Mad Associates",
     "description": "",
-    "slug": "",
+    "slug": "westmin-mad-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4954,7 +4946,7 @@
   {
     "name": "Westminster Linden",
     "description": "",
-    "slug": "",
+    "slug": "westminster-linden",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4962,7 +4954,7 @@
   {
     "name": "Westminster Title",
     "description": "",
-    "slug": "",
+    "slug": "westminster-title",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -4986,7 +4978,7 @@
   {
     "name": "White Plains NY",
     "description": "",
-    "slug": "",
+    "slug": "white-plains-ny",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -5034,7 +5026,7 @@
   {
     "name": "WT 25 Columbia",
     "description": "",
-    "slug": "",
+    "slug": "wt-25-columbia",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
@@ -5050,7 +5042,7 @@
   {
     "name": "Yum Brands",
     "description": "",
-    "slug": "",
+    "slug": "yum-brands",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner"
