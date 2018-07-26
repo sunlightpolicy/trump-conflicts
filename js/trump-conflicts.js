@@ -118,7 +118,7 @@ d3.json("data/conflicts.json", function (err, data) {
         return d.familyMember;
     });
 
-    //var conflictDim = facts.dimension(dc.pluck("conflict"));
+    //var conflictDim = facts.dimension(dc.pluck("name"));
     dc.dataGrid("dc-chart-dataGrid")
         .dimension(conflictDim)
         .group(function (d) {
@@ -138,7 +138,7 @@ d3.json("data/conflicts.json", function (err, data) {
     dataTable
         .dimension(tableDim)
         .group(function (d) {
-            return conflictHeader(d);  //+ ethicsPopupLink(d);
+            return conflictResult(d); 
         })
         .sortBy(function(d) {
             var pad = "0000"
@@ -151,26 +151,6 @@ d3.json("data/conflicts.json", function (err, data) {
         .order(d3.descending);
     
 
-/*     dataTable = dc.dataTable("#dc-chart-table");
-    var tableDim = facts.dimension(function(d) { return +d.Id; });
-    dataTable
-        .dimension(tableDim)
-        .group(function (d) {
-            return conflictHeader(d) + ethicsPopupLink(d);
-        })  
-        .size(20)  // Remove this and add scroll!!
-        .columns([
-            function (d) { return dateToYMD(d.sourceDate); },
-            function(d) { return d.link; }
-        ])
-        .sortBy(function (d) { return d.conflict + dateToYMD(d.sourceDate); })
-        .order(d3.ascending)
-        .renderlet(function (table) {
-            table.selectAll(".dc-table-group").classed("info", true);
-        }); */
-
-        
-
     dc.renderAll();    
 });
 
@@ -178,14 +158,21 @@ d3.json("data/conflicts.json", function (err, data) {
     return "<b>" + d.conflict + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> "; // + d.description;
 } */
 
-function conflictHeader(d) {
+
+function conflictResult(d) {
     let pad = "0000"
     let ans = pad.substring(0, pad.length - d.stories.length) + d.stories;
 
-    let div =  "<div class='conflictSummary' " + ans + " onclick='timelinePopup(\"" + d.slug + "\")' " + ">";
-    let body = d.stories + " media accounts <b>" + d.name + "</b> <em>" + d.description + "</em>";
+    let classes =  "class='conflict-summary' " + ans + " onclick='timelinePopup(\"" + d.slug + "\")' ";
+    
+    let title = "<h4 class='conflict-title'>" + d.name + "</h4>";
 
-    return div + body + "</div>";
+    let description = "";
+    if (d.description)
+        description = "<p class='conflict-description'>" + d.description + "</p>";
+
+    let stories = "<span class='conflict-stories'>" + d.stories + " media accounts, most recent " + d.lastStory + "</span>";
+    return "<div " + classes + ">" + title + description + stories + "</div>";
 }
 
 /* function ethicsPopupLink(d) {
