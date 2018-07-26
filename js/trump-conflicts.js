@@ -138,7 +138,7 @@ d3.json("data/conflicts.json", function (err, data) {
     dataTable
         .dimension(tableDim)
         .group(function (d) {
-            return conflictHeader(d) + ethicsPopupLink(d);
+            return conflictHeader(d);  //+ ethicsPopupLink(d);
         })
         .sortBy(function(d) {
             var pad = "0000"
@@ -179,15 +179,21 @@ d3.json("data/conflicts.json", function (err, data) {
 } */
 
 function conflictHeader(d) {
-    return d.stories + " <b>" + d.name + "</b> <em>" + d.description + "</em>"; 
+    let pad = "0000"
+    let ans = pad.substring(0, pad.length - d.stories.length) + d.stories;
+
+    let div =  "<div class='conflictSummary' " + ans + " onclick='timelinePopup(\"" + d.slug + "\")' " + ">";
+    let body = d.stories + " media accounts <b>" + d.name + "</b> <em>" + d.description + "</em>";
+
+    return div + body + "</div>";
 }
 
-function ethicsPopupLink(d) {
+/* function ethicsPopupLink(d) {
     let link = ""; 
     //link = " <a href=\"#\" onclick=\"timelinePopup(" + d.conflictId + "); return false\"><b>Timeline</b></a>"
     link = " <a href=\"#\" onclick=\"timelinePopup('" + d.slug + "'); return false\"><b>Details</b></a>"
     return link;
-}
+} */
 
 function dateToYMD(date) {
     var d = date.getDate();

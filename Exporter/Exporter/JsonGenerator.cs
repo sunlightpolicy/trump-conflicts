@@ -148,8 +148,13 @@ namespace Phase2 {
                     filteredStories.Add(s);
             }
 
+            var filteredConflicts = new List<ConflictSearchJson>();
+            foreach (ConflictSearchJson con in conflictSearches) {
+                if (con.name != "Trump Organization LLC D/B/A The Trump Organization")
+                    filteredConflicts.Add(con);
+            }
 
-            WriteConflictSearchJson(path, conflictSearches);
+            WriteConflictSearchJson(path, filteredConflicts);
 
             WriteStoryJson(path, filteredStories);
             WriteStoryCsv(path, filteredStories);
