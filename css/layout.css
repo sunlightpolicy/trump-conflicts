@@ -1,16 +1,26 @@
-﻿.container {
+﻿body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.container {
     display: grid;
     grid-template-areas: 
         "logo       title      title       title       title       title" 
         "info       info       info        info        info        info" 
         "searchBox  searchBox  conflicts   conflicts   conflicts   conflicts" 
         "family     family     conflicts   conflicts   conflicts   conflicts" 
-        ".          .          conflicts   conflicts   conflicts   conflicts"
-        ".          .          conflicts   conflicts   conflicts   conflicts"; 
+        ".          .          conflicts   conflicts   conflicts   conflicts" 
+        "footer     footer     footer      footer      footer      footer"; 
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 100px 60px 60px 50px 60px 60px;
+    grid-template-rows: 100px 40px 60px 1fr 1fr 10px;
     grid-gap: .5em;
-    margin: 0 auto;
+    margin: 0px;
+    height: 100vh;
+}
+
+.container *> {
+    border: 1px solid black;    
 }
 
 .logo {
@@ -54,6 +64,11 @@
 
 .conflicts {
     grid-area: conflicts;
+    overflow: auto;
+}
+
+.footer {
+    grid-area: footer;
 }
 
 
