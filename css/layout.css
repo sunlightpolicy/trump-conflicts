@@ -1,4 +1,17 @@
-﻿body {
+﻿:root {
+    --col-1-width: 400px;
+    --min-width: 1000px;
+    --max-width: 1000px;
+}
+
+
+/* html {
+    min-width: var(--min-width);
+    max-width: var(--max-width);
+} */
+
+
+body {
     margin: 0;
     overflow: hidden;
 }
@@ -6,16 +19,17 @@
 .container {
     display: grid;
     grid-template-areas: 
-        "logo       title      title       title       title       title" 
-        "info       info       info        info        info        info" 
-        "searchBox  searchBox  conflicts   conflicts   conflicts   conflicts" 
-        "family     family     conflicts   conflicts   conflicts   conflicts" 
-        ".          .          conflicts   conflicts   conflicts   conflicts" 
-        "footer     footer     footer      footer      footer      footer"; 
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 100px 40px 60px 1fr 1fr 10px;
+        "logo       title       title       " 
+        "info       info        info        " 
+        "searchBox  conflicts   conflicts   " 
+        "family     conflicts   conflicts   " 
+        ".          conflicts   conflicts   " 
+        "footer     footer      footer      "; 
+    grid-template-columns: var(--col-1-width) 1fr;
+    grid-template-rows: 100px auto 60px 1fr 1fr 2px;
     grid-gap: .5em;
     margin: 0px;
+    max-width: var(--max-width);
     height: 100vh;
 }
 

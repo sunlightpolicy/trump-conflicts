@@ -60,4 +60,7 @@ GO
 --SELECT SUM(stories) FROM ConflictView
 
 
+SELECT * FROM COnflictView
+
+
 
