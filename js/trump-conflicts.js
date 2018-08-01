@@ -105,6 +105,10 @@ d3.json("data/conflicts.json", function (err, data) {
     var col2Width = leftWidth / 2;
     
     familyMemberChart = new RowChart(facts, "familyMember", leftWidth, 6, 110);
+
+
+    familyMember2Chart = new DivChart(facts, "familyMember2", leftWidth, 6, 110);
+
     //categoryChart = new RowChart(facts, "category", col2Width, 6, 110);
     //categoryChart.filter("Active");
 
@@ -218,6 +222,33 @@ function showFilters() {
         filterString = "Current Filters: " + filterStrings.join(', ');
 
     //d3.select("#filters").text(filterString);
+}
+
+var DivChart = function (facts, attribute, width, maxItems, height) {
+
+    // If height is supplied (very few items) use it, otherwise calculate
+    if (!height)
+        height = maxItems * 22;
+
+    this.dim = facts.dimension(dc.pluck("familyMember"));
+    var chart = dc.divChart("#dc-chart-" + attribute)
+        .dimension(this.dim)
+        .group(this.dim.group().reduceCount())
+        .data(function (d) { return d.top(maxItems); })
+        .width(width)
+        .height(height)
+        .margins({ top: 0, right: 10, bottom: 20, left: 20 })
+        .elasticX(true)
+        .ordinalColors(['#9ecae1']) // light blue
+        .labelOffsetX(5)
+        .on('filtered', showFilters)
+        .label(function (d) {
+            return d.key; // + " " + d.value;
+        });
+
+    //  .Axis().ticks(4).tickFormat(d3.format(".2s"));
+
+    return chart;
 }
 
 

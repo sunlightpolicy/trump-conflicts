@@ -23,7 +23,7 @@ body {
         "info       info        info        " 
         "searchBox  conflicts   conflicts   " 
         "family     conflicts   conflicts   " 
-        ".          conflicts   conflicts   " 
+        "family2    conflicts   conflicts   " 
         "footer     footer      footer      "; 
     grid-template-columns: var(--col-1-width) 1fr;
     grid-template-rows: 100px auto 60px 1fr 1fr 2px;
@@ -56,6 +56,10 @@ body {
 
 .family {
     grid-area: family;
+}
+
+.family2 {
+    grid-area: family2;
 }
 
 .stats {
