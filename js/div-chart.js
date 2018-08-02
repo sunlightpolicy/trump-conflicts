@@ -53,7 +53,8 @@ dc.divChart = function (parent, chartGroup) {
             .append('div')
             .attr('class', "div-chart"); 
 
-        var divs = div.selectAll('g.' + _rowCssClass)
+        //var divs = div.selectAll('g.' + _rowCssClass)
+        var divs = div.selectAll('X')
             .data(data);
 
         divs.enter()
@@ -73,12 +74,12 @@ dc.divChart = function (parent, chartGroup) {
             '<h3 class="div-chart-header">' + familyMember + '</h3>' +
             '<p>' + d.value + ' potential conflicts</p>' +
             //'<img class="" dsrc="blank.gif" data-original="http://www.europarl.europa.eu/mepphoto/96882.jpg" ' +
-            '<img class="" dsrc="blank.gif" data-original="/img' + familyMember + '.jpg" ' +
+            '<img class="" dsrc="blank.gif" data-original="img/' + familyMember + '.jpg" ' +
             'alt="' + familyMember + '" ' +
             'title="' + familyMember + '" ' +
             'width="130" ' +
             'height="160" ' +
-            'src="/img/' + familyMember + '.jpg" style="display: inline;">';
+            'src="img/' + familyMember + '.jpg" style="display: inline;">';
         return html
     }
 
