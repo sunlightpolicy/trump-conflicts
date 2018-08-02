@@ -104,7 +104,7 @@ d3.json("data/conflicts.json", function (err, data) {
     var col1Width = leftWidth / 2;
     var col2Width = leftWidth / 2;
     
-    familyMemberChart = new RowChart(facts, "familyMember", leftWidth, 6, 110);
+    //familyMemberChart = new RowChart(facts, "familyMember", leftWidth, 6, 110);
 
 
     familyMember2Chart = new DivChart(facts, "familyMember2", leftWidth, 6, 110);
@@ -152,8 +152,7 @@ d3.json("data/conflicts.json", function (err, data) {
         })
         .size(1000)
         .order(d3.descending);
-    
-
+        
     dc.renderAll();    
 });
 
@@ -238,9 +237,6 @@ var DivChart = function (facts, attribute, width, maxItems, height) {
         .width(width)
         .height(height)
         .margins({ top: 0, right: 10, bottom: 20, left: 20 })
-        .elasticX(true)
-        .ordinalColors(['#9ecae1']) // light blue
-        .labelOffsetX(5)
         .on('filtered', showFilters)
         .label(function (d) {
             return d.key; // + " " + d.value;

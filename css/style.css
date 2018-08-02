@@ -98,11 +98,58 @@ td {
 }
 
 input {
-    width: 300px;
+    width: 240px;
     font-size: 15px;
     margin-left: 20px;
     margin-top: 8px;
 }
+
+
+.div-chart {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    /* justify-content: center; */
+    justify-content: space-between;
+}
+
+
+.div-chart:after {
+    content: "";
+    flex: auto;
+  }
+  
+.div-chart-item > p {
+    font-size: 13px;
+    margin-top: 1px;
+    
+}
+
+.div-chart-item > h3 {
+    font-size: 13px;
+    margin-top: 8px;
+    margin-bottom: 1px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.div-chart-item > img {
+    margin-bottom: 9px;
+}
+
+.div-chart-item:hover {
+    background-color: #cee2ed;
+    cursor:pointer;
+}
+
+
+.div-chart-item {
+    text-align: center;
+    width: 170px;
+    /* box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset; */
+    background-color: #F8F8F8;
+}
+
 
 
 .dc-chart {
@@ -111,6 +158,8 @@ input {
 }
 
 .conflict-summary {
+    padding-top: 1px;
+    padding-bottom: 4px;
     font-size: 14px;
 }
 
@@ -124,7 +173,7 @@ input {
 .search-input {
     margin-top: 8px;
     margin-left: 30px;
-    width: 360px;
+    width: 300px;
     font-size: 15px;
 }
 
