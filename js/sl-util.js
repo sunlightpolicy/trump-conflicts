@@ -56,7 +56,7 @@ function tr(s) {
 } 
 
 function table(s) {
-    return "<table>" + s + "</table>";
+    return "<table class='sunlight-table'>" + s + "</table>";
     //return "<table border=1>" + s + "</table>";
 } 
 

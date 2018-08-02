@@ -231,9 +231,7 @@ p.conflict-description {
 
 .info {
     font-size: 14px;
-    margin-top: 1px;
-    margin-bottom: 20px;
-    margin-left: 12px;
+    margin: 1px 30px 20px 12px; 
 }
 
 .search-title {
@@ -275,20 +273,28 @@ p.conflict-description {
     padding-top: 4px;
 }
 
+
+.sunlight-table {
+    padding: 5px;
+}
+
 .td-percent {
     text-align: right;
     border-bottom: 1px solid var(--table-text-color);
+    padding: 8px;
 }
 
 .td-text {
     text-align: left;
     border-bottom: 1px solid var(--table-text-color);
+    padding: 8px;
 }
 
 .td-date {
     text-align: left;
     width: 85px;
     border-bottom: 1px solid var(--table-text-color);
+    padding: 8px;
 }
 
 .td-link a {
@@ -299,20 +305,22 @@ p.conflict-description {
     text-align: left;
     text-decoration: none;
     border-bottom: 1px solid var(--table-text-color);
+    padding: 8px;
 }
 
 .modal {
-    display: none; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
     left: 0;
     top: 120px;
-    min-width: calc(var(--min-width) + 20px);
-    max-width: calc(var(--max-width) + 20px);
-    height: 100%; /* Full height */
+/*     min-width: calc(var(--min-width) + 20px);
+    max-width: calc(var(--max-width) + 20px); */
+    height: 100%; 
     overflow-y: auto;
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    background-color: #fefefe;
 }
 
 .modal-header {
@@ -333,6 +341,7 @@ p.conflict-description {
     margin: auto;
     padding: 0;
     border: 0px solid #888;
+    width: calc(100vw - 18px);
 /* 
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
  */

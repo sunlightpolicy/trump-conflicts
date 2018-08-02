@@ -1,7 +1,7 @@
 function loadSection() {
     var slug = location.hash.replace("#", "");
     if (slug != "")
-        timelinePopup(slug);
+        conflictPopup(slug);
 }
 
 function backOrForward() {
@@ -13,7 +13,7 @@ function backOrForward() {
 }
 
 
-function timelinePopup(conflictSlug) {
+function conflictPopup(conflictSlug) {
     d3.json("data/conflicts/" + conflictSlug + ".json", data => buildConflictPage(data)); 
 
     showConflictPage();

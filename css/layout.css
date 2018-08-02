@@ -1,14 +1,8 @@
 ﻿:root {
     --col-1-width: 350px;
     --min-width: 1100px;
-    --max-width: 1100px;
+    /* --max-width: 1100px; */
 }
-
-
-/* html {
-    min-width: var(--min-width);
-    max-width: var(--max-width);
-} */
 
 
 body {
@@ -19,18 +13,18 @@ body {
 .container {
     display: grid;
     grid-template-areas: 
-        "logo       title       title       " 
-        "info       info        info        " 
-        "searchBox  conflicts   conflicts   " 
-        "family2    conflicts   conflicts   " 
-        "family2    conflicts   conflicts   " 
-        "footer     footer      footer      "; 
-    grid-template-columns: var(--col-1-width) var(--col-1-width) var(--col-1-width);
+        "logo       title    " 
+        "info       info     " 
+        "searchBox  conflicts" 
+        "family2    conflicts" 
+        "family2    conflicts" 
+        "footer     footer   "; 
+    grid-template-columns: var(--col-1-width) 1fr;
     grid-template-rows: 100px auto 60px 1fr 1fr 2px;
     grid-gap: .2em;
     margin: 0px;
-    /* max-width: var(--max-width); */
     height: 100vh;
+    width: calc(100vw - 18px);
 }
 
 .container *> {

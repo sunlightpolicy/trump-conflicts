@@ -9,7 +9,7 @@ var mediaOutletChart;
 
 var searchDim;
 
-//d3.json("data/stories.json", function (err, data) {
+
 d3.json("data/conflicts.json", function (err, data) {
     data.forEach(function (d) {
         //d.stories = +d.stories;
@@ -19,7 +19,6 @@ d3.json("data/conflicts.json", function (err, data) {
     var facts = crossfilter(data);
 
     searchDim = facts.dimension(function (d) {
-        //return d.mediaOutlet.toLowerCase() + " " + d.conflict.toLowerCase();
         return d.name.toLowerCase();
     });
     
@@ -117,26 +116,7 @@ d3.json("data/conflicts.json", function (err, data) {
 
     //conflictChart = new RowChart(facts, "conflict", leftWidth, 50);
     //mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 30);
-  
-/*     var conflictDim = facts.dimension(function(d) {
-        return d.familyMember;
-    });
-
-    //var conflictDim = facts.dimension(dc.pluck("name"));
-    dc.dataGrid("dc-chart-dataGrid")
-        .dimension(conflictDim)
-        .group(function (d) {
-            return d.familyMember;
-        })
-        .html(function (d) {
-             return "HELLO"; 
-        })
-        .htmlGroup (function (d) { return '<h2>HELLO</h2>'})
-        .size(1000) 
-        .order(function (d) {
-            return d.familyMember;
-        }) */
-       
+     
     dataTable = dc.dataTable("#dc-chart-dataGrid");
     var tableDim = facts.dimension(function(d) { return +d.Id; });
     dataTable
@@ -148,24 +128,19 @@ d3.json("data/conflicts.json", function (err, data) {
             var pad = "0000"
             var ans = pad.substring(0, pad.length - d.stories.length) + d.stories;
             return ans;
-            //return 10000 - d.stories;
         })
         .size(1000)
         .order(d3.descending);
-        
+
     dc.renderAll();    
 });
-
-/* function conflictHeader(d) {
-    return "<b>" + d.conflict + "</b> <em>(" + d.familyMember + " / " + d.category + ")</em> "; // + d.description;
-} */
 
 
 function conflictResult(d) {
     let pad = "0000"
     let ans = pad.substring(0, pad.length - d.stories.length) + d.stories;
 
-    let classes =  "class='conflict-summary' " + ans + " onclick='timelinePopup(\"" + d.slug + "\")' ";
+    let classes =  "class='conflict-summary' " + ans + " onclick='conflictPopup(\"" + d.slug + "\")' ";
     
     let title = "<h4 class='conflict-title'>" + d.name + "</h4>";
 
@@ -267,7 +242,7 @@ var RowChart = function (facts, attribute, width, maxItems, height) {
         .labelOffsetX(5)
         .on('filtered', showFilters)
         .label(function (d) {
-            return d.key; // + " " + d.value;
+            return d.key; 
         });
 
     //  .Axis().ticks(4).tickFormat(d3.format(".2s"));
