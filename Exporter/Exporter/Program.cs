@@ -45,12 +45,6 @@ namespace Phase2 {
             Console.ReadLine();
 
 
-
-
-            
-
-
-
                 // NOT USED
                 //TimelineImport.MakeJson("c:\\trump-conflicts\\data\\media\\");
          }
