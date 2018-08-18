@@ -197,11 +197,13 @@ p.conflict-description {
 
 
 .close {
-    font-size: 15px;
+    font-size: 18px;
+    font-weight: bold;
     color: #222;
-    float: right;
+    float: left;
     cursor:pointer;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-bottom: 6px;
 }
 
 .title {
@@ -317,7 +319,7 @@ p.conflict-description {
 /*     min-width: calc(var(--min-width) + 20px);
     max-width: calc(var(--max-width) + 20px); */
     height: 100%; 
-    overflow-y: auto;
+    overflow-y: auto;   
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
     background-color: #fefefe;
@@ -338,17 +340,10 @@ p.conflict-description {
 .modal-content {
     position: relative;
     background-color: #fefefe;
-    margin: auto;
+    margin: auto; 
     padding: 0;
     border: 0px solid #888;
     width: calc(100vw - 18px);
-/* 
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
- */
-
-
-    /*     animation-name: animatetop;
-    animation-duration: 0.3s */
 }
 
 
