@@ -1,6 +1,9 @@
 :root {
     --table-text-color: rgb(209, 209, 209);
+    --dark-grey-text: rgb(39, 39, 39);
+    --grey-text: rgb(115, 115, 115);
 }
+
 
 body {
     background: #fcfcfa;
@@ -15,9 +18,10 @@ a {
 }
 
 h1 {
-    margin-top: 30px;
+    color: var(--dark-grey-text);
+    margin-top: 20px;
     margin-right: 20px;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     margin-left: 10px;
     font-weight: bold;
     font-size: 28px;
@@ -177,7 +181,34 @@ input {
     font-size: 15px;
 }
 
+
+.title {
+    font-weight: bold;
+    font-size: 28px;
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+}
+
+h4.tagline {
+    font-style: italic;
+    color: var(--dark-grey-text);
+    font-weight: normal;
+    margin-top: 7px;
+    margin-bottom: 3px;
+}
+
+
+.info {
+    color: var(--dark-grey-text);
+    font-style: italic;
+    font-size: 13px;
+    margin: 1px 30px 20px 12px; 
+    line-height: 14px;
+}
+
+
 h4.conflict-title {
+    color: var(--dark-grey-text);
     font-weight: bold;
     margin-top: 7px;
     margin-bottom: 3px;
@@ -206,12 +237,6 @@ p.conflict-description {
     margin-bottom: 6px;
 }
 
-.title {
-    font-weight: bold;
-    font-size: 30px;
-    color: #000;
-    font-family: "PT Sans", sans-serif;
-}
 
 
 #dc-chart-table .th-pub-date, #dc-chart-table .dc-table-column._0 {
@@ -229,11 +254,6 @@ p.conflict-description {
     padding-left: 5px;
     padding-top: 8px;
     padding-bottom: 4px;
-}
-
-.info {
-    font-size: 14px;
-    margin: 1px 30px 20px 12px; 
 }
 
 .search-title {
