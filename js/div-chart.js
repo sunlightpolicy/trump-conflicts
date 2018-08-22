@@ -62,9 +62,22 @@ dc.divChart = function (parent, chartGroup) {
             .attr('class', function (d, i) {
                 return "div-chart-item " + i;
             })
+            .on('click', onClick)
+            .classed('deselected', d => !isSelectedRow(d) && _chart.hasFilter())
+            .classed('selected', d => isSelectedRow(d) && _chart.hasFilter())
+            .classed('noneSelected', d => !_chart.hasFilter())
             .html( function (d) {
                 return divHtml(d);
             });
+    }
+
+    function isSelectedRow (d) {
+        return _chart.hasFilter(_chart.cappedKeyAccessor(d));
+    }
+
+    function noneSelected () {
+        console.log(_chart.hasFilter());
+        return false;
     }
 
     function divHtml(d) {
@@ -97,10 +110,6 @@ dc.divChart = function (parent, chartGroup) {
         drawChart();
         return _chart;
     };
-
-    function isSelectedRow (d) {
-        return _chart.hasFilter(_chart.cappedKeyAccessor(d));
-    }
 
     return _chart.anchor(parent, chartGroup);
 };

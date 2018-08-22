@@ -18,9 +18,10 @@ body {
         "searchBox  conflicts" 
         "family2    conflicts" 
         "family2    conflicts" 
+        "family     conflicts" 
         "footer     footer   "; 
     grid-template-columns: var(--col-1-width) 1fr;
-    grid-template-rows: 100px auto 60px 1fr 1fr 2px;
+    grid-template-rows: 100px auto 60px 1fr 1fr 1fr 2px;
     grid-gap: .2em;
     margin: 0px;
     height: 100vh;

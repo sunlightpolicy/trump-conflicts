@@ -2,6 +2,9 @@
     --table-text-color: rgb(209, 209, 209);
     --dark-grey-text: rgb(39, 39, 39);
     --grey-text: rgb(115, 115, 115);
+
+    --background: rgb(248, 248, 248);
+    --shaded-background: rgb(220, 220, 220);
 }
 
 
@@ -22,9 +25,9 @@ h1 {
     margin-top: 20px;
     margin-right: 20px;
     margin-bottom: 6px;
-    margin-left: 10px;
+    margin-left: 2px;
     font-weight: bold;
-    font-size: 28px;
+    font-size: 25px;
 }
 
 h2 {
@@ -126,9 +129,7 @@ input {
 .div-chart-item > p {
     font-size: 13px;
     margin-top: 1px;
-    
 }
-
 .div-chart-item > h3 {
     font-size: 13px;
     margin-top: 8px;
@@ -146,10 +147,31 @@ input {
     cursor:pointer;
 }
 
+.dc-chart div.deselected {
+    background-color: var(--shaded-background);
+    border-width: 0px;
+    border-style: none;
+    margin: 5px
+}
+
+.dc-chart div.selected {
+    background-color: var(--background);
+    border-width: 2px;
+    border-style: solid;
+    margin: 3px
+}
+
+.dc-chart div.noneSelected {
+    background-color: var(--background);
+    border-width: 0px;
+    border-style: none;
+    margin: 5px
+}
+
 
 .div-chart-item {
     text-align: center;
-    width: 170px;
+    width: 160px;
     /* box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset; */
     background-color: #F8F8F8;
 }

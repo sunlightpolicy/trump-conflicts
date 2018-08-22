@@ -27,6 +27,12 @@ d3.json("data/conflicts.json", function (err, data) {
         setword(searchTerm);
     });
 
+    window.addEventListener('keyup', (e) => {
+        if (e.keyCode == 27) {
+            console.log("Escape Key Pressed");
+        }   
+    });
+
     
     function setword(wd) {
         if (wd.length < 3) {
