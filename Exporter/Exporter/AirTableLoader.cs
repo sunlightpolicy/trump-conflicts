@@ -332,7 +332,7 @@ namespace Phase2 {
 
     public class AirTableLoader {
 
-        public static void Load(string inputPath, string outputPath) {
+        public static void LoadConflictsAndStories(string inputPath, string outputPath) {
             LoadConflicts(inputPath + "Conflicts-Grid view.csv", outputPath);
             LoadStories(inputPath + "Stories-Grid view.csv", outputPath);
             LoadStoryConflicts(inputPath + "Stories-Grid view.csv", outputPath);

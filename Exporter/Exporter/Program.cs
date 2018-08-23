@@ -21,32 +21,23 @@ namespace Phase2 {
             // Reads the google doc and generates sql inserts (which need to be run)
             //var loader = new Phase2Loader("c:\\trump-conflicts\\Exporter\\Exporter\\data\\WORKING CURRENT COPY Tracking Trump's Conflicts of Interest");
 
+            //-------------------------------------------
 
 
-
-            //AirTableLoader.Load("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
+            AirTableLoader.LoadConflictsAndStories("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
             //AirTableLoader.LoadEthics("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\Ethics\\");
-
-
-            // Queries db and generates json - need to run scripts above before running this
-            // NOT USED
-            //JsonGenerator.Run("c:\\trump-conflicts\\data\\");
-
-            JsonGenerator.RunConflicts("c:\\trump-conflicts\\data\\");
-
-
-            // Write script to update sslugs
             //AirTableLoader.WriteSlugs("C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
-
-            // Timeline JS
-            //TimelineJsImport.MakeJson("c:\\trump-conflicts\\data\\timeline\\");
-
+            
+            // Queries db and generates json - need to run scripts above before running this
+           
+            //JsonGenerator.RunConflicts("c:\\trump-conflicts\\data\\");
+                        
             Console.WriteLine("Done");
             Console.ReadLine();
 
-
-                // NOT USED
-                //TimelineImport.MakeJson("c:\\trump-conflicts\\data\\media\\");
+            // Timelines aren't used at the moment 
+            //TimelineImport.MakeJson("c:\\trump-conflicts\\data\\media\\");
+            //TimelineJsImport.MakeJson("c:\\trump-conflicts\\data\\timeline\\");
          }
     }
 }
