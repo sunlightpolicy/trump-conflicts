@@ -10,7 +10,7 @@
     <script src='lib/d3.js' type='text/javascript'></script>
     <script src='lib/crossfilter.js' type='text/javascript'></script>
     <script src='lib/dc.js' type='text/javascript'></script>
-    <script src='lib/timeline-min.js' type='text/javascript'></script>
+    <!-- <script src='lib/timeline-min.js' type='text/javascript'></script> -->
 
     <script src='js/div-chart.js' type='text/javascript'></script>
     <script src='js/sl-util.js' type='text/javascript'></script>
@@ -30,19 +30,19 @@
 <body onload="loadSection()" onhashchange="backOrForward()">
 
     <div id="ethicsModal" class="modal">
-        <div class="modal-content">
+        
+        <div class="modal-content"> 
+            <h3 class="close">&#8617; Back to Search</h3>
             <div class="modal-header">
-                <span class="close">&#8617; Back to Search</span>
-                <h1 id="conflict">Conflict</h1>
-                <p id="conflictDescription">Description</p>
+                
+                <div><h1 id="conflict">Conflict</h1>
+                <p id="conflictDescription">Description</p></div>
             </div>
 
             <div id="stories" class="modal-body"></div>
             <div id="ethics" class="modal-body"></div>
         </div>
     </div>
-
-    
     
     <div class="container">
         <div class='logo'><img src="img/sunlight.png" alt="Sunlight" height="110" width="300"></div>
@@ -59,8 +59,8 @@
         </div>
 
         <div class='search-box'>
-            <span class="search-title">Search by Conflict</span> 
-            <input type="text" id="search-input" class="search-input" placeholder="&nbsp;Enter conflict">
+            <span class="search-title">Search by Name of Potential Conflict</span> 
+            <input id="search-input" class="search-input" placeholder='example: "Mar-a-Lago"'>
         </div>
         <!-- <div class='download'>
             <a href="data/stories.json" id="download-json"><span class="glyphicon glyphicon-download"></span>JSON</a>&NonBreakingSpace;&NonBreakingSpace;
@@ -76,19 +76,8 @@
             </span>
             <div class="clearfix"></div>
         </div> -->
-<!-- 
-        <div class='family' id='dc-chart-familyMember'>
-            <div>
-                <span class="chart-title">Select Family Member</span>
-                <a class="reset" href="javascript:familyMemberChart.filterAll();dc.redrawAll();" style="display: none;">Reset</a>
-            </div>
-        </div>  -->
 
-        <div class='family2' id='dc-chart-familyMember2'>
-            <div>
-                <span class="chart-title">Select Family Member 2</span>
-            </div> 
-        </div>
+        <div class='family' id='dc-chart-familyMember'></div>
 
         <!--
         <div class='status' id='dc-chart-category'>
@@ -98,11 +87,19 @@
             </div>
         </div> -->
 
-
-        <!-- <div class='familyGrid' id='dc-chart-familyMemberGrid'>HI</div>  -->
+        <div class='conflictsHeader'>
+            <div><span class="chart-title">Potential Conflicts of Interest</span>
+                <span id="results">Showing all</span>
+            </div>
+            <div class="dc-data-count">
+                <span class="filter-count"></span> found out of <span class="total-count"></span> | 
+                <a href="javascript:clearSearch(); dc.filterAll(); dc.renderAll();">Show All</a>
+            </div>
+            <!-- <div><span id="results"></span></div> -->
+            <!-- <div id="results">Shwing all</div> -->
+        </div>
 
         <div class='conflicts' id='dc-chart-dataGrid'>
-            <span class="chart-title">Potential Conflicts</span>
         </div>
 
         <div class='footer'>

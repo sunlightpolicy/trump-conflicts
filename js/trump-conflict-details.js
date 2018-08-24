@@ -1,7 +1,7 @@
 function loadSection() {
     var slug = location.hash.replace("#", "");
     if (slug != "")
-        conflictPopup(slug);
+        conflictPopup(slug);    
 }
 
 function backOrForward() {

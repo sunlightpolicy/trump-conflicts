@@ -11,11 +11,11 @@ var searchDim;
 
 
 d3.json("data/conflicts.json", function (err, data) {
-    data.forEach(function (d) {
+/*     data.forEach(function (d) {
         //d.stories = +d.stories;
-    });
+    }); */
 
-    console.table(data);
+    //console.table(data);
     var facts = crossfilter(data);
 
     searchDim = facts.dimension(function (d) {
@@ -46,6 +46,7 @@ d3.json("data/conflicts.json", function (err, data) {
             return d.indexOf(s) !== -1;
         });
 
+        showFilters();
         dc.redrawAll();  
         //$(".resetall").attr("disabled", false);
         //throttle();
@@ -61,28 +62,11 @@ d3.json("data/conflicts.json", function (err, data) {
         //}
     }
 
-    var totalGroup = facts.groupAll().reduce(
-        function (p, v) { // add function
-            return p += v.amount;
-        },
-        function (p, v) { // subtract function
-            return p -= v.amount;
-        },
-        function () { return 0 } // initial function
-    );
-
     var all = facts.groupAll();
     dc.dataCount('.dc-data-count')
         .dimension(facts)
         .group(all);
 
-    //dc.numberDisplay("#dc-chart-total")
-    //    .group(totalGroup)
-    //    .valueAccessor(function (d) {
-    //        return d / billion;
-    //    })
-    //    .formatNumber(function (d) { return Math.round(d) + " Billion"; });
-    
     var leftWidth = 400;
 
     /* var changeDateDim = facts.dimension(function (d) { return d.sourceDate; });
@@ -100,25 +84,14 @@ d3.json("data/conflicts.json", function (err, data) {
         .filter([new Date(2016, 2, 25), new Date(2018, 6, 10)]) // Months are zero based
     changeDateChart.yAxis().ticks(5);
     changeDateChart.xAxis().ticks(5); */
-    
-    var pieColors =
-        ["#74C365", // light green 
-        "#006600",  // dark green 
-        "#007BA7"]; // blue
-    
+        
     var col1Width = leftWidth / 2;
     var col2Width = leftWidth / 2;
     
-    //familyMemberChart = new RowChart(facts, "familyMember", leftWidth, 6, 110);
-
-
-    familyMember2Chart = new DivChart(facts, "familyMember2", leftWidth, 6, 110);
+    familyMemberChart = new DivChart(facts, "familyMember", leftWidth, 6, 110);
 
     //categoryChart = new RowChart(facts, "category", col2Width, 6, 110);
     //categoryChart.filter("Active");
-
-    //sourceTypeChart = new RowChart(facts, "sourceType", leftWidth, 2, 70);
-    //sourceTypeChart.filter("Media");
 
     //conflictChart = new RowChart(facts, "conflict", leftWidth, 50);
     //mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 30);
@@ -141,6 +114,12 @@ d3.json("data/conflicts.json", function (err, data) {
     dc.renderAll();    
 });
 
+function clearSearch() {
+    console.log("Clear Search");
+    searchDim.filter(null);
+    document.getElementById("search-input").value = "";
+}
+
 
 function conflictResult(d) {
     let pad = "0000"
@@ -162,13 +141,6 @@ function conflictResult(d) {
 
     return "<div " + classes + ">" + title + stories + description + "</div>";
 }
-
-/* function ethicsPopupLink(d) {
-    let link = ""; 
-    //link = " <a href=\"#\" onclick=\"timelinePopup(" + d.conflictId + "); return false\"><b>Timeline</b></a>"
-    link = " <a href=\"#\" onclick=\"timelinePopup('" + d.slug + "'); return false\"><b>Details</b></a>"
-    return link;
-} */
 
 function dateToYMD(date) {
     var d = date.getDate();
@@ -195,13 +167,14 @@ function showFilters() {
                 filterStrings.push(filter);
         })
     })
-
-    if (filterStrings.length == 0)
-        filterString = "Showing all items in date range";
+    var search = document.getElementById("search-input").value;
+    if (search.length < 4)
+        search = "";
     else
-        filterString = "Current Filters: " + filterStrings.join(', ');
+        search =  ' containing "' + search + '"';
+    filterString = filterStrings.join(' or ') + " " + search;
 
-    //d3.select("#filters").text(filterString);
+    d3.select("#results").text(filterString);
 }
 
 var DivChart = function (facts, attribute, width, maxItems, height) {

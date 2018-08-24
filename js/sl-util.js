@@ -23,7 +23,6 @@ function makeTable (cols, data) {
     body = tbody(body);
     
     var s = table(head + body);
-    console.log(s); 
     
     return table(s);
 }

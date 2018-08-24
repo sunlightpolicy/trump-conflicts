@@ -2,6 +2,7 @@
     --table-text-color: rgb(209, 209, 209);
     --dark-grey-text: rgb(39, 39, 39);
     --grey-text: rgb(115, 115, 115);
+    --black: rgb(30, 30, 30);
 
     --background: rgb(248, 248, 248);
     --shaded-background: rgb(220, 220, 220);
@@ -111,7 +112,6 @@ input {
     margin-top: 8px;
 }
 
-
 .div-chart {
     display: flex;
     flex-wrap: wrap;
@@ -120,16 +120,23 @@ input {
     justify-content: space-between;
 }
 
+.div-chart-item:hover {
+    border-width: 3px;
+    border-style: solid;
+    margin: 2px;
+    cursor:pointer;
+}
 
 .div-chart:after {
     content: "";
     flex: auto;
-  }
+}
   
 .div-chart-item > p {
     font-size: 13px;
     margin-top: 1px;
 }
+
 .div-chart-item > h3 {
     font-size: 13px;
     margin-top: 8px;
@@ -142,10 +149,6 @@ input {
     margin-bottom: 9px;
 }
 
-.div-chart-item:hover {
-    background-color: #cee2ed;
-    cursor:pointer;
-}
 
 .dc-chart div.deselected {
     background-color: var(--shaded-background);
@@ -168,6 +171,12 @@ input {
     margin: 5px
 }
 
+#results {
+    color: var(--dark-grey-text);
+    font-style: italic;
+    font-size: 13px;
+    margin: 1px 30px 20px 12px; 
+}
 
 .div-chart-item {
     text-align: center;
@@ -175,8 +184,6 @@ input {
     /* box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset; */
     background-color: #F8F8F8;
 }
-
-
 
 .dc-chart {
     padding-left: 10px;
@@ -225,7 +232,7 @@ h4.tagline {
     font-style: italic;
     font-size: 13px;
     margin: 1px 30px 20px 12px; 
-    line-height: 14px;
+    line-height: 18px;
 }
 
 
@@ -246,7 +253,6 @@ p.conflict-description {
     margin-left: 20px;
     font-style: italic
 }
-
 
 
 .close {
@@ -279,7 +285,7 @@ p.conflict-description {
 }
 
 .search-title {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: bold;
     margin-top: 40px;
     margin-bottom: 40px;
@@ -287,10 +293,10 @@ p.conflict-description {
 }
 
 .chart-title {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: bold;
-    margin-top: 40px;
-    margin-bottom: 50px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .dc-table-label {

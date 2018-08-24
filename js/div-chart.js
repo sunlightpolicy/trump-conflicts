@@ -47,7 +47,7 @@ dc.divChart = function (parent, chartGroup) {
         _chart.root()
             .append('span')
             .attr('class', 'chart-title')
-            .text('Select Family Member');
+            .text('Filter by Family Member');
 
         var div = _chart.root()
             .append('div')
@@ -75,18 +75,12 @@ dc.divChart = function (parent, chartGroup) {
         return _chart.hasFilter(_chart.cappedKeyAccessor(d));
     }
 
-    function noneSelected () {
-        console.log(_chart.hasFilter());
-        return false;
-    }
-
     function divHtml(d) {
         let familyMember = d.key
 
         let html =      
             '<h3 class="div-chart-header">' + familyMember + '</h3>' +
             '<p>' + d.value + ' potential conflicts</p>' +
-            //'<img class="" dsrc="blank.gif" data-original="http://www.europarl.europa.eu/mepphoto/96882.jpg" ' +
             '<img class="" dsrc="blank.gif" data-original="img/' + familyMember + '.jpg" ' +
             'alt="' + familyMember + '" ' +
             'title="' + familyMember + '" ' +

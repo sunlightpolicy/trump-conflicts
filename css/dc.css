@@ -194,8 +194,10 @@ div.dc-chart {
 
 .dc-data-count {
   float: right;
-  margin-top: 15px;
-  margin-right: 15px; }
+  margin-top: 0px;
+  margin-right: 15px;
+  padding-top: 2px; 
+  font-size: 13px;}
   .dc-data-count .filter-count, .dc-data-count .total-count {
     color: #3182bd;
     font-weight: bold; }

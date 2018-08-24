@@ -15,13 +15,11 @@ body {
     grid-template-areas: 
         "logo       title    " 
         "info       info     " 
-        "searchBox  conflicts" 
-        "family2    conflicts" 
-        "family2    conflicts" 
+        "searchBox  conflictsHeader" 
         "family     conflicts" 
         "footer     footer   "; 
     grid-template-columns: var(--col-1-width) 1fr;
-    grid-template-rows: 100px auto 60px 1fr 1fr 1fr 2px;
+    grid-template-rows: 100px auto 60px 1fr 2px;
     grid-gap: .2em;
     margin: 0px;
     height: 100vh;
@@ -53,10 +51,6 @@ body {
     grid-area: family;
 }
 
-.family2 {
-    grid-area: family2;
-}
-
 .stats {
     grid-area: stats;
 }
@@ -73,6 +67,10 @@ body {
     grid-area: results;
     overflow-y: scroll;
     height: 30px;
+}
+
+.conflictHeader {
+    grid-area: conflictHeader;
 }
 
 .conflicts {
