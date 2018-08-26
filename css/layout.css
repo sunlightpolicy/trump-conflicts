@@ -17,9 +17,10 @@ body {
         "info       info     " 
         "searchBox  conflictsHeader" 
         "family     conflicts" 
+        "status     conflicts" 
         "footer     footer   "; 
     grid-template-columns: var(--col-1-width) 1fr;
-    grid-template-rows: 100px auto 60px 1fr 2px;
+    grid-template-rows: 100px auto 60px auto 1fr 2px;
     grid-gap: .2em;
     margin: 0px;
     height: 100vh;
@@ -45,6 +46,10 @@ body {
 
 .search-box {
     grid-area: searchBox;
+}
+
+.status {
+    grid-area: status;
 }
 
 .family {

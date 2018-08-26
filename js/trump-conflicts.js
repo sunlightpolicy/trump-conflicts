@@ -90,11 +90,8 @@ d3.json("data/conflicts.json", function (err, data) {
     
     familyMemberChart = new DivChart(facts, "familyMember", leftWidth, 6, 110);
 
-    //categoryChart = new RowChart(facts, "category", col2Width, 6, 110);
-    //categoryChart.filter("Active");
-
-    //conflictChart = new RowChart(facts, "conflict", leftWidth, 50);
-    //mediaOutletChart = new RowChart(facts, "mediaOutlet", col2Width, 30);
+    statusChart = new RowChart(facts, "status", col2Width, 6, 110);
+    statusChart.filter("Active");
      
     dataTable = dc.dataTable("#dc-chart-dataGrid");
     var tableDim = facts.dimension(function(d) { return +d.Id; });
@@ -172,7 +169,7 @@ function showFilters() {
         search = "";
     else
         search =  ' containing "' + search + '"';
-    filterString = filterStrings.join(' or ') + " " + search;
+    filterString = filterStrings.join(', ') + " " + search;
 
     d3.select("#results").text(filterString);
 }
