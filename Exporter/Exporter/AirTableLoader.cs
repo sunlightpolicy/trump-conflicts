@@ -73,8 +73,8 @@ namespace Phase2 {
                 if (TableName == "Story") {
                     tw.WriteLine("DELETE FROM StoryConflict");
                     tw.WriteLine("GO");
-                    tw.WriteLine("DELETE FROM Story");
-                    tw.WriteLine("GO");
+                    //tw.WriteLine("DELETE FROM Story");
+                    ///tw.WriteLine("GO");
                 }
 
                 foreach (String cmd in cmds)
@@ -397,10 +397,11 @@ namespace Phase2 {
                 outputPath,
                 new List<Column>() {
                     new Column(0, "Name"),
+                    new Column(1, "ConflictStatusID", "ConflictStatus"),
                     new Column(2, "Description"),
                     new Column(3, "Notes"),
-                    new Column(5, "ConflictPublicationStatusID", "ConflictPublicationStatus"),
-                    new Column(6, "InternalNotes"),
+                    new Column(4, "ConflictPublicationStatusID", "ConflictPublicationStatus"),
+                    new Column(5, "InternalNotes"),
                 }
             );
             conflictTable.Load();

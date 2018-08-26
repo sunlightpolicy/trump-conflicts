@@ -1,7 +1,34 @@
 {
   "name": "Trump Turnberry",
   "description": "",
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Turnberry",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/politics-government/white-house/article214265614.html",
+      "sourceDate": "2018-07-13T00:00:00",
+      "headline": "Trump lost millions at golf courses in Scotland. U.S. voters weren’t told that",
+      "conflictId": "358",
+      "conflictSlug": "trump-turnberry",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump Turnberry",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/report-trumps-stay-at-his-scotland-resort-cost-68800/2018/07/17/4fce3e28-89ee-11e8-8aea-86e88ae760d8_story.html?utm_term=.6deb586c75f4",
+      "sourceDate": "2018-06-17T00:00:00",
+      "headline": "Report: Trump’s stay at his Scotland resort cost $68,800",
+      "conflictId": "358",
+      "conflictSlug": "trump-turnberry",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [

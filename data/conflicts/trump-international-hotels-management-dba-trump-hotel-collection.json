@@ -7,10 +7,23 @@
       "familyMember": "Donald Trump",
       "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
       "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/at-president-trumps-hotel-in-new-york-revenue-went-up-this-spring--thanks-to-a-visit-from-big-spending-saudis/2018/08/03/58755392-9112-11e8-bcd5-9d911c784c38_story.html?utm_term=.3a97c3f2cf0f",
+      "sourceDate": "2018-08-03T00:00:00",
+      "headline": "At President Trump’s hotel in New York, revenue went up this spring — thanks to a visit from big-spending Saudis",
+      "conflictId": "263",
+      "conflictSlug": "trump-international-hotels-management-dba-trump-hotel-collection",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "familyMember": "Donald Trump",
+      "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
+      "category": "Active",
       "mediaOutlet": "Newsweek",
       "link": "http://www.newsweek.com/ocasio-cortez-impeach-trump-997615?amp=1",
       "sourceDate": "2018-06-27T00:00:00",
-      "headline": "ALEXANDRIA OCASIO-CORTEZ SAYS DONALD TRUMP SHOULD BE IMPEACHED OVER EMOLUMENTS CLAUSE VIOLATIONS FROM DAY ONE OF HIS PRESIDENCY",
+      "headline": "Alexandria Ocasio-Cortez Says Donald Trump Should be Impeached Over Emoluments Clause Violations from Day One of his Presidency",
       "conflictId": "263",
       "conflictSlug": "trump-international-hotels-management-dba-trump-hotel-collection",
       "hasEthics": true
@@ -231,7 +244,7 @@
       "mediaOutlet": "Press Release",
       "link": "https://www.prnewswire.com/news-releases/trump-hotel-collection-announces-a-luxury-resort-and-residential-development-in-bali-300130927.html",
       "sourceDate": "2015-08-19T00:00:00",
-      "headline": "TRUMP HOTEL COLLECTION Announces A Luxury Resort And Residential Development In Bali",
+      "headline": "Trump Hotel Collection Announces A Luxury Resort And Residential Development In Bali",
       "conflictId": "263",
       "conflictSlug": "trump-international-hotels-management-dba-trump-hotel-collection",
       "hasEthics": true

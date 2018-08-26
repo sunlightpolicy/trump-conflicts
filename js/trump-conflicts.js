@@ -15,7 +15,7 @@ d3.json("data/conflicts.json", function (err, data) {
         //d.stories = +d.stories;
     }); */
 
-    //console.table(data);
+    console.table(data);
     var facts = crossfilter(data);
 
     searchDim = facts.dimension(function (d) {

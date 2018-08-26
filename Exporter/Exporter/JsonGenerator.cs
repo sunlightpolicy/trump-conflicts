@@ -110,14 +110,16 @@ namespace Phase2 {
         public string stories { get; set; }
         public string lastStory { get; set; }
         public string familyMember { get; set; }
-        
-        public ConflictSearchJson(string name, string description, string slug,  string stories, string lastStory, string familyMember) {
+        public string status { get; set; }
+
+        public ConflictSearchJson(string name, string description, string slug,  string stories, string lastStory, string familyMember, string status) {
             this.name = name;
             this.description = description;
             this.slug = slug;
             this.stories = stories;
             this.lastStory = lastStory;
             this.familyMember = familyMember;
+            this.status = status;
         }
     }
 
@@ -228,6 +230,7 @@ namespace Phase2 {
                             , reader["Stories"].ToString()
                             , reader["LastStory"].ToString()
                             , reader["FamilyMember"].ToString()
+                            , reader["Status"].ToString()
                         )
                     );
                     Console.WriteLine(conflicts.Count.ToString() + " Conflicts");
@@ -309,7 +312,6 @@ namespace Phase2 {
             private static List<Conflicts.Story> MakeStories() {
                 var stories = new List<Conflicts.Story>();
 
-                //string connString = "Server=SCOTT-PC\\SQLExpress;Database=Trump;Trusted_Connection=True;";
                 string query = "SELECT * FROM StoryConflictView ORDER BY Date DESC";
                 using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
                     using (SqlCommand cmd = new SqlCommand(query, conn)) {

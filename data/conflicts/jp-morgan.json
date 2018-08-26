@@ -1,66 +1,6 @@
 {
-  "name": "J.P. Morgan",
+  "name": "JP Morgan",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner received $1,001 - $2,500 in Interest income from JP MORGAN CHASE BANK bonds the year before his appointment as Pres. Trump''s senior adviser. Because this asset reportedly has been divested, it is categorized as a resolved potential conflict of interest in this database. After having been inadvertently omitted, this asset was added during the ordinary review process with OGE.",
-          "business": "JP Morgan Chase Bank, Bonds",
-          "conflictStatus": "Resolved"
-        },
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner received $201 - $1,000 in (income type not disclosed) income from JP MORGAN CORE BOND FUND SELECT (WOBDX) the year before his appointment as Pres. Trump''s senior adviser. Because this asset reportedly has been divested, it is categorized as a resolved potential conflict of interest in this database.",
-          "business": "JP Morgan Core Bond Fund Select (Wobdx)",
-          "conflictStatus": "Resolved"
-        },
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner received None (or less than $201) in (income type not disclosed) income from JPMorgan High Yield Fund the year before his appointment as Pres. Trump''s senior adviser.",
-          "business": "Jpmorgan High Yield Fund",
-          "conflictStatus": "Active"
-        }
-      ],
-      "conflictId": "887",
-      "conflict": "J.P. Morgan",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }
