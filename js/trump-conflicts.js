@@ -11,9 +11,6 @@ var searchDim;
 
 
 d3.json("data/conflicts.json", function (err, data) {
-/*     data.forEach(function (d) {
-        //d.stories = +d.stories;
-    }); */
 
     console.table(data);
     var facts = crossfilter(data);
@@ -65,9 +62,7 @@ d3.json("data/conflicts.json", function (err, data) {
     var all = facts.groupAll();
     dc.dataCount('.dc-data-count')
         .dimension(facts)
-        .group(all);
-
-    var leftWidth = 400;
+        .group(all);    
 
     /* var changeDateDim = facts.dimension(function (d) { return d.sourceDate; });
     var changeDateGroup = changeDateDim.group(d3.time.day);
@@ -84,13 +79,12 @@ d3.json("data/conflicts.json", function (err, data) {
         .filter([new Date(2016, 2, 25), new Date(2018, 6, 10)]) // Months are zero based
     changeDateChart.yAxis().ticks(5);
     changeDateChart.xAxis().ticks(5); */
-        
-    var col1Width = leftWidth / 2;
-    var col2Width = leftWidth / 2;
     
-    familyMemberChart = new DivChart(facts, "familyMember", leftWidth, 6, 110);
+    var col1Width = 300;
+    
+    familyMemberChart = new DivChart(facts, "familyMember");
 
-    statusChart = new RowChart(facts, "status", col2Width, 6, 110);
+    statusChart = new RowChart(facts, "status", col1Width, 6, 100);
     statusChart.filter("Active");
      
     dataTable = dc.dataTable("#dc-chart-dataGrid");
@@ -116,7 +110,6 @@ function clearSearch() {
     searchDim.filter(null);
     document.getElementById("search-input").value = "";
 }
-
 
 function conflictResult(d) {
     let pad = "0000"
@@ -174,37 +167,25 @@ function showFilters() {
     d3.select("#results").text(filterString);
 }
 
-var DivChart = function (facts, attribute, width, maxItems, height) {
-
-    // If height is supplied (very few items) use it, otherwise calculate
-    if (!height)
-        height = maxItems * 22;
-
+var DivChart = function (facts, attribute) {
     this.dim = facts.dimension(dc.pluck("familyMember"));
     var chart = dc.divChart("#dc-chart-" + attribute)
         .dimension(this.dim)
         .group(this.dim.group().reduceCount())
-        .data(function (d) { return d.top(maxItems); })
-        .width(width)
-        .height(height)
+        .data(function (d) { return d.top(50); })
         .margins({ top: 0, right: 10, bottom: 20, left: 20 })
         .on('filtered', showFilters)
         .label(function (d) {
-            return d.key; // + " " + d.value;
+            return d.key; 
         });
-
-    //  .Axis().ticks(4).tickFormat(d3.format(".2s"));
 
     return chart;
 }
 
-
 var RowChart = function (facts, attribute, width, maxItems, height) {
-
     // If height is supplied (very few items) use it, otherwise calculate
     if (!height)
         height = maxItems * 22;
-
     this.dim = facts.dimension(dc.pluck(attribute));
     var chart = dc.rowChart("#dc-chart-" + attribute)
         .dimension(this.dim)
