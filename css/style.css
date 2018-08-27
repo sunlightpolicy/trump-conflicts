@@ -218,12 +218,20 @@ input {
     font-family: "PT Sans", sans-serif;
 }
 
+
 h4.tagline {
     font-style: italic;
     color: var(--dark-grey-text);
     font-weight: normal;
     margin-top: 7px;
     margin-bottom: 3px;
+}
+
+
+@media (max-width: 57em) { 
+    h4.tagline {
+        display: none;
+    }
 }
 
 
