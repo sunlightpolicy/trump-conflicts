@@ -238,7 +238,7 @@ h4.tagline {
 .info {
     color: var(--dark-grey-text);
     font-style: italic;
-    font-size: 13px;
+    font-size: 12px;
     margin: 1px 30px 20px 12px; 
     line-height: 18px;
 }

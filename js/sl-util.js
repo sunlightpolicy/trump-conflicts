@@ -74,3 +74,11 @@ function h4(s) {
 function p(s) {
     return "<p>" + s + "</p>";
 }
+
+function p(s) {
+    return "<p>" + s + "</p>";
+}
+
+function info(s) {
+    return "<p class='info'>" + s + "</p>";
+}

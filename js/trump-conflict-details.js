@@ -41,6 +41,9 @@ function buildConflictPage(data) {
 }
 
 function addStories(data) {
+    if (data.stories.length == 0)
+        return;
+
     var html = h2("Media Accounts");
     html += "<hr>"; 
 
@@ -72,7 +75,8 @@ function addEthics(data) {
     if (data == null)
         return;
 
-    var html = h2("Ethics Disclosures");
+    var html = h2("Linked Businesses, Ownership Structure and Family Member Interests");
+    html += info("Below find all business entities associated with this potential conflict, along with each entity’s ownership structure as reported on public financial disclosures. The ownership structure, as detailed on public financial disclosures, forms the basis for linking business entities.");
     html += "<hr>"; 
 
     var cols = [
