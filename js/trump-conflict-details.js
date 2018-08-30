@@ -41,12 +41,17 @@ function buildConflictPage(data) {
 }
 
 function addStories(data) {
-    if (data.stories.length == 0)
-        return;
+    if (data.stories.length == 0) {
+        var html = h2("Media Accounts");
+        html += "<hr>";
+        html += info("No media accounts found");
+
+        d3.select('#stories').html(html);
+        return
+    }
 
     var html = h2("Media Accounts");
     html += "<hr>"; 
-
     var cols = [
         {"header": "Date",     "class": "td-date", "field": "date"}, 
         {"header": "Outlet",   "class": "td-text", "field": "mediaOutlet"},
