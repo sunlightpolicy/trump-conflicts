@@ -312,7 +312,8 @@ namespace Phase2 {
             private static List<Conflicts.Story> MakeStories() {
                 var stories = new List<Conflicts.Story>();
 
-                string query = "SELECT * FROM StoryConflictView ORDER BY Date DESC";
+                string query = "SELECT DISTINCT ConflictDescription, Conflict, Slug, ConflictStatus, MediaOutlet, Link, Date, Headline, ConflictId, EthicsCount FROM StoryConflictView ORDER BY Date DESC";
+
                 using (SqlConnection conn = new SqlConnection(JsonGenerator.ConnectionString)) {
                     using (SqlCommand cmd = new SqlCommand(query, conn)) {
                         cmd.CommandType = CommandType.Text;
@@ -331,12 +332,10 @@ namespace Phase2 {
             private static void AddStory(SqlDataReader reader, List<Conflicts.Story> stories) {
                 var story = new Conflicts.Story(
                     reader["ConflictDescription"].ToString() // Description
-                    , reader["FamilyMember"].ToString() // FamilyMember
+                    //, reader["FamilyMember"].ToString() // FamilyMember
                     , reader["Conflict"].ToString() // ConflictingEntity // NOW Conflict
                     , reader["Slug"].ToString() 
                     , reader["ConflictStatus"].ToString() // Category
-                    //, reader["ConflictNotes"].ToString() // Notes
-                    //, reader["ConflictUpdateDate"].ToString() // DateChanged
                     , reader["MediaOutlet"].ToString() // Source - NOW MediaOutlet
                     , reader["Link"].ToString() // Link
                     , reader["Date"].ToString() // Date

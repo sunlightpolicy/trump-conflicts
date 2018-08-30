@@ -4,20 +4,6 @@
   "stories": [
     {
       "description": "",
-      "familyMember": "Donald Trump",
-      "conflict": "DT Bali Hotel Manager",
-      "category": "Active",
-      "mediaOutlet": "New York Times",
-      "link": "http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html",
-      "sourceDate": "2016-12-31T00:00:00",
-      "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
-      "conflictId": "51",
-      "conflictSlug": "dt-bali-hotel-manager",
-      "hasEthics": true
-    },
-    {
-      "description": "",
-      "familyMember": "Ivanka Trump",
       "conflict": "DT Bali Hotel Manager",
       "category": "Active",
       "mediaOutlet": "New York Times",

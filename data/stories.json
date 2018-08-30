@@ -1,33 +1,6 @@
 [
   {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "NBC",
-    "link": "https://www.nbcnews.com/politics/donald-trump/trump-s-d-c-hotel-clubhouse-his-fans-may-also-n898041",
-    "sourceDate": "2018-08-08T00:00:00",
-    "headline": "Trump Effect Trump's D.C. hotel, a clubhouse for his fans, may also be a 5-star conflict of interest",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "NBC",
-    "link": "https://www.today.com/video/is-dc-s-trump-international-hotel-a-conflict-of-interest-for-the-president-1294601283992",
-    "sourceDate": "2018-08-08T00:00:00",
-    "headline": "Is DC's Trump International hotel a conflict of interest for the president?",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "NBC",
@@ -40,7 +13,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "NBC",
@@ -52,8 +24,31 @@
     "hasEthics": true
   },
   {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "NBC",
+    "link": "https://www.nbcnews.com/politics/donald-trump/trump-s-d-c-hotel-clubhouse-his-fans-may-also-n898041",
+    "sourceDate": "2018-08-08T00:00:00",
+    "headline": "Trump Effect Trump's D.C. hotel, a clubhouse for his fans, may also be a 5-star conflict of interest",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "NBC",
+    "link": "https://www.today.com/video/is-dc-s-trump-international-hotel-a-conflict-of-interest-for-the-president-1294601283992",
+    "sourceDate": "2018-08-08T00:00:00",
+    "headline": "Is DC's Trump International hotel a conflict of interest for the president?",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -66,7 +61,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -79,7 +73,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Commercial",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -92,7 +85,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Condominium Residential Section",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -105,7 +97,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Managing Member",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -118,7 +109,6 @@
   },
   {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -131,7 +121,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Development",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -144,7 +133,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Fortune",
@@ -157,7 +145,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -170,7 +157,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Wall Street Journal",
@@ -183,7 +169,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Development",
     "category": "Active",
     "mediaOutlet": "ABC News",
@@ -196,7 +181,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Links - Scotland",
     "category": "Active",
     "mediaOutlet": "ABC News",
@@ -208,47 +192,7 @@
     "hasEthics": true
   },
   {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "CNN",
-    "link": "https://www.cnn.com/2018/07/25/politics/emoluments-case-donald-trump-washington-dc/index.html",
-    "sourceDate": "2018-07-25T00:00:00",
-    "headline": "Judge allows case alleging illegal foreign gifts to proceed against President",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "NPR",
-    "link": "https://www.npr.org/2018/07/25/632300960/federal-lawsuit-against-president-trumps-business-interests-allowed-to-proceed",
-    "sourceDate": "2018-07-25T00:00:00",
-    "headline": "Federal Lawsuit Against President Trump's Business Interests Allowed To Proceed",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/politics/federal-judge-allows-emoluments-case-against-trump-to-proceed/2018/07/25/c8070206-8fa4-11e8-8322-b5482bf5e0f5_story.html?utm_term=.0773c88e9386",
-    "sourceDate": "2018-07-25T00:00:00",
-    "headline": "Federal judge allows emoluments case against Trump to proceed",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "ABC News",
@@ -261,7 +205,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -274,7 +217,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -287,7 +229,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "The Atlantic",
@@ -300,7 +241,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -312,8 +252,43 @@
     "hasEthics": true
   },
   {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "CNN",
+    "link": "https://www.cnn.com/2018/07/25/politics/emoluments-case-donald-trump-washington-dc/index.html",
+    "sourceDate": "2018-07-25T00:00:00",
+    "headline": "Judge allows case alleging illegal foreign gifts to proceed against President",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "NPR",
+    "link": "https://www.npr.org/2018/07/25/632300960/federal-lawsuit-against-president-trumps-business-interests-allowed-to-proceed",
+    "sourceDate": "2018-07-25T00:00:00",
+    "headline": "Federal Lawsuit Against President Trump's Business Interests Allowed To Proceed",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/politics/federal-judge-allows-emoluments-case-against-trump-to-proceed/2018/07/25/c8070206-8fa4-11e8-8322-b5482bf5e0f5_story.html?utm_term=.0773c88e9386",
+    "sourceDate": "2018-07-25T00:00:00",
+    "headline": "Federal judge allows emoluments case against Trump to proceed",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Business Insider",
@@ -326,7 +301,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -339,7 +313,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -352,7 +325,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -364,21 +336,7 @@
     "hasEthics": true
   },
   {
-    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
-    "familyMember": "Donald Trump",
-    "conflict": "Mar-a-Lago Club",
-    "category": "Active",
-    "mediaOutlet": "McClatchy",
-    "link": "https://www.mcclatchydc.com/news/politics-government/white-house/article214265614.html",
-    "sourceDate": "2018-07-13T00:00:00",
-    "headline": "Trump lost millions at golf courses in Scotland. U.S. voters weren’t told that",
-    "conflictId": "124",
-    "conflictSlug": "mar-a-lago-club",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Scotland Acquisitions",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -391,7 +349,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Club Scotland",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -404,7 +361,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Links - Scotland",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -417,7 +373,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -430,7 +385,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Scotland",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -443,7 +397,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Turnberry",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -455,8 +408,19 @@
     "hasEthics": true
   },
   {
+    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+    "conflict": "Mar-a-Lago Club",
+    "category": "Active",
+    "mediaOutlet": "McClatchy",
+    "link": "https://www.mcclatchydc.com/news/politics-government/white-house/article214265614.html",
+    "sourceDate": "2018-07-13T00:00:00",
+    "headline": "Trump lost millions at golf courses in Scotland. U.S. voters weren’t told that",
+    "conflictId": "124",
+    "conflictSlug": "mar-a-lago-club",
+    "hasEthics": true
+  },
+  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Dubai Golf Manager",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -469,7 +433,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Dubai II Golf Manager",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -482,20 +445,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Dubai II Golf Manager",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/amphtml/politics/as-tariffs-near-trumps-business-empire-includes-china-ties/2018/07/05/9bfd1056-7956-11e8-aeee-4d04c8ac6158_story.html",
-    "sourceDate": "2018-07-05T00:00:00",
-    "headline": "As tariffs near, Trump’s business empire retains ties to China",
-    "conflictId": "57",
-    "conflictSlug": "dt-dubai-ii-golf-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Dubai",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -508,7 +457,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Dubai II",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -521,7 +469,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Tower I",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -534,7 +481,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "THC Dubai II Hotel Manager",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -547,7 +493,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Dubai",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -559,21 +504,7 @@
     "hasEthics": true
   },
   {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "Fast Company",
-    "link": "https://amp.fastcompany.com/90178695/how-trumps-dc-hotel-works-to-help-swamp-the-drain",
-    "sourceDate": "2018-07-05T00:00:00",
-    "headline": "How Trump’s D.C. hotel works to help swamp the drain",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Commercial",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -586,7 +517,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Managing Member",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -599,7 +529,18 @@
   },
   {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Fast Company",
+    "link": "https://amp.fastcompany.com/90178695/how-trumps-dc-hotel-works-to-help-swamp-the-drain",
+    "sourceDate": "2018-07-05T00:00:00",
+    "headline": "How Trump’s D.C. hotel works to help swamp the drain",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -611,21 +552,7 @@
     "hasEthics": true
   },
   {
-    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
-    "familyMember": "Donald Trump",
-    "conflict": "Mar-a-Lago Club",
-    "category": "Active",
-    "mediaOutlet": "ProPublica",
-    "link": "https://www.wnycstudios.org/story/trump-inc-podcast-government-employees-spend-your-money-trump-hotels",
-    "sourceDate": "2018-06-28T00:00:00",
-    "headline": "Government Employees Spend Your Money at Trump Hotels",
-    "conflictId": "124",
-    "conflictSlug": "mar-a-lago-club",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotel HawaII",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -638,7 +565,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotel HawaII",
     "category": "Active",
     "mediaOutlet": "Newsweek",
@@ -650,8 +576,19 @@
     "hasEthics": true
   },
   {
+    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+    "conflict": "Mar-a-Lago Club",
+    "category": "Active",
+    "mediaOutlet": "ProPublica",
+    "link": "https://www.wnycstudios.org/story/trump-inc-podcast-government-employees-spend-your-money-trump-hotels",
+    "sourceDate": "2018-06-28T00:00:00",
+    "headline": "Government Employees Spend Your Money at Trump Hotels",
+    "conflictId": "124",
+    "conflictSlug": "mar-a-lago-club",
+    "hasEthics": true
+  },
+  {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "ProPublica",
@@ -663,21 +600,7 @@
     "hasEthics": true
   },
   {
-    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
-    "familyMember": "Donald Trump",
-    "conflict": "Mar-a-Lago Club",
-    "category": "Active",
-    "mediaOutlet": "ProPublica",
-    "link": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
-    "sourceDate": "2018-06-27T00:00:00",
-    "headline": "We’ve Found $16.1 Million in Political and Taxpayer Spending at Trump Properties",
-    "conflictId": "124",
-    "conflictSlug": "mar-a-lago-club",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "TAG Air",
     "category": "Active",
     "mediaOutlet": "ProPublica",
@@ -690,7 +613,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Newsweek",
@@ -703,7 +625,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "ProPublica",
@@ -715,34 +636,7 @@
     "hasEthics": true
   },
   {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "Newsweek",
-    "link": "http://www.newsweek.com/ocasio-cortez-impeach-trump-997615?amp=1",
-    "sourceDate": "2018-06-27T00:00:00",
-    "headline": "Alexandria Ocasio-Cortez Says Donald Trump Should be Impeached Over Emoluments Clause Violations from Day One of his Presidency",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "ProPublica",
-    "link": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
-    "sourceDate": "2018-06-27T00:00:00",
-    "headline": "We’ve Found $16.1 Million in Political and Taxpayer Spending at Trump Properties",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Newsweek",
@@ -755,7 +649,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "ProPublica",
@@ -768,7 +661,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Commercial",
     "category": "Active",
     "mediaOutlet": "ProPublica",
@@ -780,8 +672,43 @@
     "hasEthics": true
   },
   {
+    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+    "conflict": "Mar-a-Lago Club",
+    "category": "Active",
+    "mediaOutlet": "ProPublica",
+    "link": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
+    "sourceDate": "2018-06-27T00:00:00",
+    "headline": "We’ve Found $16.1 Million in Political and Taxpayer Spending at Trump Properties",
+    "conflictId": "124",
+    "conflictSlug": "mar-a-lago-club",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Newsweek",
+    "link": "http://www.newsweek.com/ocasio-cortez-impeach-trump-997615?amp=1",
+    "sourceDate": "2018-06-27T00:00:00",
+    "headline": "Alexandria Ocasio-Cortez Says Donald Trump Should be Impeached Over Emoluments Clause Violations from Day One of his Presidency",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "ProPublica",
+    "link": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
+    "sourceDate": "2018-06-27T00:00:00",
+    "headline": "We’ve Found $16.1 Million in Political and Taxpayer Spending at Trump Properties",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -794,7 +721,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Soho",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -806,8 +732,19 @@
     "hasEthics": true
   },
   {
+    "description": "",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
+    "mediaOutlet": "New York Times",
+    "link": "https://mobile.nytimes.com/2018/06/24/us/politics/trump-challenge-coins.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news",
+    "sourceDate": "2018-06-24T00:00:00",
+    "headline": "Trump Leaves His Mark on a Presidential Keepsake",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
     "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
-    "familyMember": "Donald Trump",
     "conflict": "Mar-a-Lago Club",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -820,20 +757,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Organization Inc.",
-    "category": "Active",
-    "mediaOutlet": "New York Times",
-    "link": "https://mobile.nytimes.com/2018/06/24/us/politics/trump-challenge-coins.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news",
-    "sourceDate": "2018-06-24T00:00:00",
-    "headline": "Trump Leaves His Mark on a Presidential Keepsake",
-    "conflictId": "327",
-    "conflictSlug": "trump-organization-inc",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Lido Golf Manager",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -846,20 +769,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Lido Golf Manager",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/politics/trump-business-dealings-raises-serious-concerns-ethics-office-says/2018/06/22/b71de20a-7642-11e8-9780-b1dd6a09b549_story.html?utm_term=.6784ef6af365",
-    "sourceDate": "2018-06-23T00:00:00",
-    "headline": "Trump business dealings raise ‘serious concerns,’ ethics office says",
-    "conflictId": "62",
-    "conflictSlug": "dt-lido-golf-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Lido Hotel Manager",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -872,20 +781,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Lido Hotel Manager",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/politics/trump-business-dealings-raises-serious-concerns-ethics-office-says/2018/06/22/b71de20a-7642-11e8-9780-b1dd6a09b549_story.html?utm_term=.6784ef6af365",
-    "sourceDate": "2018-06-23T00:00:00",
-    "headline": "Trump business dealings raise ‘serious concerns,’ ethics office says",
-    "conflictId": "63",
-    "conflictSlug": "dt-lido-hotel-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Lido Technical Services Manager",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -898,20 +793,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Lido Technical Services Manager",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/politics/trump-business-dealings-raises-serious-concerns-ethics-office-says/2018/06/22/b71de20a-7642-11e8-9780-b1dd6a09b549_story.html?utm_term=.6784ef6af365",
-    "sourceDate": "2018-06-23T00:00:00",
-    "headline": "Trump business dealings raise ‘serious concerns,’ ethics office says",
-    "conflictId": "64",
-    "conflictSlug": "dt-lido-technical-services-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Lido",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -924,7 +805,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Development",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -937,7 +817,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -950,7 +829,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Foundation",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -963,7 +841,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Tower I",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -976,7 +853,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Tower II",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -989,7 +865,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Sunny Isles I",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -1002,7 +877,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Sunny Isles II",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -1015,7 +889,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Miami Resort",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -1028,7 +901,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -1041,7 +913,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Condominium Residential Section",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -1054,7 +925,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Managing Member",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -1067,7 +937,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Turnberry",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -1080,7 +949,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Foundation",
     "category": "Active",
     "mediaOutlet": "NBC",
@@ -1093,7 +961,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Foundation",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -1106,7 +973,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Foundation",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -1119,7 +985,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Foundation",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -1132,7 +997,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Foundation",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -1144,34 +1008,7 @@
     "hasEthics": true
   },
   {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/local/public-safety/obscure-no-more-the-emoluments-clause-is-back-again-in-a-federal-court/2018/06/09/cf052832-6a72-11e8-9e38-24e693b38637_story.html?utm_term=.4e5171f2a016",
-    "sourceDate": "2018-06-12T00:00:00",
-    "headline": "Trump can profit from foreign government business at his hotel if he doesn’t do favors in return, Justice Dept. argues",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/politics/jared-kushner-and-ivanka-trump-made-at-least-82-million-in-outside-income-last-year-while-serving-in-the-white-house-filings-show/2018/06/11/a41d0720-6dab-11e8-bd50-b80389a4e569_story.html?utm_term=.9b5baa8980b3",
-    "sourceDate": "2018-06-12T00:00:00",
-    "headline": "Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -1184,7 +1021,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -1197,7 +1033,42 @@
   },
   {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/local/public-safety/obscure-no-more-the-emoluments-clause-is-back-again-in-a-federal-court/2018/06/09/cf052832-6a72-11e8-9e38-24e693b38637_story.html?utm_term=.4e5171f2a016",
+    "sourceDate": "2018-06-12T00:00:00",
+    "headline": "Trump can profit from foreign government business at his hotel if he doesn’t do favors in return, Justice Dept. argues",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/politics/jared-kushner-and-ivanka-trump-made-at-least-82-million-in-outside-income-last-year-while-serving-in-the-white-house-filings-show/2018/06/11/a41d0720-6dab-11e8-bd50-b80389a4e569_story.html?utm_term=.9b5baa8980b3",
+    "sourceDate": "2018-06-12T00:00:00",
+    "headline": "Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
+    "mediaOutlet": "CNN",
+    "link": "http://money.cnn.com/2018/06/11/news/ivanka-trump-jared-kushner-finances/index.html",
+    "sourceDate": "2018-06-11T00:00:00",
+    "headline": "Ivanka Trump and Jared Kushner detail vast wealth: Real estate, fashion and investments",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -1210,20 +1081,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Organization Inc.",
-    "category": "Active",
-    "mediaOutlet": "CNN",
-    "link": "http://money.cnn.com/2018/06/11/news/ivanka-trump-jared-kushner-finances/index.html",
-    "sourceDate": "2018-06-11T00:00:00",
-    "headline": "Ivanka Trump and Jared Kushner detail vast wealth: Real estate, fashion and investments",
-    "conflictId": "327",
-    "conflictSlug": "trump-organization-inc",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Dubai Golf Manager",
     "category": "Active",
     "mediaOutlet": "Construction Week Online",
@@ -1236,7 +1093,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Dubai Golf Manager",
     "category": "Active",
     "mediaOutlet": "Press Release",
@@ -1249,7 +1105,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Dubai II Golf Manager",
     "category": "Active",
     "mediaOutlet": "Construction Week Online",
@@ -1262,7 +1117,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Dubai II Golf Manager",
     "category": "Active",
     "mediaOutlet": "Press Release",
@@ -1275,33 +1129,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Dubai II Golf Manager",
-    "category": "Active",
-    "mediaOutlet": "Construction Week Online",
-    "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
-    "sourceDate": "2018-06-10T00:00:00",
-    "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
-    "conflictId": "57",
-    "conflictSlug": "dt-dubai-ii-golf-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Dubai II Golf Manager",
-    "category": "Active",
-    "mediaOutlet": "Press Release",
-    "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
-    "sourceDate": "2018-06-10T00:00:00",
-    "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
-    "conflictId": "57",
-    "conflictSlug": "dt-dubai-ii-golf-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Dubai",
     "category": "Active",
     "mediaOutlet": "Construction Week Online",
@@ -1314,7 +1141,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Dubai",
     "category": "Active",
     "mediaOutlet": "Press Release",
@@ -1327,7 +1153,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Dubai II",
     "category": "Active",
     "mediaOutlet": "Construction Week Online",
@@ -1340,7 +1165,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Dubai II",
     "category": "Active",
     "mediaOutlet": "Press Release",
@@ -1353,7 +1177,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "THC Dubai II Hotel Manager",
     "category": "Active",
     "mediaOutlet": "Construction Week Online",
@@ -1366,7 +1189,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "THC Dubai II Hotel Manager",
     "category": "Active",
     "mediaOutlet": "Press Release",
@@ -1379,7 +1201,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Construction Week Online",
@@ -1392,7 +1213,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Press Release",
@@ -1405,7 +1225,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Dubai",
     "category": "Active",
     "mediaOutlet": "Construction Week Online",
@@ -1418,7 +1237,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Dubai",
     "category": "Active",
     "mediaOutlet": "Press Release",
@@ -1431,7 +1249,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Construction Week Online",
@@ -1444,7 +1261,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Press Release",
@@ -1457,7 +1273,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "China Trademark",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -1470,7 +1285,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Lido Golf Manager",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -1483,20 +1297,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Lido Golf Manager",
-    "category": "Active",
-    "mediaOutlet": "NPR",
-    "link": "https://www.npr.org/2018/06/07/617310039/trump-organization-deals-in-asia-fuel-debate-on-emoluments-lawsuit",
-    "sourceDate": "2018-06-07T00:00:00",
-    "headline": "Trump Organization Deals In Asia Fuel Debate On Emoluments Lawsuit",
-    "conflictId": "62",
-    "conflictSlug": "dt-lido-golf-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Lido Hotel Manager",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -1509,20 +1309,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Lido Hotel Manager",
-    "category": "Active",
-    "mediaOutlet": "NPR",
-    "link": "https://www.npr.org/2018/06/07/617310039/trump-organization-deals-in-asia-fuel-debate-on-emoluments-lawsuit",
-    "sourceDate": "2018-06-07T00:00:00",
-    "headline": "Trump Organization Deals In Asia Fuel Debate On Emoluments Lawsuit",
-    "conflictId": "63",
-    "conflictSlug": "dt-lido-hotel-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Lido Technical Services Manager",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -1535,20 +1321,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Lido Technical Services Manager",
-    "category": "Active",
-    "mediaOutlet": "NPR",
-    "link": "https://www.npr.org/2018/06/07/617310039/trump-organization-deals-in-asia-fuel-debate-on-emoluments-lawsuit",
-    "sourceDate": "2018-06-07T00:00:00",
-    "headline": "Trump Organization Deals In Asia Fuel Debate On Emoluments Lawsuit",
-    "conflictId": "64",
-    "conflictSlug": "dt-lido-technical-services-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Lido",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -1560,8 +1332,19 @@
     "hasEthics": true
   },
   {
+    "description": "",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/politics/congressional-democrats-seek-ruling-against-trump-to-enforce-emoluments-clause/2018/06/07/2469538e-6a55-11e8-bea7-c8eb28bc52b1_story.html?utm_term=.d25a12693375",
+    "sourceDate": "2018-06-07T00:00:00",
+    "headline": "Congressional Democrats seek ruling against Trump to enforce emoluments clause",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -1574,7 +1357,6 @@
   },
   {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -1587,20 +1369,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Organization Inc.",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/politics/congressional-democrats-seek-ruling-against-trump-to-enforce-emoluments-clause/2018/06/07/2469538e-6a55-11e8-bea7-c8eb28bc52b1_story.html?utm_term=.d25a12693375",
-    "sourceDate": "2018-06-07T00:00:00",
-    "headline": "Congressional Democrats seek ruling against Trump to enforce emoluments clause",
-    "conflictId": "327",
-    "conflictSlug": "trump-organization-inc",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Lido Golf Manager",
     "category": "Active",
     "mediaOutlet": "Reuters",
@@ -1613,20 +1381,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Lido Golf Manager",
-    "category": "Active",
-    "mediaOutlet": "Reuters",
-    "link": "https://mobile.reuters.com/article/amp/idUSKCN1J12RP",
-    "sourceDate": "2018-06-05T00:00:00",
-    "headline": "Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources",
-    "conflictId": "62",
-    "conflictSlug": "dt-lido-golf-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Lido Hotel Manager",
     "category": "Active",
     "mediaOutlet": "Reuters",
@@ -1639,20 +1393,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Lido Hotel Manager",
-    "category": "Active",
-    "mediaOutlet": "Reuters",
-    "link": "https://mobile.reuters.com/article/amp/idUSKCN1J12RP",
-    "sourceDate": "2018-06-05T00:00:00",
-    "headline": "Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources",
-    "conflictId": "63",
-    "conflictSlug": "dt-lido-hotel-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Lido Technical Services Manager",
     "category": "Active",
     "mediaOutlet": "Reuters",
@@ -1665,20 +1405,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Lido Technical Services Manager",
-    "category": "Active",
-    "mediaOutlet": "Reuters",
-    "link": "https://mobile.reuters.com/article/amp/idUSKCN1J12RP",
-    "sourceDate": "2018-06-05T00:00:00",
-    "headline": "Exclusive: China's ZTE signed preliminary agreement to lift U.S. ban: sources",
-    "conflictId": "64",
-    "conflictSlug": "dt-lido-technical-services-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Lido",
     "category": "Active",
     "mediaOutlet": "Reuters",
@@ -1691,7 +1417,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "China Trademark",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -1704,7 +1429,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Jupiter Golf Club",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -1716,21 +1440,7 @@
     "hasEthics": true
   },
   {
-    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
-    "familyMember": "Donald Trump",
-    "conflict": "Mar-a-Lago Club",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/politics/the-three-biggest-surprises-in-the-trump-organizations-financial-filings/2018/05/21/db2f0420-5c94-11e8-9ee3-49d6d4814c4c_story.html?utm_term=.64de8850a39d",
-    "sourceDate": "2018-05-21T00:00:00",
-    "headline": "The three biggest surprises in the Trump Organization’s financial filings",
-    "conflictId": "124",
-    "conflictSlug": "mar-a-lago-club",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Scotland Acquisitions",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -1743,7 +1453,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Club - Florida",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -1756,7 +1465,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Club Scotland",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -1769,7 +1477,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Links - Scotland",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -1781,21 +1488,7 @@
     "hasEthics": true
   },
   {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/politics/the-three-biggest-surprises-in-the-trump-organizations-financial-filings/2018/05/21/db2f0420-5c94-11e8-9ee3-49d6d4814c4c_story.html?utm_term=.64de8850a39d",
-    "sourceDate": "2018-05-21T00:00:00",
-    "headline": "The three biggest surprises in the Trump Organization’s financial filings",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Scotland",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -1808,20 +1501,30 @@
   },
   {
     "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
-    "familyMember": "Donald Trump",
     "conflict": "Mar-a-Lago Club",
     "category": "Active",
-    "mediaOutlet": "Palm Beach Post",
-    "link": "https://www.palmbeachpost.com/news/national-govt--politics/mar-lago-events-raise-money-for-politicos-revenues-for-trump/F0EK7JzzOeDTT6nTSe8qyO/amp.html",
-    "sourceDate": "2018-05-04T00:00:00",
-    "headline": "Mar-a-Lago events raise money for politicos, revenues for Trump",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/politics/the-three-biggest-surprises-in-the-trump-organizations-financial-filings/2018/05/21/db2f0420-5c94-11e8-9ee3-49d6d4814c4c_story.html?utm_term=.64de8850a39d",
+    "sourceDate": "2018-05-21T00:00:00",
+    "headline": "The three biggest surprises in the Trump Organization’s financial filings",
     "conflictId": "124",
     "conflictSlug": "mar-a-lago-club",
     "hasEthics": true
   },
   {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/politics/the-three-biggest-surprises-in-the-trump-organizations-financial-filings/2018/05/21/db2f0420-5c94-11e8-9ee3-49d6d4814c4c_story.html?utm_term=.64de8850a39d",
+    "sourceDate": "2018-05-21T00:00:00",
+    "headline": "The three biggest surprises in the Trump Organization’s financial filings",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Miami Resort",
     "category": "Active",
     "mediaOutlet": "Palm Beach Post",
@@ -1833,21 +1536,7 @@
     "hasEthics": true
   },
   {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/graphics/2018/politics/trump-hotel-events/?noredirect=on&utm_term=.e324edc7d621",
-    "sourceDate": "2018-05-04T00:00:00",
-    "headline": "Tracking who is spending money at President Trump’s D.C. hotel",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Commercial",
     "category": "Active",
     "mediaOutlet": "The Guardian",
@@ -1860,7 +1549,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Condominium Residential Section",
     "category": "Active",
     "mediaOutlet": "The Guardian",
@@ -1873,7 +1561,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Managing Member",
     "category": "Active",
     "mediaOutlet": "The Guardian",
@@ -1885,8 +1572,31 @@
     "hasEthics": true
   },
   {
+    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+    "conflict": "Mar-a-Lago Club",
+    "category": "Active",
+    "mediaOutlet": "Palm Beach Post",
+    "link": "https://www.palmbeachpost.com/news/national-govt--politics/mar-lago-events-raise-money-for-politicos-revenues-for-trump/F0EK7JzzOeDTT6nTSe8qyO/amp.html",
+    "sourceDate": "2018-05-04T00:00:00",
+    "headline": "Mar-a-Lago events raise money for politicos, revenues for Trump",
+    "conflictId": "124",
+    "conflictSlug": "mar-a-lago-club",
+    "hasEthics": true
+  },
+  {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/graphics/2018/politics/trump-hotel-events/?noredirect=on&utm_term=.e324edc7d621",
+    "sourceDate": "2018-05-04T00:00:00",
+    "headline": "Tracking who is spending money at President Trump’s D.C. hotel",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "MarketWatch",
@@ -1899,7 +1609,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Daily Beast",
@@ -1912,7 +1621,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Foundation",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -1925,7 +1633,6 @@
   },
   {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -1938,7 +1645,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT India Venture",
     "category": "Active",
     "mediaOutlet": "The New Republic",
@@ -1951,7 +1657,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "The New Republic",
@@ -1964,7 +1669,6 @@
   },
   {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "WAMU",
@@ -1977,7 +1681,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -1990,7 +1693,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -2003,7 +1705,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Panama Ocean Club Management",
     "category": "Active",
     "mediaOutlet": "Business Insider",
@@ -2016,7 +1717,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Panama",
     "category": "Active",
     "mediaOutlet": "Business Insider",
@@ -2029,7 +1729,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Panama Condominium",
     "category": "Active",
     "mediaOutlet": "Business Insider",
@@ -2042,7 +1741,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Panama Hotel Management",
     "category": "Active",
     "mediaOutlet": "Business Insider",
@@ -2055,7 +1753,6 @@
   },
   {
     "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
-    "familyMember": "Donald Trump",
     "conflict": "Mar-a-Lago Club",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -2068,7 +1765,6 @@
   },
   {
     "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
-    "familyMember": "Donald Trump",
     "conflict": "Mar-a-Lago Club",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -2081,7 +1777,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Panama Ocean Club Management",
     "category": "Active",
     "mediaOutlet": "Associated Press",
@@ -2094,7 +1789,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Panama",
     "category": "Active",
     "mediaOutlet": "Associated Press",
@@ -2107,7 +1801,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Panama Condominium",
     "category": "Active",
     "mediaOutlet": "Associated Press",
@@ -2120,7 +1813,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Panama Hotel Management",
     "category": "Active",
     "mediaOutlet": "Associated Press",
@@ -2133,7 +1825,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT India Venture",
     "category": "Active",
     "mediaOutlet": "Fox News",
@@ -2146,7 +1837,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Fox News",
@@ -2159,7 +1849,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Management",
     "category": "Active",
     "mediaOutlet": "Fox News",
@@ -2172,7 +1861,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Fox News",
@@ -2185,7 +1873,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT India Venture",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -2198,7 +1885,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -2211,7 +1897,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Management",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -2224,7 +1909,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -2237,7 +1921,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Tower I",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -2250,7 +1933,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Tower II",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -2263,7 +1945,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Lntematlonal Hotel And Tower Condominium",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -2276,7 +1957,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -2289,7 +1969,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Commercial",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -2302,7 +1981,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Tower Managing Member",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -2315,7 +1993,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Newsweek",
@@ -2328,7 +2005,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Management",
     "category": "Active",
     "mediaOutlet": "Newsweek",
@@ -2341,7 +2017,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Newsweek",
@@ -2354,7 +2029,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Fast Company",
@@ -2367,7 +2041,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Management",
     "category": "Active",
     "mediaOutlet": "Fast Company",
@@ -2380,7 +2053,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Fast Company",
@@ -2393,7 +2065,6 @@
   },
   {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -2405,21 +2076,7 @@
     "hasEthics": true
   },
   {
-    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
-    "familyMember": "Donald Trump",
-    "conflict": "Mar-a-Lago Club",
-    "category": "Active",
-    "mediaOutlet": "Citizens for Responsibility and Ethics in Washington (CREW)",
-    "link": "https://sunlightfoundation.com/2018/02/02/this-week-in-conflicts-of-interest-a-resignation-disclosure-required-and-a-chance-to-meet-donald-trump-jr/",
-    "sourceDate": "2018-01-25T00:00:00",
-    "headline": "TRUMP INC: A CHRONICLE OF PRESIDENTIAL CONFLICTS",
-    "conflictId": "124",
-    "conflictSlug": "mar-a-lago-club",
-    "hasEthics": true
-  },
-  {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Citizens for Responsibility and Ethics in Washington (CREW)",
@@ -2431,8 +2088,31 @@
     "hasEthics": true
   },
   {
+    "description": "",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
+    "mediaOutlet": "Citizens for Responsibility and Ethics in Washington (CREW)",
+    "link": "https://sunlightfoundation.com/2018/02/02/this-week-in-conflicts-of-interest-a-resignation-disclosure-required-and-a-chance-to-meet-donald-trump-jr/",
+    "sourceDate": "2018-01-25T00:00:00",
+    "headline": "TRUMP INC: A CHRONICLE OF PRESIDENTIAL CONFLICTS",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
+    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+    "conflict": "Mar-a-Lago Club",
+    "category": "Active",
+    "mediaOutlet": "Citizens for Responsibility and Ethics in Washington (CREW)",
+    "link": "https://sunlightfoundation.com/2018/02/02/this-week-in-conflicts-of-interest-a-resignation-disclosure-required-and-a-chance-to-meet-donald-trump-jr/",
+    "sourceDate": "2018-01-25T00:00:00",
+    "headline": "TRUMP INC: A CHRONICLE OF PRESIDENTIAL CONFLICTS",
+    "conflictId": "124",
+    "conflictSlug": "mar-a-lago-club",
+    "hasEthics": true
+  },
+  {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "Citizens for Responsibility and Ethics in Washington (CREW)",
@@ -2445,20 +2125,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Organization Inc.",
-    "category": "Active",
-    "mediaOutlet": "Citizens for Responsibility and Ethics in Washington (CREW)",
-    "link": "https://sunlightfoundation.com/2018/02/02/this-week-in-conflicts-of-interest-a-resignation-disclosure-required-and-a-chance-to-meet-donald-trump-jr/",
-    "sourceDate": "2018-01-25T00:00:00",
-    "headline": "TRUMP INC: A CHRONICLE OF PRESIDENTIAL CONFLICTS",
-    "conflictId": "327",
-    "conflictSlug": "trump-organization-inc",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Dubai Golf Manager",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -2471,7 +2137,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Dubai II Golf Manager",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -2484,20 +2149,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Dubai II Golf Manager",
-    "category": "Active",
-    "mediaOutlet": "McClatchy",
-    "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article172443417.html",
-    "sourceDate": "2017-09-01T00:00:00",
-    "headline": "Trump promised not to work with foreign entities. His company just did",
-    "conflictId": "57",
-    "conflictSlug": "dt-dubai-ii-golf-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Dubai",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -2510,7 +2161,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Dubai II",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -2523,7 +2173,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "THC Dubai II Hotel Manager",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -2536,7 +2185,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -2549,7 +2197,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Dubai",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -2562,7 +2209,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "McClatchy",
@@ -2575,7 +2221,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Caribbean",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -2588,7 +2233,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -2601,7 +2245,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Caribbean",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -2614,7 +2257,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -2627,7 +2269,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Revocable Trust",
     "category": "Active",
     "mediaOutlet": "ProPublica",
@@ -2640,7 +2281,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Foundation",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -2653,7 +2293,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Police Athletic League",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -2666,7 +2305,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -2679,7 +2317,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Miami Resort",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -2692,7 +2329,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -2705,7 +2341,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "TC Marks Buenos Aires",
     "category": "Active",
     "mediaOutlet": "Reuters",
@@ -2718,7 +2353,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Reuters",
@@ -2731,7 +2365,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Bali Golf Manager",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -2744,20 +2377,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Bali Golf Manager",
-    "category": "Active",
-    "mediaOutlet": "New York Times",
-    "link": "http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html",
-    "sourceDate": "2016-12-31T00:00:00",
-    "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
-    "conflictId": "50",
-    "conflictSlug": "dt-bali-golf-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Bali Hotel Manager",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -2770,20 +2389,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Bali Hotel Manager",
-    "category": "Active",
-    "mediaOutlet": "New York Times",
-    "link": "http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html",
-    "sourceDate": "2016-12-31T00:00:00",
-    "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
-    "conflictId": "51",
-    "conflictSlug": "dt-bali-hotel-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Bali Technical Services Manager",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -2796,20 +2401,6 @@
   },
   {
     "description": "",
-    "familyMember": "Ivanka Trump",
-    "conflict": "DT Bali Technical Services Manager",
-    "category": "Active",
-    "mediaOutlet": "New York Times",
-    "link": "http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html",
-    "sourceDate": "2016-12-31T00:00:00",
-    "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
-    "conflictId": "52",
-    "conflictSlug": "dt-bali-technical-services-manager",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Bali",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -2822,7 +2413,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -2835,7 +2425,6 @@
   },
   {
     "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
-    "familyMember": "Donald Trump",
     "conflict": "Mar-a-Lago Club",
     "category": "Active",
     "mediaOutlet": "Politico",
@@ -2848,7 +2437,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Entrepreneur InitiatIVe (Formerly Trump UnIVersity Ca)",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -2861,7 +2449,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Las Vegas",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -2873,8 +2460,19 @@
     "hasEthics": true
   },
   {
+    "description": "",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
+    "mediaOutlet": "New York Times",
+    "link": "https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html",
+    "sourceDate": "2016-12-21T00:00:00",
+    "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -2887,20 +2485,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Organization Inc.",
-    "category": "Active",
-    "mediaOutlet": "New York Times",
-    "link": "https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html",
-    "sourceDate": "2016-12-21T00:00:00",
-    "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
-    "conflictId": "327",
-    "conflictSlug": "trump-organization-inc",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -2913,7 +2497,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -2926,7 +2509,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Holds United Technologies",
     "category": "Active",
     "mediaOutlet": "Wall Street Journal",
@@ -2938,34 +2520,19 @@
     "hasEthics": true
   },
   {
-    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
-    "conflict": "Trump Old Post Office",
-    "category": "Active",
-    "mediaOutlet": "Huffington Post",
-    "link": "http://www.huffingtonpost.com/entry/donald-trump-bahrain_us_583de2a5e4b0c33c8e1282d0?inyv55o07g8horms4i",
-    "sourceDate": "2016-11-29T00:00:00",
-    "headline": "Bahrain To Hold Major Celebration At Donald Trump’s D.C. Hotel",
-    "conflictId": "325",
-    "conflictSlug": "trump-old-post-office",
-    "hasEthics": true
-  },
-  {
     "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
-    "familyMember": "Jared Kushner",
-    "conflict": "Wells Fargo",
+    "conflict": "Goldman Sachs",
     "category": "Active",
     "mediaOutlet": "Forbes",
     "link": "https://www.forbes.com/sites/jenniferwang/2016/11/29/trumps-stock-portfolio-big-oil-big-banks-and-more-foreign-connections/#30d204ea464e",
     "sourceDate": "2016-11-29T00:00:00",
     "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
-    "conflictId": "401",
-    "conflictSlug": "wells-fargo",
-    "hasEthics": false
+    "conflictId": "403",
+    "conflictSlug": "goldman-sachs",
+    "hasEthics": true
   },
   {
     "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
-    "familyMember": "Jared Kushner",
     "conflict": "Morgan Stanley",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -2978,20 +2545,18 @@
   },
   {
     "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
-    "familyMember": "Jared Kushner",
-    "conflict": "Goldman Sachs",
+    "conflict": "Wells Fargo",
     "category": "Active",
     "mediaOutlet": "Forbes",
     "link": "https://www.forbes.com/sites/jenniferwang/2016/11/29/trumps-stock-portfolio-big-oil-big-banks-and-more-foreign-connections/#30d204ea464e",
     "sourceDate": "2016-11-29T00:00:00",
     "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
-    "conflictId": "403",
-    "conflictSlug": "goldman-sachs",
-    "hasEthics": true
+    "conflictId": "401",
+    "conflictSlug": "wells-fargo",
+    "hasEthics": false
   },
   {
     "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
-    "familyMember": "Jared Kushner",
     "conflict": "Exxon Mobil",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -3004,7 +2569,18 @@
   },
   {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
-    "familyMember": "Donald Trump",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Huffington Post",
+    "link": "http://www.huffingtonpost.com/entry/donald-trump-bahrain_us_583de2a5e4b0c33c8e1282d0?inyv55o07g8horms4i",
+    "sourceDate": "2016-11-29T00:00:00",
+    "headline": "Bahrain To Hold Major Celebration At Donald Trump’s D.C. Hotel",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "conflict": "Trump Old Post Office",
     "category": "Active",
     "mediaOutlet": "Government Executive",
@@ -3017,7 +2593,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT India Venture",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3030,7 +2605,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Rio",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3043,7 +2617,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "THC Rio",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3056,7 +2629,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Brazil",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3069,7 +2641,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Club Scotland",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3082,7 +2653,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Links - Scotland",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3095,7 +2665,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Istanbul II",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3108,7 +2677,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Mumbai",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3121,7 +2689,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Philippines",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3134,7 +2701,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Scotland",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3147,7 +2713,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "TC Marks Buenos Aires",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3160,7 +2725,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Club Scotland",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3173,7 +2737,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Links - Scotland",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3186,7 +2749,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3199,7 +2761,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Scotland",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3212,7 +2773,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Donald J. Trump Foundation",
     "category": "Active",
     "mediaOutlet": "BuzzFeed",
@@ -3225,7 +2785,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Philippines",
     "category": "Active",
     "mediaOutlet": "Bloomberg Politics",
@@ -3238,7 +2797,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Philippines",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -3251,7 +2809,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Bloomberg Politics",
@@ -3264,7 +2821,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "NPR",
@@ -3277,7 +2833,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Club Scotland",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3290,7 +2845,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Links - Scotland",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3303,7 +2857,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DJ Aerospace (Bermuda)",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3316,7 +2869,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT India Venture",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3329,7 +2881,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Jeddah Technical Services Advisor",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3342,7 +2893,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Jeddah Technical Services Manager",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3355,7 +2905,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT Marks Qatar",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3368,7 +2917,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Panama Ocean Club Management",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3381,7 +2929,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Scotland Acquisitions",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3394,7 +2941,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "THC Development Brazil",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3407,7 +2953,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "THC Jeddah Hotel Advisor",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3420,7 +2965,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "THC Jeddah Hotel Manager",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3433,7 +2977,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "THC Qatar Hotel Manager",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3446,7 +2989,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Toronto Development",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3459,7 +3001,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Brazil",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3472,7 +3013,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Canadian Services",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3485,7 +3025,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Drinks Israel",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3498,7 +3037,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Drinks Israel Holdings",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3511,7 +3049,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Club Scotland",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3524,7 +3061,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Golf Links - Scotland",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3537,7 +3073,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Marks Panama",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3550,7 +3085,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Panama Condominium",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3563,7 +3097,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Panama Hotel Management",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3576,7 +3109,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Scotland",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3589,7 +3121,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Toronto Development",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3602,7 +3133,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Toronto Hotel",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3615,7 +3145,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Toronto Member (Formerly Trump Toronto Management)",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3628,7 +3157,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Entrepreneur InitiatIVe (Formerly Trump UnIVersity Ca)",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3641,7 +3169,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "DT India Venture",
     "category": "Active",
     "mediaOutlet": "Economic Times",
@@ -3654,7 +3181,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Taiwan News",
@@ -3667,7 +3193,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Entrepreneur InitiatIVe (Formerly Trump UnIVersity Ca)",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3680,7 +3205,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3693,7 +3217,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3706,7 +3229,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "1290 Avenue Of The Americas, a Tenancy-In-Common",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3719,7 +3241,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Equitable Fifth Avenue Company",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3732,7 +3253,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "New York Times",
@@ -3745,7 +3265,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Miss Universe (Formerly Trump Pageants)",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3758,7 +3277,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -3771,7 +3289,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Holds United Technologies",
     "category": "Active",
     "mediaOutlet": "Indy Star",
@@ -3784,7 +3301,6 @@
   },
   {
     "description": "",
-    "familyMember": "Donald Trump",
     "conflict": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "category": "Active",
     "mediaOutlet": "Press Release",

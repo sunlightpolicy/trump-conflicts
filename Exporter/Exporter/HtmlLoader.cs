@@ -106,12 +106,10 @@ namespace Conflicts {
     public class Story {
 
         public string description;
-        public string familyMember;
+        
         public string conflict;
         public string category;
-        //public string notes;
-        //public DateTime dateChanged;
-        
+                
         public string mediaOutlet;
         public string link;
         public DateTime sourceDate;
@@ -124,12 +122,10 @@ namespace Conflicts {
 
         public Story(Conflict conflict, Source source) {
             description = conflict.Description;
-            familyMember = conflict.FamilyMember;
+         
             this.conflict = conflict.ConflictingEntity;
             category = conflict.Category;
-            //notes = conflict.Notes;
-            //dateChanged = conflict.DateChanged;
-
+           
             mediaOutlet = source.Name;
             link = source.Link;
             sourceDate = source.Date;
@@ -143,7 +139,7 @@ namespace Conflicts {
 
         public Story (
             string description
-            , string familyMember
+            //, string familyMember
             , string conflict
             , string conflictSlug
             , string category
@@ -159,13 +155,11 @@ namespace Conflicts {
             , bool hasEthics = false) {
             
             this.description = description;
-            this.familyMember = familyMember;
+            //this.familyMember = familyMember;
             this.conflict = conflict;
             this.conflictSlug = conflictSlug;
             this.category = category;
-            //this.notes = notes;
-            //this.dateChanged = Convert.ToDateTime(dateChanged);
-
+         
             this.mediaOutlet = mediaOutlet;
             this.link = link;
             sourceDate = Convert.ToDateTime(date);
@@ -212,12 +206,9 @@ namespace Conflicts {
         public string ToCsv() {
             return
                 "\"" + Util.RepeatQuotes(description) + "\"," +
-                familyMember + "," +
                 "\"" + Util.RepeatQuotes(conflict) + "\"," +
                 category + ", " +
-                //"\"" + Util.RepeatQuotes(notes) + "\"," +
-                //String.Format("{0:MM/dd/yyyy}", dateChanged) + "," + 
-
+    
                 "\"" + Util.RemoveQuotes(mediaOutlet) + "\"," +
                 "\"" + Util.RemoveQuotes(link) + "\"," +
                 "\"" + String.Format("{0:MM/dd/yyyy}", sourceDate) + "\"," +

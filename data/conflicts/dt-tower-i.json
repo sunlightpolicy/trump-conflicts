@@ -4,7 +4,6 @@
   "stories": [
     {
       "description": "",
-      "familyMember": "Donald Trump",
       "conflict": "DT Tower I",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -17,7 +16,6 @@
     },
     {
       "description": "",
-      "familyMember": "Donald Trump",
       "conflict": "DT Tower I",
       "category": "Active",
       "mediaOutlet": "McClatchy",
@@ -30,7 +28,6 @@
     },
     {
       "description": "",
-      "familyMember": "Donald Trump",
       "conflict": "DT Tower I",
       "category": "Active",
       "mediaOutlet": "Forbes",
