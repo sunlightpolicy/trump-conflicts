@@ -131,7 +131,7 @@
           "ownerships": [
             {
               "owneeId": "750",
-              "owner": "Fifth Associates, LLC (Commercial Real Estate In New York, NY)",
+              "owner": "Bruckner Plaza Center Corp. (Commercial Real Estate In New York, NY)",
               "percentage": ""
             },
             {
@@ -141,7 +141,7 @@
             },
             {
               "owneeId": "750",
-              "owner": "Bruckner Plaza Center Corp. (Commercial Real Estate In New York, NY)",
+              "owner": "Fifth Associates, LLC (Commercial Real Estate In New York, NY)",
               "percentage": ""
             }
           ],
@@ -164,11 +164,6 @@
             }
           ],
           "ownerships": [
-            {
-              "owneeId": "888",
-              "owner": "666 ASSOCIATES, LP (Commercial Real Estate in New York, NY)",
-              "percentage": ""
-            },
             {
               "owneeId": "888",
               "owner": "666 ASSOCIATES, LP (Commercial Real Estate in New York, NY)",
@@ -279,7 +274,7 @@
           "ownerships": [
             {
               "owneeId": "750",
-              "owner": "Fifth Associates, LLC (Commercial Real Estate In New York, NY)",
+              "owner": "Bruckner Plaza Center Corp. (Commercial Real Estate In New York, NY)",
               "percentage": ""
             },
             {
@@ -289,7 +284,7 @@
             },
             {
               "owneeId": "750",
-              "owner": "Bruckner Plaza Center Corp. (Commercial Real Estate In New York, NY)",
+              "owner": "Fifth Associates, LLC (Commercial Real Estate In New York, NY)",
               "percentage": ""
             }
           ],
@@ -350,11 +345,6 @@
             }
           ],
           "ownerships": [
-            {
-              "owneeId": "888",
-              "owner": "666 ASSOCIATES, LP (Commercial Real Estate in New York, NY)",
-              "percentage": ""
-            },
             {
               "owneeId": "888",
               "owner": "666 ASSOCIATES, LP (Commercial Real Estate in New York, NY)",

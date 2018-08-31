@@ -33,6 +33,10 @@ d3.json("data/conflicts.json", function (err, data) {
     
     function setword(wd) {
         if (wd.length < 3) {
+
+            if (wd.length == 0)
+                showFilters();
+
             searchDim.filter(null);
             dc.redrawAll();  
             return;
