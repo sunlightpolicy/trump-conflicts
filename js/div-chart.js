@@ -84,8 +84,8 @@ dc.divChart = function (parent, chartGroup) {
             '<img class="" dsrc="blank.gif" data-original="img/' + familyMember + '.jpg" ' +
             'alt="' + familyMember + '" ' +
             'title="' + familyMember + '" ' +
-            'width="130" ' +
-            'height="160" ' +
+            'width="115" ' +
+            'height="140" ' +
             'src="img/' + familyMember + '.jpg" style="display: inline;">';
         return html
     }

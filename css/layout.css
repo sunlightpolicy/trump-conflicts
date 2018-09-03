@@ -1,5 +1,5 @@
 ﻿:root {
-    --col-1-width: 350px;
+    --col-1-width: 320px;
     --min-width: 1100px;
     /* --max-width: 1100px; */
 }
@@ -28,6 +28,8 @@ body {
     width: calc(100vw - 18px);
 }
 
+
+
 .container *> {
     border: 1px solid black;    
 }
@@ -55,6 +57,7 @@ body {
 
 .family {
     grid-area: family;
+    overflow-y: auto;
 }
 
 .stats {
@@ -98,8 +101,33 @@ body {
     grid-area: conflict;
 }
 
-.outlet {
-    grid-area: outlet;
+
+
+
+/* Phone */
+@media screen and (max-width: 40em) { 
+    h4.tagline {
+        display: none;
+    }
+
+    :root {
+        --col-1-width: 200px;
+        --min-width: 1100px;
+        /* --max-width: 1100px; */
+    }
+   
+    .search-input {
+        margin-top: 8px;
+        margin-left: 10px;
+        width: 170px;
+        font-size: 14px;
+    }
+
+    .search-title {
+        margin-top: 6px;
+        margin-left: 2px;
+        font-size: 13px;
+    }
 }
 
 
