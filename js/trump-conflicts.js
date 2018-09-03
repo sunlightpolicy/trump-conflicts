@@ -89,7 +89,7 @@ d3.json("data/conflicts.json", function (err, data) {
     familyMemberChart = new DivChart(facts, "familyMember");
 
     statusChart = new RowChart(facts, "status", col1Width, 6, 100);
-    statusChart.filter("Active");
+    //statusChart.filter("Active");
      
     dataTable = dc.dataTable("#dc-chart-dataGrid");
     var tableDim = facts.dimension(function(d) { return +d.Id; });

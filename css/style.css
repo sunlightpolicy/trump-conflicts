@@ -415,10 +415,13 @@ p.conflict-description {
 
 
 
-
 @media screen and (max-width: 57em) { 
     h4.tagline {
         display: none;
+    }
+
+    h1.title {
+        margin-top: 25px; 
     }
 }
 
