@@ -1,7 +1,20 @@
 {
   "name": "Trump National Golf Club - Los Angeles",
   "description": "",
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Trump National Golf Club - Los Angeles",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/politics-government/white-house/article216249755.html",
+      "sourceDate": "2018-08-13T00:00:00",
+      "headline": "In 2014, political spending at Trump properties was $35K. In 2018, it’s $3.5M",
+      "conflictId": "320",
+      "conflictSlug": "trump-national-golf-club-los-angeles",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [

@@ -147,8 +147,8 @@
     "name": "65 Bay",
     "description": "",
     "slug": "65-bay",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Active"
   },
@@ -156,8 +156,8 @@
     "name": "65 Bay",
     "description": "",
     "slug": "65-bay",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
@@ -489,8 +489,8 @@
     "name": "Chatham Hill Associates",
     "description": "",
     "slug": "chatham-hill-associates",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Active"
   },
@@ -498,8 +498,8 @@
     "name": "Chatham Hill Associates",
     "description": "",
     "slug": "chatham-hill-associates",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
@@ -780,7 +780,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
-    "status": "Unclear"
+    "status": "Resolved"
   },
   {
     "name": "DJT Holdings",
@@ -874,10 +874,10 @@
   },
   {
     "name": "Donald J. Trump Foundation",
-    "description": "",
+    "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
     "slug": "donald-j-trump-foundation",
-    "stories": "9",
-    "lastStory": "Jun 19, 2018",
+    "stories": "11",
+    "lastStory": "Aug 24, 2018",
     "familyMember": "Donald Trump",
     "status": "Unclear"
   },
@@ -1038,8 +1038,8 @@
     "name": "DT India Venture",
     "description": "",
     "slug": "dt-india-venture",
-    "stories": "6",
-    "lastStory": "Mar 21, 2018",
+    "stories": "7",
+    "lastStory": "Aug 14, 2018",
     "familyMember": "Donald Trump",
     "status": "Active"
   },
@@ -1884,8 +1884,8 @@
     "name": "K 26 Journal Square",
     "description": "",
     "slug": "k-26-journal-square",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Active"
   },
@@ -1893,8 +1893,8 @@
     "name": "K 26 Journal Square",
     "description": "",
     "slug": "k-26-journal-square",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
@@ -1902,8 +1902,8 @@
     "name": "K 30 Journal Square",
     "description": "",
     "slug": "k-30-journal-square",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Active"
   },
@@ -1911,8 +1911,8 @@
     "name": "K 30 Journal Square",
     "description": "",
     "slug": "k-30-journal-square",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
@@ -1983,8 +1983,8 @@
     "name": "K One Journal Square",
     "description": "",
     "slug": "k-one-journal-square",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Resolved"
   },
@@ -1992,8 +1992,8 @@
     "name": "K One Journal Square",
     "description": "",
     "slug": "k-one-journal-square",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
   },
@@ -2413,10 +2413,10 @@
   },
   {
     "name": "Mar-a-Lago Club",
-    "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+    "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
     "slug": "mar-a-lago-club",
-    "stories": "10",
-    "lastStory": "Jul 13, 2018",
+    "stories": "12",
+    "lastStory": "Aug 20, 2018",
     "familyMember": "Donald Trump",
     "status": "Active"
   },
@@ -2541,8 +2541,8 @@
     "name": "Monmouth Mall",
     "description": "",
     "slug": "monmouth-mall",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Resolved"
   },
@@ -2550,8 +2550,8 @@
     "name": "Monmouth Mall",
     "description": "",
     "slug": "monmouth-mall",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
   },
@@ -3216,8 +3216,8 @@
     "name": "Shore Haven Apt#1",
     "description": "",
     "slug": "shore-haven-apt1",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 20, 2018",
     "familyMember": "Donald Trump",
     "status": "Active"
   },
@@ -3270,8 +3270,8 @@
     "name": "Skyline Kushner",
     "description": "",
     "slug": "skyline-kushner",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Active"
   },
@@ -3279,8 +3279,8 @@
     "name": "Skyline Kushner",
     "description": "",
     "slug": "skyline-kushner",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
@@ -3696,7 +3696,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Unclear"
+    "status": "Resolved"
   },
   {
     "name": "The Way to the Top",
@@ -3876,7 +3876,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Resolved"
+    "status": "Active"
   },
   {
     "name": "Tipperary Realty",
@@ -4350,8 +4350,8 @@
     "name": "Trump International Golf Club",
     "description": "",
     "slug": "trump-international-golf-club",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 13, 2018",
     "familyMember": "Donald Trump",
     "status": "Active"
   },
@@ -4366,7 +4366,7 @@
   },
   {
     "name": "Trump International Golf Club Scotland",
-    "description": "",
+    "description": "Trump International Golf Links, Scotland is a golf course in Balmedie, Aberdeenshire, Scotland, owned by Donald Trump. It opened in 2012. The Trump Organization is currently working on expanding the property.",
     "slug": "trump-international-golf-club-scotland",
     "stories": "6",
     "lastStory": "Jul 13, 2018",
@@ -4384,7 +4384,7 @@
   },
   {
     "name": "Trump International Golf Links - Scotland",
-    "description": "",
+    "description": "Trump International Golf Links, Scotland is a golf course in Balmedie, Aberdeenshire, Scotland, owned by Donald Trump. It opened in 2012. The Trump Organization is currently working on expanding the property.",
     "slug": "trump-international-golf-links-scotland",
     "stories": "7",
     "lastStory": "Jul 25, 2018",
@@ -4402,10 +4402,10 @@
   },
   {
     "name": "Trump International Hotels Management D/B/A Trump Hotel Collection",
-    "description": "",
+    "description": "Trump International Hotels Management, also known as the Trump Hotel Collection, is a management company for the hotels owned by President Trump. The company has hotels across the United States and around the world bearing the Trump name, including in Las Vegas, Washington, D.C. and Vancouver.",
     "slug": "trump-international-hotels-management-dba-trump-hotel-collection",
-    "stories": "19",
-    "lastStory": "Aug 03, 2018",
+    "stories": "20",
+    "lastStory": "Aug 14, 2018",
     "familyMember": "Donald Trump",
     "status": "Unclear"
   },
@@ -4413,8 +4413,8 @@
     "name": "Trump International Management",
     "description": "",
     "slug": "trump-international-management",
-    "stories": "4",
-    "lastStory": "Feb 20, 2018",
+    "stories": "5",
+    "lastStory": "Aug 14, 2018",
     "familyMember": "Donald Trump",
     "status": "Unclear"
   },
@@ -4683,8 +4683,8 @@
     "name": "Trump Marks Mumbai",
     "description": "",
     "slug": "trump-marks-mumbai",
-    "stories": "1",
-    "lastStory": "Nov 26, 2016",
+    "stories": "2",
+    "lastStory": "Aug 14, 2018",
     "familyMember": "Donald Trump",
     "status": "Active"
   },
@@ -4908,8 +4908,8 @@
     "name": "Trump National Golf Club - Los Angeles",
     "description": "",
     "slug": "trump-national-golf-club-los-angeles",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Aug 13, 2018",
     "familyMember": "Donald Trump",
     "status": "Active"
   },
@@ -4953,8 +4953,8 @@
     "name": "Trump Old Post Office",
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "slug": "trump-old-post-office",
-    "stories": "26",
-    "lastStory": "Aug 08, 2018",
+    "stories": "30",
+    "lastStory": "Aug 28, 2018",
     "familyMember": "Donald Trump",
     "status": "Active"
   },
@@ -4969,10 +4969,10 @@
   },
   {
     "name": "Trump Organization Inc.",
-    "description": "",
+    "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
     "slug": "trump-organization-inc",
-    "stories": "49",
-    "lastStory": "Aug 08, 2018",
+    "stories": "55",
+    "lastStory": "Aug 24, 2018",
     "familyMember": "Donald Trump",
     "status": "Active"
   },
@@ -5370,7 +5370,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Unclear"
+    "status": "Resolved"
   },
   {
     "name": "Utah St Ser C",
@@ -5451,7 +5451,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Unclear"
+    "status": "Resolved"
   },
   {
     "name": "Vreeland Avenue Associates",
@@ -5487,7 +5487,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump",
-    "status": "Resolved"
+    "status": "Active"
   },
   {
     "name": "Wallkill Apartments Associates",
@@ -5496,7 +5496,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Resolved"
+    "status": "Active"
   },
   {
     "name": "Warren At Bay",

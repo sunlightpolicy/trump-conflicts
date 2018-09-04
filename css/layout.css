@@ -105,15 +105,45 @@ body {
 
 
 /* Phone */
-@media screen and (max-width: 40em) { 
+@media screen and (max-width: 50em) { 
     h4.tagline {
         display: none;
     }
 
     :root {
-        --col-1-width: 200px;
-        --min-width: 1100px;
+        --col-1-width: 160px;
+        --min-width: 400px;
         /* --max-width: 1100px; */
+    }
+
+    body {
+        width: 400px;
+    }
+
+    .container {
+        display: grid;
+        grid-template-areas: 
+            "logo       logo     " 
+            "title      title    "
+            "searchBox  searchBox  " 
+            "family     conflictsHeader" 
+            "family     conflicts" 
+            "status     conflicts" 
+            "footer     footer   "; 
+        grid-template-columns: var(--col-1-width) 1fr;
+        grid-template-rows: 100px 100px auto auto 60px auto 1fr 2px;
+        grid-gap: .2em;
+        margin: 0px;
+        height: 100vh;
+        width: calc(100vw - 18px);
+    }
+
+    h4.tagline {
+        display: none;
+    }
+
+    .info {
+        display: none;
     }
    
     .search-input {

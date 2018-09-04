@@ -1,9 +1,81 @@
 {
   "name": "Trump Organization Inc.",
-  "description": "",
+  "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
   "stories": [
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+      "conflict": "Trump Organization Inc.",
+      "category": "Active",
+      "mediaOutlet": "Reuters",
+      "link": "https://mobile.reuters.com/article/amp/idUSKCN1L91MS",
+      "sourceDate": "2018-08-24T00:00:00",
+      "headline": "U.S. prosecutors grant Trump Organization CFO immunity in Cohen probe",
+      "conflictId": "327",
+      "conflictSlug": "trump-organization-inc",
+      "hasEthics": true
+    },
+    {
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+      "conflict": "Trump Organization Inc.",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/08/22/politics/michael-cohen-trump-foundation-subpoena/index.html",
+      "sourceDate": "2018-08-22T00:00:00",
+      "headline": "New York tax investigators subpoena Michael Cohen in Trump Foundation probe",
+      "conflictId": "327",
+      "conflictSlug": "trump-organization-inc",
+      "hasEthics": true
+    },
+    {
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+      "conflict": "Trump Organization Inc.",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/justice-department-seeks-to-halt-lawsuit-involving-president-trumps-business/2018/08/17/0633c454-a23f-11e8-8e87-c869fe70a721_story.html?utm_term=.0486d0daf301",
+      "sourceDate": "2018-08-17T00:00:00",
+      "headline": "Justice Department seeks to halt lawsuit involving President Trump’s business",
+      "conflictId": "327",
+      "conflictSlug": "trump-organization-inc",
+      "hasEthics": true
+    },
+    {
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+      "conflict": "Trump Organization Inc.",
+      "category": "Active",
+      "mediaOutlet": "NBC Bay Area",
+      "link": "https://www.nbcbayarea.com/news/local/San-Francisco-Ethics-Official-Files-Suit-Against-Secret-Service-Over-Trump-Jrs-India-Trip-Records-490844011.html?amp=y",
+      "sourceDate": "2018-08-14T00:00:00",
+      "headline": "San Francisco Ethics Official Files Suit Against Secret Service Over Trump Jr.''s India Trip Records",
+      "conflictId": "327",
+      "conflictSlug": "trump-organization-inc",
+      "hasEthics": true
+    },
+    {
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+      "conflict": "Trump Organization Inc.",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/politics-government/white-house/article216249755.html",
+      "sourceDate": "2018-08-13T00:00:00",
+      "headline": "In 2014, political spending at Trump properties was $35K. In 2018, it’s $3.5M",
+      "conflictId": "327",
+      "conflictSlug": "trump-organization-inc",
+      "hasEthics": true
+    },
+    {
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+      "conflict": "Trump Organization Inc.",
+      "category": "Active",
+      "mediaOutlet": "Politico",
+      "link": "https://www.politico.com/story/2018/08/13/trump-white-house-staff-golf-clubs-perks-776098",
+      "sourceDate": "2018-08-13T00:00:00",
+      "headline": "Trump offers White House staffers a special perk at his golf club",
+      "conflictId": "327",
+      "conflictSlug": "trump-organization-inc",
+      "hasEthics": true
+    },
+    {
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "NBC",
@@ -15,7 +87,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "NBC",
@@ -27,7 +99,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -39,7 +111,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Fortune",
@@ -51,7 +123,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -63,7 +135,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Wall Street Journal",
@@ -75,19 +147,19 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "ABC News",
       "link": "https://abcnews.go.com/amp/Business/wireStory/trumps-scottish-resort-expand-raising-ethics-concerns-56822706",
       "sourceDate": "2018-07-25T00:00:00",
-      "headline": "Trump''s Scottish resort to expand, raising ethics concerns",
+      "headline": "Trump's Scottish resort to expand, raising ethics concerns",
       "conflictId": "327",
       "conflictSlug": "trump-organization-inc",
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "CNN",
@@ -99,7 +171,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "NPR",
@@ -111,7 +183,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "The Atlantic",
@@ -123,7 +195,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -135,7 +207,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Business Insider",
@@ -147,7 +219,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "CNN",
@@ -159,7 +231,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "NPR",
@@ -171,7 +243,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "McClatchy",
@@ -183,7 +255,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "McClatchy",
@@ -195,7 +267,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Newsweek",
@@ -207,7 +279,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "ProPublica",
@@ -219,7 +291,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "McClatchy",
@@ -231,7 +303,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "New York Times",
@@ -243,7 +315,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "New York Times",
@@ -255,7 +327,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "McClatchy",
@@ -267,7 +339,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "NPR",
@@ -279,7 +351,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -291,7 +363,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "CNN",
@@ -303,7 +375,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Construction Week Online",
@@ -315,7 +387,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Press Release",
@@ -327,7 +399,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -339,7 +411,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Daily Beast",
@@ -351,7 +423,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "McClatchy",
@@ -363,7 +435,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "New York Times",
@@ -375,7 +447,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Fox News",
@@ -387,7 +459,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -399,7 +471,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Forbes",
@@ -411,7 +483,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Newsweek",
@@ -423,7 +495,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Fast Company",
@@ -435,7 +507,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Citizens for Responsibility and Ethics in Washington (CREW)",
@@ -447,7 +519,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "McClatchy",
@@ -459,7 +531,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "CNN",
@@ -471,7 +543,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Reuters",
@@ -483,7 +555,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "New York Times",
@@ -495,7 +567,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -507,7 +579,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Bloomberg Politics",
@@ -519,7 +591,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "NPR",
@@ -531,7 +603,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Taiwan News",
@@ -543,7 +615,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "New York Times",
@@ -555,7 +627,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -567,7 +639,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "New York Times",
@@ -579,7 +651,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
       "conflict": "Trump Organization Inc.",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -617,7 +689,7 @@
       ],
       "conflictId": "327",
       "conflict": "Trump Organization Inc.",
-      "conflictDescription": ""
+      "conflictDescription": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control."
     }
   ]
 }

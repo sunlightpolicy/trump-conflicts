@@ -1,9 +1,33 @@
 {
   "name": "Donald J. Trump Foundation",
-  "description": "",
+  "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
   "stories": [
     {
-      "description": "",
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "Reuters",
+      "link": "https://mobile.reuters.com/article/amp/idUSKCN1L91MS",
+      "sourceDate": "2018-08-24T00:00:00",
+      "headline": "U.S. prosecutors grant Trump Organization CFO immunity in Cohen probe",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    },
+    {
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
+      "conflict": "Donald J. Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/08/22/politics/michael-cohen-trump-foundation-subpoena/index.html",
+      "sourceDate": "2018-08-22T00:00:00",
+      "headline": "New York tax investigators subpoena Michael Cohen in Trump Foundation probe",
+      "conflictId": "45",
+      "conflictSlug": "donald-j-trump-foundation",
+      "hasEthics": true
+    },
+    {
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
       "conflict": "Donald J. Trump Foundation",
       "category": "Active",
       "mediaOutlet": "CNN",
@@ -15,7 +39,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
       "conflict": "Donald J. Trump Foundation",
       "category": "Active",
       "mediaOutlet": "NBC",
@@ -27,7 +51,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
       "conflict": "Donald J. Trump Foundation",
       "category": "Active",
       "mediaOutlet": "NPR",
@@ -39,7 +63,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
       "conflict": "Donald J. Trump Foundation",
       "category": "Active",
       "mediaOutlet": "NPR",
@@ -51,7 +75,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
       "conflict": "Donald J. Trump Foundation",
       "category": "Active",
       "mediaOutlet": "NPR",
@@ -63,7 +87,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
       "conflict": "Donald J. Trump Foundation",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -75,7 +99,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
       "conflict": "Donald J. Trump Foundation",
       "category": "Active",
       "mediaOutlet": "New York Times",
@@ -87,7 +111,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
       "conflict": "Donald J. Trump Foundation",
       "category": "Active",
       "mediaOutlet": "Forbes",
@@ -99,7 +123,7 @@
       "hasEthics": true
     },
     {
-      "description": "",
+      "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
       "conflict": "Donald J. Trump Foundation",
       "category": "Active",
       "mediaOutlet": "BuzzFeed",
@@ -131,7 +155,7 @@
       ],
       "conflictId": "45",
       "conflict": "Donald J. Trump Foundation",
-      "conflictDescription": ""
+      "conflictDescription": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation."
     }
   ]
 }

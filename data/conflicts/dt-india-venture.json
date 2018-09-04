@@ -6,6 +6,18 @@
       "description": "",
       "conflict": "DT India Venture",
       "category": "Active",
+      "mediaOutlet": "NBC Bay Area",
+      "link": "https://www.nbcbayarea.com/news/local/San-Francisco-Ethics-Official-Files-Suit-Against-Secret-Service-Over-Trump-Jrs-India-Trip-Records-490844011.html?amp=y",
+      "sourceDate": "2018-08-14T00:00:00",
+      "headline": "San Francisco Ethics Official Files Suit Against Secret Service Over Trump Jr.''s India Trip Records",
+      "conflictId": "59",
+      "conflictSlug": "dt-india-venture",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "DT India Venture",
+      "category": "Active",
       "mediaOutlet": "The New Republic",
       "link": "https://newrepublic.com/article/147351/political-corruption-art-deal",
       "sourceDate": "2018-03-21T00:00:00",

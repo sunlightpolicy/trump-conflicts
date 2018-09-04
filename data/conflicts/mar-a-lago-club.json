@@ -1,9 +1,33 @@
 {
   "name": "Mar-a-Lago Club",
-  "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+  "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
   "stories": [
     {
-      "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
+      "conflict": "Mar-a-Lago Club",
+      "category": "Active",
+      "mediaOutlet": "Healthcare News",
+      "link": "https://www.healthcareitnews.com/news/update-vets-group-sues-trump-administration-end-mar-lago-council-influence-va",
+      "sourceDate": "2018-08-20T00:00:00",
+      "headline": "Vets group sues Trump administration to end ''Mar-A-Lago Council'' influence on VA",
+      "conflictId": "124",
+      "conflictSlug": "mar-a-lago-club",
+      "hasEthics": true
+    },
+    {
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
+      "conflict": "Mar-a-Lago Club",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/politics-government/white-house/article216249755.html",
+      "sourceDate": "2018-08-13T00:00:00",
+      "headline": "In 2014, political spending at Trump properties was $35K. In 2018, it’s $3.5M",
+      "conflictId": "124",
+      "conflictSlug": "mar-a-lago-club",
+      "hasEthics": true
+    },
+    {
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
       "conflict": "Mar-a-Lago Club",
       "category": "Active",
       "mediaOutlet": "McClatchy",
@@ -15,7 +39,7 @@
       "hasEthics": true
     },
     {
-      "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
       "conflict": "Mar-a-Lago Club",
       "category": "Active",
       "mediaOutlet": "ProPublica",
@@ -27,7 +51,7 @@
       "hasEthics": true
     },
     {
-      "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
       "conflict": "Mar-a-Lago Club",
       "category": "Active",
       "mediaOutlet": "ProPublica",
@@ -39,7 +63,7 @@
       "hasEthics": true
     },
     {
-      "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
       "conflict": "Mar-a-Lago Club",
       "category": "Active",
       "mediaOutlet": "New York Times",
@@ -51,7 +75,7 @@
       "hasEthics": true
     },
     {
-      "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
       "conflict": "Mar-a-Lago Club",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -63,7 +87,7 @@
       "hasEthics": true
     },
     {
-      "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
       "conflict": "Mar-a-Lago Club",
       "category": "Active",
       "mediaOutlet": "Palm Beach Post",
@@ -75,7 +99,7 @@
       "hasEthics": true
     },
     {
-      "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
       "conflict": "Mar-a-Lago Club",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -87,7 +111,7 @@
       "hasEthics": true
     },
     {
-      "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
       "conflict": "Mar-a-Lago Club",
       "category": "Active",
       "mediaOutlet": "Washington Post",
@@ -99,7 +123,7 @@
       "hasEthics": true
     },
     {
-      "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
       "conflict": "Mar-a-Lago Club",
       "category": "Active",
       "mediaOutlet": "Citizens for Responsibility and Ethics in Washington (CREW)",
@@ -111,7 +135,7 @@
       "hasEthics": true
     },
     {
-      "description": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel.",
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
       "conflict": "Mar-a-Lago Club",
       "category": "Active",
       "mediaOutlet": "Politico",
@@ -174,7 +198,7 @@
       ],
       "conflictId": "124",
       "conflict": "Mar-a-Lago Club",
-      "conflictDescription": "An Israel-focused charity, The Truth About Israel, moved its recent gala event to Pres. Trumps Mar-a-Lago resort in appreciation of the presidents support for Israel."
+      "conflictDescription": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark."
     }
   ]
 }

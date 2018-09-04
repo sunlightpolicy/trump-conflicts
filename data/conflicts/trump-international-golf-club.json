@@ -1,7 +1,20 @@
 {
   "name": "Trump International Golf Club",
   "description": "",
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Trump International Golf Club",
+      "category": "Active",
+      "mediaOutlet": "Politico",
+      "link": "https://www.politico.com/story/2018/08/13/trump-white-house-staff-golf-clubs-perks-776098",
+      "sourceDate": "2018-08-13T00:00:00",
+      "headline": "Trump offers White House staffers a special perk at his golf club",
+      "conflictId": "256",
+      "conflictSlug": "trump-international-golf-club",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [
