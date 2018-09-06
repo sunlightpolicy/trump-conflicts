@@ -14,7 +14,12 @@ function backOrForward() {
 
 
 function conflictPopup(conflictSlug) {
-    d3.json("data/conflicts/" + conflictSlug + ".json", data => buildConflictPage(data)); 
+    let dataUri = "data/conflicts/" + conflictSlug + ".json";
+
+    d3.json(dataUri, data => buildConflictPage(data)); 
+    
+    var conflictJson = d3.select('#conflict-json');
+    conflictJson.attr("xlink:href", dataUri);
 
     showConflictPage();
     
@@ -77,6 +82,7 @@ function dateToYmd(dateString) {
 }
 
 function addEthics(data) {
+
     if (data == null)
         return;
 
@@ -115,7 +121,7 @@ function showConflictPage() {
     window.onclick = function (event) {
         if (event.target == modal)
             modal.style.display = "none";
-    }
+    } 
     let modal = document.getElementById('ethicsModal');
     modal.style.display = "block";
 }

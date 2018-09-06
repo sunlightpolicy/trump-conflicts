@@ -38,22 +38,24 @@
 
 <body onload="loadSection()" onhashchange="backOrForward()">
 
-    <div id="ethicsModal" class="modal">
-        
-        <div class="modal-content"> 
-            <div class="modal-header">
-                <div>
-                    <h3 class="close">&#8617; Back to Search</h3><br>
-                    <h1 id="conflict">Conflict</h1>
-                </div>
-            </div>
-
-            <div class="modal-body">
-                <p id="conflictDescription">Description</p>
-                <div id="stories"></div>
-                <div id="ethics"></div>
+    <div id="ethicsModal" class="conflict-page">
+        <div class="conflict-page-header">
+            <div>
+                <h3 class="close">&#8617; Back to Search</h3>
+               <!--  <a id="conflict-json">Download</a> -->
+                <br>
+                <br>
+                <h1 id="conflict">Conflict</h1>
             </div>
         </div>
+
+        <div class="conflict-page-body">
+            <p id="conflictDescription">Description</p>
+            <div id="stories"></div>
+            <div id="ethics"></div>
+        </div>
+        
+        <div> &nbsp;Sunlight Foundation</div>
     </div>
     
     <div class="container">
@@ -66,8 +68,12 @@
         <div class="info">
             This database is part of the Sunlight Foundation’s “Tracking Trump’s Conflicts of Interest” project, funded by the Lodestar Foundation. 
             You can learn more about the project <a href="https://sunlightfoundation.com/tracking-trumps-conflicts-of-interest/about-this-project/">here</a>, 
-            and if you’re familiar with any of the conflicts we’re tracking, contact us <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=conflicts@sunlightfoundation.com">here</a>            
+            and if you’re familiar with any of the conflicts we’re tracking, contact us <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=conflicts@sunlightfoundation.com">here.</a>    
+            
+            <span> Download data </span><a href="data/conflicts.json" id="download-json"></span>here</a>      
         </div>
+
+        
 
         <div class='search-box'>
             <span class="search-title">Search by Name of Potential Conflict</span> 

@@ -267,6 +267,16 @@ p.conflict-description {
     margin-bottom: 5px;
 }
 
+#conflict-jsonS {
+    font-size: 13px;
+    color: #222;
+    float: right;
+    cursor:pointer;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
 
 
 #dc-chart-table .th-pub-date, #dc-chart-table .dc-table-column._0 {
@@ -360,44 +370,46 @@ p.conflict-description {
     padding: 8px;
 }
 
-.modal {
+.conflict-page {
     display: none; 
     position: fixed; 
     z-index: 1; 
     left: 0;
     top: 100px;
-/*     min-width: calc(var(--min-width) + 20px);
-    max-width: calc(var(--max-width) + 20px); */
-    height: 100%; 
-   /*  overflow-y: auto;    */
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    height: 100%;
     background-color: #fefefe;
 }
 
-.modal-content {
-    position: relative;
-    background-color: #fefefe;
-    margin: auto; 
-    padding: 0;
-    border: 0px solid #888;
-    width: calc(100vw - 18px);
-    height:100%;
-}
-
-.modal-header {
+.conflict-page-header {
     padding: 2px 10px;
     margin-top: 0px;
 }
 
-.modal-body {
+.conflict-page-body {
     overflow-y: auto;
+    height: calc(100vh - 230px);
     margin-top: 4px;
     margin-bottom: 12px;
     margin-left: 25px;
     padding: 2px 10px;
-    height:100%;
 }
+
+/* #conflictDescription {
+    height: 100%;
+}
+
+#stories {
+    height: 100%;
+}
+
+#ethics {
+    height: 100%;
+}
+
+#footer {
+    height: 100%;
+} */
+
 
 
 
