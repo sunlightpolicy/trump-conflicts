@@ -15,10 +15,9 @@ body {
     grid-template-areas: 
         "logo       title    " 
         "searchBox  info     " 
-        "family     info      " 
-        "family     conflictsHeader" 
-        "family     conflicts" 
-        "status     conflicts" 
+        "filters     info      " 
+        "filters     conflictsHeader" 
+        "filters     conflicts" 
         "footer     footer   "; 
     grid-template-columns: var(--col-1-width) 1fr;
     grid-template-rows: 100px auto auto 60px auto 1fr 2px;
@@ -51,14 +50,18 @@ body {
     grid-area: searchBox;
 }
 
-.status {
-    grid-area: status;
+.filters {
+    grid-area: filters;
+    overflow-y: auto;
+}
+
+/* .status {
+    grid-area: family;
 }
 
 .family {
     grid-area: family;
-    overflow-y: auto;
-}
+} */
 
 .stats {
     grid-area: stats;
@@ -126,12 +129,11 @@ body {
             "logo       logo     " 
             "title      title    "
             "searchBox  searchBox  " 
-            "family     conflictsHeader" 
-            "family     conflicts" 
-            "status     conflicts" 
+            "filters    conflictsHeader" 
+            "filters    conflicts" 
             "footer     footer   "; 
         grid-template-columns: var(--col-1-width) 1fr;
-        grid-template-rows: 100px 100px auto auto 60px auto 1fr 2px;
+        grid-template-rows: 100px 60px auto auto auto 2px;
         grid-gap: .2em;
         margin: 0px;
         height: 100vh;
@@ -160,7 +162,7 @@ body {
     }
 
     h1.title {
-        margin-top: 25px; 
+        margin-top: 15px; 
     }
 }
 
