@@ -14,11 +14,15 @@ namespace Phase2 {
 
     public enum ImportType { Insert, InsertUpdate, Reload }
 
+    public enum FieldType { Text, Bit }
+
 
     public class Column {
+        private FieldType fieldType = FieldType.Text;
+
         public int SourceIndex;         // Column in csv
         public string Name;             // Name in target db table
-        public string LookupTable;      // Optional table for foriegn key (use Name)  
+        public string LookupTable;      // Optional table for foriegn key (use Name)    Also - just use "bit" and only use this field for a boolean (leave the rest blank)
         public string LookupNameField;  // Field to match in lookup table. Default to "Name", but could be something else
         public string DefaultValue;     // Use this if no value is specified
         public Column(int sourceIndex, string name, string lookupTable = "", string lookupNameField = "Name", string defaultValue = "") {
@@ -27,6 +31,9 @@ namespace Phase2 {
             LookupTable = lookupTable;
             LookupNameField = lookupNameField;
             DefaultValue = defaultValue;
+
+            if (LookupTable == "bit")
+                fieldType = FieldType.Bit;
         }
     }
 
@@ -169,7 +176,7 @@ namespace Phase2 {
         protected string UpdateStatment(string[] fields) {
 
             var sqlCols = new List<string>();
-            for (int i = 1; i < this.Columns.Count; i++)
+            for (int i = 1; i < this.Columns.Count; i++)  
                 sqlCols.Add(Columns[i].Name + " = " + ValueSql(Columns[i], fields[Columns[i].SourceIndex]));
 
             string sql = "UPDATE " + TableName + " SET ";
@@ -183,8 +190,15 @@ namespace Phase2 {
         protected string ValueSql(Column col, string value) {
             if (col.LookupTable == "")
                 return "'" + value.Replace("'", "''") + "'";
-            else
-                return "(SELECT ID FROM " + col.LookupTable + " WHERE " + col.LookupNameField + " = '" + value + "')";
+
+            if (col.LookupTable == "bit")
+                if (value == "checked")
+                    return "1";
+                else
+                    return "0";
+                
+            // Must be lookup    
+            return "(SELECT ID FROM " + col.LookupTable + " WHERE " + col.LookupNameField + " = '" + value + "')";
         }
 
 
@@ -398,10 +412,14 @@ namespace Phase2 {
                 new List<Column>() {
                     new Column(0, "Name"),
                     new Column(1, "ConflictStatusID", "ConflictStatus"),
-                    new Column(2, "Description"),
-                    new Column(3, "Notes"),
-                    new Column(4, "ConflictPublicationStatusID", "ConflictPublicationStatus"),
-                    new Column(5, "InternalNotes"),
+                    new Column(3, "Description"),
+                    new Column(4, "Notes"),
+                    new Column(5, "ConflictPublicationStatusID", "ConflictPublicationStatus"),
+                    new Column(6, "InternalNotes"),
+
+                    new Column(9, "Eric", "bit"),
+                    new Column(10, "Melania", "bit"),
+                    new Column(11, "Junior", "bit"),
                 }
             );
             conflictTable.Load();
