@@ -91,7 +91,6 @@ UPDATE Conflict SET Slug = 'caribusiness-re' WHERE ID = 21
 UPDATE Conflict SET Slug = 'carl-c-icahn' WHERE ID = 428
 UPDATE Conflict SET Slug = 'celgene' WHERE ID = 410
 UPDATE Conflict SET Slug = 'centerview-capital' WHERE ID = 951
-UPDATE Conflict SET Slug = 'charleston-naval-hospital' WHERE ID = 3329
 UPDATE Conflict SET Slug = 'charlotte-nc' WHERE ID = 630
 UPDATE Conflict SET Slug = 'charlotte-nc' WHERE ID = 3258
 UPDATE Conflict SET Slug = 'chatham-hill-associates' WHERE ID = 631
@@ -575,7 +574,6 @@ UPDATE Conflict SET Slug = 'the-art-of-the-comeback' WHERE ID = 189
 UPDATE Conflict SET Slug = 'the-art-of-the-deal' WHERE ID = 190
 UPDATE Conflict SET Slug = 'the-best-real-estate-advice-i-ever-received' WHERE ID = 191
 UPDATE Conflict SET Slug = 'the-daily-mail' WHERE ID = 192
-UPDATE Conflict SET Slug = 'the-eric-trump-foundation' WHERE ID = 3330
 UPDATE Conflict SET Slug = 'the-new-york-observer' WHERE ID = 3250
 UPDATE Conflict SET Slug = 'the-obsidian-fund' WHERE ID = 1253
 UPDATE Conflict SET Slug = 'the-patriot-legal-defense-fund-trust-llc' WHERE ID = 474

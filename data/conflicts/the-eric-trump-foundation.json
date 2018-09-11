@@ -1,0 +1,19 @@
+{
+  "name": "The Eric Trump Foundation",
+  "description": "",
+  "stories": [
+    {
+      "description": "",
+      "conflict": "The Eric Trump Foundation",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/12/21/us/politics/eric-trump-charity.html",
+      "sourceDate": "2016-12-21T00:00:00",
+      "headline": "Trump’s Son, Fearing ‘Quagmire,’ to Stop Soliciting for Charity",
+      "conflictId": "3330",
+      "conflictSlug": "the-eric-trump-foundation",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

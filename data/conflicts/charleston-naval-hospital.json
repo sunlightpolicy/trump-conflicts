@@ -1,0 +1,19 @@
+{
+  "name": "Charleston Naval Hospital",
+  "description": "Donald Trump Jr. is a minority investor in the Charleston Naval Hospital.",
+  "stories": [
+    {
+      "description": "Donald Trump Jr. is a minority investor in the Charleston Naval Hospital.",
+      "conflict": "Charleston Naval Hospital",
+      "category": "Active",
+      "mediaOutlet": "The Post and Courier",
+      "link": "https://www.postandcourier.com/business/titan-falls-a-second-time/article_0f46cf83-13f8-5f96-bc1e-8e97b8f43290.html",
+      "sourceDate": "2015-04-11T00:00:00",
+      "headline": "Titan falls a second time",
+      "conflictId": "3329",
+      "conflictSlug": "charleston-naval-hospital",
+      "hasEthics": false
+    }
+  ],
+  "ethics": []
+}

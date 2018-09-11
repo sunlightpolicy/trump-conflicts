@@ -15,12 +15,12 @@ body {
     grid-template-areas: 
         "logo       title    " 
         "searchBox  info     " 
-        "filters     info      " 
-        "filters     conflictsHeader" 
-        "filters     conflicts" 
+        
+        "filters    conflictsHeader" 
+        "filters    conflicts" 
         "footer     footer   "; 
     grid-template-columns: var(--col-1-width) 1fr;
-    grid-template-rows: 100px auto auto 60px auto 1fr 2px;
+    grid-template-rows: 100px 60px auto 1fr 2px;
     grid-gap: .2em;
     margin: 0px;
     height: 100vh;

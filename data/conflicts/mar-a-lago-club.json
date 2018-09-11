@@ -9,7 +9,7 @@
       "mediaOutlet": "Healthcare News",
       "link": "https://www.healthcareitnews.com/news/update-vets-group-sues-trump-administration-end-mar-lago-council-influence-va",
       "sourceDate": "2018-08-20T00:00:00",
-      "headline": "Vets group sues Trump administration to end ''Mar-A-Lago Council'' influence on VA",
+      "headline": "Vets group sues Trump administration to end 'Mar-A-Lago Council' influence on VA",
       "conflictId": "124",
       "conflictSlug": "mar-a-lago-club",
       "hasEthics": true
@@ -70,6 +70,18 @@
       "link": "https://mobile.nytimes.com/2018/06/24/us/politics/trump-challenge-coins.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news",
       "sourceDate": "2018-06-24T00:00:00",
       "headline": "Trump Leaves His Mark on a Presidential Keepsake",
+      "conflictId": "124",
+      "conflictSlug": "mar-a-lago-club",
+      "hasEthics": true
+    },
+    {
+      "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
+      "conflict": "Mar-a-Lago Club",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/06/14/opinions/new-york-ag-lawsuit-trump-opinion-dantonio/index.html",
+      "sourceDate": "2018-06-15T00:00:00",
+      "headline": "Trump faces what he's long avoided: being held to account",
       "conflictId": "124",
       "conflictSlug": "mar-a-lago-club",
       "hasEthics": true

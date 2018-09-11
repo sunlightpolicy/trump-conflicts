@@ -1,6 +1,19 @@
 {
   "name": "New Sunshine LLC",
   "description": "",
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "New Sunshine LLC",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "http://www.mcclatchydc.com/news/politics-government/congress/article134287344.html",
+      "sourceDate": "2017-02-22T00:00:00",
+      "headline": "White House says Melania isn’t in business. So why are her companies still active?",
+      "conflictId": "132",
+      "conflictSlug": "new-sunshine-llc",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

@@ -1,7 +1,20 @@
 {
   "name": "40 Wall Street",
   "description": "",
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "40 Wall Street",
+      "category": "Active",
+      "mediaOutlet": "Bloomberg",
+      "link": "https://www.bloomberg.com/graphics/2016-trump-40-wall-street/",
+      "sourceDate": "2016-06-22T00:00:00",
+      "headline": "Inside Trump’s Most Valuable Tower: Felons, Dictators and Girl Scouts",
+      "conflictId": "5",
+      "conflictSlug": "40-wall-street",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [

@@ -61,6 +61,18 @@
       "conflictId": "355",
       "conflictSlug": "trump-tower-managing-member",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Tower Managing Member",
+      "category": "Active",
+      "mediaOutlet": "Bloomberg",
+      "link": "https://www.bloomberg.com/graphics/2016-trump-40-wall-street/",
+      "sourceDate": "2016-06-22T00:00:00",
+      "headline": "Inside Trump’s Most Valuable Tower: Felons, Dictators and Girl Scouts",
+      "conflictId": "355",
+      "conflictSlug": "trump-tower-managing-member",
+      "hasEthics": true
     }
   ],
   "ethics": [

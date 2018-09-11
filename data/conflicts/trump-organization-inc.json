@@ -45,7 +45,7 @@
       "mediaOutlet": "NBC Bay Area",
       "link": "https://www.nbcbayarea.com/news/local/San-Francisco-Ethics-Official-Files-Suit-Against-Secret-Service-Over-Trump-Jrs-India-Trip-Records-490844011.html?amp=y",
       "sourceDate": "2018-08-14T00:00:00",
-      "headline": "San Francisco Ethics Official Files Suit Against Secret Service Over Trump Jr.''s India Trip Records",
+      "headline": "San Francisco Ethics Official Files Suit Against Secret Service Over Trump Jr.'s India Trip Records",
       "conflictId": "327",
       "conflictSlug": "trump-organization-inc",
       "hasEthics": true
@@ -622,6 +622,18 @@
       "link": "https://www.nytimes.com/2016/11/06/us/politics/donald-trump-business-tax-records.html?mtrref=undefined",
       "sourceDate": "2016-11-05T00:00:00",
       "headline": "Thin Line Splits Donald Trump's Politics and Businesses",
+      "conflictId": "327",
+      "conflictSlug": "trump-organization-inc",
+      "hasEthics": true
+    },
+    {
+      "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+      "conflict": "Trump Organization Inc.",
+      "category": "Active",
+      "mediaOutlet": "Newsweek",
+      "link": "http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html",
+      "sourceDate": "2016-09-14T00:00:00",
+      "headline": "How the Trump Organization's Foreign Business Ties Could Upend U.S. National Security",
       "conflictId": "327",
       "conflictSlug": "trump-organization-inc",
       "hasEthics": true

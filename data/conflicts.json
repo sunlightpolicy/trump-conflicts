@@ -477,6 +477,15 @@
     "status": "Resolved"
   },
   {
+    "name": "Charleston Naval Hospital",
+    "description": "Donald Trump Jr. is a minority investor in the Charleston Naval Hospital.",
+    "slug": "charleston-naval-hospital",
+    "stories": "1",
+    "lastStory": "Apr 11, 2015",
+    "familyMember": "Donald Trump Jr.",
+    "status": "Resolved"
+  },
+  {
     "name": "Charlotte NC",
     "description": "",
     "slug": "charlotte-nc",
@@ -2628,6 +2637,15 @@
     "status": "Resolved"
   },
   {
+    "name": "New Sunshine LLC",
+    "description": "",
+    "slug": "new-sunshine-llc",
+    "stories": "1",
+    "lastStory": "Feb 22, 2017",
+    "familyMember": "Melania Trump",
+    "status": "Unclear"
+  },
+  {
     "name": "New York City NY Muni Wtr",
     "description": "",
     "slug": "new-york-city-ny-muni-wtr",
@@ -3688,6 +3706,15 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active"
+  },
+  {
+    "name": "The Eric Trump Foundation",
+    "description": "",
+    "slug": "the-eric-trump-foundation",
+    "stories": "1",
+    "lastStory": "Dec 21, 2016",
+    "familyMember": "Eric Trump",
+    "status": "Resolved"
   },
   {
     "name": "The Obsidian Fund",

@@ -361,6 +361,42 @@
       "conflictId": "325",
       "conflictSlug": "trump-old-post-office",
       "hasEthics": true
+    },
+    {
+      "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+      "conflict": "Trump Old Post Office",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/capitalbusiness/2016/11/18/9da9c572-ad18-11e6-977a-1030f822fc35_story.html?tid=pm_business_pop&amp;utm_term=.e1df6827c09c",
+      "sourceDate": "2016-11-18T00:00:00",
+      "headline": "For foreign diplomats, Trump hotel is place to be",
+      "conflictId": "325",
+      "conflictSlug": "trump-old-post-office",
+      "hasEthics": true
+    },
+    {
+      "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+      "conflict": "Trump Old Post Office",
+      "category": "Active",
+      "mediaOutlet": "Politico",
+      "link": "http://www.politico.com/story/2016/06/trump-dc-hotel-investigation-labor-department-224678",
+      "sourceDate": "2016-06-22T00:00:00",
+      "headline": "Labor Department investigating Trump's Old Post Office project",
+      "conflictId": "325",
+      "conflictSlug": "trump-old-post-office",
+      "hasEthics": true
+    },
+    {
+      "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+      "conflict": "Trump Old Post Office",
+      "category": "Active",
+      "mediaOutlet": "Press Release",
+      "link": "https://www.gsa.gov/portal/content/172963",
+      "sourceDate": "2013-06-05T00:00:00",
+      "headline": "GSA and Trump Organization Reach Deal on Old Post Office Lease",
+      "conflictId": "325",
+      "conflictSlug": "trump-old-post-office",
+      "hasEthics": true
     }
   ],
   "ethics": [
