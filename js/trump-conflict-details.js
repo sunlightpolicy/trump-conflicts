@@ -91,7 +91,7 @@ function addEthics(data) {
     html += "<hr>"; 
 
     var cols = [
-        {"header": "Owner",      "class": "td-text",    "field": "owner"}, 
+        {"header": "Owned by",      "class": "td-text",    "field": "owner"}, 
         {"header": "Percentage", "class": "td-percent", "field": "percentage"}
     ];
 
