@@ -106,13 +106,7 @@ function addEthics(data) {
 
 
 function showConflictPage() {
-    //d3.select('#timeline').selectAll("svg").remove();
-
-    //var timeline = new TL.Timeline('timeline', 'data/timeline/' + conflictId + '.json', {
-    //    is_embed:true
-    //});
-    //timeline._el.container.offsetHeight = 400;
-
+    
     var span = document.getElementsByClassName("close")[0];
     span.onclick = function () {
         modal.style.display = "none";

@@ -387,31 +387,17 @@ p.conflict-description {
 
 .conflict-page-body {
     overflow-y: auto;
-    height: calc(100vh - 230px);
+    height: calc(100vh - 235px);
     margin-top: 4px;
     margin-bottom: 12px;
     margin-left: 25px;
     padding: 2px 10px;
 }
 
-/* #conflictDescription {
-    height: 100%;
+
+.footer {
+    font-size: 12px;
 }
-
-#stories {
-    height: 100%;
-}
-
-#ethics {
-    height: 100%;
-}
-
-#footer {
-    height: 100%;
-} */
-
-
-
 
 @keyframes animatetop {
     from {
@@ -426,12 +412,10 @@ p.conflict-description {
 }
 
 
-
 @media screen and (max-width: 57em) { 
     h4.tagline {
         display: none;
     }
-    
 }
 
 

@@ -19,13 +19,12 @@ body {
         "filters    conflicts" 
         "footer     footer   "; 
     grid-template-columns: var(--col-1-width) 1fr;
-    grid-template-rows: 100px 60px auto 1fr 2px;
+    grid-template-rows: 100px 60px auto 1fr 20px;
     grid-gap: .2em;
     margin: 0px;
     height: 100vh;
     width: calc(100vw - 18px);
 }
-
 
 
 .container *> {
@@ -53,14 +52,6 @@ body {
     grid-area: filters;
     overflow-y: auto;
 }
-
-/* .status {
-    grid-area: family;
-}
-
-.family {
-    grid-area: family;
-} */
 
 .stats {
     grid-area: stats;
@@ -92,12 +83,6 @@ body {
 .footer {
     grid-area: footer;
 }
-
-
-/*
-.status {
-    grid-area: status;
-} */
 
 .conflict {
     grid-area: conflict;
