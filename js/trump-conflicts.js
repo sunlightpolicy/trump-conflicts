@@ -82,7 +82,7 @@ d3.json("data/conflicts.json", function (err, data) {
     changeDateChart.yAxis().ticks(5);
     changeDateChart.xAxis().ticks(5); */
     
-    var col1Width = 300;
+    var col1Width = 250;
     
     familyMemberChart = new DivChart(facts, "familyMember");
 
