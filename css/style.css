@@ -1,5 +1,5 @@
 :root {
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     font-size: calc(0.5em + 1vw);
 
     --table-text-color: rgb(209, 209, 209);
@@ -11,12 +11,12 @@
     --shaded-background: rgb(220, 220, 220);
 }
 
-*,
+/* *,
 ::before,
 ::after {
     box-sizing: inherit;
 } 
-
+ */
 
 
 
@@ -34,26 +34,26 @@ a {
 
 h1 {
     color: var(--dark-grey-text);
-    margin-top: 20px;
-    margin-right: 20px;
-    margin-bottom: 6px;
-    margin-left: 2px;
+    margin-top: 1.3rem;
+    margin-right: 1.3rem;
+    margin-bottom: 0.3rem;
+    margin-left: 0.1rem;
     font-weight: bold;
     font-size: 1.4rem;
 }
 
 h2 {
-    margin-top: 20px;
-    margin-right: 20px;
-    margin-bottom: 6px;
-    margin-left: 5px;
-    font-size: 1.2px;
+    margin-top: 1.3rem;
+    margin-right: 1.3rem;
+    margin-bottom: 0.3rem;
+    margin-left: 0.1rem;
+    font-size: 1.2rem;
 }
 
 h3 {
-    margin-top: 10px;
-    margin-right: 20px;
-    margin-bottom: 8px;
+    margin-top: 0.7rem;
+    margin-right: 1.3rem;
+    margin-bottom: 0.5rem;
     margin-left: 0px;
     font-weight: bold;
     font-size: 1rem;
@@ -69,17 +69,17 @@ h4 {
 }
 
 p {
-    margin-top: 10px;
-    margin-right: 20px;
-    margin-bottom: 6px;
-    margin-left: 20px;
+    margin-top: 0.7rem;
+    margin-right: 1.3rem;
+    margin-bottom: .3rem;
+    margin-left: 1.3rem;
     font-size: .92rem;
     color: #737373;
     line-height: 1rem;
 }
 
 table {
-    margin-left: 20px; 
+    margin-left: 1.3rem; 
 }
 
 
@@ -143,16 +143,16 @@ input {
 }
   
 .div-chart-item > p {
-    font-size: 0.7rem;
-    margin-top: 1px;
+    font-size: 0.65rem;
+    margin-top: 0.1rem;
 }
 
 .div-chart-item > h3 {
-    font-size: 0.7rem;
-    margin-top: 5px;
-    margin-bottom: 1px;
-    margin-left: 20px;
-    margin-right: 20px;
+    font-size: 0.65rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 .div-chart-item > img {
@@ -190,19 +190,19 @@ input {
 
 .div-chart-item {
     text-align: center;
-    width: 150px;
+    width: 9rem;
     /* box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset; */
     background-color: #F8F8F8;
 }
 
 .dc-chart {
-    padding-left: 10px;
-    padding-top: 10px;
+    padding-left: 0.7rem;
+    padding-top: 0.7rem;
 }
 
 .conflict-summary {
-    padding-top: 1px;
-    padding-bottom: 4px;
+    padding-top: 0.1rem;
+    padding-bottom: 0.3rem;
     font-size: 0.9rem;
 }
 
@@ -210,7 +210,14 @@ input {
     background-color: #cee2ed;
     cursor:pointer;
  }
+
+ .filter-count {
+    font-size: 0.8rem;
+ }
  
+ .total-count {
+    font-size: 0.8rem;
+ }
 
 
 .search-input {
@@ -393,6 +400,7 @@ p.conflict-description {
 .conflict-page-header {
     padding: 2px 10px;
     margin-top: 0px;
+    border-bottom: 1px solid var(--table-text-color);
 }
 
 .conflict-page-body {
@@ -407,9 +415,9 @@ p.conflict-description {
 
 .footer {
     font-size: 0.7rem;
-    border-top-style: solid;
-    border-width: 1px;
-    border-color: var(--dark-grey-text);
+    color: var(--grey-text);
+    border-top: 1px solid var(--table-text-color);
+    padding: 0.2rem;
 }
 
 @keyframes animatetop {
