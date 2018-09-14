@@ -60,10 +60,10 @@ h3 {
 }
 
 h4 {
-    margin-top: 18px;
-    margin-right: 20px;
-    margin-bottom: 6px;
-    margin-left: 5px;
+    margin-top: 1.2rem;
+    margin-right: 1.2rem;
+    margin-bottom: 0.3rem;
+    margin-left: 0.3rem;
     font-weight: bold;
     font-size: .92rem;
 }
@@ -71,15 +71,15 @@ h4 {
 p {
     margin-top: 0.7rem;
     margin-right: 1.3rem;
-    margin-bottom: .3rem;
-    margin-left: 1.3rem;
+    margin-bottom: 0.3rem;
+    margin-left: 0.8rem;
     font-size: .92rem;
     color: #737373;
     line-height: 1rem;
 }
 
 table {
-    margin-left: 1.3rem; 
+    margin-left: 0.8rem; 
 }
 
 
@@ -221,7 +221,7 @@ input {
 
 
 .search-input {
-    margin-top: 8px;
+    margin-top: 0.5rem;
     margin-left: 30px;
     width: 270px;
     font-size: 0.9rem;
@@ -229,6 +229,7 @@ input {
 
 
 .title {
+    margin-left: 0.5rem;
     font-weight: bold;
     font-size: 2rem;
     color: #000;
@@ -324,16 +325,16 @@ p.conflict-description {
 .chart-title {
     font-size: 0.9rem;
     font-weight: bold;
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .dc-table-label {
     font-size: 0.8rem;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    padding-top: 6px;
-    padding-bottom: 6px;
+    padding-left: 0.6rem;
+    padding-bottom: 0.6rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
 }
 
 
@@ -341,39 +342,39 @@ p.conflict-description {
     width: 84px;
     font-size: 0.8rem;
     text-align: left;
-    padding-left: 5px;
-    padding-top: 4px;
+    padding-left: 0.4rem;
+    padding-top: 0.4rem;
 }
 
 .conflict-col-2 {
     font-size: 0.8rem;
     text-align: left;
-    padding-left: 5px;
-    padding-top: 4px;
+    padding-left: 0.4rem;
+    padding-top: 0.4rem;
 }
 
 
 .sunlight-table {
-    padding: 5px;
+    padding: 0.3rem;
 }
 
 .td-percent {
     text-align: right;
     border-bottom: 1px solid var(--table-text-color);
-    padding: 8px;
+    padding: 0.5rem;
 }
 
 .td-text {
     text-align: left;
     border-bottom: 1px solid var(--table-text-color);
-    padding: 8px;
+    padding: .05em;
 }
 
 .td-date {
     text-align: left;
-    width: 85px;
+    width: 5rem;
     border-bottom: 1px solid var(--table-text-color);
-    padding: 8px;
+    padding: 0.5rem;
 }
 
 .td-link a {
@@ -384,7 +385,7 @@ p.conflict-description {
     text-align: left;
     text-decoration: none;
     border-bottom: 1px solid var(--table-text-color);
-    padding: 8px;
+    padding: padding-top: 0.4rem;
 }
 
 .conflict-page {
@@ -398,38 +399,27 @@ p.conflict-description {
 }
 
 .conflict-page-header {
-    padding: 2px 10px;
-    margin-top: 0px;
+    padding: 0.1rem 8rem;
+    margin-top: 0.0rem;
     border-bottom: 1px solid var(--table-text-color);
 }
 
 .conflict-page-body {
     overflow-y: auto;
     height: calc(100vh - 14rem);
-    margin-top: 4px;
-    margin-bottom: 12px;
-    margin-left: 25px;
-    padding: 2px 10px;
+    margin-top: 0.2rem;
+    margin-bottom: 0.7rem;
+    margin-left: 1rem;
+    padding: .1rem .8rem;
 }
 
 
 .footer {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     color: var(--grey-text);
     border-top: 1px solid var(--table-text-color);
     padding: 0.2rem;
-}
-
-@keyframes animatetop {
-    from {
-        top: -300px;
-        opacity: 0
-    }
-
-    to {
-        top: 30;
-        opacity: 1
-    }
+    text-align: center;
 }
 
 

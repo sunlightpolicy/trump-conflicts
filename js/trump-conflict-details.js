@@ -92,7 +92,7 @@ function addEthics(data) {
 
     var cols = [
         {"header": "Owned by",      "class": "td-text",    "field": "owner"}, 
-        {"header": "Percentage", "class": "td-percent", "field": "percentage"}
+        {"header": "Percentage (if known)", "class": "td-percent", "field": "percentage"}
     ];
 
     let ethics = data.ethics[0];
