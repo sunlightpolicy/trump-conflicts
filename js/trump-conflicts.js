@@ -47,6 +47,7 @@ d3.json("data/conflicts.json", function (err, data) {
 
         showFilters();
         dc.redrawAll();  
+
         //$(".resetall").attr("disabled", false);
         //throttle();
         //        dc.redrawAll();
@@ -167,6 +168,8 @@ function showFilters() {
     filterString = filterStrings.join(', ') + " " + search;
 
     d3.select("#results").text(filterString);
+
+    document.getElementById("dc-chart-dataGrid").scrollTop = 0;
 }
 
 var DivChart = function (facts, attribute) {
