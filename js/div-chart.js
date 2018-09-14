@@ -90,15 +90,9 @@ dc.divChart = function (parent, chartGroup) {
         return html
     }
 
-/*     function rootValue () {
-        var root = _x(0);
-        return (root === -Infinity || root !== root) ? _x(1) : root;
-    } */
-
     function onClick (d) {
         _chart.onClick(d);
     }
-
 
     _chart._doRedraw = function () {
         drawChart();

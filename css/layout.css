@@ -1,9 +1,8 @@
 ﻿:root {
-    --col-1-width: 320px;
-    --min-width: 1100px;
+    --col-1-width: 20rem;
+    --min-width: 68rem;
     /* --max-width: 1100px; */
 }
-
 
 body {
     margin: 0;
@@ -23,7 +22,7 @@ body {
     grid-gap: .2em;
     margin: 0px;
     height: 100vh;
-    width: calc(100vw - 18px);
+    width: calc(100vw - 1.1rem);
 }
 
 
@@ -68,7 +67,7 @@ body {
 .results {
     grid-area: results;
     overflow-y: scroll;
-    height: 30px;
+    height: 2rem;
 }
 
 .conflictHeader {
@@ -136,13 +135,11 @@ body {
         margin-top: 8px;
         margin-left: 10px;
         width: 170px;
-        font-size: 14px;
     }
 
     .search-title {
         margin-top: 6px;
         margin-left: 2px;
-        font-size: 13px;
     }
 
     h1.title {

@@ -1,4 +1,7 @@
 :root {
+    box-sizing: border-box;
+    font-size: calc(0.5em + 1vw);
+
     --table-text-color: rgb(209, 209, 209);
     --dark-grey-text: rgb(39, 39, 39);
     --grey-text: rgb(115, 115, 115);
@@ -7,6 +10,14 @@
     --background: rgb(248, 248, 248);
     --shaded-background: rgb(220, 220, 220);
 }
+
+*,
+::before,
+::after {
+    box-sizing: inherit;
+} 
+
+
 
 
 body {
@@ -28,7 +39,7 @@ h1 {
     margin-bottom: 6px;
     margin-left: 2px;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 1.4rem;
 }
 
 h2 {
@@ -36,8 +47,7 @@ h2 {
     margin-right: 20px;
     margin-bottom: 6px;
     margin-left: 5px;
-    /* font-weight: bold; */
-    font-size: 18px;
+    font-size: 1.2px;
 }
 
 h3 {
@@ -46,7 +56,7 @@ h3 {
     margin-bottom: 8px;
     margin-left: 0px;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 h4 {
@@ -55,7 +65,7 @@ h4 {
     margin-bottom: 6px;
     margin-left: 5px;
     font-weight: bold;
-    font-size: 15px;
+    font-size: .92rem;
 }
 
 p {
@@ -63,9 +73,9 @@ p {
     margin-right: 20px;
     margin-bottom: 6px;
     margin-left: 20px;
-    font-size: 15px;
+    font-size: .92rem;
     color: #737373;
-    line-height: 1.5;
+    line-height: 1rem;
 }
 
 table {
@@ -86,7 +96,7 @@ th {
     border-right-width: 0px;
     padding-top: 5;
     padding-bottom: 5;
-    font-size: 14px;
+    font-size: 0.8rem;
     font-weight: 700;
 }
 
@@ -101,13 +111,13 @@ td {
 
     padding-top: 5;
     padding-bottom: 5;
-    font-size: 14px;
+    font-size: 0.8rem;
     font-weight: 400;
 }
 
 input {
     width: 240px;
-    font-size: 15px;
+    font-size: 0.9rem;
     margin-left: 20px;
     margin-top: 8px;
 }
@@ -133,12 +143,12 @@ input {
 }
   
 .div-chart-item > p {
-    font-size: 11px;
+    font-size: 0.7rem;
     margin-top: 1px;
 }
 
 .div-chart-item > h3 {
-    font-size: 12px;
+    font-size: 0.7rem;
     margin-top: 5px;
     margin-bottom: 1px;
     margin-left: 20px;
@@ -146,7 +156,7 @@ input {
 }
 
 .div-chart-item > img {
-    margin-bottom: 9px;
+    margin-bottom: 0.6rem;
 }
 
 
@@ -174,7 +184,7 @@ input {
 #results {
     color: var(--dark-grey-text);
     font-style: italic;
-    font-size: 13px;
+    font-size: 0.8rem;
     margin: 1px 30px 20px 12px; 
 }
 
@@ -193,7 +203,7 @@ input {
 .conflict-summary {
     padding-top: 1px;
     padding-bottom: 4px;
-    font-size: 14px;
+    font-size: 0.9rem;
 }
 
 .conflict-summary:hover{
@@ -207,13 +217,13 @@ input {
     margin-top: 8px;
     margin-left: 30px;
     width: 270px;
-    font-size: 15px;
+    font-size: 0.9rem;
 }
 
 
 .title {
     font-weight: bold;
-    font-size: 28px;
+    font-size: 2rem;
     color: #000;
     font-family: "PT Sans", sans-serif;
 }
@@ -232,9 +242,9 @@ h4.tagline {
 .info {
     color: var(--dark-grey-text);
     font-style: italic;
-    font-size: 12px;
+    font-size: 0.7rem;
     margin: 1px 30px 20px 12px; 
-    line-height: 18px;
+    line-height: 1rem;
 }
 
 
@@ -248,7 +258,7 @@ h4.conflict-title {
 p.conflict-description {
     margin-top: 5px;
     margin-bottom: 3px;
-    font-size: 13px;
+    font-size: 0.8rem;
 }
 
 .conflict-stories {
@@ -258,7 +268,7 @@ p.conflict-description {
 
 
 .close {
-    font-size: 15px;
+    font-size: 0.9rem;
     font-weight: bold;
     color: #222;
     float: left;
@@ -281,7 +291,7 @@ p.conflict-description {
 
 #dc-chart-table .th-pub-date, #dc-chart-table .dc-table-column._0 {
     width: 64px;
-    font-size: 12px;
+    font-size: 0.7rem;
     text-align: left;
     padding-left: 5px;
     padding-top: 4px;
@@ -289,7 +299,7 @@ p.conflict-description {
 
 #dc-chart-table .th_story, #dc-chart-table .dc-table-column._1 {
     width: 460px;
-    font-size: 12px;
+    font-size: 0.7rem;
     text-align: left;
     padding-left: 5px;
     padding-top: 8px;
@@ -297,7 +307,7 @@ p.conflict-description {
 }
 
 .search-title {
-    font-size: 15px;
+    font-size: 0.9rem;
     font-weight: bold;
     margin-top: 40px;
     margin-bottom: 40px;
@@ -305,14 +315,14 @@ p.conflict-description {
 }
 
 .chart-title {
-    font-size: 15px;
+    font-size: 0.9rem;
     font-weight: bold;
     margin-top: 8px;
     margin-bottom: 8px;
 }
 
 .dc-table-label {
-    font-size: 12px;
+    font-size: 0.8rem;
     padding-left: 10px;
     padding-bottom: 10px;
     padding-top: 6px;
@@ -322,14 +332,14 @@ p.conflict-description {
 
 .conflict-col-1 {
     width: 84px;
-    font-size: 14px;
+    font-size: 0.8rem;
     text-align: left;
     padding-left: 5px;
     padding-top: 4px;
 }
 
 .conflict-col-2 {
-    font-size: 14px;
+    font-size: 0.8rem;
     text-align: left;
     padding-left: 5px;
     padding-top: 4px;
@@ -387,7 +397,7 @@ p.conflict-description {
 
 .conflict-page-body {
     overflow-y: auto;
-    height: calc(100vh - 235px);
+    height: calc(100vh - 14rem);
     margin-top: 4px;
     margin-bottom: 12px;
     margin-left: 25px;
@@ -396,7 +406,10 @@ p.conflict-description {
 
 
 .footer {
-    font-size: 12px;
+    font-size: 0.7rem;
+    border-top-style: solid;
+    border-width: 1px;
+    border-color: var(--dark-grey-text);
 }
 
 @keyframes animatetop {
