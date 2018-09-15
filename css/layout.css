@@ -18,13 +18,17 @@ body {
         "filters    conflicts" 
         "footer     footer   "; 
     grid-template-columns: var(--col-1-width) 1fr;
-    grid-template-rows: 100px 60px auto 1fr 20px;
+    grid-template-rows: 100px 4rem auto 1fr 20px;
     grid-gap: .2em;
     margin: 0px;
     height: 100vh;
     width: calc(100vw - 1.1rem);
 }
 
+.family {
+    display: flex;
+    flex-direction: column;
+}
 
 .container *> {
     border: 1px solid black;    
@@ -97,7 +101,7 @@ body {
     }
 
     :root {
-        --col-1-width: 160px;
+        --col-1-width: 10rem;
         --min-width: 400px;
         /* --max-width: 1100px; */
     }
@@ -115,12 +119,12 @@ body {
             "filters    conflictsHeader" 
             "filters    conflicts" 
             "footer     footer   "; 
-        grid-template-columns: var(--col-1-width) 1fr;
+        grid-template-columns: var(--col-1-width) auto;
         grid-template-rows: 100px 60px auto auto auto 2px;
         grid-gap: .2em;
         margin: 0px;
         height: 100vh;
-        width: calc(100vw - 18px);
+        width: calc(100vw - 2rem);
     }
 
     h4.tagline {
