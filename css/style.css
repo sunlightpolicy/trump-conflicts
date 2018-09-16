@@ -169,6 +169,14 @@ input {
     margin: 0 0 0 0; 
 }
 
+#conflict-note {
+    font-style: italic;
+    font-size: 0.65rem;
+    font-weight: normal;
+    display: block;
+    color: var(--dark-grey-text);
+}
+
 .div-chart-item {
     text-align: center;
     width: 9rem;
@@ -317,7 +325,7 @@ p.conflict-description {
 
 .dc-table-label {
     font-size: 0.8rem;
-    padding-left: 0.6rem;
+    padding-left: 0.4rem;
     padding-bottom: 0.6rem;
     padding-top: 0.4rem;
     padding-bottom: 0.4rem;

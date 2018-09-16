@@ -172,6 +172,9 @@ function showFilters() {
         search =  ' containing "' + search + '"';
     filterString = filterStrings.join(', ') + " " + search;
 
+    if (filterString.trim() == "")
+        filterString = "Showing all";
+
     d3.select("#results").text(filterString);
 
     document.getElementById("dc-chart-dataGrid").scrollTop = 0;
