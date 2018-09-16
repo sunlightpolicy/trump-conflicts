@@ -12,7 +12,7 @@ var searchDim;
 
 d3.json("data/conflicts.json", function (err, data) {
 
-    console.table(data);
+    //console.table(data);
     var facts = crossfilter(data);
 
     searchDim = facts.dimension(function (d) {
@@ -83,11 +83,16 @@ d3.json("data/conflicts.json", function (err, data) {
     changeDateChart.yAxis().ticks(5);
     changeDateChart.xAxis().ticks(5); */
     
+    let style = getComputedStyle(document.body);
+    let phoneWidth = style.getPropertyValue('--phone-width');
+    let isPhone = window.matchMedia("screen and (max-width: " + phoneWidth + ")").matches;
     var col1Width = 250;
-    
+    if (isPhone)
+        col1Width = 140;
+
     familyMemberChart = new DivChart(facts, "familyMember");
 
-    statusChart = new RowChart(facts, "status", col1Width, 6, 100);
+    statusChart = new RowChart(facts, "status", col1Width, 6, 80);
     //statusChart.filter("Active");
      
     dataTable = dc.dataTable("#dc-chart-dataGrid");
@@ -198,7 +203,7 @@ var RowChart = function (facts, attribute, width, maxItems, height) {
         .data(function (d) { return d.top(maxItems); })
         .width(width)
         .height(height)
-        .margins({ top: 0, right: 10, bottom: 20, left: 20 })
+        .margins({ top: 0, right: 0, bottom: 10, left: 0 })
         .elasticX(true)
         .ordinalColors(['#9ecae1']) // light blue
         .labelOffsetX(5)

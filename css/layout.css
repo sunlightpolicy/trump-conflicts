@@ -1,6 +1,8 @@
 ﻿:root {
     --col-1-width: 20rem;
     --min-width: 68rem;
+
+    --phone-width: 50rem;
     /* --max-width: 1100px; */
 }
 
@@ -34,10 +36,11 @@ body {
     }
 }
 
-.family {
+.family .dc-chart {
     display: flex;
     flex-direction: column;
     flex-flow: space-around;
+    padding: 0.7rem 1rem 0.2rem 0rem;
 }
 
 .container *> {
@@ -105,18 +108,18 @@ body {
 
 
 /* Phone */
-@media screen and (max-width: 50em) { 
+@media screen and (max-width: 50rem) { 
     h4.tagline {
         display: none;
     }
 
     :root {
-        --col-1-width: 10rem;
+        --col-1-width: 11rem;
     }
 
     body {
-        width: 400px;
-    }
+        width: 100vw;
+    } 
 
     .container {
         display: grid;
@@ -128,11 +131,11 @@ body {
             "filters    conflicts" 
             "footer     footer   "; 
         grid-template-columns: var(--col-1-width) var(100vw - --col-1-width);
-        grid-template-rows: 100px 2rem auto auto auto 2.8rem;
+        grid-template-rows: 100px 2rem auto auto auto 1.8rem;
         grid-gap: .2em;
         margin: 0px;
         height: 100vh;
-        width: calc(100vw);
+        width: 100vw;
     }
 
     h4.tagline {
@@ -167,7 +170,7 @@ body {
     .conflict-page-body {
         overflow-y: auto;
         height: calc(100vh - 14rem);
-        margin: 0.2rem 3rem 0.7rem 0.2rem;
+        margin: 0.2rem 0.5rem 0.7rem 0.2rem;
         padding: .0rem .0rem;
     }
 

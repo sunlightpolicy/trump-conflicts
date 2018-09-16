@@ -58,9 +58,9 @@ h4 {
 
 p {
     margin-top: 0.5rem;
-    margin-right: 1.3rem;
+    margin-right: 0.3rem;
     margin-bottom: 0.3rem;
-    margin-left: 0.8rem;
+    margin-left: 0.5rem;
     font-size: .92rem;
     color: #737373;
     line-height: 1.3rem;
@@ -117,7 +117,7 @@ input {
 }
   
 .div-chart-item > p {
-    font-size: 0.60rem;
+    font-size: 0.70rem;
     margin-top: 0.1rem;
 }
 
@@ -164,15 +164,19 @@ input {
 
 .div-chart-item {
     text-align: center;
-    width: 8rem;
+    width: 9rem;
+    margin: auto auto auto auto;
     /* box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset; */
     background-color: #F8F8F8;
 }
 
 .dc-chart {
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    padding-top: 0.7rem;
+    padding: 0.7rem 0.2rem 0.0rem 0.2rem;
+    margin-bottom: -10px; 
+}
+
+.dc-chart g.row text {
+    font-size: 0.8rem;
 }
 
 .conflict-summary {
@@ -245,7 +249,7 @@ p.conflict-description {
 }
 
 .conflict-stories {
-    margin-left: 20px;
+    margin-left: 0.5rem;
     font-style: italic
 }
 
@@ -311,7 +315,6 @@ p.conflict-description {
     padding-top: 0.4rem;
     padding-bottom: 0.4rem;
 }
-
 
 .conflict-col-1 {
     width: 84px;
