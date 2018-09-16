@@ -34,48 +34,36 @@ a {
 
 h1 {
     color: var(--dark-grey-text);
-    margin-top: 1.3rem;
-    margin-right: 1.3rem;
-    margin-bottom: 0.3rem;
-    margin-left: 0.1rem;
+    margin: 1.3rem 1.3rem 0.3rem 0.1rem;
     font-weight: bold;
     font-size: 1.4rem;
 }
 
 h2 {
-    margin-top: 1.3rem;
-    margin-right: 1.3rem;
-    margin-bottom: 0.3rem;
-    margin-left: 0.1rem;
+    margin: 1.3rem 1.3rem .3rem .5rem;
     font-size: 1.2rem;
 }
 
 h3 {
-    margin-top: 0.7rem;
-    margin-right: 1.3rem;
-    margin-bottom: 0.5rem;
-    margin-left: 0px;
+    margin: 0.7rem 1.3rem 0.5rem 0.0rem;
     font-weight: bold;
     font-size: 1rem;
 }
 
 h4 {
-    margin-top: 1.2rem;
-    margin-right: 1.2rem;
-    margin-bottom: 0.3rem;
-    margin-left: 0.3rem;
+    margin: 1.2rem 1.2rem 0.3rem 0.3rem;
     font-weight: bold;
     font-size: .92rem;
 }
 
 p {
-    margin-top: 0.7rem;
+    margin-top: 0.5rem;
     margin-right: 1.3rem;
     margin-bottom: 0.3rem;
     margin-left: 0.8rem;
     font-size: .92rem;
     color: #737373;
-    line-height: 1rem;
+    line-height: 1.3rem;
 }
 
 table {
@@ -101,14 +89,6 @@ th {
 }
 
 td {
-  /*   border-bottom-color: rgb(209, 209, 209);
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
-    border-left-width: 0px;
-    border-right-width: 0px; */
-
-    /* border-bottom: 1px solid rgb(209, 209, 209); */
-
     padding-top: 5;
     padding-bottom: 5;
     font-size: 0.8rem;
@@ -126,7 +106,6 @@ input {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    /* justify-content: center; */
     justify-content: space-between;
 }
 
@@ -134,12 +113,7 @@ input {
     border-width: 3px;
     border-style: solid;
     margin: 2px;
-    cursor:pointer;
-}
-
-.div-chart:after {
-    content: "";
-    flex: auto;
+    cursor: pointer;
 }
   
 .div-chart-item > p {
@@ -190,14 +164,14 @@ input {
 
 .div-chart-item {
     text-align: center;
-    width: 9rem;
+    width: 8rem;
     /* box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset; */
     background-color: #F8F8F8;
 }
 
 .dc-chart {
-    padding-left: 0.7rem;
-    padding-left: 0.7rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
     padding-top: 0.7rem;
 }
 
@@ -252,7 +226,7 @@ h4.tagline {
     color: var(--dark-grey-text);
     font-style: italic;
     font-size: 0.7rem;
-    margin: 1px 30px 20px 12px; 
+    margin: 0.5rem 2rem 1rem 1rem; 
     line-height: 1rem;
 }
 
