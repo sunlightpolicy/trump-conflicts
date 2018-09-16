@@ -183,7 +183,7 @@ var DivChart = function (facts, attribute) {
         .dimension(this.dim)
         .group(this.dim.group().reduceCount())
         .data(function (d) { return d.top(50); })
-        .margins({ top: 0, right: 10, bottom: 20, left: 20 })
+        .margins({ top: 0, right: 10, bottom: 50, left: 20 })
         .on('filtered', showFilters)
         .label(function (d) {
             return d.key; 
@@ -212,7 +212,9 @@ var RowChart = function (facts, attribute, width, maxItems, height) {
             return d.key; 
         });
 
-    //  .Axis().ticks(4).tickFormat(d3.format(".2s"));
+    // Hacky way to hide x-axis    
+    chart.xAxis().tickFormat(function(v) {return "";});
+    chart.xAxis().ticks(0);
 
     return chart;
 }

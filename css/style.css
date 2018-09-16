@@ -4,11 +4,12 @@
 
     --table-text-color: rgb(209, 209, 209);
     --dark-grey-text: rgb(39, 39, 39);
-    --grey-text: rgb(115, 115, 115);
+    --grey-text: rgb(80, 80, 80);
     --black: rgb(30, 30, 30);
 
     --background: rgb(248, 248, 248);
     --shaded-background: rgb(220, 220, 220);
+    --dark-shaded-background: rgb(150, 150, 150);
 }
 
 /* *,
@@ -62,7 +63,7 @@ p {
     margin-bottom: 0.3rem;
     margin-left: 0.5rem;
     font-size: .92rem;
-    color: #737373;
+    color: var(--grey-text);
     line-height: 1.3rem;
 }
 
@@ -135,7 +136,7 @@ input {
 
 
 .dc-chart div.deselected {
-    background-color: var(--shaded-background);
+    background-color: var(--dark-shaded-background);
     border-width: 0px;
     border-style: none;
     margin: 2px
@@ -155,11 +156,17 @@ input {
     margin: 2px
 }
 
+.dc-data-count {
+    margin: .3rem 0 0 0;
+    padding: 0 0 0 0;
+    font-size: 0.9rem;
+}
+
 #results {
     color: var(--dark-grey-text);
     font-style: italic;
     font-size: 0.8rem;
-    margin: 1px 30px 20px 12px; 
+    margin: 0 0 0 0; 
 }
 
 .div-chart-item {
@@ -171,8 +178,7 @@ input {
 }
 
 .dc-chart {
-    padding: 0.7rem 0.2rem 0.0rem 0.2rem;
-    margin-bottom: -10px; 
+    padding: 0.0rem 0.2rem 0.0rem 0.2rem;
 }
 
 .dc-chart g.row text {
@@ -217,6 +223,7 @@ input {
 
 
 h4.tagline {
+    font-size: 0.8rem;
     font-style: italic;
     color: var(--dark-grey-text);
     font-weight: normal;

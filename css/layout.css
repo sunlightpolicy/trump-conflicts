@@ -131,7 +131,7 @@ body {
             "filters    conflicts" 
             "footer     footer   "; 
         grid-template-columns: var(--col-1-width) var(100vw - --col-1-width);
-        grid-template-rows: 100px 2rem auto auto auto 1.8rem;
+        grid-template-rows: 80px 3rem 3.3rem auto auto 1.8rem;
         grid-gap: .2em;
         margin: 0px;
         height: 100vh;
@@ -152,9 +152,8 @@ body {
     }
    
     .search-input {
-        margin-top: 8px;
-        margin-left: 10px;
-        width: 170px;
+        margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+        width: 14rem;
     }
 
     .search-title {
@@ -163,7 +162,7 @@ body {
     }
 
     h1.title {
-        margin: auto auto auto auto;
+        margin: 0.0rem auto auto auto;
     }
 
 
