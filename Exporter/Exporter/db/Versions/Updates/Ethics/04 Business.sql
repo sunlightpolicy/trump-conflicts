@@ -7,7 +7,6 @@ GO
 
 
 
-
 INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 
 
@@ -16,6 +15,24 @@ INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
@@ -45,6 +62,8 @@ INSERT INTO Business (Name) VALUES ('40 Wall Development Associates LLC')
 
 
 
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
@@ -67,7 +86,16 @@ INSERT INTO Business (Name) VALUES ('40 Wall Development Associates LLC')
 
 
 
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
+
+
+
+
+
+
+
+
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
 
 
 
@@ -79,12 +107,34 @@ INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Rea
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
 
 
 INSERT INTO Business (Name) VALUES ('184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)')
+INSERT INTO Business (Name) VALUES ('184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+
+
+
+
+
+
+
 
 
 
@@ -117,8 +167,15 @@ INSERT INTO Business (Name) VALUES ('Trump Chicago Managing Member LLC')
 
 
 
+
+INSERT INTO Business (Name) VALUES ('Bruckner P Corp. (Commercial Real Estate In New York, NY)')
 INSERT INTO Business (Name) VALUES ('Bruckner P Corp. (Commercial Real Estate In New York, NY)')
 INSERT INTO Business (Name) VALUES ('666 KUSHNER LENDER LLC (Commercial Real Estate in New York, NY)')
+INSERT INTO Business (Name) VALUES ('666 KUSHNER LENDER LLC (Commercial Real Estate in New York, NY)')
+
+
+
+
 
 
 
@@ -136,11 +193,16 @@ INSERT INTO Business (Name) VALUES ('809 North Canon Member Corporation')
 
 
 INSERT INTO Business (Name) VALUES ('Trump 845 UN GP LLC')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
 INSERT INTO Business (Name) VALUES ('HWA 1290 IV LLC')
 
 
@@ -150,7 +212,9 @@ INSERT INTO Business (Name) VALUES ('HWA 1290 IV LLC')
 
 
 
+
 INSERT INTO Business (Name) VALUES ('Trump Family Members')
+
 
 
 
@@ -187,11 +251,19 @@ INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 
 
 
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+
+
+
+
+
 
 
 
 
 INSERT INTO Business (Name) VALUES ('SKYLINE JV PARTNERSHIP, L.P. (Residential Real Estate in Hasbrouck Heights & Lodi, NJ)')
+INSERT INTO Business (Name) VALUES ('SKYLINE JV PARTNERSHIP, L.P. (Residential Real Estate in Hasbrouck Heights & Lodi, NJ)')
+
 
 INSERT INTO Business (Name) VALUES ('Development Member Inc.')
 
@@ -203,11 +275,17 @@ INSERT INTO Business (Name) VALUES ('Development Member Inc.')
 
 
 
-
+INSERT INTO Business (Name) VALUES ('Fifth Associates, LLC (Commercial Real Estate In New York, NY)')
 INSERT INTO Business (Name) VALUES ('Fifth Associates, LLC (Commercial Real Estate In New York, NY)')
 
 
 INSERT INTO Business (Name) VALUES ('C Development Ventures Member Corp.')
+
+
+
+
+
+
 
 
 
@@ -236,19 +314,9 @@ INSERT INTO Business (Name) VALUES ('The Caribusiness RE Corp')
 
 
 
-INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
-
-
-
-
-
-
-
-
-
-
-
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
@@ -267,10 +335,33 @@ INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
 
 
+
+
+
+INSERT INTO Business (Name) VALUES ('Trump Family Members')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
 INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
 INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
 INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
+
 
 
 
@@ -278,6 +369,7 @@ INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 INSERT INTO Business (Name) VALUES ('Trump Family Members')
 INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 INSERT INTO Business (Name) VALUES ('Trump Family Members')
+
 
 
 
@@ -458,9 +550,15 @@ INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 
 
 
+
+
+
+
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 
 
+INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
 INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
 
 
@@ -472,7 +570,11 @@ INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residenti
 
 
 
+
+
 INSERT INTO Business (Name) VALUES ('Monmouth Mall 2, LLC (Commercial Real Estate In Eatontown, NJ)')
+INSERT INTO Business (Name) VALUES ('Monmouth Mall 2, LLC (Commercial Real Estate In Eatontown, NJ)')
+INSERT INTO Business (Name) VALUES ('Eatontown Monmouth Mall (Senior Mezz) LLC')
 INSERT INTO Business (Name) VALUES ('Eatontown Monmouth Mall (Senior Mezz) LLC')
 
 
@@ -501,12 +603,21 @@ INSERT INTO Business (Name) VALUES ('Eid Venture II Member Corp.')
 
 
 
+
+
+
+
+
 INSERT INTO Business (Name) VALUES ('EV JV Partnership, L.P.')
 INSERT INTO Business (Name) VALUES ('EV JV Partnership, L.P.')
+INSERT INTO Business (Name) VALUES ('EV JV Partnership, L.P.')
+INSERT INTO Business (Name) VALUES ('EV JV Partnership, L.P.')
+
 
 
 
 INSERT INTO Business (Name) VALUES ('Excel Venture I Corp.')
+
 
 
 
@@ -537,9 +648,10 @@ INSERT INTO Business (Name) VALUES ('The Trump Equitable Fifth Avenue Company')
 
 
 
-
 INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
+
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 
 
@@ -551,8 +663,12 @@ INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residenti
 
 
 
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
 
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
+
+
+
 
 
 
@@ -574,6 +690,10 @@ INSERT INTO Business (Name) VALUES ('Golf Productions Member Corp.')
 
 INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+
+
+INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
 INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
 
 
@@ -581,15 +701,26 @@ INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residentia
 
 
 
+
+
+
+
+INSERT INTO Business (Name) VALUES ('Kushner Midwest Partners 1 LLC (Residential Real Estate In Toledo, Middletown, Akron & Bedford Heights, Oh, Pittsburgh, Pa & Speedway, In)')
 INSERT INTO Business (Name) VALUES ('Kushner Midwest Partners 1 LLC (Residential Real Estate In Toledo, Middletown, Akron & Bedford Heights, Oh, Pittsburgh, Pa & Speedway, In)')
 
 
 
 
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 
 INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 
+
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+
+
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 
 
@@ -715,6 +846,18 @@ INSERT INTO Business (Name) VALUES ('Jupiter Golf Club Managing Member Corp.')
 
 
 
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+
+
+
+
+
+
+
+
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
@@ -728,11 +871,7 @@ INSERT INTO Business (Name) VALUES ('Jupiter Golf Club Managing Member Corp.')
 
 
 
-
-
-
-
-
+INSERT INTO Business (Name) VALUES ('KC Dumbo Office, LLC (Commercial Real Estate In Brooklyn, NY)')
 INSERT INTO Business (Name) VALUES ('KC Dumbo Office, LLC (Commercial Real Estate In Brooklyn, NY)')
 
 
@@ -797,10 +936,37 @@ INSERT INTO Business (Name) VALUES ('KC Dumbo Office, LLC (Commercial Real Estat
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
+INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
 INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
 INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
 
+
 INSERT INTO Business (Name) VALUES ('Kushner Village 3 SPE LLC')
+INSERT INTO Business (Name) VALUES ('Kushner Village 3 SPE LLC')
+
+
+
+
+
+
+
 
 
 
@@ -820,13 +986,20 @@ INSERT INTO Business (Name) VALUES ('Kushner Village 3 SPE LLC')
 INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 
 
+
+
+
 INSERT INTO Business (Name) VALUES ('Leland Point GP LLC')
+INSERT INTO Business (Name) VALUES ('Leland Point GP LLC')
+
+
 
 
 INSERT INTO Business (Name) VALUES ('LFB Acquisition Member Corp.')
 
 
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
 
 
 
@@ -844,8 +1017,11 @@ INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Rea
 
 
 
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+
 
 
 
@@ -884,7 +1060,14 @@ INSERT INTO Business (Name) VALUES ('Mar-A-Lago Club, Inc.')
 
 
 
+
+
+
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
+
+
 
 
 
@@ -983,6 +1166,24 @@ INSERT INTO Business (Name) VALUES ('Mobile Payroll Construction Manager Corp.')
 
 
 
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1007,8 +1208,17 @@ INSERT INTO Business (Name) VALUES ('CPW PT Partners GP')
 
 
 
-INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
+
+
+
+
+
+
+
+
+INSERT INTO Business (Name) VALUES ('Trump Family Members')
+INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
 
 
@@ -1041,12 +1251,19 @@ INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
 
 
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
+
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
 
 
 
 
+
+
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
@@ -1067,8 +1284,13 @@ INSERT INTO Business (Name) VALUES ('Pine Hill Development Managing Member Corp.
 
 
 
+
+
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 INSERT INTO Business (Name) VALUES ('DTTM Operations LLC')
+
+
 
 
 
@@ -1111,8 +1333,16 @@ INSERT INTO Business (Name) VALUES ('Restaurant 40 Member Corp.')
 
 
 
+
+
+INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
 INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
 INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+
+
+
+
 
 
 
@@ -1164,6 +1394,9 @@ INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 
 
 
+
+
+INSERT INTO Business (Name) VALUES ('SKYLINE JV PARTNERSHIP, L.P. (Residential Real Estate in Hasbrouck Heights & Lodi, NJ)')
 INSERT INTO Business (Name) VALUES ('SKYLINE JV PARTNERSHIP, L.P. (Residential Real Estate in Hasbrouck Heights & Lodi, NJ)')
 
 
@@ -1195,12 +1428,37 @@ INSERT INTO Business (Name) VALUES ('Trump Village Construction Corp.')
 
 
 
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 INSERT INTO Business (Name) VALUES ('Trump Village Construction Corp.')
 
 
 
 
 
+
+
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
@@ -1307,9 +1565,17 @@ INSERT INTO Business (Name) VALUES ('Plaza Consulting Corp.')
 
 
 
+
+
+
 INSERT INTO Business (Name) VALUES ('Spitalny, Jonathan')
 INSERT INTO Business (Name) VALUES ('Tipperary Realty Corp.')
 INSERT INTO Business (Name) VALUES ('The Trump Follies Member Inc.')
+
+
+
+
+
 
 
 
@@ -1340,6 +1606,7 @@ INSERT INTO Business (Name) VALUES ('TIHT Member LLC')
 
 
 
+
 INSERT INTO Business (Name) VALUES ('TNGC Charlotte Manager Corp')
 
 INSERT INTO Business (Name) VALUES ('TNGC Dutchess County Member Corp. (F/K/A Trump Marks Classic Cars Member Corp.)')
@@ -1350,7 +1617,9 @@ INSERT INTO Business (Name) VALUES ('TNGC Pine Hill Member Corp. (F/K/A Crest Co
 
 
 
+
 INSERT INTO Business (Name) VALUES ('TP CFD Manager Corp.')
+
 
 
 
@@ -1616,6 +1885,8 @@ INSERT INTO Business (Name) VALUES ('TW Venture II Managing Member Corp')
 
 
 
+
+
 INSERT INTO Business (Name) VALUES ('UnIT 2502 Enterprises Corp.')
 
 
@@ -1649,6 +1920,62 @@ INSERT INTO Business (Name) VALUES ('UnIT 2502 Enterprises Corp.')
 
 
 
+INSERT INTO Business (Name) VALUES ('K Gaia Village 2 Associates, LLC (Residential Real Estate In New York, NY)')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1669,13 +1996,23 @@ INSERT INTO Business (Name) VALUES ('UnIT 2502 Enterprises Corp.')
 
 INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
 INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
+INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
+INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
 
+
+INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
 INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
 INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
+
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 
 
+
+
+
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
 INSERT INTO Business (Name) VALUES ('White Course Managing Member Corp.')
 
@@ -1686,6 +2023,11 @@ INSERT INTO Business (Name) VALUES ('White Course Managing Member Corp.')
 
 
 
+
+
+
+
+
 INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
 
@@ -1706,233 +2048,12 @@ INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
 
 
+INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
 
 
 
 
 
-
-
-
-
-
-INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
-
-INSERT INTO Business (Name) VALUES ('Kushner Village 3 SPE LLC')
-
-INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
-
-
-
-INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-INSERT INTO Business (Name) VALUES ('666 KUSHNER LENDER LLC (Commercial Real Estate in New York, NY)')
-
-
-
-
-
-
-INSERT INTO Business (Name) VALUES ('K Gaia Village 2 Associates, LLC (Residential Real Estate In New York, NY)')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-INSERT INTO Business (Name) VALUES ('Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-INSERT INTO Business (Name) VALUES ('Monmouth Mall 2, LLC (Commercial Real Estate In Eatontown, NJ)')
-
-
-INSERT INTO Business (Name) VALUES ('Monmouth Mall 2, LLC (Commercial Real Estate In Eatontown, NJ)')
-
-
-
-
-
-
-
-
-
-
-
-
-INSERT INTO Business (Name) VALUES ('SKYLINE JV PARTNERSHIP, L.P. (Residential Real Estate in Hasbrouck Heights & Lodi, NJ)')
-
-INSERT INTO Business (Name) VALUES ('SKYLINE JV PARTNERSHIP, L.P. (Residential Real Estate in Hasbrouck Heights & Lodi, NJ)')
-
-
-
-
-
-
-
-
-
-
-INSERT INTO Business (Name) VALUES ('184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-INSERT INTO Business (Name) VALUES ('EV JV Partnership, L.P.')
-INSERT INTO Business (Name) VALUES ('EV JV Partnership, L.P.')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-INSERT INTO Business (Name) VALUES ('KC Dumbo Office, LLC (Commercial Real Estate In Brooklyn, NY)')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
-
-INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
-
-INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
-
-INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
 
 
 
