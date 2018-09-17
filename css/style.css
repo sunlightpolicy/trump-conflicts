@@ -399,7 +399,7 @@ p.conflict-description {
 
 .conflict-page-body {
     overflow-y: auto;
-    height: calc(100vh - 14rem);
+    height: calc(100vh - 17rem);
     margin-top: 0.2rem;
     margin-bottom: 0.7rem;
     margin-left: 1rem;
@@ -408,7 +408,7 @@ p.conflict-description {
 
 
 .footer {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
     color: var(--grey-text);
     border-top: 1px solid var(--table-text-color);
     padding: 0.2rem;

@@ -20,7 +20,7 @@ body {
         "filters    conflicts" 
         "footer     footer   "; 
     grid-template-columns: var(--col-1-width) 1fr;
-    grid-template-rows: 100px 4rem auto 1fr 20px;
+    grid-template-rows: 100px 4rem auto 1fr 2rem;
     grid-gap: .2em;
     margin: 0px;
     height: 100vh;
@@ -131,7 +131,7 @@ body {
             "filters    conflicts" 
             "footer     footer   "; 
         grid-template-columns: var(--col-1-width) var(100vw - --col-1-width);
-        grid-template-rows: 80px 3rem 3.3rem auto auto 1.8rem;
+        grid-template-rows: 80px 3rem 3.3rem auto auto 2rem;
         grid-gap: .2em;
         margin: 0px;
         height: 100vh;
