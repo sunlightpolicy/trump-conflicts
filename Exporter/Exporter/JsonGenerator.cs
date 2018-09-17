@@ -340,7 +340,9 @@ namespace Phase2 {
 
             var strings = new StringBuilder();
             strings.Append(String.Join("\r\n", storyStrings.ToArray()));
-            System.IO.File.WriteAllText(path + "stories.csv", strings.ToString());
+
+            var fileName = path + "TrumpConflictsOfInterest.csv";
+            System.IO.File.WriteAllText(fileName, strings.ToString());
 
             //string json = JsonConvert.SerializeObject(stories);
             //var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();

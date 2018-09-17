@@ -191,24 +191,20 @@ namespace Conflicts {
         // CSV does not do anything with the list of stories! Put in another CSV?? 
         public static string CsvHeader() {
             return
-                "description," +
-                "familyMember," +
-                "conflict," +
-                "category," +
-                "notes," +
-                "dateChanged," +
-                "mediaOutlet," +
-                "link," +
-                "sourceDate," +
-                "headline";
+                "Conflict," +
+                "ConflictDescription," +
+                "ConflictStatus," +
+                "MediaOutlet," +
+                "Link," +
+                "PublicationDate," +
+                "Headline";
         }
 
         public string ToCsv() {
             return
-                "\"" + Util.RepeatQuotes(description) + "\"," +
                 "\"" + Util.RepeatQuotes(conflict) + "\"," +
+                "\"" + Util.RepeatQuotes(description) + "\"," +
                 category + ", " +
-    
                 "\"" + Util.RemoveQuotes(mediaOutlet) + "\"," +
                 "\"" + Util.RemoveQuotes(link) + "\"," +
                 "\"" + String.Format("{0:MM/dd/yyyy}", sourceDate) + "\"," +

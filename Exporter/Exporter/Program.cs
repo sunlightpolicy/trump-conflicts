@@ -10,33 +10,25 @@ using System.IO;
 
 namespace Phase2 {
     
-        class Program {
+        public class Program {
 
-        static void Main(string[] args) {
+            public static string ImportDate = "September 17 2018";
 
-            //var loader = new ConflictLoader(cells);
-            // var loader = new HtmlLoader("c:\\trump-conflicts\\Exporter\\Exporter\\data\\Tracking Trump's Conflicts of Interest");
+            static void Main(string[] args) {
 
-
-            // Reads the google doc and generates sql inserts (which need to be run)
-            //var loader = new Phase2Loader("c:\\trump-conflicts\\Exporter\\Exporter\\data\\WORKING CURRENT COPY Tracking Trump's Conflicts of Interest");
-
-            //-------------------------------------------
-
-            
-            //AirTableLoader.LoadConflictsAndStories("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
-            //AirTableLoader.LoadEthics("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\Ethics\\");
+                //AirTableLoader.LoadConflictsAndStories("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
+                //AirTableLoader.LoadEthics("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\Ethics\\");
            
-            // Queries db and generates json - need to run scripts above before running this
+                // Queries db and generates json - need to run scripts above before running this
            
-            JsonGenerator.RunConflicts("c:\\trump-conflicts\\data\\");
+                JsonGenerator.RunConflicts("c:\\trump-conflicts\\data\\");
                         
-            Console.WriteLine("Done");
-            Console.ReadLine();
+                Console.WriteLine("Done");
+                Console.ReadLine();
 
-            // Timelines aren't used at the moment 
-            //TimelineImport.MakeJson("c:\\trump-conflicts\\data\\media\\");
-            //TimelineJsImport.MakeJson("c:\\trump-conflicts\\data\\timeline\\");
+                // Timelines aren't used at the moment 
+                //TimelineImport.MakeJson("c:\\trump-conflicts\\data\\media\\");
+                //TimelineJsImport.MakeJson("c:\\trump-conflicts\\data\\timeline\\");
          }
     }
 }

@@ -32,7 +32,10 @@ body {
         font-size: 22px; 
     }
     .container {
-        width: 1200px;   
+        width: 1200px; 
+    }
+    #ethicsModal {
+        width: 1200px;
     }
 }
 
