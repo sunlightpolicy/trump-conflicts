@@ -110,8 +110,8 @@ namespace Phase2 {
             foreach (Tuple<string, string> storyConfict in storyConflicts)
                 cmds.Add(
                     "INSERT INTO StoryConflict VALUES (" +
-                    "(SELECT ID FROM Story WHERE Link = '" + storyConfict.Item1 + "'), " +
-                    "(SELECT ID FROM Conflict WHERE Name = '" + storyConfict.Item2 + "'))"
+                    "(SELECT ID FROM Story WHERE Link = '" + storyConfict.Item1.Replace("'", "''") + "'), " +
+                    "(SELECT ID FROM Conflict WHERE Name = '" + storyConfict.Item2.Replace("'", "''") + "'))"
                 );
             return cmds;
         }
@@ -181,7 +181,7 @@ namespace Phase2 {
 
             string sql = "UPDATE " + TableName + " SET ";
             sql += string.Join(", ", sqlCols);
-            sql += " WHERE " + this.KeyField + " = '" + fields[0] + "'";
+            sql += " WHERE " + this.KeyField + " = '" + fields[0].Replace("'", "''") + "'";
 
             return sql;
         }

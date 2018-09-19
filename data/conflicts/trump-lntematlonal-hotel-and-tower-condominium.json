@@ -1,20 +1,7 @@
 {
   "name": "Trump Lntematlonal Hotel And Tower Condominium",
   "description": "",
-  "stories": [
-    {
-      "description": "",
-      "conflict": "Trump Lntematlonal Hotel And Tower Condominium",
-      "category": "Active",
-      "mediaOutlet": "Forbes",
-      "link": "https://www.forbes.com/trump-tenants/#4fcc6c891d32",
-      "sourceDate": "2018-02-13T00:00:00",
-      "headline": "Landlord-in-Chief",
-      "conflictId": "270",
-      "conflictSlug": "trump-lntematlonal-hotel-and-tower-condominium",
-      "hasEthics": true
-    }
-  ],
+  "stories": [],
   "ethics": [
     {
       "familyMemberEthics": [

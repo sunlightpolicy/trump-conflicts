@@ -1,34 +1,6 @@
 {
-  "name": "Indian Hills Holdings Formerly Indian Hills Development",
+  "name": "Indian Hills Holdings (formerly Indian Hills Development)",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            }
-          ],
-          "ownerships": [
-            {
-              "owneeId": "187",
-              "owner": "DJT Holdings LLC",
-              "percentage": "1004.0"
-            }
-          ],
-          "familyMember": "Donald Trump",
-          "description": "Former member/president of the now-dormant or inactive Indian Hills Holdings LLC (F/K/A Indian Hills Development LLC), in which Pres. Trump retains an ownership interest.",
-          "business": "Indian Hills Holdings LLC (F/K/A Indian Hills Development LLC)",
-          "conflictStatus": "Active"
-        }
-      ],
-      "conflictId": "116",
-      "conflict": "Indian Hills Holdings Formerly Indian Hills Development",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

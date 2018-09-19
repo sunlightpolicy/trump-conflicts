@@ -51,7 +51,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "21st Century Fox",
@@ -60,16 +60,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
-  },
-  {
-    "name": "29 Second Avenue Realty",
-    "description": "",
-    "slug": "29-second-avenue-realty",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "30 Florham Associates",
@@ -321,7 +312,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Unclear"
+    "status": "Resolved"
   },
   {
     "name": "Bedford Hills",
@@ -421,15 +412,6 @@
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
-  },
-  {
-    "name": "California St Bonds",
-    "description": "",
-    "slug": "california-st-bonds",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
   },
   {
     "name": "California St Dept of Wtr",
@@ -771,7 +753,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "DJNJ Frito",
@@ -780,7 +762,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "DJT Aerospace",
@@ -789,7 +771,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
-    "status": "Resolved"
+    "status": "Active"
   },
   {
     "name": "DJT Holdings",
@@ -849,24 +831,6 @@
     "name": "Donald J Trump Enterprises",
     "description": "",
     "slug": "donald-j-trump-enterprises",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
-    "name": "Donald J Trump Enterprises II",
-    "description": "",
-    "slug": "donald-j-trump-enterprises-ii",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
-    "name": "Donald J Trump Enterprises III",
-    "description": "",
-    "slug": "donald-j-trump-enterprises-iii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -1446,7 +1410,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump",
-    "status": "Resolved"
+    "status": "Unclear"
   },
   {
     "name": "Faire Fund",
@@ -1455,7 +1419,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Resolved"
+    "status": "Unclear"
   },
   {
     "name": "Fifty Seven Management",
@@ -1473,7 +1437,7 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
-    "status": "Unclear"
+    "status": "Active"
   },
   {
     "name": "First Member",
@@ -1482,15 +1446,6 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
-    "name": "Flatbush 340",
-    "description": "",
-    "slug": "flatbush-340",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
@@ -1582,15 +1537,6 @@
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
-  },
-  {
-    "name": "Georgia St Bonds",
-    "description": "",
-    "slug": "georgia-st-bonds",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
   },
   {
     "name": "Gept Delmonico",
@@ -1827,24 +1773,6 @@
     "status": "Active"
   },
   {
-    "name": "Ishares 20+ Year Treas Bond ETF",
-    "description": "",
-    "slug": "ishares-20-year-treas-bond-etf",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
-    "name": "J.P. Morgan",
-    "description": "",
-    "slug": "jp-morgan",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
     "name": "JCK Cadre",
     "description": "",
     "slug": "jck-cadre",
@@ -2052,24 +1980,6 @@
     "status": "Active"
   },
   {
-    "name": "KC Dumbo Office",
-    "description": "",
-    "slug": "kc-dumbo-office",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Active"
-  },
-  {
-    "name": "KC Dumbo Office",
-    "description": "",
-    "slug": "kc-dumbo-office",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
-  },
-  {
     "name": "KCOF-215 Moore",
     "description": "",
     "slug": "kcof-215-moore",
@@ -2133,60 +2043,6 @@
     "status": "Resolved"
   },
   {
-    "name": "KF- Faire Fund II",
-    "description": "",
-    "slug": "kf-faire-fund-ii",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Unclear"
-  },
-  {
-    "name": "KF- Faire Fund II",
-    "description": "",
-    "slug": "kf-faire-fund-ii",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
-    "name": "KF- Park Street Capital Pe Fund Ix",
-    "description": "",
-    "slug": "kf-park-street-capital-pe-fund-ix",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Unclear"
-  },
-  {
-    "name": "KF- Park Street Capital Pe Fund Ix",
-    "description": "",
-    "slug": "kf-park-street-capital-pe-fund-ix",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
-    "name": "KF- Rcg Longview Debt Fund IV",
-    "description": "",
-    "slug": "kf-rcg-longview-debt-fund-iv",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Unclear"
-  },
-  {
-    "name": "KF- Rcg Longview Debt Fund IV",
-    "description": "",
-    "slug": "kf-rcg-longview-debt-fund-iv",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
     "name": "KF-BLS Member",
     "description": "",
     "slug": "kf-bls-member",
@@ -2203,24 +2059,6 @@
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
-  },
-  {
-    "name": "KF-CENTERVIEW",
-    "description": "",
-    "slug": "kf-centerview",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Unclear"
-  },
-  {
-    "name": "KF-CENTERVIEW",
-    "description": "",
-    "slug": "kf-centerview",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
   },
   {
     "name": "KF-WIP Co. Investors",
@@ -2248,24 +2086,6 @@
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
-  },
-  {
-    "name": "Kushner Media Ventures",
-    "description": "",
-    "slug": "kushner-media-ventures",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Unclear"
-  },
-  {
-    "name": "Kushner Media Ventures",
-    "description": "",
-    "slug": "kushner-media-ventures",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
   },
   {
     "name": "Kushner Midwest Partners",
@@ -2439,30 +2259,12 @@
     "status": "Active"
   },
   {
-    "name": "Massachusetts St WTR Polutn Bonds",
-    "description": "",
-    "slug": "massachusetts-st-wtr-polutn-bonds",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
     "name": "Mecklenburg Cnty NC",
     "description": "",
     "slug": "mecklenburg-cnty-nc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
-  },
-  {
-    "name": "Merrill Lynch Credit Corporation D/B/A Merrill Lynch Home Loans",
-    "description": "",
-    "slug": "merrill-lynch-credit-corporation-dba-merrill-lynch-home-loans",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
     "status": "Active"
   },
   {
@@ -2628,15 +2430,6 @@
     "status": "Resolved"
   },
   {
-    "name": "New Jersey Renewable Power Corp",
-    "description": "",
-    "slug": "new-jersey-renewable-power-corp",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Resolved"
-  },
-  {
     "name": "New Sunshine LLC",
     "description": "",
     "slug": "new-sunshine-llc",
@@ -2655,24 +2448,6 @@
     "status": "Active"
   },
   {
-    "name": "New York NY Ser B",
-    "description": "",
-    "slug": "new-york-ny-ser-b",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
-    "name": "New York NY Ser E",
-    "description": "",
-    "slug": "new-york-ny-ser-e",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
     "name": "New York NY Var Subser",
     "description": "",
     "slug": "new-york-ny-var-subser",
@@ -2682,15 +2457,6 @@
     "status": "Active"
   },
   {
-    "name": "New York St Bonds",
-    "description": "",
-    "slug": "new-york-st-bonds",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
     "name": "New York St Dorm Auth Ser A",
     "description": "",
     "slug": "new-york-st-dorm-auth-ser-a",
@@ -2698,24 +2464,6 @@
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
-  },
-  {
-    "name": "New York St Dorm Auth Ser E",
-    "description": "",
-    "slug": "new-york-st-dorm-auth-ser-e",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
-    "name": "NEW YORK ST DORM AUTH ST PERSONAL Ser A",
-    "description": "",
-    "slug": "new-york-st-dorm-auth-st-personal-ser-a",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
   },
   {
     "name": "New York St Dorm UnIV B",
@@ -2745,33 +2493,6 @@
     "status": "Active"
   },
   {
-    "name": "New York St Ser A",
-    "description": "",
-    "slug": "new-york-st-ser-a",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
-    "name": "New York St SER E",
-    "description": "",
-    "slug": "new-york-st-ser-e",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
-    "name": "New York St Thruway",
-    "description": "",
-    "slug": "new-york-st-thruway",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
     "name": "New York ST Urban Dev",
     "description": "",
     "slug": "new-york-st-urban-dev",
@@ -2779,15 +2500,6 @@
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
-  },
-  {
-    "name": "New York State Urban Dev",
-    "description": "",
-    "slug": "new-york-state-urban-dev",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
   },
   {
     "name": "News Corporation",
@@ -2815,15 +2527,6 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active"
-  },
-  {
-    "name": "Nuveen Enhanced Amt-Free Municipal CredIT Opportunities Fund",
-    "description": "",
-    "slug": "nuveen-enhanced-amt-free-municipal-credit-opportunities-fund",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
   },
   {
     "name": "Oakwood Garden Associates",
@@ -3069,24 +2772,6 @@
     "status": "Active"
   },
   {
-    "name": "Puck Building",
-    "description": "",
-    "slug": "puck-building",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Active"
-  },
-  {
-    "name": "Puck Building",
-    "description": "",
-    "slug": "puck-building",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
-  },
-  {
     "name": "Puck Residential Associates",
     "description": "",
     "slug": "puck-residential-associates",
@@ -3310,42 +2995,6 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active"
-  },
-  {
-    "name": "SQ Associates",
-    "description": "",
-    "slug": "sq-associates",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Unclear"
-  },
-  {
-    "name": "SQ Associates",
-    "description": "",
-    "slug": "sq-associates",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
-    "name": "SQK Associates",
-    "description": "",
-    "slug": "sqk-associates",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Unclear"
-  },
-  {
-    "name": "SQK Associates",
-    "description": "",
-    "slug": "sqk-associates",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
   },
   {
     "name": "Square Mile Partners",
@@ -3663,15 +3312,6 @@
     "status": "Active"
   },
   {
-    "name": "THC Venture III (Now TTTT Venture)",
-    "description": "",
-    "slug": "thc-venture-iii-now-tttt-venture",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
     "name": "The America We Deserve",
     "description": "",
     "slug": "the-america-we-deserve",
@@ -3714,15 +3354,6 @@
     "stories": "1",
     "lastStory": "Dec 21, 2016",
     "familyMember": "Eric Trump",
-    "status": "Resolved"
-  },
-  {
-    "name": "The Obsidian Fund",
-    "description": "",
-    "slug": "the-obsidian-fund",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
     "status": "Resolved"
   },
   {
@@ -4131,51 +3762,6 @@
     "status": "Active"
   },
   {
-    "name": "Trump Chicago Commercial",
-    "description": "",
-    "slug": "trump-chicago-commercial",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
-    "name": "Trump Chicago Development",
-    "description": "",
-    "slug": "trump-chicago-development",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
-    "name": "Trump Chicago Hotel Manager",
-    "description": "",
-    "slug": "trump-chicago-hotel-manager",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
-    "name": "Trump Chicago Residential",
-    "description": "",
-    "slug": "trump-chicago-residential",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
-    "name": "Trump Chicago Retail",
-    "description": "",
-    "slug": "trump-chicago-retail",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
     "name": "Trump Classic Cars",
     "description": "",
     "slug": "trump-classic-cars",
@@ -4183,15 +3769,6 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Resolved"
-  },
-  {
-    "name": "Trump Commercial Chicago",
-    "description": "",
-    "slug": "trump-commercial-chicago",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
   },
   {
     "name": "Trump Corporation",
@@ -4473,29 +4050,11 @@
     "status": "Active"
   },
   {
-    "name": "Trump Las Vegas Development",
-    "description": "",
-    "slug": "trump-las-vegas-development",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
-    "name": "Trump Las Vegas Sales &Amp; Marketing",
-    "description": "",
-    "slug": "trump-las-vegas-sales-amp-marketing",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Donald Trump",
-    "status": "Active"
-  },
-  {
     "name": "Trump Lntematlonal Hotel And Tower Condominium",
     "description": "",
     "slug": "trump-lntematlonal-hotel-and-tower-condominium",
-    "stories": "1",
-    "lastStory": "Feb 13, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Unclear"
   },
@@ -5232,8 +4791,8 @@
     "name": "Trump Tower Condominium Residential Section",
     "description": "",
     "slug": "trump-tower-condominium-residential-section",
-    "stories": "3",
-    "lastStory": "Aug 03, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Unclear"
   },
@@ -5391,15 +4950,6 @@
     "status": "Active"
   },
   {
-    "name": "Utah St Ser A",
-    "description": "",
-    "slug": "utah-st-ser-a",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Resolved"
-  },
-  {
     "name": "Utah St Ser C",
     "description": "",
     "slug": "utah-st-ser-c",
@@ -5445,24 +4995,6 @@
     "status": "Active"
   },
   {
-    "name": "Village KF 4-9-10 Associates, LP",
-    "description": "",
-    "slug": "village-kf-4-9-10-associates-lp",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Unclear"
-  },
-  {
-    "name": "Village KF 4-9-10 Associates, LP",
-    "description": "",
-    "slug": "village-kf-4-9-10-associates-lp",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Unclear"
-  },
-  {
     "name": "Virginia Beach VA Bonds",
     "description": "",
     "slug": "virginia-beach-va-bonds",
@@ -5470,15 +5002,6 @@
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
-  },
-  {
-    "name": "Virginia St Bonds",
-    "description": "",
-    "slug": "virginia-st-bonds",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Resolved"
   },
   {
     "name": "Vreeland Avenue Associates",
