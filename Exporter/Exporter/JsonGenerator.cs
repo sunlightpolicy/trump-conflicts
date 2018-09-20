@@ -159,7 +159,7 @@ namespace Phase2 {
             WriteConflictSearchJson(path, filteredConflicts);
 
             WriteStoryJson(path, filteredStories);
-                WriteStoryCsv(path, filteredStories);
+            WriteStoryCsv(path, filteredStories);
 
             List<FamilyMemberBusinessEthicsForConflict> ethicsForConflict = MakeEthicsInfos();
             // ugh - add the ownerships to all businesses as a separate step

@@ -420,6 +420,10 @@ namespace Phase2 {
                     new Column(9, "Eric", "bit"),
                     new Column(10, "Melania", "bit"),
                     new Column(11, "Junior", "bit"),
+
+                    new Column(9, "Trump", "bit"),
+                    new Column(10, "Ivanka", "bit"),
+                    new Column(11, "Jared", "bit"),
                 }
             );
             conflictTable.Load();

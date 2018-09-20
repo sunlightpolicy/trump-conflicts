@@ -153,6 +153,15 @@
     "status": "Active"
   },
   {
+    "name": "666 Fifth Ave",
+    "description": "",
+    "slug": "666-fifth-ave",
+    "stories": "6",
+    "lastStory": "Aug 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear"
+  },
+  {
     "name": "666 KC Management",
     "description": "",
     "slug": "666-kc-management",
