@@ -62,9 +62,9 @@ p {
     margin-right: 0.3rem;
     margin-bottom: 0.3rem;
     margin-left: 0.5rem;
-    font-size: .92rem;
+    font-size: .85rem;
     color: var(--grey-text);
-    line-height: 1.3rem;
+    line-height: 1.0rem;
 }
 
 table {
@@ -196,7 +196,7 @@ input {
 .conflict-summary {
     padding-top: 0.1rem;
     padding-bottom: 0.3rem;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 }
 
 .conflict-summary:hover{
@@ -245,8 +245,8 @@ h4.tagline {
     color: var(--dark-grey-text);
     font-style: italic;
     font-size: 0.7rem;
-    margin: 0.5rem 2rem 1rem 1rem; 
-    line-height: 1rem;
+    margin: 0.1rem 1rem .3rem .2rem; 
+    line-height: 0.9rem;
 }
 
 
@@ -260,7 +260,7 @@ h4.conflict-title {
 p.conflict-description {
     margin-top: 5px;
     margin-bottom: 3px;
-    font-size: 0.8rem;
+    font-size: 0.76rem;
 }
 
 .conflict-stories {
