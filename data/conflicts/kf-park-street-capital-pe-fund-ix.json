@@ -2,42 +2,5 @@
   "name": "KF- Park Street Capital Pe Fund Ix",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $15,001 - $50,000 in Capital Gains Interest income from KF- Park Street Capital PE Fund IX, LLC (Financial investments in Park Street Capital Private Equity Fund; Boston, MA) the year before her appointment as her father&#39;s presidential adviser.",
-          "business": "KF- Park Street Capital Pe Fund Ix, LLC (Financial Investments In Park Street Capital Private Equity Fund; Boston, Ma)",
-          "conflictStatus": "Resolved"
-        }
-      ],
-      "conflictId": "944",
-      "conflict": "KF- Park Street Capital Pe Fund Ix",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

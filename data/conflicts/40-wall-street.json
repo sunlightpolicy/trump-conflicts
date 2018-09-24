@@ -28,12 +28,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "13",
+              "owneeId": "33773",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "99.9"
             },
             {
-              "owneeId": "13",
+              "owneeId": "33773",
               "owner": "PARC Consulting, Inc.",
               "percentage": "0.1"
             }
@@ -49,18 +49,23 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "14",
+              "owneeId": "33774",
               "owner": "40 Wall Development Associates LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Pres. Trump resigned as president of 40 Wall Street Commercial LLC, but retains an ownership interest.",
-          "business": "40 Wall Street Commercial LLC",
+          "business": "40 Wall Street Commercial LLC (Payroll Company)",
           "conflictStatus": "Active"
         },
         {
@@ -73,12 +78,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "16",
+              "owneeId": "33776",
               "owner": "40 Wall Development Associates LLC",
               "percentage": "99.9"
             },
             {
-              "owneeId": "16",
+              "owneeId": "33776",
               "owner": "40 Wall Street Member Corp",
               "percentage": "0.1"
             }
@@ -98,7 +103,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "15",
+              "owneeId": "33777",
               "owner": "40 Wall Development Associates LLC",
               "percentage": "100.0"
             }
@@ -107,6 +112,31 @@
           "description": "Pres. Trump resigned his position from 40 Wall Street Member Corp., but retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
           "business": "40 Wall Street Member Corp",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33774",
+              "owner": "40 Wall Development Associates LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Vice President of 40 WALL STREET COMMERCIAL LLC (payroll company) from Aug 1, 2009, until Jan 1, 2017.",
+          "business": "40 Wall Street Commercial LLC (Payroll Company)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "5",

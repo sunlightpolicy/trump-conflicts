@@ -1,6 +1,177 @@
 {
   "name": "Warren At Bay Associates",
   "description": "",
-  "stories": [],
-  "ethics": []
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Warren At Bay Associates",
+      "category": "Active",
+      "mediaOutlet": "NJ.COM",
+      "link": "https://www.nj.com/news/index.ssf/2018/08/a_failed_new_york_investment_by_jared_kushner_gets.html",
+      "sourceDate": "2018-08-12T00:00:00",
+      "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
+      "conflictId": "3236",
+      "conflictSlug": "warren-at-bay-associates",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35650",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $2,501 - $5,000 in Rent or Royalties income from WARREN AT BAY ASSOCIATES, LLC (Commercial Real Estate in Jersey City, NJ) the year before her appointment as her father's presidential adviser.",
+          "business": "Warren At Bay Associates LLC (Commercial Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35652",
+              "owner": "Warren At Bay Associates LLC (Commercial Real Estate in Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "WARREN AT BAY HOLDINGS LLC (Commercial Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35654",
+              "owner": "WARREN AT BAY HOLDINGS LLC (Commercial Real Estate in Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "WARREN AT BAY, LLC (Commercial Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35650",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $2,501 - $5,000 in Rent or Royalties income from WARREN AT BAY ASSOCIATES, LLC (Commercial Real Estate in Jersey City, NJ) the year before his appointment as Pres. Trump's senior adviser.",
+          "business": "Warren At Bay Associates LLC (Commercial Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35652",
+              "owner": "Warren At Bay Associates LLC (Commercial Real Estate in Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as KC Representative of Warren at Bay Holdings LLC from Jan 1, 2016, to Jan 1, 2017.",
+          "business": "WARREN AT BAY HOLDINGS LLC (Commercial Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35654",
+              "owner": "WARREN AT BAY HOLDINGS LLC (Commercial Real Estate in Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "WARREN AT BAY, LLC (Commercial Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3236",
+      "conflict": "Warren At Bay Associates",
+      "conflictDescription": ""
+    }
+  ]
 }

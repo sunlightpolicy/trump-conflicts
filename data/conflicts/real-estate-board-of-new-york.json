@@ -2,5 +2,27 @@
   "name": "Real Estate Board of New York",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Board Member of Real Estate Board of New York (REBNY) (Real Estate Organization) from Jun 1, 2008, to Jan 1, 2017.",
+          "business": "Real Estate Board Of New York (REBNY) (Real Estate Organization)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3419",
+      "conflict": "Real Estate Board of New York",
+      "conflictDescription": ""
+    }
+  ]
 }

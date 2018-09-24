@@ -15,12 +15,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "255",
+              "owneeId": "35160",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "255",
+              "owneeId": "35160",
               "owner": "THC Baku Services Member Corp.",
               "percentage": "1.0"
             }
@@ -36,19 +36,63 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "254",
+              "owneeId": "35162",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former director/chairman/president of THC Baku Services Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
-          "business": "THC Baku Services Member Corp.",
+          "business": "THC Baku Services Member Corp (Pass- Thru Company for THC Baku Services LLC (Dormant/Inactive))",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC BAKU SERVICES LLC (dormant/inactive) from Dec 1, 2014, until Jan 1, 2017.",
+          "business": "THC Baku Services LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35162",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC BAKU SERVICES MEMBER CORP (pass- thru company for THC BAKU SERVICES LLC (dormant/inactive)) from Dec 1, 2014, until Jan 1, 2017.",
+          "business": "THC Baku Services Member Corp (Pass- Thru Company for THC Baku Services LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "166",

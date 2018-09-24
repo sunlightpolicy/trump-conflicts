@@ -2,5 +2,41 @@
   "name": "Trump Kelowna",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Kelowna LLC (resigned 2014). The company&#39;s activity status and ownership structures have not been disclosed.",
+          "business": "Trump Kelowna LLC",
+          "conflictStatus": "Unclear"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director of Trump Kelowna Member Corp. (resigned 2014). The company&#39;s activity status and ownership structures have not been disclosed.",
+          "business": "Trump Kelowna Member Corp.",
+          "conflictStatus": "Unclear"
+        }
+      ],
+      "conflictId": "3435",
+      "conflict": "Trump Kelowna",
+      "conflictDescription": ""
+    }
+  ]
 }

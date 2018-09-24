@@ -11,11 +11,435 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "868",
+              "owneeId": "34297",
+              "owner": "Elmwood NYT Principal, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Elmwood NYT Holdings, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34299",
+              "owner": "Elmwood NYT Holdings, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Elmwood NYT Mezz, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34301",
+              "owner": "Elmwood NYT Mezz, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Elmwood NYT Owner, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34303",
+              "owner": "TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Elmwood NYT Principal, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34670",
+              "owner": "Landings NYT Principal, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Landings NYT Holdings, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34672",
+              "owner": "Landings NYT Holdings, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Landings NYT Mezz, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34674",
+              "owner": "Landings NYT Mezz, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Landings NYT Owner, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34676",
+              "owner": "TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Landings NYT Principal, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34869",
+              "owner": "Oakwood NYT Principal, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Oakwood NYT Holdings, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34871",
+              "owner": "Oakwood NYT Holdings, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Oakwood NYT Mezz, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34873",
+              "owner": "Oakwood NYT Mezz, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Oakwood NYT Owner, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34875",
+              "owner": "TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Oakwood NYT Principal, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Rent or Royalties income from TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY) the year before her appointment as her father's presidential adviser.",
+          "business": "TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35642",
+              "owner": "WALLKILL NYT PRINCIPAL, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "WALLKILL NYT HOLDINGS, LLC (Commercial Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35644",
+              "owner": "WALLKILL NYT HOLDINGS, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "WALLKILL NYT MEZZ, LLC (Commercial Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35646",
+              "owner": "WALLKILL NYT MEZZ, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "WALLKILL NYT OWNER, LLC (Commercial Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35648",
+              "owner": "TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "WALLKILL NYT PRINCIPAL, LLC (Commercial Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34297",
               "owner": "Elmwood NYT Principal, LLC",
               "percentage": ""
             }
@@ -23,7 +447,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of Elmwood NYT Holdings, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Elmwood NYT Holdings, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -31,11 +455,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "869",
+              "owneeId": "34299",
               "owner": "Elmwood NYT Holdings, LLC",
               "percentage": ""
             }
@@ -43,7 +472,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of Elmwood NYT Mezz, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Elmwood NYT Mezz, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -51,11 +480,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "870",
+              "owneeId": "34301",
               "owner": "Elmwood NYT Mezz, LLC",
               "percentage": ""
             }
@@ -63,7 +497,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of Elmwood NYT Owner, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Elmwood NYT Owner, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -71,11 +505,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "871",
+              "owneeId": "34303",
               "owner": "TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY)",
               "percentage": ""
             }
@@ -83,7 +522,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Authorized Signatory of Elmwood NYT Principal, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Elmwood NYT Principal, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -91,11 +530,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1065",
+              "owneeId": "34670",
               "owner": "Landings NYT Principal, LLC",
               "percentage": ""
             }
@@ -103,7 +547,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of Landings NYT Holdings, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Landings NYT Holdings, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -111,11 +555,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1066",
+              "owneeId": "34672",
               "owner": "Landings NYT Holdings, LLC",
               "percentage": ""
             }
@@ -123,7 +572,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of Landings NYT Mezz, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Landings NYT Mezz, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -131,11 +580,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1067",
+              "owneeId": "34674",
               "owner": "Landings NYT Mezz, LLC",
               "percentage": ""
             }
@@ -143,7 +597,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of Landings NYT Owner, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Landings NYT Owner, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -151,11 +605,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1068",
+              "owneeId": "34676",
               "owner": "TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY)",
               "percentage": ""
             }
@@ -163,7 +622,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Authorized Signatory of Landings NYT Principal, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Landings NYT Principal, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -171,11 +630,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1149",
+              "owneeId": "34869",
               "owner": "Oakwood NYT Principal, LLC",
               "percentage": ""
             }
@@ -183,7 +647,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of Oakwood NYT Holdings, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Oakwood NYT Holdings, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -191,11 +655,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1150",
+              "owneeId": "34871",
               "owner": "Oakwood NYT Holdings, LLC",
               "percentage": ""
             }
@@ -203,7 +672,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of Oakwood NYT Mezz, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Oakwood NYT Mezz, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -211,11 +680,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1151",
+              "owneeId": "34873",
               "owner": "Oakwood NYT Mezz, LLC",
               "percentage": ""
             }
@@ -223,7 +697,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of Oakwood NYT Owner, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Oakwood NYT Owner, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -231,11 +705,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1152",
+              "owneeId": "34875",
               "owner": "TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY)",
               "percentage": ""
             }
@@ -243,7 +722,126 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Authorized Signatory of Oakwood NYT Principal, LLC from Oct 1, 2015, to Jan 1, 2017.",
           "business": "Oakwood NYT Principal, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $1,000,001 - $5,000,000 in Rent or Royalties income from TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY) the year before his appointment as her father's senior adviser.",
+          "business": "TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35642",
+              "owner": "WALLKILL NYT PRINCIPAL, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Manager of Wallkill NYT Holdings, LLC from Oct 1, 2015, to Jan 1, 2017.",
+          "business": "WALLKILL NYT HOLDINGS, LLC (Commercial Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35644",
+              "owner": "WALLKILL NYT HOLDINGS, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Manager of Wallkill NYT Mezz, LLC from Oct 1, 2015, to Jan 1, 2017.",
+          "business": "WALLKILL NYT MEZZ, LLC (Commercial Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35646",
+              "owner": "WALLKILL NYT MEZZ, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Manager of Wallkill NYT Owner, LLC from Oct 1, 2015, to Jan 1, 2017.",
+          "business": "WALLKILL NYT OWNER, LLC (Commercial Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35648",
+              "owner": "TIMES SQUARE ASSOCIATES, LLC (Commercial Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Authorized Signatory of Wallkill NYT Principal, LLC from Oct 1, 2015, to Jan 1, 2017.",
+          "business": "WALLKILL NYT PRINCIPAL, LLC (Commercial Real Estate in New York, NY)",
+          "conflictStatus": "Active"
         }
       ],
       "conflictId": "797",

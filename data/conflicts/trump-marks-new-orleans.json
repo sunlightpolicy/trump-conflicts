@@ -2,5 +2,41 @@
   "name": "Trump Marks New Orleans",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former director/president of Trump Marks New Orleans Corp. (resigned 2014). The company&#39;s current activity status and ownership structure are not disclosed.",
+          "business": "Trump Marks New Orleans Corp.",
+          "conflictStatus": "Unclear"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Marks New Orleans LLC (resigned 2014). The company&#39;s current activity status and ownership structure are not disclosed.",
+          "business": "Trump Marks New Orleans LLC",
+          "conflictStatus": "Unclear"
+        }
+      ],
+      "conflictId": "3438",
+      "conflict": "Trump Marks New Orleans",
+      "conflictDescription": ""
+    }
+  ]
 }

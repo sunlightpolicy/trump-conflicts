@@ -2,32 +2,5 @@
   "name": "New York State Urban Dev",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner received $2,501 - $5,000 in Interest income from NEW YORK STATE URBAN DEV CORP REV RFDG SVC CONTRACT SER B, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
-          "business": "New York State Urban DEV Corp REV Rfdg Svc Contract Ser B, Bonds",
-          "conflictStatus": "Resolved"
-        }
-      ],
-      "conflictId": "1051",
-      "conflict": "New York State Urban Dev",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

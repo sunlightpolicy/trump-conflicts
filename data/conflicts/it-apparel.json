@@ -2,5 +2,41 @@
   "name": "IT Apparel",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer &amp; Secretary of IT APPAREL LLC (dormant/inactive) from Apr 1, 2011, until Jan 1, 2017.",
+          "business": "IT Apparel LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Secretary &amp; Treasurer of IT APPAREL MEMBER CORP (pass-thru company for IT APPAREL LLC (dormant/inactive)) from Apr 1, 2011, until Jan 1, 2017. This asset has been merged into IT Operations Managing Member Corp.",
+          "business": "IT Apparel Member Corp (Pass-Thru Company for IT Apparel LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3382",
+      "conflict": "IT Apparel",
+      "conflictDescription": ""
+    }
+  ]
 }

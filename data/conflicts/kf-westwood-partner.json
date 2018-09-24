@@ -2,5 +2,615 @@
   "name": "KF Westwood Partner",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34082",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "COVENTRY GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34554",
+              "owner": "KF Westwood Partner, LLC (Residential Real Estate In Westwood & River Vale, NJ)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34554",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "K/S WESTWOOD PARTNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $100,001 - $1,000,000 and $1,001 - $2,500 in Rent or Royalties income via two separate transactions from KF WESTWOOD PARTNER, LLC (Residential real estate in Westwood &amp; River Vale, NJ) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "KF Westwood Partner, LLC (Residential Real Estate In Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34716",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "MADISON GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35005",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "RC VILLAGE GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35023",
+              "owner": "RC VILLAGE GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "35023",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "RIVERVALE COLLIGON VILLAGE PROPERTY OWNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35127",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "STANFORD GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35672",
+              "owner": "STANFORD GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "35672",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "WESTWOOD CENTER STANFORD PROPERTY OWNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35674",
+              "owner": "COVENTRY GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "35674",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "WESTWOOD CHARLES CONVENTRY PROPERTY OWNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35676",
+              "owner": "K/S WESTWOOD PARTNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35678",
+              "owner": "MADISON GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "35678",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "WESTWOOD MADISON PROPERTY OWNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34082",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "COVENTRY GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Non-member Manager of K/S Westwood GP, LLC (Residential Real Estate in Westwood and River Vale, NJ) from Jul 1, 2014, to Jan 1, 2017.",
+          "business": "K/S Westwood GP, LLC (Residential Real Estate In Westwood And River Vale, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34554",
+              "owner": "KF Westwood Partner, LLC (Residential Real Estate In Westwood & River Vale, NJ)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34554",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "K/S WESTWOOD PARTNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $100,001 - $1,000,000 and $1,001 - $2,500 in Rent or Royalties income via two separate transactions from KF WESTWOOD PARTNER, LLC (Residential Real Estate in Westwood and River Vale, NJ) the year before his appointment as Pres. Trump’s senior adviser. Jared Kushner served as Managing Member of KF Westwood Partner, LLC from Jul 1, 2014, to Jan 1, 2017. Although he has resigned his position(s) with this entity, it is also disclosed an asset; therefore, this database marks the potential conflict of interest as active.",
+          "business": "KF Westwood Partner, LLC (Residential Real Estate In Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34716",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "MADISON GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35005",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "RC VILLAGE GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35023",
+              "owner": "RC VILLAGE GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "35023",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "RIVERVALE COLLIGON VILLAGE PROPERTY OWNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35127",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "STANFORD GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35672",
+              "owner": "STANFORD GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "35672",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "WESTWOOD CENTER STANFORD PROPERTY OWNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35674",
+              "owner": "COVENTRY GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "35674",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "WESTWOOD CHARLES CONVENTRY PROPERTY OWNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35676",
+              "owner": "K/S WESTWOOD PARTNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Manager of Westwood Investors JV, LP from Jul 1, 2014, to Jan 1, 2017.",
+          "business": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35678",
+              "owner": "MADISON GP, LLC (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "35678",
+              "owner": "WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "WESTWOOD MADISON PROPERTY OWNER, L.P. (Residential Real Estate in Westwood & River Vale, NJ)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "660",
+      "conflict": "KF Westwood Partner",
+      "conflictDescription": ""
+    }
+  ]
 }

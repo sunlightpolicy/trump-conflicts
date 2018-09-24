@@ -15,15 +15,29 @@
           ],
           "ownerships": [
             {
-              "owneeId": "217",
+              "owneeId": "34918",
               "owner": "DJT Holdings LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former president/member of OWO Developer LLC. The company is reportedly inactive. Trump retains an ownership stake through DJT Holdings LLC and The Donald J. Trump Revocable Trust.",
-          "business": "Owo Developer LLC",
+          "business": "OWO Developer LLC",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of OWO DEVELOPER LLC (dormant/inactive) from Nov 1, 2014, until Jan 1, 2017.",
+          "business": "OWO Developer LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "137",

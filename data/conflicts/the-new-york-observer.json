@@ -1,6 +1,41 @@
 {
   "name": "The New York Observer",
   "description": "",
-  "stories": [],
-  "ethics": []
+  "stories": [
+    {
+      "description": "",
+      "conflict": "The New York Observer",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/07/26/business/ken-kurson-jared-kushner.html",
+      "sourceDate": "2018-07-26T00:00:00",
+      "headline": "A Kushner Ally Was Up for a Federal Post. Then the F.B.I. Began Digging.",
+      "conflictId": "3250",
+      "conflictSlug": "the-new-york-observer",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Publisher of New York Observer from Jul 1, 2006, to Jan 1, 2017. Because the parent company, Observer Media, LLC, has been divested, this potential conflict of interest is marked as resolved.",
+          "business": "New York Observer",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3250",
+      "conflict": "The New York Observer",
+      "conflictDescription": ""
+    }
+  ]
 }

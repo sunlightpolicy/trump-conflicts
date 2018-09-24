@@ -1,6 +1,7 @@
 USE Trump
 GO
-INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Trump Chicago Member LLC'), (SELECT ID FROM Business WHERE Name = '401 Mezz Venture LLC'), '49.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Trump Chicago Member LLC'), (SELECT ID FROM Business WHERE Name = '401 Mezz Venture LLC (Residential &Amp; Commercial Real Estate In Chicago, Il)'), '49.0')
+INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Trump Chicago Member LLC'), (SELECT ID FROM Business WHERE Name = '401 Mezz Venture LLC (Residential &Amp; Commercial Real Estate In Chicago, Il)'), '')
 INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'HWA 1290 V LLC'), (SELECT ID FROM Business WHERE Name = '1290 Avenue Of The Americas, A Tenancy-In-Common'), '27.8')
 INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'CK Realty Holdings, LLC (Commercial Real Estate In New York, NY And Wippany, NJ)'), (SELECT ID FROM Business WHERE Name = 'Bruckner Plaza Center, LLC (Commercial Real Estate In New York, NY)'), '')
 INSERT INTO BusinessOwnership (OwnerID, OwneeID, OwnershipPercentage) VALUES ((SELECT ID FROM Business WHERE Name = 'Hudson Westside Associates I, L.P.'), (SELECT ID FROM Business WHERE Name = 'Hudson Waterfront Associates I, LP'), '69.0')

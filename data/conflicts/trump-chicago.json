@@ -2,5 +2,293 @@
   "name": "Trump Chicago",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35324",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "35324",
+              "owner": "Trump Chicago Commercial Member Corp.",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Chicago Commercial Manager LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Chicago Commercial Manager LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35325",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/chairman/director of Trump Chicago Commercial Member Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income and is part of other entity structures.",
+          "business": "Trump Chicago Commercial Member Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35326",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of the now-dormant or inactive Trump Chicago Development LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Chicago Development LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35327",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "35327",
+              "owner": "Trump Chicago Hotel Member Corp.",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Chicago Hotel Manager LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Chicago Hotel Manager LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35328",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/chairman/director of Trump Chicago Hotel Member Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income and is part of other entity structures.",
+          "business": "Trump Chicago Hotel Member Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35329",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump Chicago Managing Member LLC, in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income and is part of other entity structures.",
+          "business": "Trump Chicago Managing Member LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35330",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump Chicago Member LLC, in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income and is part of other entity structures.",
+          "business": "Trump Chicago Member LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35331",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "35331",
+              "owner": "Trump Chicago Residential Member Corp",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Chicago Residential Manager LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Chicago Residential Manager LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35332",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/chairman/director of Trump Chicago Residential Member Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income and is part of other entity structures.",
+          "business": "Trump Chicago Residential Member Corp",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35333",
+              "owner": "401 Mezz Venture LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump Chicago Retail LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Chicago Retail LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35334",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "35334",
+              "owner": "Trump Chicago Retail Member Corp.",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of the now-dormant or inactive Trump Chicago Retail Manager LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Chicago Retail Manager LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35335",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/chairman/director of the now-dormant or inactive Trump Chicago Retail Member Corp., in which Pres. Trump retains ownership interests.",
+          "business": "Trump Chicago Retail Member Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35338",
+              "owner": "401 North Wabash Venture LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump Commercial Chicago LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Commercial Chicago LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3431",
+      "conflict": "Trump Chicago",
+      "conflictDescription": ""
+    }
+  ]
 }

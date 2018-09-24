@@ -2,33 +2,5 @@
   "name": "Trump Chicago Development",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            }
-          ],
-          "ownerships": [
-            {
-              "owneeId": "345",
-              "owner": "DJT Holdings LLC",
-              "percentage": "100.0"
-            }
-          ],
-          "familyMember": "Donald Trump",
-          "description": "Former president/member of the now-dormant or inactive Trump Chicago Development LLC, in which Pres. Trump retains ownership interests.",
-          "business": "Trump Chicago Development LLC",
-          "conflictStatus": "Active"
-        }
-      ],
-      "conflictId": "229",
-      "conflict": "Trump Chicago Development",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

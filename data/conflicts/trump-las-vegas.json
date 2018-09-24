@@ -28,7 +28,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "410",
+              "owneeId": "35384",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -48,12 +48,32 @@
           ],
           "ownerships": [
             {
-              "owneeId": "411",
+              "owneeId": "35385",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Las Vegas Development LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Las Vegas Development LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35386",
               "owner": "DJT Holdings LLC",
               "percentage": "94.0"
             },
             {
-              "owneeId": "411",
+              "owneeId": "35386",
               "owner": "Trump Las Vegas Corp.",
               "percentage": "6.0"
             }
@@ -73,12 +93,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "412",
+              "owneeId": "35387",
               "owner": "DJT Holdings LLC",
               "percentage": "94.0"
             },
             {
-              "owneeId": "412",
+              "owneeId": "35387",
               "owner": "Trump Las Vegas Corp.",
               "percentage": "6.0"
             }
@@ -86,6 +106,26 @@
           "familyMember": "Donald Trump",
           "description": "Former president/member of Trump Las Vegas Member LLC, in which Pres. Trump retains ownership interests.",
           "business": "Trump Las Vegas Member LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35388",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump Las Vegas Sales &amp; Marketing Inc., in which Pres. Trump retains ownership interests. The company holds a sales &amp; marketing deal with Trump Ruffin Tower I LLC.",
+          "business": "Trump Las Vegas Sales &Amp; Marketing Inc.",
           "conflictStatus": "Active"
         }
       ],

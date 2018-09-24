@@ -2,5 +2,27 @@
   "name": "Megalith Capital Management",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Board Member of Megalith Capital Management (Real Estate Company) from Oct 1, 2013, to Jan 1, 2017.",
+          "business": "Megalith Capital Management (Real Estate Company)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3401",
+      "conflict": "Megalith Capital Management",
+      "conflictDescription": ""
+    }
+  ]
 }

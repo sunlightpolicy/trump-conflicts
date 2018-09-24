@@ -11,23 +11,38 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "236",
+              "owneeId": "35055",
               "owner": "DJT Holdings LLC",
               "percentage": "99.9"
             },
             {
-              "owneeId": "236",
+              "owneeId": "35055",
               "owner": "Bedford Hills Corp",
               "percentage": "0.1"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former president of Seven Springs LLC, in which Pres. Trump retains an ownership interest.",
-          "business": "Seven Springs LLC",
+          "business": "Seven Springs LLC (Real Estate In Mt. Kisco, NY)",
           "conflictStatus": "Active"
         }
       ],

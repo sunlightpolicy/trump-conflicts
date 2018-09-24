@@ -2,5 +2,71 @@
   "name": "TTTT Venture (formerly THC Venture III)",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35225",
+              "owner": "DTTM Operations LLC",
+              "percentage": "76.3"
+            },
+            {
+              "owneeId": "35225",
+              "owner": "Trump Family Members",
+              "percentage": "22.7"
+            },
+            {
+              "owneeId": "35225",
+              "owner": "THC Venture III Member Corp. - N/K/A TTTT Venture Member Corp.",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of THC Venture III LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "THC Venture III LLC (N/K/A TTTT Venture LLC)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President, Qualifying Manager & Treasurer of TTTT VENTURE LLC from Oct 1, 2015, until Jan 1, 2017. Ivanka Trump lists TTTT Venture LLC (Royalties and licensing for real estate projects; New York, NY) as an employment-related asset valued at $5,000,001 - $25,000,000. In the year before taking her unpaid position as assistant to her father in his presidency, she earned $100,893 in Rent or Royalties and Management Fees income, for real estate royalties and licensing. Ivanka Trump has resigned all positions with this entity, and in consultation with OGE converted her right to a share of its profits to a guaranteed fixed payment of $800,000 per year.",
+          "business": "TTTT Venture LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President & Treasurer of TTTT VENTURE MEMBER CORP (pass-thru company) from Oct 1, 2015, until Jan 1, 2017.",
+          "business": "TTTT VENTURE MEMBER CORP (pass-thru company)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3313",
+      "conflict": "TTTT Venture (formerly THC Venture III)",
+      "conflictDescription": ""
+    }
+  ]
 }

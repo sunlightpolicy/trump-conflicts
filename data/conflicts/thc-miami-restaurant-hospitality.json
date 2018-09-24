@@ -11,23 +11,28 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "275",
+              "owneeId": "35191",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "275",
+              "owneeId": "35191",
               "owner": "THC Miami Restaurant Hospitality Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/president of THC Miami Restaurant Hospitality LLC, in which Pres. Trump retains an ownership interest.",
-          "business": "THC Miami Restaurant Hospitality LLC",
+          "business": "THC Miami Restaurant Hospitality LLC (Restaurant Operations)",
           "conflictStatus": "Active"
         },
         {
@@ -36,19 +41,79 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "274",
+              "owneeId": "35193",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former chairman/director/president of THC Miami Restaurant Hospitality Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
-          "business": "THC Miami Restaurant Hospitality Member Corp.",
+          "business": "THC Miami Restaurant Hospitality Member Corp (Pass-Thru Company for THC Miami Restaurant Hospitality LLC (Restaurant Operations))",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35191",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "35191",
+              "owner": "THC Miami Restaurant Hospitality Member Corp.",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC MIAMI RESTAURANT HOSPITALITY LLC (restaurant operations) from Feb 1, 2013, until Jan 1, 2017.",
+          "business": "THC Miami Restaurant Hospitality LLC (Restaurant Operations)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35193",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC MIAMI RESTAURANT HOSPITALITY MEMBER CORP (pass-thru company for THC MIAMI RESTAURANT HOSPITALITY LLC (restaurant operations)) from Feb 1, 2013, until Jan 1, 2017.",
+          "business": "THC Miami Restaurant Hospitality Member Corp (Pass-Thru Company for THC Miami Restaurant Hospitality LLC (Restaurant Operations))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "178",

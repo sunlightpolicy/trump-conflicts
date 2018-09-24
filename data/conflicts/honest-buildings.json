@@ -2,5 +2,27 @@
   "name": "Honest Buildings",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Board Member of Honest Buildings (Real Estate Software Company) from Nov 1, 2013, to Nov 1, 2015. He was involved with the company Investor on behalf of Thrive Capital, his brother Joshua&#39;s venture capital firm, which was a major backer of the startup.",
+          "business": "Honest Buildings (Real Estate Software Company)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3279",
+      "conflict": "Honest Buildings",
+      "conflictDescription": ""
+    }
+  ]
 }

@@ -2,5 +2,27 @@
   "name": "MGM/Mark Burnett Productions",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump lists MGM/Mark Burnett Productions (Residuals from The Apprentice) (value not readily ascertainable) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned None (or less than $201) in (no income type reported) income. This asset has been divested.",
+          "business": "MGM/Mark Burnett Productions (Residuals from The Apprentice) (Value Not Readily Ascertainable)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3315",
+      "conflict": "MGM/Mark Burnett Productions",
+      "conflictDescription": ""
+    }
+  ]
 }

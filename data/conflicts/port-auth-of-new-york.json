@@ -2,32 +2,5 @@
   "name": "Port Auth of New York",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner received $5,001 - $15,000 in Interest income from PORT AUTH OF NEW YORK &amp; NEW JERSEY NY SER 179, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
-          "business": "Port Auth Of New York &Amp; New Jersey NY Ser 179, Bonds",
-          "conflictStatus": "Resolved"
-        }
-      ],
-      "conflictId": "1119",
-      "conflict": "Port Auth of New York",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

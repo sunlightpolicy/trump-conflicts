@@ -60,23 +60,28 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "88",
+              "owneeId": "34152",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "88",
+              "owneeId": "34152",
               "owner": "DT Dubai Golf Manager Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/president of DT Dubai Golf Manager LLC, of which Pres. Trump retains an ownership interest.",
-          "business": "DT Dubai Golf Manager LLC",
+          "business": "DT Dubai Golf Manager LLC (Management Company)",
           "conflictStatus": "Active"
         },
         {
@@ -89,7 +94,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "87",
+              "owneeId": "34155",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -98,6 +103,50 @@
           "description": "Former director/chairman/president of DT Dubai Golf Manager Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of the other entity structures.",
           "business": "DT Dubai Golf Manager Member Corp.",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34152",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "34152",
+              "owner": "DT Dubai Golf Manager Member Corp.",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT DUBAI GOLF MANAGER LLC (management company) from Mar 1, 2013, until Jan 1, 2017.",
+          "business": "DT Dubai Golf Manager LLC (Management Company)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT DUBAI GOLF MANAGER MEMBER CORP (pass-thru company for DT DUBAI GOLF MANAGER LLC (management company)) from Mar 1, 2013, until Jan 1, 2017.",
+          "business": "DT Dubai Golf Manager Member Corp (Pass-Thru Company for DT Dubai Golf Manager LLC (Management Company))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "56",

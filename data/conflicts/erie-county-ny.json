@@ -10,17 +10,27 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner received $2,501 - $5,000 in Interest income from ERIE CNTY NY FISCAL STABILITY AUTH SALES TAX &amp; ST AID SECD A, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $2,501 - $5,000 in Interest income from ERIE CNTY NY FISCAL STABILITY AUTH SALES TAX &amp; ST AID SECD A, bonds the year before her appointment as her father&#39;s presidential adviser.",
           "business": "Erie Cnty NY Fiscal Stability Auth Sales Tax & St Aid Secd A, Bonds",
           "conflictStatus": "Resolved"
         }

@@ -2,5 +2,27 @@
   "name": "Florham Park Developers",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Vice President &amp; Authorized Signatory of Florham Park Developers Corp. (Commercial Real Estate in Florham Park, NJ) from Jun 1, 2009, to Jan 1, 2017.",
+          "business": "Florham Park Developers Corp. (Commercial Real Estate In Florham Park, NJ)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3211",
+      "conflict": "Florham Park Developers",
+      "conflictDescription": ""
+    }
+  ]
 }

@@ -2,5 +2,41 @@
   "name": "Trump Identity",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former member of Trump Identity LLC (resigned 2014). The company&#39;s current activity status and ownership structure are not disclosed.",
+          "business": "Trump Identity",
+          "conflictStatus": "Unclear"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director of Trump Identity Member Corp. (resigned 2014). The company&#39;s current activity status and ownership structure are not disclosed.",
+          "business": "Trump Identity Member Corp.",
+          "conflictStatus": "Unclear"
+        }
+      ],
+      "conflictId": "3434",
+      "conflict": "Trump Identity",
+      "conflictDescription": ""
+    }
+  ]
 }

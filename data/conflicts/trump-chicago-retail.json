@@ -2,58 +2,5 @@
   "name": "Trump Chicago Retail",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            }
-          ],
-          "ownerships": [
-            {
-              "owneeId": "351",
-              "owner": "DJT Holdings LLC",
-              "percentage": "99.0"
-            },
-            {
-              "owneeId": "351",
-              "owner": "Trump Chicago Retail Member Corp.",
-              "percentage": "1.0"
-            }
-          ],
-          "familyMember": "Donald Trump",
-          "description": "Former president/member of the now-dormant or inactive Trump Chicago Retail Manager LLC, in which Pres. Trump retains ownership interests.",
-          "business": "Trump Chicago Retail Manager LLC",
-          "conflictStatus": "Active"
-        },
-        {
-          "ethicsDocuments": [
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            }
-          ],
-          "ownerships": [
-            {
-              "owneeId": "350",
-              "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100.0"
-            }
-          ],
-          "familyMember": "Donald Trump",
-          "description": "Former president/chairman/director of the now-dormant or inactive Trump Chicago Retail Member Corp., in which Pres. Trump retains ownership interests.",
-          "business": "Trump Chicago Retail Member Corp.",
-          "conflictStatus": "Active"
-        }
-      ],
-      "conflictId": "232",
-      "conflict": "Trump Chicago Retail",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

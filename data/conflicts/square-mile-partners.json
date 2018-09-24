@@ -21,7 +21,7 @@
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $15,001 - $50,000 in Capital Gains income from SQ ASSOCIATES, LLC (Financial investments in Square Mile Partners, LP; New York, NY) the year before her appointment as her father&#39;s presidential adviser.",
-          "business": "Sq Associates, LLC (Financial Investments In Square Mile Partners, LP; New York, NY)",
+          "business": "SQ Associates, LLC (Financial Investments In Square Mile Partners, LP; New York, NY)",
           "conflictStatus": "Resolved"
         },
         {
@@ -29,18 +29,37 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $5,001 - $15,000 in Capital Gains income from SQK ASSOCIATES, LLC (Financial investments in Square Mile Partners, LP; New York, NY) the year before her appointment as her father&#39;s presidential adviser.",
-          "business": "Sqk Associates, LLC (Financial Investments In Square Mile Partners, LP; New York, NY)",
+          "business": "SQK Associates, LLC (Financial Investments In Square Mile Partners, LP; New York, NY)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Two assets of Ivanka Trumps, SQ Associates and SQK Associates, reportedly were invested in Square Mile Partners. However, Square Mile Partners is not included in her 2017 financial disclosure. Because the investment vehicles reportedly have been divested, this record is categorized as a resolved potential conflict of interest.",
+          "business": "Square Mile Partners, LP; New York, NY",
           "conflictStatus": "Resolved"
         },
         {
@@ -59,7 +78,7 @@
           "ownerships": [],
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner received $15,001 - $50,000 in Capital Gains income from SQ ASSOCIATES, LLC (Financial investments in Square Mile Partners, LP; New York, NY) the year before his appointment as Pres. Trump&#39;s senior adviser.",
-          "business": "Sq Associates, LLC (Financial Investments In Square Mile Partners, LP; New York, NY)",
+          "business": "SQ Associates, LLC (Financial Investments In Square Mile Partners, LP; New York, NY)",
           "conflictStatus": "Resolved"
         },
         {
@@ -67,18 +86,37 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner received $5,001 - $15,000 in Capital Gains income from SQK ASSOCIATES, LLC (Financial investments in Square Mile Partners, LP; New York, NY) the year before his appointment as Pres. Trump&#39;s senior adviser.",
-          "business": "Sqk Associates, LLC (Financial Investments In Square Mile Partners, LP; New York, NY)",
+          "business": "SQK Associates, LLC (Financial Investments In Square Mile Partners, LP; New York, NY)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Two assets of Jared Kushner's, SQ Associates and SQK Associates, reportedly were invested in Square Mile Partners. However, Square Mile Partners is not included in his 2017 financial disclosure. Because the investment vehicles reportedly have been divested, this record is categorized as a resolved potential conflict of interest.",
+          "business": "Square Mile Partners, LP; New York, NY",
           "conflictStatus": "Resolved"
         }
       ],

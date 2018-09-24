@@ -10,13 +10,28 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34399",
+              "owner": "HARLEM PORTFOLIO PROPERTIES, LLC (Residential Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "HARLEM 151-133 ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
@@ -25,33 +40,257 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34401",
+              "owner": "Iroqouis Properties, LP (Residential Real Estate In New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "HARLEM PORTFOLIO PROPERTIES, LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $100,001 - $1,000,000 in Rent or Royalties income from IROQOUIS PROPERTIES, LP (Residential Real Estate in New York, NY) the year before her appointment as her father&#39;s presidential adviser.",
           "business": "Iroqouis Properties, LP (Residential Real Estate In New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35608",
+              "owner": "HARLEM 151-133 ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "VILLAGE KF 12TH ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35610",
+              "owner": "VILLAGE KF 12TH ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "VILLAGE KF 504 EAST 12TH LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35612",
+              "owner": "VILLAGE KF 12TH ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "VILLAGE KF 516 EAST 13TH LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34399",
+              "owner": "HARLEM PORTFOLIO PROPERTIES, LLC (Residential Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "HARLEM 151-133 ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34401",
+              "owner": "Iroqouis Properties, LP (Residential Real Estate In New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "HARLEM PORTFOLIO PROPERTIES, LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $100,001 - $1,000,000 in Rent or Royalties income from IROQOUIS PROPERTIES, LP (Residential Real Estate in New York, NY) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Iroqouis Properties, LP (Residential Real Estate In New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35608",
+              "owner": "HARLEM 151-133 ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Manager of Village KF 12th Associates, LLC from Aug 1, 2013, to Jan 1, 2017.",
+          "business": "VILLAGE KF 12TH ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35610",
+              "owner": "VILLAGE KF 12TH ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President of Village KF 504 East 12th LLC from Aug 1, 2013, to Jan 1, 2017.",
+          "business": "VILLAGE KF 504 EAST 12TH LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35612",
+              "owner": "VILLAGE KF 12TH ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President of Village KF 516 East 13th LLC from Aug 1, 2013, to Jan 1, 2017.",
+          "business": "VILLAGE KF 516 EAST 13TH LLC (Residential Real Estate in New York, NY)",
           "conflictStatus": "Active"
         }
       ],

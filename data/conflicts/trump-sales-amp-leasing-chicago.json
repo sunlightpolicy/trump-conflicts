@@ -2,58 +2,5 @@
   "name": "Trump Sales &Amp; Leasing Chicago",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            }
-          ],
-          "ownerships": [
-            {
-              "owneeId": "547",
-              "owner": "DJT Holdings LLC",
-              "percentage": "99.0"
-            },
-            {
-              "owneeId": "547",
-              "owner": "Trump Sales & Leasing Chicago Member Corp.",
-              "percentage": "1.0"
-            }
-          ],
-          "familyMember": "Donald Trump",
-          "description": "Former member/director of Trump Sales &amp; Leasing Chicago LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, is not inactive nor dormant, and is not part of an entity structure or license deal.",
-          "business": "Trump Sales & Leasing Chicago LLC",
-          "conflictStatus": "Active"
-        },
-        {
-          "ethicsDocuments": [
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            }
-          ],
-          "ownerships": [
-            {
-              "owneeId": "546",
-              "owner": "DJT Holdings Managing Member LLC",
-              "percentage": "100.0"
-            }
-          ],
-          "familyMember": "Donald Trump",
-          "description": "Former member/director/president of Trump Sales &amp; Leasing Chicago Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
-          "business": "Trump Sales & Leasing Chicago Member Corp.",
-          "conflictStatus": "Active"
-        }
-      ],
-      "conflictId": "389",
-      "conflict": "Trump Sales &Amp; Leasing Chicago",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

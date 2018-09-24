@@ -2,5 +2,27 @@
   "name": "Westminster Linden",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $15,001 - $50,000 in Rent or Royalties income from WESTMINSTER LINDEN, LLC (Residential Real Estate in Brooklyn, NY) the year before his appointment as Pres. Trump's senior adviser.",
+          "business": "WESTMINSTER LINDEN, LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "1621",
+      "conflict": "Westminster Linden",
+      "conflictDescription": ""
+    }
+  ]
 }

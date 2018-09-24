@@ -2,5 +2,48 @@
   "name": "Kushner Journal Square",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34635",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Kushner Journal Square LLC (Commercial Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3392",
+      "conflict": "Kushner Journal Square",
+      "conflictDescription": ""
+    }
+  ]
 }

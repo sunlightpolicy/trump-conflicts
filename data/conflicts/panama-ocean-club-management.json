@@ -52,12 +52,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "219",
+              "owneeId": "34924",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "219",
+              "owneeId": "34924",
               "owner": "Panama Ocean Club Management Member Corp.",
               "percentage": "1.0"
             }
@@ -77,7 +77,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "218",
+              "owneeId": "34927",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -86,6 +86,34 @@
           "description": "Former president/chairman/director of the now-dormant or inactive Panama Ocean Club Management Member Corp., in which Pres. Trump retains an ownership interest.",
           "business": "Panama Ocean Club Management Member Corp.",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of PANAMA OCEAN CLUB MANAGEMENT LLC (dormant/inactive) from Aug 1, 2010, until Jan 1, 2017.",
+          "business": "Panama Ocean Club Management LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of PANAMA OCEAN CLUB MANAGEMENT MEMBER CORP (pass-thru company for PANAMA OCEAN CLUB MANAGEMENT LLC (dormant/inactive)) from Aug 1, 2010, until Jan 1, 2017.",
+          "business": "Panama Ocean Club Management Member Corp (Pass-Thru Company for Panama Ocean Club Management LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "138",

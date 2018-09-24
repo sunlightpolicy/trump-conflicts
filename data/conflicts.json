@@ -1,5 +1,23 @@
 [
   {
+    "name": "1 Journal Square Partners",
+    "description": "",
+    "slug": "1-journal-square-partners",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "115 East 87",
+    "description": "",
+    "slug": "115-east-87",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "115 East 87",
     "description": "",
     "slug": "115-east-87",
@@ -41,8 +59,26 @@
     "slug": "2-rector-kushner",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "2 Rector Kushner",
+    "description": "",
+    "slug": "2-rector-kushner",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
+  },
+  {
+    "name": "20 de Bariloche",
+    "description": "",
+    "slug": "20-de-bariloche",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
     "name": "20 de Bariloche",
@@ -54,6 +90,51 @@
     "status": "Resolved"
   },
   {
+    "name": "200 East 62nd",
+    "description": "",
+    "slug": "200-east-62nd",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "200 East 62nd",
+    "description": "",
+    "slug": "200-east-62nd",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "212 5th",
+    "description": "",
+    "slug": "212-5th",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "212 5th",
+    "description": "",
+    "slug": "212-5th",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "21st Century Fox",
+    "description": "",
+    "slug": "21st-century-fox",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
     "name": "21st Century Fox",
     "description": "",
     "slug": "21st-century-fox",
@@ -61,6 +142,15 @@
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
+  },
+  {
+    "name": "30 Florham Associates",
+    "description": "",
+    "slug": "30-florham-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
   },
   {
     "name": "30 Florham Associates",
@@ -99,9 +189,90 @@
     "status": "Active"
   },
   {
+    "name": "40 Wall Street",
+    "description": "",
+    "slug": "40-wall-street",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "401 Mezz Venture",
+    "description": "",
+    "slug": "401-mezz-venture",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "401 Mezz Venture",
+    "description": "",
+    "slug": "401-mezz-venture",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "411 West Putnam Avenue",
+    "description": "",
+    "slug": "411-west-putnam-avenue",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "411 West Putnam Avenue",
+    "description": "",
+    "slug": "411-west-putnam-avenue",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "42Floors",
+    "description": "",
+    "slug": "42floors",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "44th Street Realty",
+    "description": "",
+    "slug": "44th-street-realty",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
     "name": "4T Holdings One",
     "description": "",
     "slug": "4t-holdings-one",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "4T Holdings One",
+    "description": "",
+    "slug": "4t-holdings-one",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "4T Holdings Two",
+    "description": "",
+    "slug": "4t-holdings-two",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -113,7 +284,25 @@
     "slug": "4t-holdings-two",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Donald Trump",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "502 6G",
+    "description": "",
+    "slug": "502-6g",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "502 6G",
+    "description": "",
+    "slug": "502-6g",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
@@ -129,6 +318,33 @@
     "name": "55 Challenger Road Associates",
     "description": "",
     "slug": "55-challenger-road-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "55 Wall Development",
+    "description": "",
+    "slug": "55-wall-development",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Unclear"
+  },
+  {
+    "name": "570 West Mt. Pleasant",
+    "description": "",
+    "slug": "570-west-mt-pleasant",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "570 West Mt. Pleasant",
+    "description": "",
+    "slug": "570-west-mt-pleasant",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -167,6 +383,15 @@
     "slug": "666-kc-management",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Unclear"
+  },
+  {
+    "name": "666 KC Management",
+    "description": "",
+    "slug": "666-kc-management",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Unclear"
   },
@@ -176,7 +401,34 @@
     "slug": "715-park-avenue-associates",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "715 Park Avenue Associates",
+    "description": "",
+    "slug": "715-park-avenue-associates",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "721 33H",
+    "description": "",
+    "slug": "721-33h",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "721 33H",
+    "description": "",
+    "slug": "721-33h",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Melania Trump",
     "status": "Active"
   },
   {
@@ -194,6 +446,15 @@
     "slug": "80-ml",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "80 ML",
+    "description": "",
+    "slug": "80-ml",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
@@ -204,6 +465,15 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "809 North Canon",
+    "description": "",
+    "slug": "809-north-canon",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -225,15 +495,6 @@
     "status": "Active"
   },
   {
-    "name": "A&Q",
-    "description": "",
-    "slug": "aq",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
-  },
-  {
     "name": "Ace Entertainment (Formerly Trump Casinos Or Trump Taj Mahal)",
     "description": "",
     "slug": "ace-entertainment-formerly-trump-casinos-or-trump-taj-mahal",
@@ -243,18 +504,9 @@
     "status": "Active"
   },
   {
-    "name": "Alabama Public Schools",
+    "name": "All County Building Supply & Maintenance",
     "description": "",
-    "slug": "alabama-public-schools",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
-  },
-  {
-    "name": "All County Building Supply &Amp; Maintenance",
-    "description": "",
-    "slug": "all-county-building-supply-amp-maintenance",
+    "slug": "all-county-building-supply-maintenance",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -311,8 +563,26 @@
     "slug": "bank-of-america",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Bank of America",
+    "description": "",
+    "slug": "bank-of-america",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
+  },
+  {
+    "name": "Battery Park City",
+    "description": "",
+    "slug": "battery-park-city",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
     "name": "Battery Park City",
@@ -338,17 +608,80 @@
     "slug": "bfps-ventures",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Jared Kushner",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
-    "name": "Blackstone Strategic Alliance Fund II",
+    "name": "Bfps Ventures",
     "description": "",
-    "slug": "blackstone-strategic-alliance-fund-ii",
+    "slug": "bfps-ventures",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
+  },
+  {
+    "name": "BlackRock Financial Management",
+    "description": "",
+    "slug": "blackrock-financial-management",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "BlackRock Financial Management",
+    "description": "",
+    "slug": "blackrock-financial-management",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Blackstone Group",
+    "description": "",
+    "slug": "blackstone-group",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Blackstone Group",
+    "description": "",
+    "slug": "blackstone-group",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "BLS Investors",
+    "description": "",
+    "slug": "bls-investors",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "BLS Manager",
+    "description": "",
+    "slug": "bls-manager",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Boeing",
+    "description": "",
+    "slug": "boeing",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
     "name": "Boeing",
@@ -360,13 +693,22 @@
     "status": "Resolved"
   },
   {
-    "name": "Boston MA Bonds",
+    "name": "Boston, MA",
     "description": "",
-    "slug": "boston-ma-bonds",
+    "slug": "boston-ma",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Boston, MA",
+    "description": "",
+    "slug": "boston-ma",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "Briar Hall Operations",
@@ -375,6 +717,15 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Broadband Proliferation Partners",
+    "description": "",
+    "slug": "broadband-proliferation-partners",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -405,6 +756,24 @@
     "status": "Resolved"
   },
   {
+    "name": "Brynwood Gardens",
+    "description": "",
+    "slug": "brynwood-gardens",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Brynwood Gardens",
+    "description": "",
+    "slug": "brynwood-gardens",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "C Development Ventures",
     "description": "",
     "slug": "c-development-ventures",
@@ -412,6 +781,42 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active"
+  },
+  {
+    "name": "C Development Ventures",
+    "description": "",
+    "slug": "c-development-ventures",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "C-III Capital Partners",
+    "description": "",
+    "slug": "c-iii-capital-partners",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "C-III Capital Partners",
+    "description": "",
+    "slug": "c-iii-capital-partners",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "C-III Recovery Fund I",
+    "description": "",
+    "slug": "c-iii-recovery-fund-i",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
     "name": "C-III Recovery Fund I",
@@ -423,27 +828,45 @@
     "status": "Resolved"
   },
   {
-    "name": "California St Dept of Wtr",
+    "name": "Calamos Wealth Management",
     "description": "",
-    "slug": "california-st-dept-of-wtr",
+    "slug": "calamos-wealth-management",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Capital Group",
+    "description": "",
+    "slug": "capital-group",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Capital Group",
+    "description": "",
+    "slug": "capital-group",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
-    "name": "Caribusiness MRE",
+    "name": "Caribusiness",
     "description": "",
-    "slug": "caribusiness-mre",
+    "slug": "caribusiness",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active"
   },
   {
-    "name": "Caribusiness RE",
+    "name": "Caribusiness MRE",
     "description": "",
-    "slug": "caribusiness-re",
+    "slug": "caribusiness-mre",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -477,13 +900,22 @@
     "status": "Resolved"
   },
   {
-    "name": "Charlotte NC",
+    "name": "Charlotte, NC",
+    "description": "",
+    "slug": "charlotte-nc",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Charlotte, NC",
     "description": "",
     "slug": "charlotte-nc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "Chatham Hill Associates",
@@ -513,6 +945,24 @@
     "status": "Active"
   },
   {
+    "name": "Cherry Pines Apartments",
+    "description": "",
+    "slug": "cherry-pines-apartments",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Cherry Pines Apartments",
+    "description": "",
+    "slug": "cherry-pines-apartments",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "Chicago Unit Acquisition",
     "description": "",
     "slug": "chicago-unit-acquisition",
@@ -531,9 +981,36 @@
     "status": "Active"
   },
   {
-    "name": "Cisco Sys",
+    "name": "Cisco Systems",
     "description": "",
-    "slug": "cisco-sys",
+    "slug": "cisco-systems",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Cisco Systems",
+    "description": "",
+    "slug": "cisco-systems",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Citi Group",
+    "description": "",
+    "slug": "citi-group",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Citi Group",
+    "description": "",
+    "slug": "citi-group",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -603,9 +1080,36 @@
     "status": "Active"
   },
   {
-    "name": "CNA FINL",
+    "name": "CNA Financial Corporation",
     "description": "",
-    "slug": "cna-finl",
+    "slug": "cna-financial-corporation",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "CNA Financial Corporation",
+    "description": "",
+    "slug": "cna-financial-corporation",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Colonial Heights, LLC",
+    "description": "",
+    "slug": "colonial-heights-llc",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Colonial Heights, LLC",
+    "description": "",
+    "slug": "colonial-heights-llc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -711,6 +1215,15 @@
     "status": "Active"
   },
   {
+    "name": "D B Pace Acquisition",
+    "description": "",
+    "slug": "d-b-pace-acquisition",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "Daewoo America",
     "description": "",
     "slug": "daewoo-america",
@@ -720,11 +1233,74 @@
     "status": "Active"
   },
   {
+    "name": "Dartmouth Village",
+    "description": "",
+    "slug": "dartmouth-village",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Dartmouth Village",
+    "description": "",
+    "slug": "dartmouth-village",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "Deer Tree Building Associates",
     "description": "",
     "slug": "deer-tree-building-associates",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Deer Tree Building Associates",
+    "description": "",
+    "slug": "deer-tree-building-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Delaware Funds",
+    "description": "",
+    "slug": "delaware-funds",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Delaware Funds",
+    "description": "",
+    "slug": "delaware-funds",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Deutsche Bank",
+    "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
+    "slug": "deutsche-bank",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Deutsche Bank",
+    "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
+    "slug": "deutsche-bank",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
@@ -745,6 +1321,24 @@
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
+  },
+  {
+    "name": "Dimensional Fund Advisors",
+    "description": "",
+    "slug": "dimensional-fund-advisors",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Dimensional Fund Advisors",
+    "description": "",
+    "slug": "dimensional-fund-advisors",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
   },
   {
     "name": "DJ Aerospace (Bermuda)",
@@ -783,12 +1377,30 @@
     "status": "Active"
   },
   {
+    "name": "DJT Aerospace",
+    "description": "",
+    "slug": "djt-aerospace",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "DJT Holdings",
     "description": "",
     "slug": "djt-holdings",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "DJT Holdings",
+    "description": "",
+    "slug": "djt-holdings",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -833,6 +1445,15 @@
     "slug": "dominion-resources",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Dominion Resources",
+    "description": "",
+    "slug": "dominion-resources",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
   },
@@ -861,6 +1482,15 @@
     "stories": "11",
     "lastStory": "Aug 24, 2018",
     "familyMember": "Donald Trump",
+    "status": "Unclear"
+  },
+  {
+    "name": "Donald J. Trump Foundation",
+    "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
+    "slug": "donald-j-trump-foundation",
+    "stories": "11",
+    "lastStory": "Aug 24, 2018",
+    "familyMember": "Ivanka Trump",
     "status": "Unclear"
   },
   {
@@ -897,6 +1527,15 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "DT App Warrant Holding",
+    "description": "",
+    "slug": "dt-app-warrant-holding",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -990,6 +1629,15 @@
     "status": "Active"
   },
   {
+    "name": "DT Dubai Golf Manager",
+    "description": "",
+    "slug": "dt-dubai-golf-manager",
+    "stories": "4",
+    "lastStory": "Jul 05, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "DT Dubai II Golf Manager",
     "description": "",
     "slug": "dt-dubai-ii-golf-manager",
@@ -1008,6 +1656,15 @@
     "status": "Active"
   },
   {
+    "name": "DT Endeavor",
+    "description": "",
+    "slug": "dt-endeavor",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
     "name": "DT Home Marks International",
     "description": "",
     "slug": "dt-home-marks-international",
@@ -1023,6 +1680,15 @@
     "stories": "7",
     "lastStory": "Aug 14, 2018",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "DT India Venture",
+    "description": "",
+    "slug": "dt-india-venture",
+    "stories": "7",
+    "lastStory": "Aug 14, 2018",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1107,6 +1773,15 @@
     "status": "Active"
   },
   {
+    "name": "DT Marks Baku",
+    "description": "",
+    "slug": "dt-marks-baku",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "DT Marks Bali",
     "description": "",
     "slug": "dt-marks-bali",
@@ -1116,12 +1791,30 @@
     "status": "Active"
   },
   {
+    "name": "DT Marks Bali",
+    "description": "",
+    "slug": "dt-marks-bali",
+    "stories": "1",
+    "lastStory": "Dec 31, 2016",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "DT Marks Dubai",
     "description": "",
     "slug": "dt-marks-dubai",
     "stories": "4",
     "lastStory": "Jul 05, 2018",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "DT Marks Dubai",
+    "description": "",
+    "slug": "dt-marks-dubai",
+    "stories": "4",
+    "lastStory": "Jul 05, 2018",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1143,12 +1836,30 @@
     "status": "Active"
   },
   {
+    "name": "DT Marks Gurgaon",
+    "description": "",
+    "slug": "dt-marks-gurgaon",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "DT Marks Jersey City",
     "description": "",
     "slug": "dt-marks-jersey-city",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "DT Marks Jersey City",
+    "description": "",
+    "slug": "dt-marks-jersey-city",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1170,6 +1881,15 @@
     "status": "Active"
   },
   {
+    "name": "DT Marks Lido",
+    "description": "",
+    "slug": "dt-marks-lido",
+    "stories": "3",
+    "lastStory": "Jun 23, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "DT Marks Products International",
     "description": "",
     "slug": "dt-marks-products-international",
@@ -1188,12 +1908,30 @@
     "status": "Active"
   },
   {
+    "name": "DT Marks Pune",
+    "description": "",
+    "slug": "dt-marks-pune",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "DT Marks Pune II",
     "description": "",
     "slug": "dt-marks-pune-ii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "DT Marks Pune II",
+    "description": "",
+    "slug": "dt-marks-pune-ii",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1206,12 +1944,30 @@
     "status": "Resolved"
   },
   {
+    "name": "DT Marks Qatar",
+    "description": "",
+    "slug": "dt-marks-qatar",
+    "stories": "1",
+    "lastStory": "Nov 20, 2016",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
     "name": "DT Marks Rio",
     "description": "",
     "slug": "dt-marks-rio",
     "stories": "1",
     "lastStory": "Nov 26, 2016",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "DT Marks Rio",
+    "description": "",
+    "slug": "dt-marks-rio",
+    "stories": "1",
+    "lastStory": "Nov 26, 2016",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1224,12 +1980,30 @@
     "status": "Active"
   },
   {
+    "name": "DT Marks Vancouver",
+    "description": "",
+    "slug": "dt-marks-vancouver",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "DT Marks Worli",
     "description": "",
     "slug": "dt-marks-worli",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "DT Marks Worli",
+    "description": "",
+    "slug": "dt-marks-worli",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1278,12 +2052,39 @@
     "status": "Active"
   },
   {
+    "name": "DT Tower Kolkata",
+    "description": "",
+    "slug": "dt-tower-kolkata",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "DT Venture",
+    "description": "",
+    "slug": "dt-venture",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
     "name": "DTTM Operations",
     "description": "",
     "slug": "dttm-operations",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "DTTM Operations",
+    "description": "",
+    "slug": "dttm-operations",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1296,22 +2097,40 @@
     "status": "Active"
   },
   {
-    "name": "Durham Cnty",
+    "name": "Durham County, NC",
     "description": "",
-    "slug": "durham-cnty",
+    "slug": "durham-county-nc",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
-    "name": "Dutchess Cnty NY",
+    "name": "Durham County, NC",
     "description": "",
-    "slug": "dutchess-cnty-ny",
+    "slug": "durham-county-nc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
+  },
+  {
+    "name": "Dutchess County, NY",
+    "description": "",
+    "slug": "dutchess-county-ny",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Dutchess County, NY",
+    "description": "",
+    "slug": "dutchess-county-ny",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
   },
   {
     "name": "East 61 St. Company",
@@ -1323,22 +2142,58 @@
     "status": "Active"
   },
   {
-    "name": "Eaton Vance Global",
+    "name": "Easton North Associates",
     "description": "",
-    "slug": "eaton-vance-global",
+    "slug": "easton-north-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Easton North Associates",
+    "description": "",
+    "slug": "easton-north-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
-    "name": "Ecolab",
+    "name": "Eaton Vance",
     "description": "",
-    "slug": "ecolab",
+    "slug": "eaton-vance",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Eaton Vance",
+    "description": "",
+    "slug": "eaton-vance",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
+  },
+  {
+    "name": "Ecolab Inc",
+    "description": "",
+    "slug": "ecolab-inc",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Ecolab Inc",
+    "description": "",
+    "slug": "ecolab-inc",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
   },
   {
     "name": "EID Venture I",
@@ -1382,6 +2237,15 @@
     "slug": "erie-county-ny",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Erie County, NY",
+    "description": "",
+    "slug": "erie-county-ny",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
   },
@@ -1400,7 +2264,25 @@
     "slug": "exxon-mobil",
     "stories": "1",
     "lastStory": "Nov 29, 2016",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Exxon Mobil",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "exxon-mobil",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
     "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "FabFitFun",
+    "description": "",
+    "slug": "fabfitfun",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Resolved"
   },
   {
@@ -1431,6 +2313,33 @@
     "status": "Unclear"
   },
   {
+    "name": "Felmore Associates",
+    "description": "",
+    "slug": "felmore-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Felmore Associates",
+    "description": "",
+    "slug": "felmore-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Fidelity Investments",
+    "description": "",
+    "slug": "fidelity-investments",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "Fifty Seven Management",
     "description": "",
     "slug": "fifty-seven-management",
@@ -1449,6 +2358,24 @@
     "status": "Active"
   },
   {
+    "name": "First Eagle Investment Management",
+    "description": "",
+    "slug": "first-eagle-investment-management",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "First Eagle Investment Management",
+    "description": "",
+    "slug": "first-eagle-investment-management",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "First Member",
     "description": "",
     "slug": "first-member",
@@ -1458,12 +2385,84 @@
     "status": "Active"
   },
   {
+    "name": "First Member",
+    "description": "",
+    "slug": "first-member",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "First Member",
+    "description": "",
+    "slug": "first-member",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Five Acre JV",
+    "description": "",
+    "slug": "five-acre-jv",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Five Acre JV",
+    "description": "",
+    "slug": "five-acre-jv",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Flatbush 340 Lender",
+    "description": "",
+    "slug": "flatbush-340-lender",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Flatbush 340 Lender",
+    "description": "",
+    "slug": "flatbush-340-lender",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "Flights (Formerly Trump Flights)",
     "description": "",
     "slug": "flights-formerly-trump-flights",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Florham Park Developers",
+    "description": "",
+    "slug": "florham-park-developers",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Florham Park Realty Associates",
+    "description": "",
+    "slug": "florham-park-realty-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1494,13 +2493,58 @@
     "status": "Active"
   },
   {
-    "name": "Ford Mtr",
+    "name": "Ford Motor Company",
     "description": "",
-    "slug": "ford-mtr",
+    "slug": "ford-motor-company",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Ford Motor Company",
+    "description": "",
+    "slug": "ford-motor-company",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Franklin Templeton Investments",
+    "description": "",
+    "slug": "franklin-templeton-investments",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Franklin Templeton Investments",
+    "description": "",
+    "slug": "franklin-templeton-investments",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
+  },
+  {
+    "name": "Fred C. Trump Trust",
+    "description": "",
+    "slug": "fred-c-trump-trust",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Friends of IDF (Israel Defense Forces)",
+    "description": "",
+    "slug": "friends-of-idf-israel-defense-forces",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
   },
   {
     "name": "Galbreath Columbus Circle Development Associates",
@@ -1530,6 +2574,15 @@
     "status": "Resolved"
   },
   {
+    "name": "GCM Trust",
+    "description": "",
+    "slug": "gcm-trust",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "Gellert 80 West End",
     "description": "",
     "slug": "gellert-80-west-end",
@@ -1557,6 +2610,24 @@
     "status": "Active"
   },
   {
+    "name": "Global Gateway Alliance",
+    "description": "",
+    "slug": "global-gateway-alliance",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Goldman Sachs",
+    "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
+    "slug": "goldman-sachs",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
     "name": "Goldman Sachs",
     "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
     "slug": "goldman-sachs",
@@ -1572,6 +2643,15 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Golf Productions",
+    "description": "",
+    "slug": "golf-productions",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1593,9 +2673,36 @@
     "status": "Active"
   },
   {
-    "name": "Greenburgh NY",
+    "name": "Greenburgh, NY",
     "description": "",
     "slug": "greenburgh-ny",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Greenburgh, NY",
+    "description": "",
+    "slug": "greenburgh-ny",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Hartford Funds",
+    "description": "",
+    "slug": "hartford-funds",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Hartford Funds",
+    "description": "",
+    "slug": "hartford-funds",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -1611,9 +2718,36 @@
     "status": "Active"
   },
   {
-    "name": "Hennessy Gas Utility",
+    "name": "Hennessy Funds",
     "description": "",
-    "slug": "hennessy-gas-utility",
+    "slug": "hennessy-funds",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Hennessy Funds",
+    "description": "",
+    "slug": "hennessy-funds",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Heritage Equities",
+    "description": "",
+    "slug": "heritage-equities",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Heritage Equities",
+    "description": "",
+    "slug": "heritage-equities",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -1643,8 +2777,26 @@
     "slug": "home-depot",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Home Depot",
+    "description": "",
+    "slug": "home-depot",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
+  },
+  {
+    "name": "Honest Buildings",
+    "description": "",
+    "slug": "honest-buildings",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
   },
   {
     "name": "How To Get Rich",
@@ -1755,12 +2907,75 @@
     "status": "Active"
   },
   {
-    "name": "Indian Hills Holdings Formerly Indian Hills Development",
+    "name": "IDB Bank",
+    "description": "",
+    "slug": "idb-bank",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "IDB Bank",
+    "description": "",
+    "slug": "idb-bank",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Identity Theft Productions",
+    "description": "",
+    "slug": "identity-theft-productions",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Unclear"
+  },
+  {
+    "name": "Indian Hills Holdings (formerly Indian Hills Development)",
     "description": "",
     "slug": "indian-hills-holdings-formerly-indian-hills-development",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Invesco",
+    "description": "",
+    "slug": "invesco",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Invesco",
+    "description": "",
+    "slug": "invesco",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Investors Savings Bank",
+    "description": "",
+    "slug": "investors-savings-bank",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Investors Savings Bank",
+    "description": "",
+    "slug": "investors-savings-bank",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
@@ -1779,6 +2994,132 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Iroquois Properties Realty",
+    "description": "",
+    "slug": "iroquois-properties-realty",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "IT Apparel",
+    "description": "",
+    "slug": "it-apparel",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "IT Collection",
+    "description": "",
+    "slug": "it-collection",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "IT International",
+    "description": "",
+    "slug": "it-international",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "IT Investors",
+    "description": "",
+    "slug": "it-investors",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "IT Operations",
+    "description": "",
+    "slug": "it-operations",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "IT Outerwear",
+    "description": "",
+    "slug": "it-outerwear",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "IT Promotions",
+    "description": "",
+    "slug": "it-promotions",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "IT Properties",
+    "description": "",
+    "slug": "it-properties",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "ITJK Investments",
+    "description": "",
+    "slug": "itjk-investments",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Ivanka Trump Marks",
+    "description": "",
+    "slug": "ivanka-trump-marks",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Janus Henderson Investors",
+    "description": "",
+    "slug": "janus-henderson-investors",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Janus Henderson Investors",
+    "description": "",
+    "slug": "janus-henderson-investors",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "JCK Cadre",
+    "description": "",
+    "slug": "jck-cadre",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1796,7 +3137,25 @@
     "slug": "jk-thrive-iv",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "JK Thrive IV",
+    "description": "",
+    "slug": "jk-thrive-iv",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "JK THRIVE V",
+    "description": "",
+    "slug": "jk-thrive-v",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Resolved"
   },
   {
@@ -1809,6 +3168,24 @@
     "status": "Resolved"
   },
   {
+    "name": "JK2 Westminster",
+    "description": "",
+    "slug": "jk2-westminster",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "JKM Capital",
+    "description": "",
+    "slug": "jkm-capital",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
     "name": "JKM Capital",
     "description": "",
     "slug": "jkm-capital",
@@ -1816,6 +3193,24 @@
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
+  },
+  {
+    "name": "JP Morgan",
+    "description": "",
+    "slug": "jp-morgan",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "JP Morgan",
+    "description": "",
+    "slug": "jp-morgan",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
   },
   {
     "name": "Jupiter Golf Club",
@@ -1827,6 +3222,15 @@
     "status": "Active"
   },
   {
+    "name": "Jupiter Golf Club",
+    "description": "",
+    "slug": "jupiter-golf-club",
+    "stories": "1",
+    "lastStory": "May 21, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "K 26 Journal Square",
     "description": "",
     "slug": "k-26-journal-square",
@@ -1881,6 +3285,15 @@
     "status": "Active"
   },
   {
+    "name": "K Astoria I",
+    "description": "",
+    "slug": "k-astoria-i",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
     "name": "K Gaia Village  2 Associates",
     "description": "",
     "slug": "k-gaia-village-2-associates",
@@ -1914,6 +3327,15 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "K Maryland Associates",
+    "description": "",
+    "slug": "k-maryland-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -1962,30 +3384,75 @@
     "status": "Active"
   },
   {
-    "name": "Kaszek Ventures",
+    "name": "Kaszek Ventures II",
     "description": "",
-    "slug": "kaszek-ventures",
+    "slug": "kaszek-ventures-ii",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Kaszek Ventures II",
+    "description": "",
+    "slug": "kaszek-ventures-ii",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
-    "name": "KC Dumbo Hotel",
+    "name": "Kay & ARR Realty Associates",
     "description": "",
-    "slug": "kc-dumbo-hotel",
+    "slug": "kay-arr-realty-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
-    "name": "KC Dumbo Hotel",
+    "name": "Kay & ARR Realty Associates",
     "description": "",
-    "slug": "kc-dumbo-hotel",
+    "slug": "kay-arr-realty-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "KC Dumbo",
+    "description": "",
+    "slug": "kc-dumbo",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "KC Dumbo",
+    "description": "",
+    "slug": "kc-dumbo",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "KC Profit Participation",
+    "description": "",
+    "slug": "kc-profit-participation",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "KCOF-215 Moore",
+    "description": "",
+    "slug": "kcof-215-moore",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -2075,7 +3542,25 @@
     "slug": "kf-wip-co-investors",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "KF-WIP Co. Investors",
+    "description": "",
+    "slug": "kf-wip-co-investors",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "KFF 29 Second Avenue",
+    "description": "",
+    "slug": "kff-29-second-avenue",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -2093,40 +3578,130 @@
     "slug": "kkc-associates",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Jared Kushner",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
-    "name": "Kushner Midwest Partners",
+    "name": "KKC Associates",
     "description": "",
-    "slug": "kushner-midwest-partners",
+    "slug": "kkc-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
-    "name": "Kushner Philadelphia Member",
+    "name": "Kushner Companies",
     "description": "",
-    "slug": "kushner-philadelphia-member",
+    "slug": "kushner-companies",
+    "stories": "18",
+    "lastStory": "Aug 27, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Kushner Credit Opportunity Fund",
+    "description": "",
+    "slug": "kushner-credit-opportunity-fund",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
-    "name": "Kushner Philadelphia Member",
+    "name": "Kushner Credit Opportunity Fund",
     "description": "",
-    "slug": "kushner-philadelphia-member",
+    "slug": "kushner-credit-opportunity-fund",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
-    "name": "Kushner Village 2 Member",
+    "name": "Kushner Family Foundation",
     "description": "",
-    "slug": "kushner-village-2-member",
+    "slug": "kushner-family-foundation",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Kushner Journal Square",
+    "description": "",
+    "slug": "kushner-journal-square",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Kushner Journal Square",
+    "description": "",
+    "slug": "kushner-journal-square",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Kushner Midwest Partners 1",
+    "description": "",
+    "slug": "kushner-midwest-partners-1",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Kushner Midwest Partners 1",
+    "description": "",
+    "slug": "kushner-midwest-partners-1",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Kushner Philadelphia",
+    "description": "",
+    "slug": "kushner-philadelphia",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Kushner Philadelphia",
+    "description": "",
+    "slug": "kushner-philadelphia",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Kushner Village 2",
+    "description": "",
+    "slug": "kushner-village-2",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Kushner Village 2",
+    "description": "",
+    "slug": "kushner-village-2",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Lacey Township Building Corp.",
+    "description": "",
+    "slug": "lacey-township-building-corp",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -2174,7 +3749,25 @@
     "slug": "landings-at-caspian-pointe",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Landings at Caspian Pointe",
+    "description": "",
+    "slug": "landings-at-caspian-pointe",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Landings at Harborside",
+    "description": "",
+    "slug": "landings-at-harborside",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -2214,9 +3807,117 @@
     "status": "Active"
   },
   {
+    "name": "LFB Acquisition",
+    "description": "",
+    "slug": "lfb-acquisition",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Lincoln Financial Group",
+    "description": "",
+    "slug": "lincoln-financial-group",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Lincoln Financial Group",
+    "description": "",
+    "slug": "lincoln-financial-group",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "Lindenlawn Apartment Associates",
     "description": "",
     "slug": "lindenlawn-apartment-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Lindenlawn Apartment Associates",
+    "description": "",
+    "slug": "lindenlawn-apartment-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Livingston Hills",
+    "description": "",
+    "slug": "livingston-hills",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Livingston Hills",
+    "description": "",
+    "slug": "livingston-hills",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "LMP",
+    "description": "",
+    "slug": "lmp",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "LMP",
+    "description": "",
+    "slug": "lmp",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Lodi Phillipsburg",
+    "description": "",
+    "slug": "lodi-phillipsburg",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Lodi Phillipsburg",
+    "description": "",
+    "slug": "lodi-phillipsburg",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Lord, Abbett & Co.",
+    "description": "",
+    "slug": "lord-abbett-co",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Lord, Abbett & Co.",
+    "description": "",
+    "slug": "lord-abbett-co",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -2246,6 +3947,15 @@
     "slug": "magnolia-building-associates",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Magnolia Building Associates",
+    "description": "",
+    "slug": "magnolia-building-associates",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
@@ -2259,21 +3969,102 @@
     "status": "Active"
   },
   {
-    "name": "Maryland St Dept",
+    "name": "Mar-a-Lago Club",
+    "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
+    "slug": "mar-a-lago-club",
+    "stories": "12",
+    "lastStory": "Aug 20, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Martha Bell Associates",
     "description": "",
-    "slug": "maryland-st-dept",
+    "slug": "martha-bell-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Martha Bell Associates",
+    "description": "",
+    "slug": "martha-bell-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
-    "name": "Mecklenburg Cnty NC",
+    "name": "Maryanne Trump Trust",
     "description": "",
-    "slug": "mecklenburg-cnty-nc",
+    "slug": "maryanne-trump-trust",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Mecklenburg County, NC",
+    "description": "",
+    "slug": "mecklenburg-county-nc",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Mecklenburg County, NC",
+    "description": "",
+    "slug": "mecklenburg-county-nc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Megalith Capital Management",
+    "description": "",
+    "slug": "megalith-capital-management",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Melania LLC",
+    "description": "",
+    "slug": "melania-llc",
+    "stories": "2",
+    "lastStory": "Jul 02, 2018",
+    "familyMember": "Melania Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Melania Marks",
+    "description": "",
+    "slug": "melania-marks",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Melania Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Merrill Lynch",
+    "description": "",
+    "slug": "merrill-lynch",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Merritt Associates",
+    "description": "",
+    "slug": "merritt-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -2286,22 +4077,13 @@
     "status": "Active"
   },
   {
-    "name": "Met Transprtn Ser A",
+    "name": "Metlife",
     "description": "",
-    "slug": "met-transprtn-ser-a",
+    "slug": "metlife",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
-  },
-  {
-    "name": "Met Transprtn Ser C",
-    "description": "",
-    "slug": "met-transprtn-ser-c",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
     "name": "Metlife",
@@ -2310,6 +4092,24 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "MGM/Mark Burnett Productions",
+    "description": "",
+    "slug": "mgmmark-burnett-productions",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Microsoft",
+    "description": "",
+    "slug": "microsoft",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Resolved"
   },
   {
@@ -2331,12 +4131,48 @@
     "status": "Active"
   },
   {
+    "name": "Milford Building",
+    "description": "",
+    "slug": "milford-building",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Millington Bank",
+    "description": "",
+    "slug": "millington-bank",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Millington Bank",
+    "description": "",
+    "slug": "millington-bank",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "Miss Universe (Formerly Trump Pageants)",
     "description": "",
     "slug": "miss-universe-formerly-trump-pageants",
     "stories": "1",
     "lastStory": "Jun 17, 2016",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Mmll",
+    "description": "",
+    "slug": "mmll",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -2399,13 +4235,76 @@
     "slug": "morgan-stanley",
     "stories": "1",
     "lastStory": "Nov 29, 2016",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Morgan Stanley",
+    "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
+    "slug": "morgan-stanley",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
   },
   {
-    "name": "Nassau Cnty NY",
+    "name": "Mt. Pleasant",
     "description": "",
-    "slug": "nassau-cnty-ny",
+    "slug": "mt-pleasant",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Mt. Pleasant",
+    "description": "",
+    "slug": "mt-pleasant",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "MZ Berger & Company",
+    "description": "",
+    "slug": "mz-berger-company",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Melania Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Nassau County, NY",
+    "description": "",
+    "slug": "nassau-county-ny",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Nassau County, NY",
+    "description": "",
+    "slug": "nassau-county-ny",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Netcong Heights Associates",
+    "description": "",
+    "slug": "netcong-heights-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Netcong Heights Associates",
+    "description": "",
+    "slug": "netcong-heights-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -2439,6 +4338,24 @@
     "status": "Resolved"
   },
   {
+    "name": "New Puck",
+    "description": "",
+    "slug": "new-puck",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "New Puck",
+    "description": "",
+    "slug": "new-puck",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "New Sunshine LLC",
     "description": "",
     "slug": "new-sunshine-llc",
@@ -2448,76 +4365,85 @@
     "status": "Unclear"
   },
   {
-    "name": "New York City NY Muni Wtr",
+    "name": "New York Community Bank",
     "description": "",
-    "slug": "new-york-city-ny-muni-wtr",
+    "slug": "new-york-community-bank",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "New York Community Bank",
+    "description": "",
+    "slug": "new-york-community-bank",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
-    "name": "New York NY Var Subser",
+    "name": "New York State",
     "description": "",
-    "slug": "new-york-ny-var-subser",
+    "slug": "new-york-state",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
-    "name": "New York St Dorm Auth Ser A",
+    "name": "New York State",
     "description": "",
-    "slug": "new-york-st-dorm-auth-ser-a",
+    "slug": "new-york-state",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
-    "name": "New York St Dorm UnIV B",
+    "name": "New York, NY",
     "description": "",
-    "slug": "new-york-st-dorm-univ-b",
+    "slug": "new-york-ny",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
-    "name": "New York ST Environ",
+    "name": "New York, NY",
     "description": "",
-    "slug": "new-york-st-environ",
+    "slug": "new-york-ny",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
-    "name": "New York ST Local Govt Assistance Corp",
+    "name": "News Corp.",
     "description": "",
-    "slug": "new-york-st-local-govt-assistance-corp",
+    "slug": "news-corp",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
-    "name": "New York ST Urban Dev",
+    "name": "News Corp.",
     "description": "",
-    "slug": "new-york-st-urban-dev",
+    "slug": "news-corp",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
-    "name": "News Corporation",
+    "name": "Nextera Energy",
     "description": "",
-    "slug": "news-corporation",
+    "slug": "nextera-energy",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
     "name": "Nextera Energy",
@@ -2536,6 +4462,42 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active"
+  },
+  {
+    "name": "Nitto World",
+    "description": "",
+    "slug": "nitto-world",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Nuveen (TIAA)",
+    "description": "",
+    "slug": "nuveen-tiaa",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Nuveen (TIAA)",
+    "description": "",
+    "slug": "nuveen-tiaa",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "O Townhomes",
+    "description": "",
+    "slug": "o-townhomes",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
   },
   {
     "name": "Oakwood Garden Associates",
@@ -2561,8 +4523,35 @@
     "slug": "observer-capital",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Observer Capital",
+    "description": "",
+    "slug": "observer-capital",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
+  },
+  {
+    "name": "Observer Media",
+    "description": "",
+    "slug": "observer-media",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "OC Partners",
+    "description": "",
+    "slug": "oc-partners",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
     "name": "OC Partners",
@@ -2592,13 +4581,22 @@
     "status": "Active"
   },
   {
-    "name": "Onondaga",
+    "name": "Onondaga County, NY",
     "description": "",
-    "slug": "onondaga",
+    "slug": "onondaga-county-ny",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Onondaga County, NY",
+    "description": "",
+    "slug": "onondaga-county-ny",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "OPO Hotel Manager",
@@ -2607,6 +4605,24 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "OPO Hotel Manager",
+    "description": "",
+    "slug": "opo-hotel-manager",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "OppenheimerFunds",
+    "description": "",
+    "slug": "oppenheimerfunds",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -2619,9 +4635,18 @@
     "status": "Active"
   },
   {
-    "name": "Oregon St",
+    "name": "Ownership Rights",
     "description": "",
-    "slug": "oregon-st",
+    "slug": "ownership-rights",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Ownership Rights",
+    "description": "",
+    "slug": "ownership-rights",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -2634,6 +4659,42 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "OWO Developer",
+    "description": "",
+    "slug": "owo-developer",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Oxford Arms Associates",
+    "description": "",
+    "slug": "oxford-arms-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Oxford Arms Associates",
+    "description": "",
+    "slug": "oxford-arms-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "P.V. Development",
+    "description": "",
+    "slug": "pv-development",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -2652,6 +4713,15 @@
     "stories": "3",
     "lastStory": "Mar 03, 2018",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Panama Ocean Club Management",
+    "description": "",
+    "slug": "panama-ocean-club-management",
+    "stories": "3",
+    "lastStory": "Mar 03, 2018",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -2682,6 +4752,42 @@
     "status": "Active"
   },
   {
+    "name": "Park Lake Village",
+    "description": "",
+    "slug": "park-lake-village",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Park Lake Village",
+    "description": "",
+    "slug": "park-lake-village",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Park Lane Mobile Home Park",
+    "description": "",
+    "slug": "park-lane-mobile-home-park",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Park Lane Mobile Home Park",
+    "description": "",
+    "slug": "park-lane-mobile-home-park",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "Park Street Capital",
     "description": "",
     "slug": "park-street-capital",
@@ -2700,6 +4806,33 @@
     "status": "Resolved"
   },
   {
+    "name": "Partnership for New York City",
+    "description": "",
+    "slug": "partnership-for-new-york-city",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Penguin Random House",
+    "description": "Ivanka Trump was also paid a $289,300 advance by Penguin Random House for her book, “Women Who Work,” which she donated to the Ivanka M. Trump Charitable Fund to distribute grants to support women and girls.",
+    "slug": "penguin-random-house",
+    "stories": "1",
+    "lastStory": "Jun 12, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Pepsico",
+    "description": "",
+    "slug": "pepsico",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
     "name": "Pepsico",
     "description": "",
     "slug": "pepsico",
@@ -2709,22 +4842,22 @@
     "status": "Resolved"
   },
   {
-    "name": "Pimco Enhanced",
+    "name": "PIMCO",
     "description": "",
-    "slug": "pimco-enhanced",
+    "slug": "pimco",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
-    "name": "Pimco Rae Fundamental Advantage Plus Fund",
+    "name": "PIMCO",
     "description": "",
-    "slug": "pimco-rae-fundamental-advantage-plus-fund",
+    "slug": "pimco",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "Pine Hill Development",
@@ -2736,9 +4869,45 @@
     "status": "Active"
   },
   {
+    "name": "Pine Hill Development",
+    "description": "",
+    "slug": "pine-hill-development",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "Pinecrest Lake Building Associates",
     "description": "",
     "slug": "pinecrest-lake-building-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Pinecrest Lake Building Associates",
+    "description": "",
+    "slug": "pinecrest-lake-building-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Pinefield Manor",
+    "description": "",
+    "slug": "pinefield-manor",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Pinefield Manor",
+    "description": "",
+    "slug": "pinefield-manor",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -2763,6 +4932,15 @@
     "status": "Active"
   },
   {
+    "name": "Poker Venture",
+    "description": "",
+    "slug": "poker-venture",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "Police Athletic League",
     "description": "",
     "slug": "police-athletic-league",
@@ -2772,45 +4950,108 @@
     "status": "Unclear"
   },
   {
-    "name": "Port Auth of New York",
+    "name": "Port Authority of New York & New Jersey",
     "description": "",
-    "slug": "port-auth-of-new-york",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
-  },
-  {
-    "name": "Puck Residential Associates",
-    "description": "",
-    "slug": "puck-residential-associates",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Active"
-  },
-  {
-    "name": "Puck Residential Associates",
-    "description": "",
-    "slug": "puck-residential-associates",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
-    "status": "Active"
-  },
-  {
-    "name": "RCG Longview Debt Fund IV",
-    "description": "",
-    "slug": "rcg-longview-debt-fund-iv",
+    "slug": "port-authority-of-new-york-new-jersey",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Resolved"
   },
   {
-    "name": "RCG Longview Debt Fund IV",
+    "name": "Port Authority of New York & New Jersey",
     "description": "",
-    "slug": "rcg-longview-debt-fund-iv",
+    "slug": "port-authority-of-new-york-new-jersey",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Powerhouse Associates",
+    "description": "",
+    "slug": "powerhouse-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Princeton Horizon Apartments",
+    "description": "",
+    "slug": "princeton-horizon-apartments",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Princeton Horizon Apartments",
+    "description": "",
+    "slug": "princeton-horizon-apartments",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Principal Funds",
+    "description": "",
+    "slug": "principal-funds",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Principal Funds",
+    "description": "",
+    "slug": "principal-funds",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Puck Residential Associates",
+    "description": "",
+    "slug": "puck-residential-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Puck Residential Associates",
+    "description": "",
+    "slug": "puck-residential-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "RCG Longview",
+    "description": "",
+    "slug": "rcg-longview",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "RCG Longview",
+    "description": "",
+    "slug": "rcg-longview",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Real Estate Board of New York",
+    "description": "",
+    "slug": "real-estate-board-of-new-york",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -2831,6 +5072,15 @@
     "slug": "regal-bank",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Regal Bank",
+    "description": "",
+    "slug": "regal-bank",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
   },
@@ -2841,6 +5091,69 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "River Edge Apartments",
+    "description": "",
+    "slug": "river-edge-apartments",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "River Edge Apartments",
+    "description": "",
+    "slug": "river-edge-apartments",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Riverhead Reeves",
+    "description": "",
+    "slug": "riverhead-reeves",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Riverhead Sound",
+    "description": "",
+    "slug": "riverhead-sound",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "RiverNorth",
+    "description": "",
+    "slug": "rivernorth",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "RiverNorth",
+    "description": "",
+    "slug": "rivernorth",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Rockwell Automation",
+    "description": "",
+    "slug": "rockwell-automation",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Resolved"
   },
   {
@@ -2889,13 +5202,22 @@
     "status": "Active"
   },
   {
-    "name": "Sales Tax Asset Receivable",
+    "name": "Rues Lane Building Corp.",
     "description": "",
-    "slug": "sales-tax-asset-receivable",
+    "slug": "rues-lane-building-corp",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
+  },
+  {
+    "name": "Schlumberger LTD",
+    "description": "",
+    "slug": "schlumberger-ltd",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
     "name": "Schlumberger LTD",
@@ -2907,6 +5229,24 @@
     "status": "Resolved"
   },
   {
+    "name": "Schoolhouse JV",
+    "description": "",
+    "slug": "schoolhouse-jv",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Schoolhouse JV",
+    "description": "",
+    "slug": "schoolhouse-jv",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "Scotland Acquisitions",
     "description": "",
     "slug": "scotland-acquisitions",
@@ -2916,12 +5256,39 @@
     "status": "Active"
   },
   {
+    "name": "Screen Actors Guild",
+    "description": "",
+    "slug": "screen-actors-guild",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Screen Actors Guild",
+    "description": "",
+    "slug": "screen-actors-guild",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "Seven Springs",
     "description": "",
     "slug": "seven-springs",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Seven Springs",
+    "description": "",
+    "slug": "seven-springs",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -2952,6 +5319,33 @@
     "status": "Active"
   },
   {
+    "name": "Signature Bank",
+    "description": "ne of three banks whose ties to Kushner have been widely reported to be under review by New York banking regulators. The bank’s board members have included Ivanka Trump and former Republican U.S. senator Al D’Amato, a dealmaker and power broker in New York business and politics who has been a vocal supporter of President Trump.",
+    "slug": "signature-bank",
+    "stories": "1",
+    "lastStory": "Jun 07, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Signature Bank",
+    "description": "ne of three banks whose ties to Kushner have been widely reported to be under review by New York banking regulators. The bank’s board members have included Ivanka Trump and former Republican U.S. senator Al D’Amato, a dealmaker and power broker in New York business and politics who has been a vocal supporter of President Trump.",
+    "slug": "signature-bank",
+    "stories": "1",
+    "lastStory": "Jun 07, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Sixty Capital Fund",
+    "description": "",
+    "slug": "sixty-capital-fund",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
     "name": "Sixty Capital Fund",
     "description": "",
     "slug": "sixty-capital-fund",
@@ -2966,7 +5360,25 @@
     "slug": "sixty-one-associates",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Sixty One Associates",
+    "description": "",
+    "slug": "sixty-one-associates",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Sixty-Six West Associates",
+    "description": "",
+    "slug": "sixty-six-west-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -2993,6 +5405,24 @@
     "slug": "skyline-kushner",
     "stories": "1",
     "lastStory": "Aug 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Skytop Gardens",
+    "description": "",
+    "slug": "skytop-gardens",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Skytop Gardens",
+    "description": "",
+    "slug": "skytop-gardens",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
@@ -3033,12 +5463,192 @@
     "status": "Active"
   },
   {
+    "name": "State of Alabama",
+    "description": "",
+    "slug": "state-of-alabama",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Alabama",
+    "description": "",
+    "slug": "state-of-alabama",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of California",
+    "description": "",
+    "slug": "state-of-california",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of California",
+    "description": "",
+    "slug": "state-of-california",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Georgia",
+    "description": "",
+    "slug": "state-of-georgia",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Georgia",
+    "description": "",
+    "slug": "state-of-georgia",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Maryland",
+    "description": "",
+    "slug": "state-of-maryland",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Maryland",
+    "description": "",
+    "slug": "state-of-maryland",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Massachusetts",
+    "description": "",
+    "slug": "state-of-massachusetts",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Massachusetts",
+    "description": "",
+    "slug": "state-of-massachusetts",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Oregon",
+    "description": "",
+    "slug": "state-of-oregon",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Oregon",
+    "description": "",
+    "slug": "state-of-oregon",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Utah",
+    "description": "",
+    "slug": "state-of-utah",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Utah",
+    "description": "",
+    "slug": "state-of-utah",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Virginia",
+    "description": "",
+    "slug": "state-of-virginia",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "State of Virginia",
+    "description": "",
+    "slug": "state-of-virginia",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "State Street Global Advisors",
+    "description": "",
+    "slug": "state-street-global-advisors",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "State Street Global Advisors",
+    "description": "",
+    "slug": "state-street-global-advisors",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "State Tower of Syracuse Associates",
+    "description": "",
+    "slug": "state-tower-of-syracuse-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "State Tower of Syracuse Associates",
     "description": "",
     "slug": "state-tower-of-syracuse-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
+    "name": "Stone 16 Associates",
+    "description": "",
+    "slug": "stone-16-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -3087,12 +5697,39 @@
     "status": "Active"
   },
   {
+    "name": "T International Realty (Aka Trump International Realty)",
+    "description": "",
+    "slug": "t-international-realty-aka-trump-international-realty",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "TAG Air",
     "description": "",
     "slug": "tag-air",
     "stories": "1",
     "lastStory": "Jun 27, 2018",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Taylor Edison JV",
+    "description": "",
+    "slug": "taylor-edison-jv",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Taylor Edison JV",
+    "description": "",
+    "slug": "taylor-edison-jv",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
@@ -3105,12 +5742,12 @@
     "status": "Active"
   },
   {
-    "name": "Templeton Gim",
+    "name": "TC Marks Buenos Aires",
     "description": "",
-    "slug": "templeton-gim",
-    "stories": "0",
-    "lastStory": "",
-    "familyMember": "Jared Kushner",
+    "slug": "tc-marks-buenos-aires",
+    "stories": "2",
+    "lastStory": "Jan 04, 2017",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -3123,12 +5760,30 @@
     "status": "Active"
   },
   {
+    "name": "THC Baku Hotel Manager Services",
+    "description": "",
+    "slug": "thc-baku-hotel-manager-services",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "THC Baku Services",
     "description": "",
     "slug": "thc-baku-services",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "THC Baku Services",
+    "description": "",
+    "slug": "thc-baku-services",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -3150,9 +5805,36 @@
     "status": "Active"
   },
   {
+    "name": "THC Central Reservations",
+    "description": "",
+    "slug": "thc-central-reservations",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "THC China Development",
     "description": "",
     "slug": "thc-china-development",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "THC China Development",
+    "description": "",
+    "slug": "thc-china-development",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "THC China Technical Services",
+    "description": "",
+    "slug": "thc-china-technical-services",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -3164,7 +5846,7 @@
     "slug": "thc-china-technical-services",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Donald Trump",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -3195,6 +5877,15 @@
     "status": "Active"
   },
   {
+    "name": "THC Development Brazil",
+    "description": "",
+    "slug": "thc-development-brazil",
+    "stories": "1",
+    "lastStory": "Nov 20, 2016",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "THC Dubai II Hotel Manager",
     "description": "",
     "slug": "thc-dubai-ii-hotel-manager",
@@ -3210,6 +5901,15 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "THC Hotel Development",
+    "description": "",
+    "slug": "thc-hotel-development",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -3249,12 +5949,30 @@
     "status": "Active"
   },
   {
+    "name": "THC Miami Restaurant Hospitality",
+    "description": "",
+    "slug": "thc-miami-restaurant-hospitality",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "THC Qatar Hotel Manager",
     "description": "",
     "slug": "thc-qatar-hotel-manager",
     "stories": "1",
     "lastStory": "Nov 20, 2016",
     "familyMember": "Donald Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "THC Qatar Hotel Manager",
+    "description": "",
+    "slug": "thc-qatar-hotel-manager",
+    "stories": "1",
+    "lastStory": "Nov 20, 2016",
+    "familyMember": "Ivanka Trump",
     "status": "Resolved"
   },
   {
@@ -3267,12 +5985,30 @@
     "status": "Active"
   },
   {
-    "name": "Thc Sales &Amp; Marketing",
+    "name": "THC Rio",
     "description": "",
-    "slug": "thc-sales-amp-marketing",
+    "slug": "thc-rio",
+    "stories": "1",
+    "lastStory": "Nov 26, 2016",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "THC Sales & Marketing",
+    "description": "",
+    "slug": "thc-sales-marketing",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "THC Sales & Marketing",
+    "description": "",
+    "slug": "thc-sales-marketing",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -3285,9 +6021,36 @@
     "status": "Active"
   },
   {
+    "name": "THC Services Shenzhen",
+    "description": "",
+    "slug": "thc-services-shenzhen",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "THC Shenzhen Hotel Manager",
     "description": "",
     "slug": "thc-shenzhen-hotel-manager",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "THC Shenzhen Hotel Manager",
+    "description": "",
+    "slug": "thc-shenzhen-hotel-manager",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "THC Vancouver",
+    "description": "",
+    "slug": "thc-vancouver",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -3299,7 +6062,7 @@
     "slug": "thc-vancouver",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Donald Trump",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -3318,6 +6081,15 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "THC Venture II",
+    "description": "",
+    "slug": "thc-venture-ii",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -3363,6 +6135,15 @@
     "stories": "1",
     "lastStory": "Dec 21, 2016",
     "familyMember": "Eric Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "The New York Observer",
+    "description": "",
+    "slug": "the-new-york-observer",
+    "stories": "1",
+    "lastStory": "Jul 26, 2018",
+    "familyMember": "Jared Kushner",
     "status": "Resolved"
   },
   {
@@ -3461,7 +6242,25 @@
     "slug": "thrive-partners-ii-gp",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Thrive Partners II GP",
+    "description": "",
+    "slug": "thrive-partners-ii-gp",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Thrive Partners III GP",
+    "description": "",
+    "slug": "thrive-partners-iii-gp",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Resolved"
   },
   {
@@ -3477,6 +6276,15 @@
     "name": "TIHC Reservations",
     "description": "",
     "slug": "tihc-reservations",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "TIHH Member",
+    "description": "",
+    "slug": "tihh-member",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -3534,6 +6342,15 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Times Square Associates",
+    "description": "",
+    "slug": "times-square-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -3627,13 +6444,22 @@
     "status": "Active"
   },
   {
-    "name": "Triborough",
+    "name": "Triborough NY Bridge & Tunnel Authority",
     "description": "",
-    "slug": "triborough",
+    "slug": "triborough-ny-bridge-tunnel-authority",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Triborough NY Bridge & Tunnel Authority",
+    "description": "",
+    "slug": "triborough-ny-bridge-tunnel-authority",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "Trump 101: The Way To Success",
@@ -3771,6 +6597,15 @@
     "status": "Active"
   },
   {
+    "name": "Trump Chicago",
+    "description": "",
+    "slug": "trump-chicago",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
     "name": "Trump Classic Cars",
     "description": "",
     "slug": "trump-classic-cars",
@@ -3798,6 +6633,15 @@
     "status": "Active"
   },
   {
+    "name": "Trump Delmonico",
+    "description": "",
+    "slug": "trump-delmonico",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
     "name": "Trump Development Services",
     "description": "",
     "slug": "trump-development-services",
@@ -3814,15 +6658,6 @@
     "lastStory": "Nov 20, 2016",
     "familyMember": "Donald Trump",
     "status": "Active"
-  },
-  {
-    "name": "Trump Drinks Israel Holdings",
-    "description": "",
-    "slug": "trump-drinks-israel-holdings",
-    "stories": "1",
-    "lastStory": "Nov 20, 2016",
-    "familyMember": "Donald Trump",
-    "status": "Unclear"
   },
   {
     "name": "Trump Education",
@@ -3951,6 +6786,24 @@
     "status": "Active"
   },
   {
+    "name": "Trump Ice",
+    "description": "",
+    "slug": "trump-ice",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Trump Identity",
+    "description": "",
+    "slug": "trump-identity",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Unclear"
+  },
+  {
     "name": "Trump International Development",
     "description": "",
     "slug": "trump-international-development",
@@ -4005,6 +6858,15 @@
     "status": "Active"
   },
   {
+    "name": "Trump International Hotel And Tower Condominium",
+    "description": "",
+    "slug": "trump-international-hotel-and-tower-condominium",
+    "stories": "1",
+    "lastStory": "Feb 13, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear"
+  },
+  {
     "name": "Trump International Hotel HawaII",
     "description": "",
     "slug": "trump-international-hotel-hawaii",
@@ -4041,6 +6903,15 @@
     "status": "Resolved"
   },
   {
+    "name": "Trump Kelowna",
+    "description": "",
+    "slug": "trump-kelowna",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Unclear"
+  },
+  {
     "name": "Trump Korea",
     "description": "",
     "slug": "trump-korea",
@@ -4059,13 +6930,13 @@
     "status": "Active"
   },
   {
-    "name": "Trump Lntematlonal Hotel And Tower Condominium",
+    "name": "Trump Lauderdale",
     "description": "",
-    "slug": "trump-lntematlonal-hotel-and-tower-condominium",
+    "slug": "trump-lauderdale",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
-    "status": "Unclear"
+    "status": "Active"
   },
   {
     "name": "Trump Los Olas",
@@ -4203,6 +7074,15 @@
     "status": "Active"
   },
   {
+    "name": "Trump Marks Golf Swing",
+    "description": "",
+    "slug": "trump-marks-golf-swing",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Unclear"
+  },
+  {
     "name": "Trump Marks Hollywood",
     "description": "",
     "slug": "trump-marks-hollywood",
@@ -4282,6 +7162,15 @@
     "lastStory": "Aug 14, 2018",
     "familyMember": "Donald Trump",
     "status": "Active"
+  },
+  {
+    "name": "Trump Marks New Orleans",
+    "description": "",
+    "slug": "trump-marks-new-orleans",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Unclear"
   },
   {
     "name": "Trump Marks New Rochelle",
@@ -4381,6 +7270,15 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active"
+  },
+  {
+    "name": "Trump Marks South Africa",
+    "description": "",
+    "slug": "trump-marks-south-africa",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Unclear"
   },
   {
     "name": "Trump Marks Stamford",
@@ -4536,6 +7434,15 @@
     "status": "Active"
   },
   {
+    "name": "Trump New World Property Management",
+    "description": "",
+    "slug": "trump-new-world-property-management",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
     "name": "Trump Ocean",
     "description": "",
     "slug": "trump-ocean",
@@ -4551,6 +7458,15 @@
     "stories": "30",
     "lastStory": "Aug 28, 2018",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Trump Old Post Office",
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "slug": "trump-old-post-office",
+    "stories": "30",
+    "lastStory": "Aug 28, 2018",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -4572,6 +7488,15 @@
     "status": "Active"
   },
   {
+    "name": "Trump Organization Inc.",
+    "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+    "slug": "trump-organization-inc",
+    "stories": "55",
+    "lastStory": "Aug 24, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "Trump Pageants",
     "description": "",
     "slug": "trump-pageants",
@@ -4579,6 +7504,15 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active"
+  },
+  {
+    "name": "Trump Palace Condominium",
+    "description": "",
+    "slug": "trump-palace-condominium",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Unclear"
   },
   {
     "name": "Trump Palace/Parc",
@@ -4626,12 +7560,30 @@
     "status": "Active"
   },
   {
+    "name": "Trump Park Avenue",
+    "description": "",
+    "slug": "trump-park-avenue",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "Trump Payroll",
     "description": "",
     "slug": "trump-payroll",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Trump Payroll",
+    "description": "",
+    "slug": "trump-payroll",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -4725,9 +7677,9 @@
     "status": "Active"
   },
   {
-    "name": "Trump Sales &Amp; Leasing Chicago",
+    "name": "Trump Sales & Leasing Chicago",
     "description": "",
-    "slug": "trump-sales-amp-leasing-chicago",
+    "slug": "trump-sales-leasing-chicago",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -4797,11 +7749,11 @@
     "status": "Active"
   },
   {
-    "name": "Trump Tower Condominium Residential Section",
+    "name": "Trump Tower Condominium",
     "description": "",
-    "slug": "trump-tower-condominium-residential-section",
-    "stories": "0",
-    "lastStory": "",
+    "slug": "trump-tower-condominium",
+    "stories": "3",
+    "lastStory": "Aug 03, 2018",
     "familyMember": "Donald Trump",
     "status": "Unclear"
   },
@@ -4830,6 +7782,15 @@
     "stories": "2",
     "lastStory": "Jul 13, 2018",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Trump Turnberry",
+    "description": "",
+    "slug": "trump-turnberry",
+    "stories": "2",
+    "lastStory": "Jul 13, 2018",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -4896,9 +7857,9 @@
     "status": "Active"
   },
   {
-    "name": "Trump&#39;S Castle Management",
+    "name": "Trump's Castle Management",
     "description": "",
-    "slug": "trump39s-castle-management",
+    "slug": "trumps-castle-management",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -4911,6 +7872,33 @@
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "TTT Consulting",
+    "description": "",
+    "slug": "ttt-consulting",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "TTTT Venture (formerly THC Venture III)",
+    "description": "",
+    "slug": "tttt-venture-formerly-thc-venture-iii",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active"
+  },
+  {
+    "name": "TTTT Venture (formerly THC Venture III)",
+    "description": "",
+    "slug": "tttt-venture-formerly-thc-venture-iii",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
@@ -4932,6 +7920,24 @@
     "status": "Active"
   },
   {
+    "name": "UBS",
+    "description": "",
+    "slug": "ubs",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "UBS",
+    "description": "",
+    "slug": "ubs",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Active"
+  },
+  {
     "name": "Ultimate Air",
     "description": "",
     "slug": "ultimate-air",
@@ -4950,18 +7956,45 @@
     "status": "Active"
   },
   {
-    "name": "Univ of Texas",
+    "name": "Universal City Studios",
     "description": "",
-    "slug": "univ-of-texas",
+    "slug": "universal-city-studios",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "University of Texas",
+    "description": "",
+    "slug": "university-of-texas",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "University of Texas",
+    "description": "",
+    "slug": "university-of-texas",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Valley National Bank",
+    "description": "",
+    "slug": "valley-national-bank",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
-    "name": "Utah St Ser C",
+    "name": "Vanguard",
     "description": "",
-    "slug": "utah-st-ser-c",
+    "slug": "vanguard",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -4986,27 +8019,45 @@
     "status": "Active"
   },
   {
-    "name": "VILLAGE KF 4-9-10 Associates, LLC",
+    "name": "VILLAGE KF 4-9-10 Associates",
     "description": "",
-    "slug": "village-kf-4-9-10-associates-llc",
+    "slug": "village-kf-4-9-10-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Active"
   },
   {
-    "name": "VILLAGE KF 4-9-10 Associates, LLC",
+    "name": "VILLAGE KF 4-9-10 Associates",
     "description": "",
-    "slug": "village-kf-4-9-10-associates-llc",
+    "slug": "village-kf-4-9-10-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Active"
   },
   {
-    "name": "Virginia Beach VA Bonds",
+    "name": "Virginia Beach, VA",
     "description": "",
-    "slug": "virginia-beach-va-bonds",
+    "slug": "virginia-beach-va",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Virginia Beach, VA",
+    "description": "",
+    "slug": "virginia-beach-va",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved"
+  },
+  {
+    "name": "Visa",
+    "description": "",
+    "slug": "visa",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -5036,6 +8087,15 @@
     "slug": "wake-county-nc",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Wake County, NC",
+    "description": "",
+    "slug": "wake-county-nc",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
   },
@@ -5058,13 +8118,31 @@
     "status": "Active"
   },
   {
-    "name": "Warren At Bay",
+    "name": "Warren At Bay Associates",
     "description": "",
-    "slug": "warren-at-bay",
-    "stories": "0",
-    "lastStory": "",
+    "slug": "warren-at-bay-associates",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "Warren At Bay Associates",
+    "description": "",
+    "slug": "warren-at-bay-associates",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
     "familyMember": "Jared Kushner",
     "status": "Active"
+  },
+  {
+    "name": "Wells Fargo",
+    "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
+    "slug": "wells-fargo",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
     "name": "Wells Fargo",
@@ -5099,6 +8177,15 @@
     "slug": "westchester-county-ny",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Westchester County, NY",
+    "description": "",
+    "slug": "westchester-county-ny",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Jared Kushner",
     "status": "Resolved"
   },
@@ -5121,13 +8208,22 @@
     "status": "Active"
   },
   {
-    "name": "Westminster Title",
+    "name": "Westminster Title Associates",
     "description": "",
-    "slug": "westminster-title",
+    "slug": "westminster-title-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "Westminster Title Associates",
+    "description": "",
+    "slug": "westminster-title-associates",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "Wexford Hall",
@@ -5148,13 +8244,22 @@
     "status": "Active"
   },
   {
-    "name": "White Plains NY",
+    "name": "White Plains, NY",
+    "description": "",
+    "slug": "white-plains-ny",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
+  },
+  {
+    "name": "White Plains, NY",
     "description": "",
     "slug": "white-plains-ny",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
-    "status": "Active"
+    "status": "Resolved"
   },
   {
     "name": "Why We Want You to be Rich",
@@ -5202,6 +8307,24 @@
     "status": "Active"
   },
   {
+    "name": "Women Who Work",
+    "description": "",
+    "slug": "women-who-work",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
+    "name": "WT 25 Columbia",
+    "description": "",
+    "slug": "wt-25-columbia",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Active"
+  },
+  {
     "name": "WT 25 Columbia",
     "description": "",
     "slug": "wt-25-columbia",
@@ -5218,6 +8341,15 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active"
+  },
+  {
+    "name": "Yum Brands",
+    "description": "",
+    "slug": "yum-brands",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Resolved"
   },
   {
     "name": "Yum Brands",

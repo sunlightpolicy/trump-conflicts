@@ -13,16 +13,6 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -30,12 +20,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "135",
+              "owneeId": "34233",
               "owner": "TTTT Venture LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "135",
+              "owneeId": "34233",
               "owner": "DT Tower Gurgaon Managing Member Corp.",
               "percentage": "1.0"
             }
@@ -55,7 +45,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "134",
+              "owneeId": "34236",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
@@ -73,16 +63,6 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -90,12 +70,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "135",
+              "owneeId": "34233",
               "owner": "TTTT Venture LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "135",
+              "owneeId": "34233",
               "owner": "DT Tower Gurgaon Managing Member Corp.",
               "percentage": "1.0"
             }
@@ -104,6 +84,20 @@
           "description": "Ivanka Trump served as Executive Vice President of DT TOWER GURGAON LLC from Mar 1, 2015, until Jan 1, 2017. Ivanka Trump lists DT Tower Gurgaon LLC (license deal in India; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
           "business": "DT Tower Gurgaon LLC",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT TOWER GURGAON MANAGING MEMBER CORP (license holder) from Mar 1, 2015, until Jan 1, 2017.",
+          "business": "DT Tower Gurgaon Managing Member Corp (License Holder)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "80",

@@ -15,7 +15,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "286",
+              "owneeId": "35215",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -35,7 +35,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "287",
+              "owneeId": "35217",
               "owner": "THC Vancouver Management Corp",
               "percentage": "100.0"
             }
@@ -44,6 +44,34 @@
           "description": "Former director/president of THC Vancouver Payroll ULC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and provides back office support functions to other entities.",
           "business": "THC Vancouver Payroll ULC",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC VANCOUVER MANAGEMENT CORP (management company) from Jan 1, 2013, until Jan 1, 2017.",
+          "business": "THC Vancouver Management Corp (Management Company)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC VANCOUVER PAYROLL ULC (payroll company) from Feb 1, 2015, until Jan 1, 2017.",
+          "business": "THC Vancouver Payroll ULC (Payroll Company)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "184",

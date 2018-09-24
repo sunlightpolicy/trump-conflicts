@@ -28,12 +28,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "129",
+              "owneeId": "34221",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "129",
+              "owneeId": "34221",
               "owner": "DT Marks Rio Member Corp.",
               "percentage": "1.0"
             }
@@ -53,7 +53,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "128",
+              "owneeId": "34224",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
@@ -62,6 +62,34 @@
           "description": "Former director/chairman/president of the now-dormant or inactive DT Marks Rio Member Corp., of which Pres. Trump retains an ownership interest.",
           "business": "DT Marks Rio Member Corp.",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT MARKS RIO LLC (dormant/inactive) from Mar 1, 2012, until Jan 1, 2017.",
+          "business": "DT Marks Rio LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT MARKS RIO MEMBER CORP (pass-thru company for DT MARKS RIO LLC (dormant/inactive)) from Mar 1, 2012, until Jan 1, 2017.",
+          "business": "DT Marks Rio Member Corp (Pass-Thru Company for DT Marks Rio LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "77",

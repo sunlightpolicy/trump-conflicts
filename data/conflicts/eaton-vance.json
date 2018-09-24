@@ -2,5 +2,89 @@
   "name": "Eaton Vance",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $5,001 - $15,000, $201 - $1,000 and None (or less than $201) in (income type not disclosed) income from EATON VANCE ATLANTA CAP SMID CAP FUND CLASS I (EISMX) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Eaton Vance Atlanta Cap Smid Cap Fund Class I (Eismx)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $201 - $1,000 in (income type not disclosed) income from EATON VANCE GLOBAL MACRO ABSOLUTE RETURN ADV FUND (EGRIX) the year before her appointment as her father&#39;s presidential adviser. This asset has been divested.",
+          "business": "Eaton Vance Global Macro Absolute Return Adv Fund (Egrix)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $5,202 - $16,200 in (income type not disclosed) income via three distributions from EATON VANCE ATLANTA CAP SMID CAP FUND CLASS I (EISMX) the year before his appointment as Pres. Trump's senior adviser.",
+          "business": "Eaton Vance Atlanta Cap Smid Cap Fund Class I (Eismx)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $201 - $1,000 in (income type not disclosed) income from EATON VANCE GLOBAL MACRO ABSOLUTE RETURN ADV FUND (EGRIX) the year before his appointment as Pres. Trump's senior adviser. This asset has been divested.",
+          "business": "Eaton Vance Global Macro Absolute Return Adv Fund (Egrix)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3175",
+      "conflict": "Eaton Vance",
+      "conflictDescription": ""
+    }
+  ]
 }

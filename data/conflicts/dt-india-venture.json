@@ -100,12 +100,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "94",
+              "owneeId": "34164",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "94",
+              "owneeId": "34164",
               "owner": "DT India Venture Managing Member Corp.",
               "percentage": "1.0"
             }
@@ -125,7 +125,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "93",
+              "owneeId": "34166",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
@@ -134,6 +134,20 @@
           "description": "Former director/chairman/president of the now-dormant or inactive DT India Venture Managing Member Corp., of which Pres. Trump retains an ownership interest.",
           "business": "DT India Venture Managing Member Corp.",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT INDIA VENTURE LLC (dormant/inactive) from Jan 1, 2012, until Jan 1, 2017.",
+          "business": "DT India Venture LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "59",

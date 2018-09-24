@@ -2,5 +2,27 @@
   "name": "Universal City Studios",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Residuals from appearances on Saturday Night Live and Late Night with Jimmy Fallon). This asset has been divested.",
+          "business": "Universal City Studios LLC",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3314",
+      "conflict": "Universal City Studios",
+      "conflictDescription": ""
+    }
+  ]
 }

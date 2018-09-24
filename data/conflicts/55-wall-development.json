@@ -2,5 +2,27 @@
   "name": "55 Wall Development",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director of 55 Wall Development Corp. The company&#39;s current activity status and ownership structure are not clear.",
+          "business": "55 Wall Development Corp",
+          "conflictStatus": "Unclear"
+        }
+      ],
+      "conflictId": "3365",
+      "conflict": "55 Wall Development",
+      "conflictDescription": ""
+    }
+  ]
 }

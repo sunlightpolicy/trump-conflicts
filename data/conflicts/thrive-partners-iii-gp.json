@@ -2,5 +2,42 @@
   "name": "Thrive Partners III GP",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received Over $5,000,000 in Capital Gains income from THRIVE PARTNERS III GP, LLC (interest in venture capital fund; New York, NY) the year before her appointment as her father's presidential adviser.",
+          "business": "THRIVE PARTNERS III GP, LLC (interest in venture capital fund; New York, NY)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "1273",
+      "conflict": "Thrive Partners III GP",
+      "conflictDescription": ""
+    }
+  ]
 }

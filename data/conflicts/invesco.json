@@ -2,5 +2,127 @@
   "name": "Invesco",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received None (or less than $201) in (income type not disclosed) income from Powershares Nasdaq 100 ETF (QQQ) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Powershares Nasdaq 100 ETF (Qqq)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,001 - $2,500 in (income type not disclosed) income from POWERSHARES S&amp;P 500 DOWNSIDE HEDGED PORTFOLIO ETF (PHDG) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Powershares S&P 500 Downside Hedged Portfolio ETF (PHDG)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $15,001 - $50,000 in (income type not disclosed) income from POWERSHARES S&amp;P 500 LOW VOLATILITY PORTFOLIO ETF (SPLV) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Powershares S&P 500 Low Volatility Portfolio ETF (SPLV)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received None (or less than $201) in (income type not disclosed) income from Powershares Nasdaq 100 ETF (QQQ) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Powershares Nasdaq 100 ETF (Qqq)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $1,001 - $2,500 in (income type not disclosed) income from POWERSHARES S&amp;P 500 DOWNSIDE HEDGED PORTFOLIO ETF (PHDG) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Powershares S&P 500 Downside Hedged Portfolio ETF (PHDG)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $15,001 - $50,000 in (income type not disclosed) income from POWERSHARES S&amp;P 500 LOW VOLATILITY PORTFOLIO ETF (SPLV) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Powershares S&P 500 Low Volatility Portfolio ETF (SPLV)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3286",
+      "conflict": "Invesco",
+      "conflictDescription": ""
+    }
+  ]
 }

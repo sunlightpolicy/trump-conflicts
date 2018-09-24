@@ -15,20 +15,20 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "653",
+              "owneeId": "33810",
               "owner": "BLS PORTFOLIO LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
           "description": "",
-          "business": "100 Pierrepoint Street LLC",
-          "conflictStatus": ""
+          "business": "100 Pierrepont Street LLC",
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -40,20 +40,70 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "684",
+              "owneeId": "33826",
+              "owner": "BLS PORTFOLIO 2 LLC (Residential Real Estate in Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "144 Willow Street LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33739",
+              "owner": "BLS PORTFOLIO 2 LLC (Residential Real Estate in Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "18 Sydney Place LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33759",
               "owner": "BLS PORTFOLIO LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $50,001 - $100,000 in Rent or Royalties income from 27 Monroe Place LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "description": "",
           "business": "27 Monroe Place LLC",
-          "conflictStatus": ""
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -65,20 +115,20 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "693",
+              "owneeId": "33769",
               "owner": "BLS PORTFOLIO LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $50,001 - $100,000 in Rent or Royalties income from 38 Monroe Place LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "description": "",
           "business": "38 Monroe Place LLC",
-          "conflictStatus": ""
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -90,20 +140,45 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "741",
+              "owneeId": "33804",
+              "owner": "BLS PORTFOLIO 2 LLC (Residential Real Estate in Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "89 Hicks Street LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33960",
               "owner": "K-BLS Portfolio LLC",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $50,001 - $100,000 in Rent or Royalties income from BLS Associates LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "description": "",
           "business": "BLS Associates LLC",
-          "conflictStatus": ""
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -115,18 +190,73 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1006",
+              "owneeId": "33964",
+              "owner": "BLS Associates LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "BLS PORTFOLIO 2 LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33966",
+              "owner": "BLS Associates LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33966",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "BLS PORTFOLIO LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34551",
               "owner": "KF-BLS Member, LLC (Residential Real Estate In Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $50,001 - $100,000 in Rent or Royalties income from K-BLS Portfolio LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "description": "",
           "business": "K-BLS Portfolio LLC",
           "conflictStatus": "Active"
         },
@@ -135,22 +265,12 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
@@ -169,20 +289,20 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "653",
+              "owneeId": "33810",
               "owner": "BLS PORTFOLIO LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as President of 100 Pierrepoint Street LLC from Apr 1, 2014, to Jan 1, 2017.",
-          "business": "100 Pierrepoint Street LLC",
-          "conflictStatus": "Resolved"
+          "business": "100 Pierrepont Street LLC",
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -190,11 +310,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "659",
+              "owneeId": "33826",
               "owner": "BLS PORTFOLIO 2 LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
@@ -202,7 +327,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as President &amp; Secretary of 144 Willow Street LLC from Sep 1, 2014, to Jan 1, 2017.",
           "business": "144 Willow Street LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -210,11 +335,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "666",
+              "owneeId": "33739",
               "owner": "BLS PORTFOLIO 2 LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
@@ -222,7 +352,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Managing Member of 18 Sydney Place LLC from Sep 1, 2014, to Jan 1, 2017.",
           "business": "18 Sydney Place LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -234,12 +364,12 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "684",
+              "owneeId": "33759",
               "owner": "BLS PORTFOLIO LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
@@ -247,7 +377,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Key Person of 27 Monroe Place LLC from Apr 1, 2014, to Jan 1, 2017.",
           "business": "27 Monroe Place LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -259,12 +389,12 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "693",
+              "owneeId": "33769",
               "owner": "BLS PORTFOLIO LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
@@ -272,7 +402,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of 38 Monroe Place LLC from Apr 1, 2014, to Jan 1, 2017.",
           "business": "38 Monroe Place LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -280,11 +410,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "721",
+              "owneeId": "33804",
               "owner": "BLS PORTFOLIO 2 LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
@@ -292,7 +427,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of 89 Hicks Street LLC from Sep 1, 2014, to Jan 1, 2017.",
           "business": "89 Hicks Street LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -304,12 +439,12 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "741",
+              "owneeId": "33960",
               "owner": "K-BLS Portfolio LLC",
               "percentage": ""
             }
@@ -317,7 +452,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as President of BLS Associates LLC from Apr 1, 2014, to Jan 1, 2017.",
           "business": "BLS Associates LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -329,12 +464,67 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1006",
+              "owneeId": "33964",
+              "owner": "BLS Associates LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "BLS PORTFOLIO 2 LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33966",
+              "owner": "BLS Associates LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33966",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "BLS PORTFOLIO LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34551",
               "owner": "KF-BLS Member, LLC (Residential Real Estate In Brooklyn, NY)",
               "percentage": ""
             }
@@ -342,29 +532,19 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager &amp; President of K-BLS Portfolio LLC from Apr 1, 2014, to Jan 1, 2017.",
           "business": "K-BLS Portfolio LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],

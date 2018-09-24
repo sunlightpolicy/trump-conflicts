@@ -188,8 +188,13 @@ namespace Phase2 {
 
 
         protected string ValueSql(Column col, string value) {
-            if (col.LookupTable == "")
-                return "'" + value.Replace("'", "''") + "'";
+            if (col.LookupTable == "") {
+                var val = "'" + value.Replace("'", "''") + "'";
+
+                // In case single quotes were doubled twice! 
+                val = val.Replace("''''", "''");
+                return val;
+            }
 
             if (col.LookupTable == "bit")
                 if (value == "checked")
@@ -290,8 +295,10 @@ namespace Phase2 {
             csv.ReadLine();
 
             var cmds = new List<string>();
+            int row = 0;
             while (!csv.EndOfData) {
                 string[] fields = csv.ReadFields();
+                row++; 
 
                 // If the conflict field is blank, ignore it.
                 if ((fields[4].Trim() == "") && (TableName == "Conflict" || TableName == "BusinessConflict"))
@@ -513,7 +520,8 @@ namespace Phase2 {
                         new Column(col, "Name"),
                     },
                     "Name",
-                    ImportType.Insert
+                    ImportType.Reload,
+                    col == colNums[0] // Delete before first script
                 );
                 table.Load();
                 count++;
@@ -533,7 +541,8 @@ namespace Phase2 {
                     new Column(5, "BusinessID", "Business", "Name"), 
                 },
                 "Name",
-                ImportType.Reload
+                ImportType.Reload,
+                true  // Delete
             );
             table.Load();
         }
@@ -553,7 +562,8 @@ namespace Phase2 {
                     new Column(3, "Description")
                 },
                 "Name",
-                ImportType.Reload
+                ImportType.Reload,
+                true  // Delete
             );
             table.Load();
         }

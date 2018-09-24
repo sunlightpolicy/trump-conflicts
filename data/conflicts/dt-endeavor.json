@@ -2,5 +2,53 @@
   "name": "DT Endeavor",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34160",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of DT Endeavor I LLC, of which Pres. Trump retains an ownership interest.",
+          "business": "DT Endeavor I LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34161",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/chairman/president of the now-dormant or inactive DT Endeavor I Member Corp., of which Pres. Trump retains an ownership interest.",
+          "business": "DT Endeavor I Member Corp.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3376",
+      "conflict": "DT Endeavor",
+      "conflictDescription": ""
+    }
+  ]
 }

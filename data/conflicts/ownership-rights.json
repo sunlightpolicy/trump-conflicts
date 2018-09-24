@@ -2,5 +2,48 @@
   "name": "Ownership Rights",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34074",
+              "owner": "KC Profit Participation, LLC (Holding Company for Entities Holding Contingent Rights To Ownership Interests In Real Estate)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received None (or less than $201) in (income type not disclosed) income from Contingent rights to ownership interests in entities holding real estate directly or indirectly (value not readily ascertainable) (entities listed in endnote) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Contingent Rights To Ownership Interests In Entities Holding Real Estate Directly Or Indirectly (Value Not Readily Ascertainable) (Entities Listed In Endnote)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3227",
+      "conflict": "Ownership Rights",
+      "conflictDescription": ""
+    }
+  ]
 }

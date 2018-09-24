@@ -11,18 +11,33 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "18",
+              "owneeId": "33729",
               "owner": "TTTT Venture LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Pres. Trump retains an ownership interest in the now-dormant or inactive 4T Holdings One LLC. Any current or former positions he may have held with the company are not reported on his financial disclosures.",
-          "business": "4T Holdings One LLC",
+          "business": "4T Holdings One LLC (Holding Company for Future Interests In Trump Hotel Manager Entities; New York, NY)",
           "conflictStatus": "Active"
         }
       ],

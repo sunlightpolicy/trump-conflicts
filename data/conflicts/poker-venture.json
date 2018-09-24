@@ -15,12 +15,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "227",
+              "owneeId": "34977",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "227",
+              "owneeId": "34977",
               "owner": "Poker Venture Managing Member Corp.",
               "percentage": "1.0"
             }
@@ -36,19 +36,63 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "226",
+              "owneeId": "34979",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former director/president/chairman of the now-dormant or inactive Poker Venture Managing Member Corp., in which Pres. Trump retains an ownership interest.",
-          "business": "Poker Venture Managing Member Corp.",
+          "business": "Poker Venture Managing Member Corp (Pass-Thru Company for Poker Venture LLC (Dormant/Inactive))",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President, Secretary &amp; Treasurer of POKER VENTURE LLC (dormant/inactive) from Mar 1, 2012, until Jan 1, 2017.",
+          "business": "Poker Venture LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34979",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President, Secretary &amp; Treasurer of POKER VENTURE MANAGING MEMBER CORP (pass-thru company for POKER VENTURE LLC (dormant/inactive)) from Mar 1, 2012, until Jan 1, 2017.",
+          "business": "Poker Venture Managing Member Corp (Pass-Thru Company for Poker Venture LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "144",

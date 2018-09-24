@@ -28,12 +28,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "277",
+              "owneeId": "35195",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "277",
+              "owneeId": "35195",
               "owner": "THC Qatar Hotel Manager Member Corp.",
               "percentage": "1.0"
             }
@@ -49,18 +49,62 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "276",
+              "owneeId": "35197",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former chairman/director/president of THC Qatar Hotel Manager Member Corp., which reportedly was dissolved on Jan. 26, 2017. Pres. Trump held an ownership interest in the company at the time.",
-          "business": "THC Qatar Hotel Manager Member Corp.",
+          "business": "THC Qatar Hotel Manager Member Corp (Pass-Thru Company for THC Qatar Hotel Manager LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC QATAR HOTEL MANAGER LLC (dormant/inactive) from Oct 1, 2014, until Jan 1, 2017.",
+          "business": "THC Qatar Hotel Manager LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35197",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC QATAR HOTEL MANAGER MEMBER CORP (pass-thru company for THC QATAR HOTEL MANAGER LLC (dormant/inactive)) from Oct 1, 2014, until Jan 1, 2017.",
+          "business": "THC Qatar Hotel Manager Member Corp (Pass-Thru Company for THC Qatar Hotel Manager LLC (Dormant/Inactive))",
           "conflictStatus": "Resolved"
         }
       ],

@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "83",
+              "owneeId": "34386",
               "owner": "Turnberry Scotland LLC",
               "percentage": "100.0"
             }
@@ -60,7 +60,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "209",
+              "owneeId": "35082",
               "owner": "Golf Recreation Scotland Limited",
               "percentage": "100.0"
             }
@@ -80,12 +80,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "559",
+              "owneeId": "35556",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "559",
+              "owneeId": "35556",
               "owner": "Turnberry Scotland Managing Member Corp",
               "percentage": "1.0"
             }
@@ -105,7 +105,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "560",
+              "owneeId": "35557",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -114,6 +114,20 @@
           "description": "Former director/chairman/president of Turnberry Scotland Managing Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
           "business": "Turnberry Scotland Managing Member Corp",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director of SLC TURNBERRY LIMITED (golf courses &amp; resort) from Jun 1, 2014, until Jan 1, 2017.",
+          "business": "SLC Turnberry Limited (Golf Courses &Amp; Resort)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "358",

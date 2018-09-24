@@ -2,5 +2,27 @@
   "name": "GCM Trust",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Trustee of GCM Trust from Apr 1, 2014, until Dec 1, 2016. Ivanka Trump lists GCM Trust (Trustee; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned $50,000 in Trustee Fees income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "GCM Trust",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3380",
+      "conflict": "GCM Trust",
+      "conflictDescription": ""
+    }
+  ]
 }

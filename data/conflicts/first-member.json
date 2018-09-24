@@ -15,7 +15,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "155",
+              "owneeId": "34341",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "100.0"
             }
@@ -23,6 +23,35 @@
           "familyMember": "Donald Trump",
           "description": "Former president of First Member, Inc., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
           "business": "First Member, Inc.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $2,501 - $5,000 in Rent or Royalties income from FIVE ACRE JV (Industrial Real Estate in Union, NJ) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Five Acre JV (Industrial Real Estate In Union, NJ)",
           "conflictStatus": "Active"
         }
       ],

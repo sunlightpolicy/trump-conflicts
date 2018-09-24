@@ -2,27 +2,5 @@
   "name": "New Jersey Renewable Power Corp",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner served as President of New Jersey Renewable Power Corp. from May 1, 2012, to Jan 1, 2017.",
-          "business": "New Jersey Renewable Power Corp.",
-          "conflictStatus": "Resolved"
-        }
-      ],
-      "conflictId": "1030",
-      "conflict": "New Jersey Renewable Power Corp",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

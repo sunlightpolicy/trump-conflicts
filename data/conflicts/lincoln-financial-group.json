@@ -2,5 +2,41 @@
   "name": "Lincoln Financial Group",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received (income not disclosed) in (income type not disclosed) income from Lincoln National Life Insurance Company, Variable Life the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Lincoln National Life Insurance Company, Variable Life",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received (see income assessments for this trust&#39;s component sources) in (not reported) income from Lincoln National Life Insurance Company, Variable Life: SSGA Bond Index Fund; JPMorgan High Yield Fund; Delaware Diversified Floating Rate Fund; Delaware VIP REIT Series; Dimensional International Core Equity Fund; Dimensional U.S. Core Equity 2 Fund the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Lincoln National Life Insurance Company, Variable Life: Ssga Bond Index Fund; Jpmorgan High Yield Fund; Delaware Diversified Floating Rate Fund; Delaware VIP REIT Series; Dimensional International Core Equity Fund; Dimensional U.S. Core Equity 2 Fund",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3393",
+      "conflict": "Lincoln Financial Group",
+      "conflictDescription": ""
+    }
+  ]
 }

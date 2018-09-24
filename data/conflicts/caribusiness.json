@@ -2,5 +2,33 @@
   "name": "Caribusiness",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35231",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/chairman/president of The Caribusiness RE Corp., in which Pres. Trump retains an ownership interest.",
+          "business": "The Caribusiness RE Corp",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3353",
+      "conflict": "Caribusiness",
+      "conflictDescription": ""
+    }
+  ]
 }

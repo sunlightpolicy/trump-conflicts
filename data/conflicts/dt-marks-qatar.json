@@ -28,12 +28,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "127",
+              "owneeId": "34217",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "127",
+              "owneeId": "34217",
               "owner": "DT Marks Qatar Member Corp.",
               "percentage": "1.0"
             }
@@ -53,7 +53,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "126",
+              "owneeId": "34220",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
@@ -61,6 +61,34 @@
           "familyMember": "Donald Trump",
           "description": "Former director/chairman/president of DT Marks Qatar Member Corp. The company reportedly was dissolved on Jan. 26, 2017.",
           "business": "DT Marks Qatar Member Corp.",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT MARKS QATAR LLC (dormant/inactive) from Oct 1, 2014, until Jan 1, 2017.",
+          "business": "DT Marks Qatar LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT MARKS QATAR MEMBER CORP (pass-thru company for DT MARKS QATAR LLC (dormant/inactive)) from Oct 1, 2014, until Jan 1, 2017.",
+          "business": "DT Marks Qatar Member Corp (Pass-Thru Company for DT Marks Qatar LLC (Dormant/Inactive))",
           "conflictStatus": "Resolved"
         }
       ],

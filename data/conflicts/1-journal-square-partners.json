@@ -2,5 +2,33 @@
   "name": "1 Journal Square Partners",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33720",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "As of July 20, 2017 the contingent ownership rights in 1 Journal Square Partners Urban Renewal Company LLC had been divested.",
+          "business": "1 Journal Square Partners Urban Renewal Company LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3364",
+      "conflict": "1 Journal Square Partners",
+      "conflictDescription": ""
+    }
+  ]
 }

@@ -1,23 +1,31 @@
 var changeDateChart;
-var sourceTypeChart;
 
 var categoryChart;
 var familyMemberChart;
 
-var conflictChart;
-var mediaOutletChart;
+var facts;
+
 
 var searchDim;
+var searchGroup;
+
+// Number of unique conflicts for filter string
+var allConflicts;
+
 
 
 d3.json("data/conflicts.json", function (err, data) {
 
-    //console.table(data);
-    var facts = crossfilter(data);
+    console.table(data);
+    facts = crossfilter(data);
 
     searchDim = facts.dimension(function (d) {
         return d.name.toLowerCase();
     });
+
+    // For the number of unique conflicts selected
+    searchGroup = searchDim.group().reduceCount();
+    allConflicts = searchGroup.all().length;
     
     d3.select("#search-input").on('keyup', function (event) {
         searchTerm = document.getElementById("search-input").value;
@@ -108,7 +116,8 @@ d3.json("data/conflicts.json", function (err, data) {
         .size(1000)
         .order(d3.descending);
 
-    dc.renderAll();    
+    dc.renderAll();  
+    showFilters();
 });
 
 function clearSearch() {
@@ -175,7 +184,19 @@ function showFilters() {
 
     d3.select("#results").text(filterString);
 
+    d3.select("#selected-conflicts").text(selectedConflicts());
+    d3.select("#all-conflicts").text(allConflicts);
+
     document.getElementById("dc-chart-dataGrid").scrollTop = 0;
+}
+
+function selectedConflicts() {
+    var conflicts = searchDim.top(100000);
+    var set = new Set(); 
+    conflicts.forEach(function(conflict) {
+        set.add(conflict.name)
+    });
+    return set.size;
 }
 
 var DivChart = function (facts, attribute) {

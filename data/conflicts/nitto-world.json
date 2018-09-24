@@ -15,7 +15,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "210",
+              "owneeId": "34843",
               "owner": "SLC Turnberry Limited (Trump Turnberry)",
               "percentage": "100.0"
             }
@@ -24,6 +24,20 @@
           "description": "Former director of the now-dormant or inactive Nitto World Co., Limited, in which Pres. Trump retains an ownership interest.",
           "business": "Nitto World Co., Limited",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director of NITTO WORLD CO., LIMITED (dormant/inactive) from Jun 1, 2014, until Jan 1, 2017.",
+          "business": "Nitto World Co., Limited (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "133",

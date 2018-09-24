@@ -2,5 +2,83 @@
   "name": "Fidelity Investments",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump lists Fidelity Dividend Growth Fund (FDGFX) as an employment-related asset valued at $50,001 - $100,000. In the year before taking her unpaid position as assistant to her father in his presidency, she earned None (or less than $201) in (no income type reported) income.",
+          "business": "Fidelity Dividend Growth Fund (FDGFX)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump lists Fidelity Freedom 2040 Fund (FFFFX) as an employment-related asset valued at $50,001 - $100,000. In the year before taking her unpaid position as assistant to her father in his presidency, she earned None (or less than $201) in (no income type reported) income.",
+          "business": "Fidelity Freedom 2040 Fund (FFFFX)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump lists Fidelity Growth Company (FDGRX) as an employment-related asset valued at $50,001 - $100,000. In the year before taking her unpaid position as assistant to her father in his presidency, she earned None (or less than $201) in (no income type reported) income.",
+          "business": "Fidelity Growth Company (FDGRX)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump lists Fidelity Overseas Fund (FOSFX) as an employment-related asset valued at $50,001 - $100,000. In the year before taking her unpaid position as assistant to her father in his presidency, she earned None (or less than $201) in (no income type reported) income.",
+          "business": "Fidelity Overseas Fund (FOSFX)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump lists Fidelity Value Fund (FDVLX) as an employment-related asset valued at $50,001 - $100,000. In the year before taking her unpaid position as assistant to her father in his presidency, she earned None (or less than $201) in (no income type reported) income.",
+          "business": "Fidelity Value Fund (FDVLX)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3378",
+      "conflict": "Fidelity Investments",
+      "conflictDescription": ""
+    }
+  ]
 }

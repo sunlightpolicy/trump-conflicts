@@ -62,16 +62,6 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -79,12 +69,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "90",
+              "owneeId": "34156",
               "owner": "TTTT Venture LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "90",
+              "owneeId": "34156",
               "owner": "DT Dubai II Golf Manager Member Corp.",
               "percentage": "1.0"
             }
@@ -104,7 +94,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "89",
+              "owneeId": "34159",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -122,16 +112,6 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -139,12 +119,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "90",
+              "owneeId": "34156",
               "owner": "TTTT Venture LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "90",
+              "owneeId": "34156",
               "owner": "DT Dubai II Golf Manager Member Corp.",
               "percentage": "1.0"
             }
@@ -153,6 +133,20 @@
           "description": "Ivanka Trump served as Executive Vice President of DT DUBAI II GOLF MANAGER LLC from Oct 1, 2014, until Jan 1, 2017. Ivanka Trump lists DT Dubai II Golf Manager LLC (Management of future golf course; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there&#39;s no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
           "business": "DT Dubai II Golf Manager LLC",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT DUBAI II GOLF MANAGER MEMBER CORP (pass-thru company for DT DUBAI II GOLF MANAGER LLC) from Oct 1, 2014, until Jan 1, 2017.",
+          "business": "DT Dubai II Golf Manager Member Corp (Pass-Thru Company for DT Dubai II Golf Manager LLC)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "57",

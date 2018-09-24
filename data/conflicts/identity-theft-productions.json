@@ -2,5 +2,41 @@
   "name": "Identity Theft Productions",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of Identity Theft Productions LLC (resigned May 1, 2014). The company&#39;s current activity status and ownership structure has not been reported.",
+          "business": "Identity Theft Productions LLC",
+          "conflictStatus": "Unclear"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director of Identity Theft Productions Member Corp. (resigned May 1, 2014). The company&#39;s current activity status and ownership structure has not been reported.",
+          "business": "Identity Theft Productions Member Corp.",
+          "conflictStatus": "Unclear"
+        }
+      ],
+      "conflictId": "3381",
+      "conflict": "Identity Theft Productions",
+      "conflictDescription": ""
+    }
+  ]
 }

@@ -2,5 +2,41 @@
   "name": "IT Collection",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Secretary, Treasurer of IT COLLECTION LLC from May 1, 2013, until Jan 1, 2017.",
+          "business": "IT Collection LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "In March 2017, Ivanka Trump transferred the assets of several entities (from which she previously resigned) into the Ivanka M. Trump Business Trust. Prior to resigning her positions, filer managed the business conducted by such entities. Ivanka Trump lists Ivanka M. Trump Business Trust (IT Collection LLC, Holding Company in New York NY)) (income for period March 9, 2017 - May 31, 2017) as an employment-related asset valued at Over $50,000,000. In the year before taking her unpaid position as assistant to her father in his presidency, she earned $1,000,001 - $5,000,000 in Rent or Royalties income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "Ivanka M. Trump Business Trust (IT Collection LLC, Holding Company In New York NY)) (Income for Period March 9, 2017 - May 31, 2017)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3383",
+      "conflict": "IT Collection",
+      "conflictDescription": ""
+    }
+  ]
 }

@@ -26,9 +26,23 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             }
           ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former member of the board of Trump SoHo Hotel Condominium New York, a condominium association. Its ownership structure is not clear; it has not been reported on any of his financial disclosures.",
+          "business": "Trump Soho Hotel Condominium New York",
+          "conflictStatus": "Unclear"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
           "ownerships": [
             {
-              "owneeId": "550",
+              "owneeId": "35531",
               "owner": "DJT Holdings LLC",
               "percentage": "100.0"
             }

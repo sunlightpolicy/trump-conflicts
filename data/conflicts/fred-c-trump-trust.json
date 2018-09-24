@@ -2,5 +2,97 @@
   "name": "Fred C. Trump Trust",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former trustee of Fred C. Trump, GRAT Trust- F/B/O Elizabeth Trump Grau. The trust&#39;s current activity status and control structures are not reported.",
+          "business": "Fred C. Trump, Grat Trust- F/B/O Elizabeth Trump Grau",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former trustee of The Fred C. Trump December 16, 1976 Trust- F/B/O Donald J. Trump. Its current activity status and ownership structure are not reported.",
+          "business": "The Fred C. Trump December 16, 1976 Trust- F/B/O Donald J. Trump.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former trustee of The Fred C. Trump December 16, 1976 Trust- F/B/O Elizabeth J. Trump. Its current activity status and control structures are not reported.",
+          "business": "The Fred C. Trump December 16, 1976 Trust- F/B/O Elizabeth J. Trump",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former trustee of The Fred C. Trump December 16, 1976 Trust- F/B/O Robert S. Trump. Its current activity status and control structures are not reported.",
+          "business": "The Fred C. Trump December 16, 1976 Trust- F/B/O Robert S. Trump",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former trustee of Trust U/W/O Fred C. Trump - Elizabeth Trump Grau. The trust&#39;s current activity status and control structures are not reported.",
+          "business": "Trust U/W/O Fred C. Trump - Elizabeth Trump Grau",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former trustee of Trust U/W/O Fred C. Trump - F/B/O the grandchildren of Fred C. Trump. The trust&#39;s current activity status and control structures are not reported.",
+          "business": "Trust U/W/O Fred C. Trump - F/B/O The Grandchildren Of Fred C. Trump",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3379",
+      "conflict": "Fred C. Trump Trust",
+      "conflictDescription": ""
+    }
+  ]
 }

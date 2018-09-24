@@ -12,6 +12,18 @@
     "hasEthics": true
   },
   {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "New York Times",
+    "link": "https://www.nytimes.com/2018/08/27/nyregion/kushner-cohen-rent-regulated-tenants.html",
+    "sourceDate": "2018-08-27T00:00:00",
+    "headline": "Kushner Companies and Michael Cohen Accused of Falsifying Building Permits to Push Out Tenants",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "conflict": "Trump Old Post Office",
     "category": "Active",
@@ -325,6 +337,18 @@
   },
   {
     "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "NJ.COM",
+    "link": "https://www.nj.com/news/index.ssf/2018/08/a_failed_new_york_investment_by_jared_kushner_gets.html",
+    "sourceDate": "2018-08-12T00:00:00",
+    "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "",
     "conflict": "Monmouth Mall",
     "category": "Active",
     "mediaOutlet": "NJ.COM",
@@ -345,6 +369,18 @@
     "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
     "conflictId": "602",
     "conflictSlug": "skyline-kushner",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Warren At Bay Associates",
+    "category": "Active",
+    "mediaOutlet": "NJ.COM",
+    "link": "https://www.nj.com/news/index.ssf/2018/08/a_failed_new_york_investment_by_jared_kushner_gets.html",
+    "sourceDate": "2018-08-12T00:00:00",
+    "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
+    "conflictId": "3236",
+    "conflictSlug": "warren-at-bay-associates",
     "hasEthics": true
   },
   {
@@ -409,6 +445,18 @@
   },
   {
     "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "Bloomberg",
+    "link": "https://www.bloomberg.com/amp/news/articles/2018-08-04/kushners-give-up-control-of-manhattan-tower-to-save-themselves",
+    "sourceDate": "2018-08-04T00:00:00",
+    "headline": "Kushners Give Up Control of Manhattan Tower to Save Themselves",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "",
     "conflict": "666 Fifth Ave",
     "category": "Active",
     "mediaOutlet": "CNN",
@@ -421,6 +469,18 @@
   },
   {
     "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "CNN",
+    "link": "https://money.cnn.com/2018/08/03/news/companies/kushner-666-fifth-avenue-brookfield/index.html",
+    "sourceDate": "2018-08-03T00:00:00",
+    "headline": "Kushner Companies offloads troubled 666 Fifth Avenue flagship",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "",
     "conflict": "Trump Tower Commercial",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -429,6 +489,18 @@
     "headline": "At President Trump’s hotel in New York, revenue went up this spring — thanks to a visit from big-spending Saudis",
     "conflictId": "353",
     "conflictSlug": "trump-tower-commercial",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Trump Tower Condominium",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/politics/at-president-trumps-hotel-in-new-york-revenue-went-up-this-spring--thanks-to-a-visit-from-big-spending-saudis/2018/08/03/58755392-9112-11e8-bcd5-9d911c784c38_story.html?utm_term=.3a97c3f2cf0f",
+    "sourceDate": "2018-08-03T00:00:00",
+    "headline": "At President Trump’s hotel in New York, revenue went up this spring — thanks to a visit from big-spending Saudis",
+    "conflictId": "3351",
+    "conflictSlug": "trump-tower-condominium",
     "hasEthics": true
   },
   {
@@ -513,6 +585,18 @@
     "headline": "Trump’s ‘emoluments’ battle: How a scholar’s search of 200 years of dictionaries helped win a historic ruling",
     "conflictId": "327",
     "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "The New York Observer",
+    "category": "Active",
+    "mediaOutlet": "New York Times",
+    "link": "https://www.nytimes.com/2018/07/26/business/ken-kurson-jared-kushner.html",
+    "sourceDate": "2018-07-26T00:00:00",
+    "headline": "A Kushner Ally Was Up for a Federal Post. Then the F.B.I. Began Digging.",
+    "conflictId": "3250",
+    "conflictSlug": "the-new-york-observer",
     "hasEthics": true
   },
   {
@@ -781,6 +865,18 @@
   },
   {
     "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "New York Times",
+    "link": "https://www.nytimes.com/2018/07/11/business/jared-kushner-business-washington.html",
+    "sourceDate": "2018-07-11T00:00:00",
+    "headline": "Kushner’s Firm Deepens Ties to Those With Business in Washington",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "",
     "conflict": "DT Dubai Golf Manager",
     "category": "Active",
     "mediaOutlet": "Washington Post",
@@ -898,6 +994,18 @@
     "conflictId": "325",
     "conflictSlug": "trump-old-post-office",
     "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Melania LLC",
+    "category": "Active",
+    "mediaOutlet": "NBC",
+    "link": "https://www.nbcnews.com/politics/donald-trump/news-media-paid-melania-trump-thousands-use-photos-positive-stories-n883111",
+    "sourceDate": "2018-07-02T00:00:00",
+    "headline": "News media paid Melania Trump thousands for use of photos in 'positive stories only'",
+    "conflictId": "435",
+    "conflictSlug": "melania-llc",
+    "hasEthics": false
   },
   {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
@@ -1176,6 +1284,30 @@
     "hasEthics": true
   },
   {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/politics/kushners-ties-to-israeli-firms-at-issue-as-he-visits-region-on-peace-mission/2018/06/21/cc3a3438-730c-11e8-9780-b1dd6a09b549_story.html?utm_term=.88424d3f7ac4",
+    "sourceDate": "2018-06-22T00:00:00",
+    "headline": "Kushner’s ties to Israeli firms are at issue as he visits region on peace mission",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "New York Times",
+    "link": "https://mobile.nytimes.com/2018/06/21/business/trumps-kushners-end-hotel-deals.html",
+    "sourceDate": "2018-06-21T00:00:00",
+    "headline": "Trumps and Kushners Cut Ties on Hotel Deals That Raised Eyebrows",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
     "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
@@ -1245,6 +1377,18 @@
     "headline": "Buyers tied to Russia, former Soviet republics paid $109 million cash for Trump properties",
     "conflictId": "314",
     "conflictSlug": "trump-miami-resort",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Trump Tower Condominium",
+    "category": "Active",
+    "mediaOutlet": "McClatchy",
+    "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article210477439.html",
+    "sourceDate": "2018-06-19T00:00:00",
+    "headline": "Buyers tied to Russia, former Soviet republics paid $109 million cash for Trump properties",
+    "conflictId": "3351",
+    "conflictSlug": "trump-tower-condominium",
     "hasEthics": true
   },
   {
@@ -1404,6 +1548,42 @@
     "hasEthics": false
   },
   {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "NPR",
+    "link": "https://www.npr.org/2018/06/12/619101573/ivanka-trump-and-jared-kushner-earned-more-than-80-million-last-year-filings-sho",
+    "sourceDate": "2018-06-12T00:00:00",
+    "headline": "Ivanka Trump And Jared Kushner Earned More Than $80 Million Last Year, Filings Show",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/politics/jared-kushner-and-ivanka-trump-made-at-least-82-million-in-outside-income-last-year-while-serving-in-the-white-house-filings-show/2018/06/11/a41d0720-6dab-11e8-bd50-b80389a4e569_story.html?utm_term=.9b5baa8980b3",
+    "sourceDate": "2018-06-12T00:00:00",
+    "headline": "Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "Ivanka Trump was also paid a $289,300 advance by Penguin Random House for her book, “Women Who Work,” which she donated to the Ivanka M. Trump Charitable Fund to distribute grants to support women and girls.",
+    "conflict": "Penguin Random House",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/politics/jared-kushner-and-ivanka-trump-made-at-least-82-million-in-outside-income-last-year-while-serving-in-the-white-house-filings-show/2018/06/11/a41d0720-6dab-11e8-bd50-b80389a4e569_story.html?utm_term=.9b5baa8980b3",
+    "sourceDate": "2018-06-12T00:00:00",
+    "headline": "Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show",
+    "conflictId": "471",
+    "conflictSlug": "penguin-random-house",
+    "hasEthics": true
+  },
+  {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "conflict": "Trump Old Post Office",
     "category": "Active",
@@ -1449,6 +1629,18 @@
     "headline": "Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show",
     "conflictId": "327",
     "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "CNN",
+    "link": "http://money.cnn.com/2018/06/11/news/ivanka-trump-jared-kushner-finances/index.html",
+    "sourceDate": "2018-06-11T00:00:00",
+    "headline": "Ivanka Trump and Jared Kushner detail vast wealth: Real estate, fashion and investments",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
     "hasEthics": true
   },
   {
@@ -1728,6 +1920,30 @@
     "hasEthics": true
   },
   {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "USA Today",
+    "link": "https://www.usatoday.com/story/news/2018/06/07/cozy-land-deals-meant-big-money-trump-family-and-friends/677126002/",
+    "sourceDate": "2018-06-07T00:00:00",
+    "headline": "Cozy land deals meant big money for Trump family and friends",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "ne of three banks whose ties to Kushner have been widely reported to be under review by New York banking regulators. The bank’s board members have included Ivanka Trump and former Republican U.S. senator Al D’Amato, a dealmaker and power broker in New York business and politics who has been a vocal supporter of President Trump.",
+    "conflict": "Signature Bank",
+    "category": "Active",
+    "mediaOutlet": "USA Today",
+    "link": "https://www.usatoday.com/story/news/2018/06/07/cozy-land-deals-meant-big-money-trump-family-and-friends/677126002/",
+    "sourceDate": "2018-06-07T00:00:00",
+    "headline": "Cozy land deals meant big money for Trump family and friends",
+    "conflictId": "395",
+    "conflictSlug": "signature-bank",
+    "hasEthics": true
+  },
+  {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "conflict": "Trump Old Post Office",
     "category": "Active",
@@ -1822,6 +2038,18 @@
     "conflictId": "443",
     "conflictSlug": "666-fifth-ave",
     "hasEthics": false
+  },
+  {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "Business Insider",
+    "link": "https://amp.businessinsider.com/charles-kushner-qatar-finance-minister-meeting-666-fifth-ave-2018-6",
+    "sourceDate": "2018-06-01T00:00:00",
+    "headline": "Charles Kushner explains his meeting with Qatar's finance minister, says it was 'a wrong thing to do,' but 'none of us knew the rules of government'",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
   },
   {
     "description": "",
@@ -1945,6 +2173,18 @@
   },
   {
     "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "New York Times",
+    "link": "https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html",
+    "sourceDate": "2018-05-17T00:00:00",
+    "headline": "Kushners Near Deal With Qatar-Linked Company for Troubled Tower",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "",
     "conflict": "Trump Miami Resort",
     "category": "Active",
     "mediaOutlet": "Palm Beach Post",
@@ -1965,6 +2205,18 @@
     "headline": "Trump set to benefit as Qatar buys $6.5m apartment in New York tower",
     "conflictId": "353",
     "conflictSlug": "trump-tower-commercial",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Trump Tower Condominium",
+    "category": "Active",
+    "mediaOutlet": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2018/may/04/trump-qatar-buys-apartment-new-york-tower",
+    "sourceDate": "2018-05-04T00:00:00",
+    "headline": "Trump set to benefit as Qatar buys $6.5m apartment in New York tower",
+    "conflictId": "3351",
+    "conflictSlug": "trump-tower-condominium",
     "hasEthics": true
   },
   {
@@ -2053,6 +2305,18 @@
   },
   {
     "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "Office of Government Ethics",
+    "link": "https://www.oge.gov/web/oge.nsf/All%20Documents/2C62A672E2AF5BAC8525825C00518004/$FILE/Letter%20to%20Congressman%20Krishnamoorthi.pdf?open",
+    "sourceDate": "2018-03-22T00:00:00",
+    "headline": "U.S. Office of Government Ethics (OGE) said the White House Counsel’s office is investigating whether loans to Jared Kushner’s family business broke laws or regulations",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "",
     "conflict": "DT India Venture",
     "category": "Active",
     "mediaOutlet": "The New Republic",
@@ -2088,6 +2352,18 @@
     "hasEthics": true
   },
   {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "Bloomberg",
+    "link": "https://www.bloomberg.com/amp/news/articles/2018-03-13/kushner-conflict-cloud-hovers-over-brooklyn-sale-linked-to-japan",
+    "sourceDate": "2018-03-13T00:00:00",
+    "headline": "Kushner Conflict Cloud Hovers Over Brooklyn Sale Linked to Japan",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
     "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
@@ -2097,6 +2373,18 @@
     "headline": "Ivanka Trump never cut ties with the Trump Organization. That’s turned into a problem.",
     "conflictId": "327",
     "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "New York Times",
+    "link": "https://mobile.nytimes.com/2018/03/10/business/trumps-kushners-hotel-deals.html?referer=https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2018/03/11/politics/new-york-times-jared-kushner-donald-trump-hotel/index.html",
+    "sourceDate": "2018-03-10T00:00:00",
+    "headline": "Out of Public View, Trumps and Kushners Are Talking Business",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
     "hasEthics": true
   },
   {
@@ -2329,6 +2617,18 @@
   },
   {
     "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2018-02-15/kushner-investors-said-to-be-subpoenaed-by-u-s-tax-authorities?utm_content=politics&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&cmpid%3D=socialflow-twitter-politics",
+    "sourceDate": "2018-02-15T00:00:00",
+    "headline": "Kushner Investors Subpoenaed by U.S. Tax Authorities, Source Says",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
+    "hasEthics": true
+  },
+  {
+    "description": "",
     "conflict": "DT Tower I",
     "category": "Active",
     "mediaOutlet": "Forbes",
@@ -2349,6 +2649,18 @@
     "headline": "Landlord-in-Chief",
     "conflictId": "82",
     "conflictSlug": "dt-tower-ii",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Trump International Hotel And Tower Condominium",
+    "category": "Active",
+    "mediaOutlet": "Forbes",
+    "link": "https://www.forbes.com/trump-tenants/#4fcc6c891d32",
+    "sourceDate": "2018-02-13T00:00:00",
+    "headline": "Landlord-in-Chief",
+    "conflictId": "3350",
+    "conflictSlug": "trump-international-hotel-and-tower-condominium",
     "hasEthics": true
   },
   {
@@ -2457,6 +2769,18 @@
     "headline": "Trump Organization Revives Project In Dominican Republic, Roiling Local Politics",
     "conflictId": "263",
     "conflictSlug": "trump-international-hotels-management-dba-trump-hotel-collection",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Kushner Companies",
+    "category": "Active",
+    "mediaOutlet": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2018/feb/04/jared-kushner-property-empire-trump",
+    "sourceDate": "2018-02-04T00:00:00",
+    "headline": "Jared Kushner's property empire had to thrive under Trump, right? Wrong",
+    "conflictId": "439",
+    "conflictSlug": "kushner-companies",
     "hasEthics": true
   },
   {
@@ -2674,6 +2998,18 @@
     "conflictId": "47",
     "conflictSlug": "donald-j-trump-revocable-trust",
     "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Melania LLC",
+    "category": "Active",
+    "mediaOutlet": "McClatchy",
+    "link": "http://www.mcclatchydc.com/news/politics-government/congress/article134287344.html",
+    "sourceDate": "2017-02-22T00:00:00",
+    "headline": "White House says Melania isn’t in business. So why are her companies still active?",
+    "conflictId": "435",
+    "conflictSlug": "melania-llc",
+    "hasEthics": false
   },
   {
     "description": "",
@@ -2973,7 +3309,7 @@
     "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
     "conflictId": "401",
     "conflictSlug": "wells-fargo",
-    "hasEthics": false
+    "hasEthics": true
   },
   {
     "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
@@ -2997,6 +3333,18 @@
     "headline": "Bahrain To Hold Major Celebration At Donald Trump’s D.C. Hotel",
     "conflictId": "325",
     "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
+    "conflict": "Deutsche Bank",
+    "category": "Active",
+    "mediaOutlet": "Forbes",
+    "link": "https://www.forbes.com/sites/jenniferwang/2016/11/29/trumps-stock-portfolio-big-oil-big-banks-and-more-foreign-connections/#30d204ea464e",
+    "sourceDate": "2016-11-29T00:00:00",
+    "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
+    "conflictId": "424",
+    "conflictSlug": "deutsche-bank",
     "hasEthics": true
   },
   {
@@ -3453,18 +3801,6 @@
     "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
     "conflictId": "238",
     "conflictSlug": "trump-drinks-israel",
-    "hasEthics": true
-  },
-  {
-    "description": "",
-    "conflict": "Trump Drinks Israel Holdings",
-    "category": "Active",
-    "mediaOutlet": "Washington Post",
-    "link": "https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html",
-    "sourceDate": "2016-11-20T00:00:00",
-    "headline": "A scramble to assess the dangers of President-elect Donald Trump’s global business empire",
-    "conflictId": "239",
-    "conflictSlug": "trump-drinks-israel-holdings",
     "hasEthics": true
   },
   {

@@ -2,5 +2,27 @@
   "name": "Calamos Wealth Management",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Calamos Convertible Opportunities and Income Fund (CHI)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3363",
+      "conflict": "Calamos Wealth Management",
+      "conflictDescription": ""
+    }
+  ]
 }

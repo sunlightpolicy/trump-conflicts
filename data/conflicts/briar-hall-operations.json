@@ -15,12 +15,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "36",
+              "owneeId": "33978",
               "owner": "DJT Holdings LLC",
               "percentage": "99.9"
             },
             {
-              "owneeId": "36",
+              "owneeId": "33978",
               "owner": "Development Member Inc.",
               "percentage": "0.1"
             }
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35",
+              "owneeId": "34104",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

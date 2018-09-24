@@ -2,37 +2,5 @@
   "name": "Trump Lntematlonal Hotel And Tower Condominium",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Donald Trump",
-          "description": "Former president of Trump lntematlonal Hotel and Tower Condominium. The company&#39;s activty status and ownership structure are not disclosed.",
-          "business": "Trump Lntematlonal Hotel And Tower Condominium",
-          "conflictStatus": "Unclear"
-        }
-      ],
-      "conflictId": "270",
-      "conflict": "Trump Lntematlonal Hotel And Tower Condominium",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

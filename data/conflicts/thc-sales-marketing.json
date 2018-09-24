@@ -2,5 +2,102 @@
   "name": "THC Sales & Marketing",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35203",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "35203",
+              "owner": "THC Sales & Marketing Member Corp.",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of THC Sales &amp; Marketing LLC, of which Pres. Trump retains an ownership interest.",
+          "business": "THC Sales & Marketing LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35205",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former chairman/director/president of THC Sales &amp; Marketing Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "THC Sales & Marketing Member Corp. (Pass-Thru Company for THC Sales & Marketing LLC (Management Company))",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Vice President of THC SALES &amp; MARKETING LLC (management company) from Sep 1, 2013, until Jan 1, 2017.",
+          "business": "THC Sales & Marketing LLC (Management Company)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35205",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Vice President of THC SALES &amp; MARKETING MEMBER CORP (pass-thru company for THC SALES &amp; MARKETING LLC (management company)) from Sep 1, 2013, until Jan 1, 2017.",
+          "business": "THC Sales & Marketing Member Corp. (Pass-Thru Company for THC Sales & Marketing LLC (Management Company))",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "181",
+      "conflict": "THC Sales & Marketing",
+      "conflictDescription": ""
+    }
+  ]
 }

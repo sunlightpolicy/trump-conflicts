@@ -29,8 +29,6 @@ INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 
 
 
-
-
 INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
@@ -118,9 +116,8 @@ INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Rea
 
 
 
-
 INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
-
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
@@ -128,7 +125,7 @@ INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 INSERT INTO Business (Name) VALUES ('184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)')
 INSERT INTO Business (Name) VALUES ('184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)')
 INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
-
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
@@ -156,7 +153,7 @@ INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 INSERT INTO Business (Name) VALUES ('Trump Chicago Managing Member LLC')
-
+INSERT INTO Business (Name) VALUES ('Trump Chicago Managing Member LLC')
 
 
 
@@ -212,9 +209,7 @@ INSERT INTO Business (Name) VALUES ('HWA 1290 IV LLC')
 
 
 
-
 INSERT INTO Business (Name) VALUES ('Trump Family Members')
-
 
 
 
@@ -252,9 +247,7 @@ INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 
 
 INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
-
-
-
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
@@ -417,8 +410,6 @@ INSERT INTO Business (Name) VALUES ('The Donald J. Trump Revocable Trust')
 
 
 
-
-
 INSERT INTO Business (Name) VALUES ('DSN Licensing Member Corp. (F/K/A Trump Marks Network Member Inc.)')
 
 INSERT INTO Business (Name) VALUES ('DTTM Operations Managing Member Corp.')
@@ -554,14 +545,12 @@ INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 
 
 
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 
 
 INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
 INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
-
-
 
 
 
@@ -581,10 +570,6 @@ INSERT INTO Business (Name) VALUES ('Eatontown Monmouth Mall (Senior Mezz) LLC')
 
 
 INSERT INTO Business (Name) VALUES ('Eid Venture II Member Corp.')
-
-
-
-
 
 
 
@@ -646,13 +631,11 @@ INSERT INTO Business (Name) VALUES ('The Trump Equitable Fifth Avenue Company')
 
 
 
-
-
 INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
 
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 
 
 
@@ -688,9 +671,8 @@ INSERT INTO Business (Name) VALUES ('Golf Productions Member Corp.')
 
 
 
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 
 
 INSERT INTO Business (Name) VALUES ('SRH/LA BALTIMORE MEZZANINE, LLC (Residential Real Estate in Baltimore County, MD)')
@@ -712,18 +694,16 @@ INSERT INTO Business (Name) VALUES ('Kushner Midwest Partners 1 LLC (Residential
 
 
 
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 
 
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 
 
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-
-
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 
 
 
@@ -735,8 +715,6 @@ INSERT INTO Business (Name) VALUES ('Hudson Westside Associates II, L.P.')
 INSERT INTO Business (Name) VALUES ('Hudson Waterfront III Corporation')
 INSERT INTO Business (Name) VALUES ('Hudson Westside Associates IV L.P.')
 INSERT INTO Business (Name) VALUES ('Hudson Waterfront V Corporation')
-
-
 
 
 
@@ -951,7 +929,6 @@ INSERT INTO Business (Name) VALUES ('KC Dumbo Office, LLC (Commercial Real Estat
 
 
 
-
 INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
 INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
 INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residential Real Estate in New York, NY)')
@@ -960,8 +937,6 @@ INSERT INTO Business (Name) VALUES ('VILLAGE KF 4-9-10 ASSOCIATES, LP (Residenti
 
 INSERT INTO Business (Name) VALUES ('Kushner Village 3 SPE LLC')
 INSERT INTO Business (Name) VALUES ('Kushner Village 3 SPE LLC')
-
-
 
 
 
@@ -1061,8 +1036,6 @@ INSERT INTO Business (Name) VALUES ('Mar-A-Lago Club, Inc.')
 
 
 
-
-
 INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
@@ -1077,10 +1050,6 @@ INSERT INTO Business (Name) VALUES ('Trump Pageants, Inc.')
 
 
 INSERT INTO Business (Name) VALUES ('Mobile Payroll Construction Manager Corp.')
-
-
-
-
 
 
 
@@ -1286,8 +1255,8 @@ INSERT INTO Business (Name) VALUES ('Pine Hill Development Managing Member Corp.
 
 
 
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 INSERT INTO Business (Name) VALUES ('DTTM Operations LLC')
 
 
@@ -1334,15 +1303,10 @@ INSERT INTO Business (Name) VALUES ('Restaurant 40 Member Corp.')
 
 
 
-
 INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
 INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-
-
-
-
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 
 
 
@@ -1393,9 +1357,6 @@ INSERT INTO Business (Name) VALUES ('DJT Holdings LLC')
 
 
 
-
-
-
 INSERT INTO Business (Name) VALUES ('SKYLINE JV PARTNERSHIP, L.P. (Residential Real Estate in Hasbrouck Heights & Lodi, NJ)')
 INSERT INTO Business (Name) VALUES ('SKYLINE JV PARTNERSHIP, L.P. (Residential Real Estate in Hasbrouck Heights & Lodi, NJ)')
 
@@ -1427,8 +1388,7 @@ INSERT INTO Business (Name) VALUES ('Trump Village Construction Corp.')
 
 
 
-
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 
 
 
@@ -1459,7 +1419,6 @@ INSERT INTO Business (Name) VALUES ('Trump Village Construction Corp.')
 
 INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
-
 
 
 
@@ -1812,7 +1771,7 @@ INSERT INTO Business (Name) VALUES ('Trump National Golf Club Colts Neck Member 
 
 INSERT INTO Business (Name) VALUES ('Trump National Golf Club Member Corp.')
 
-INSERT INTO Business (Name) VALUES ('Trump National Golf Club Washington Dc Member Corp.')
+INSERT INTO Business (Name) VALUES ('Trump National Golf Club Washington DC Member Corp.')
 
 INSERT INTO Business (Name) VALUES ('Trump Riverside Management LLC')
 
@@ -1887,8 +1846,7 @@ INSERT INTO Business (Name) VALUES ('TW Venture II Managing Member Corp')
 
 
 
-INSERT INTO Business (Name) VALUES ('UnIT 2502 Enterprises Corp.')
-
+INSERT INTO Business (Name) VALUES ('Unit 2502 Enterprises Corp.')
 
 
 
@@ -1921,6 +1879,7 @@ INSERT INTO Business (Name) VALUES ('UnIT 2502 Enterprises Corp.')
 
 
 INSERT INTO Business (Name) VALUES ('K Gaia Village 2 Associates, LLC (Residential Real Estate In New York, NY)')
+INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
@@ -1993,7 +1952,6 @@ INSERT INTO Business (Name) VALUES ('Contingent Rights to Ownership Interests')
 
 
 
-
 INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
 INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
 INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Real Estate in Westwood & River Vale, NJ)')
@@ -2005,15 +1963,14 @@ INSERT INTO Business (Name) VALUES ('WESTWOOD INVESTORS JV, L.P. (Residential Re
 INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
 
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 
 
 
 
-
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
-INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
+INSERT INTO Business (Name) VALUES ('SRH/LA CHESAPEAKE MEZZANINE, LLC (Residential Real Estate in Baltimore and Prince George''s County, MD)')
 INSERT INTO Business (Name) VALUES ('White Course Managing Member Corp.')
 
 
@@ -2049,6 +2006,128 @@ INSERT INTO Business (Name) VALUES ('Trump Family Members')
 
 
 INSERT INTO Business (Name) VALUES ('Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -10,27 +10,17 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $15,001 - $50,000 in Rent or Royalties income from 184 KENT ASSOCIATES, LLC (Residential Real Estate in Brooklyn, NY) the year before her appointment as her father&#39;s presidential adviser.",
+          "description": "Ivanka Trump received $15,001 - $50,000 in Rent or Royalties income from 184 KENT ASSOCIATES, LLC (Residential Real Estate in Brooklyn, NY) the year before her appointment as her father&#39;s presidential adviser.a",
           "business": "184 Kent Associates, LLC (Residential Real Estate In Brooklyn, NY)",
           "conflictStatus": "Active"
         },
@@ -44,18 +34,103 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1028",
+              "owneeId": "33842",
+              "owner": "184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33842",
+              "owner": "MARATHON/JTR WILLIAMSBURG HOLDINGS, LLC (Residential Real Estate in Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33844",
+              "owner": "184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33844",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "184 KENT OWNER, LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34600",
+              "owner": "KCLW Acquisition Manager LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "KCLW ACQUISITION LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34602",
               "owner": "184 Kent Associates, LLC (Residential Real Estate In Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $15,001 - $50,000 in Rent or Royalties income from KCLW Acquisition Manager LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "description": "",
           "business": "KCLW Acquisition Manager LLC",
           "conflictStatus": "Active"
         },
@@ -69,19 +144,19 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1213",
-              "owner": "KCLW ACQUISITION LLC (Residential Real Estate in Brooklyn, NY)",
+              "owneeId": "34723",
+              "owner": "RP/K Kent Avenue, LLC",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $15,001 - $50,000 in Rent or Royalties income from RP/K Kent Avenue, LLC the year before her appointment as her father&#39;s presidential adviser.",
-          "business": "Rp/K Kent Avenue, LLC",
+          "description": "",
+          "business": "MARATHON/JTR WILLIAMSBURG HOLDINGS, LLC (Residential Real Estate in Brooklyn, NY)",
           "conflictStatus": "Active"
         },
         {
@@ -89,13 +164,28 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35039",
+              "owner": "KCLW ACQUISITION LLC (Residential Real Estate in Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "RP/K Kent Avenue, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
@@ -104,7 +194,7 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
@@ -123,20 +213,25 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1028",
-              "owner": "184 Kent Associates, LLC (Residential Real Estate In Brooklyn, NY)",
+              "owneeId": "33842",
+              "owner": "184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33842",
+              "owner": "MARATHON/JTR WILLIAMSBURG HOLDINGS, LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Jared Kushner",
-          "description": "Jared Kushner served as Manager of KCLW Acquisition Manager LLC from Jan 1, 2015, to Jan 1, 2017.",
-          "business": "KCLW Acquisition Manager LLC",
-          "conflictStatus": "Resolved"
+          "description": "",
+          "business": "184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -148,20 +243,125 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1213",
+              "owneeId": "33844",
+              "owner": "184 KENT FEE, LLC (Residential Real Estate in Brooklyn, NY)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33844",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "184 KENT OWNER, LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34600",
+              "owner": "KCLW Acquisition Manager LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "KCLW ACQUISITION LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34602",
+              "owner": "184 Kent Associates, LLC (Residential Real Estate In Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Manager of KCLW Acquisition Manager LLC from Jan 1, 2015, to Jan 1, 2017.",
+          "business": "KCLW Acquisition Manager LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34723",
+              "owner": "RP/K Kent Avenue, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "MARATHON/JTR WILLIAMSBURG HOLDINGS, LLC (Residential Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35039",
               "owner": "KCLW ACQUISITION LLC (Residential Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Executive Committee &amp; Key Person of RP/K Kent Avenue, LLC from Aug 1, 2014, to Jan 1, 2017.",
-          "business": "Rp/K Kent Avenue, LLC",
-          "conflictStatus": "Resolved"
+          "business": "RP/K Kent Avenue, LLC",
+          "conflictStatus": "Active"
         }
       ],
       "conflictId": "548",

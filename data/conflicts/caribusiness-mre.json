@@ -11,26 +11,16 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "42",
+              "owneeId": "34013",
               "owner": "Caribusiness MRE LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "42",
+              "owneeId": "34013",
               "owner": "The Caribusiness RE Corp",
               "percentage": "1.0"
             }
@@ -50,12 +40,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "41",
+              "owneeId": "34014",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "41",
+              "owneeId": "34014",
               "owner": "The Caribusiness RE Corp",
               "percentage": "1.0"
             }

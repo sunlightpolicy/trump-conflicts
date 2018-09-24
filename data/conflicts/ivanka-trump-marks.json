@@ -2,5 +2,27 @@
   "name": "Ivanka Trump Marks",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President of IVANKA TRUMP MARKS LLC from Nov 1, 2009, until Jan 1, 2017. Ivanka Trump lists Ivanka Trump Marks LLC (Owner of Various Trademarks; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income.  This entity holds the following intellectual property: (1) name- and initial-related trademarks registered in the United States, Canada, Mexico, UAE, EU, New Zealand, Saudi Arabia, Australia, Azerbaijan, Bahrain, Brazil, China, Indonesia, Israel, India, Japan, Kuwait, Panama, Philippines, Puerto Rico, Qatar, Turkey, Russia, Nigeria, Hong Kong, Korea, Taiwan; (2) Women Who Work-related trademarks registered in the United States; (3) copyrights related to Ivanka Trump branded jewelry registered in the United States; and (4) name- and initial-related copyrights registered in China and Scotland. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "Ivanka Trump Marks LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3311",
+      "conflict": "Ivanka Trump Marks",
+      "conflictDescription": ""
+    }
+  ]
 }

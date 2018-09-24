@@ -412,17 +412,17 @@
           ],
           "ownerships": [
             {
-              "owneeId": "518",
+              "owneeId": "35496",
               "owner": "DJT Holdings LLC",
               "percentage": "76.7"
             },
             {
-              "owneeId": "518",
+              "owneeId": "35496",
               "owner": "Trump Family Members",
               "percentage": "22.3"
             },
             {
-              "owneeId": "518",
+              "owneeId": "35496",
               "owner": "Trump Old Post Office Member Corp.",
               "percentage": "1.0"
             }
@@ -442,12 +442,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "517",
+              "owneeId": "35497",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "77.5"
             },
             {
-              "owneeId": "517",
+              "owneeId": "35497",
               "owner": "Trump Family Members",
               "percentage": "22.5"
             }
@@ -455,6 +455,20 @@
           "familyMember": "Donald Trump",
           "description": "Former president/director/chairman of Trump Old Post Office Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
           "business": "Trump Old Post Office Member Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Member, President, Treasurer of IVANKA OPO LLC from Jun 1, 2013, until Jan 1, 2017. Ivanka Trump lists Ivanka OPO LLC (Investment in Trump Old Post Office LLC; Washington, DC) as an employment-related asset valued at $5,000,001 - $25,000,000. In the year before taking her unpaid position as assistant to her father in his presidency, she earned $2,423,475 in Hotel-Related Revenue income. The work for which she earned compensation is described as &quot;Development and management of hotel in Washington DC.&quot; Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "Ivanka OPO LLC",
           "conflictStatus": "Active"
         }
       ],

@@ -15,12 +15,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "25",
+              "owneeId": "35306",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "99.9"
             },
             {
-              "owneeId": "25",
+              "owneeId": "35306",
               "owner": "Trump 845 UN Mgr Corp.",
               "percentage": "0.1"
             }
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "327",
+              "owneeId": "35307",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "100.0"
             }
@@ -48,6 +48,26 @@
           "familyMember": "Donald Trump",
           "description": "Former president of Trump 845 UN MGR Corp., in which Pres. Trump retains ownership interests.",
           "business": "Trump 845 UN Mgr Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35308",
+              "owner": "The Donald J. Trump Revocable Trust",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president/treasurer of the now-dormant or inactive Trump 845 UN MGR LLC (F/K/A 845 UN LLC), in which Pres. Trump retains ownership interests.",
+          "business": "Trump 845 UN Mgr LLC (F/K/A 845 UN LLC)",
           "conflictStatus": "Active"
         }
       ],

@@ -15,19 +15,33 @@
           ],
           "ownerships": [
             {
-              "owneeId": "249",
+              "owneeId": "35146",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "55.0"
             },
             {
-              "owneeId": "249",
+              "owneeId": "35146",
               "owner": "Trump Family Members",
               "percentage": "45.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/president of the brokerage firm T International Realty (dba Trump International Realty), in which Pres. Trump retains an ownership interest.",
-          "business": "T International Realty LLC (Dba Trump International Realty)",
+          "business": "T International Realty LLC (DBA Trump International Realty)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President &amp; Secretary of T INTERNATIONAL REALTY LLC from Sep 1, 2012, until Jan 1, 2017. Ivanka Trump lists T International Realty LLC (Luxury Real Estate Brokerage Company; New York, NY) as an employment-related asset valued at $1,000,001 - $5,000,000. In the year before taking her unpaid position as assistant to her father in his presidency, she earned $671,068 in commissions income for consulting work for the luxury real estate brokerage company. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. Additionally, T International Realty LLC owes Ivanka Trump a guaranteed fixed payment of $100,000 per year.",
+          "business": "T International Realty LLC",
           "conflictStatus": "Active"
         }
       ],

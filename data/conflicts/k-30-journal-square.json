@@ -28,23 +28,42 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "687",
+              "owneeId": "33765",
               "owner": "K 30 Journal Square, LLC",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $15,001 - $50,000 in Rent or Royalties income from 30 Journal Square Partners, LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "description": "",
           "business": "30 Journal Square Partners, LLC",
           "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received None (or less than $201) in (income type not disclosed) income from K 30 JOURNAL Manager Corp. (Undeveloped Real Estate in Jersey City, NJ) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "K 30 Journal Manager Corp. (Undeveloped Real Estate In Jersey City, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
@@ -67,12 +86,12 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "687",
+              "owneeId": "33765",
               "owner": "K 30 Journal Square, LLC",
               "percentage": ""
             }
@@ -80,7 +99,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of 30 Journal Square Partners, LLC from Jan 1, 2013, to Jan 1, 2017.",
           "business": "30 Journal Square Partners, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -92,8 +111,41 @@
           ],
           "ownerships": [],
           "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received None (or less than $201) in (income type not disclosed) income from K 30 JOURNAL Manager Corp. (Commercial Real Estate in Jersey City, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "K 30 Journal Manager Corp. (Commercial Real Estate In Jersey City, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President of K 30 Journal Square Manager Corp. (Commercial Real Estate in Jersey City, NJ) from Jan 1, 2013, to Jan 1, 2017.",
+          "business": "K 30 Journal Square Manager Corp. (Commercial Real Estate In Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of K 30 Journal Square, LLC from Jan 1, 2013, to Jan 1, 2017. Jared Kushner received $15,001 - $50,000 in Rent or Royalties income from K 30 JOURNAL SQUARE, LLC (Commercial Real Estate in Jersey City, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
-          "business": "K 30 Journal Square, LLC",
+          "business": "K 30 Journal Square, LLC (Undeveloped Real Estate In Jersey City, NJ)",
           "conflictStatus": "Active"
         }
       ],

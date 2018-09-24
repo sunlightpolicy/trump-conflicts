@@ -2,5 +2,27 @@
   "name": "Maryanne Trump Trust",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former trustee of Maryanne Trump GRAT Trust- F/B/O Elizabeth Trump Grau. The trust&#39;s current activity status and control structures are not reported.",
+          "business": "Maryanne Trump Grat Trust- F/B/O Elizabeth Trump Grau",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3400",
+      "conflict": "Maryanne Trump Trust",
+      "conflictDescription": ""
+    }
+  ]
 }

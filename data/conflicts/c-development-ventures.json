@@ -15,12 +15,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "39",
+              "owneeId": "33992",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "99.0"
             },
             {
-              "owneeId": "39",
+              "owneeId": "33992",
               "owner": "C Development Ventures Member Corp.",
               "percentage": "1.0"
             }
@@ -36,19 +36,63 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "38",
+              "owneeId": "33994",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former president/director/chairman of the now-dormant or nactive C Development Ventures Member Corp., in which Pres. Trump retains an ownership interest.",
-          "business": "C Development Ventures Member Corp.",
+          "business": "C Development Ventures Member Corp (Pass-Thru Company for C Development Ventures LLC (Dormant/Inactive))",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of C DEVELOPMENT VENTURES LLC (dormant/inactive) from Apr 1, 2016, until Jan 1, 2017.",
+          "business": "C Development Ventures LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33994",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of C DEVELOPMENT VENTURES MEMBER CORP (pass-thru company for C DEVELOPMENT VENTURES LLC (dormant/inactive)) from Apr 1, 2016, until Jan 1, 2017.",
+          "business": "C Development Ventures Member Corp (Pass-Thru Company for C Development Ventures LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "19",

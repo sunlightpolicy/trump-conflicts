@@ -11,28 +11,43 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "216",
+              "owneeId": "34906",
               "owner": "DJT Holdings LLC",
               "percentage": "76.5"
             },
             {
-              "owneeId": "216",
+              "owneeId": "34906",
               "owner": "Trump Family Members",
               "percentage": "22.5"
             },
             {
-              "owneeId": "216",
-              "owner": "Opo Hotel Manager Member Corp",
+              "owneeId": "34906",
+              "owner": "OPO Hotel Manager Member Corp.",
               "percentage": "1.0"
+            },
+            {
+              "owneeId": "34906",
+              "owner": "Ivanka OPO Hotel Manager LLC (Management of DC Hotel)",
+              "percentage": "0.0"
+            },
+            {
+              "owneeId": "34906",
+              "owner": "Ivanka OPO Hotel Manager LLC (Management of DC Hotel)",
+              "percentage": ""
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former president of OPO Hotel Manager LLC, in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, is not inactive nor dormant, and is not part of an entity structure or license deal.",
-          "business": "Opo Hotel Manager LLC",
+          "business": "OPO Hotel Manager LLC (Management of DC Hotel)",
           "conflictStatus": "Active"
         },
         {
@@ -41,18 +56,107 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "215",
+              "owneeId": "34908",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former director/chairman/president of OPO Hotel Manager Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
-          "business": "Opo Hotel Manager Member Corp",
+          "business": "OPO Hotel Manager Member Corp. (Pass-thru Company for OPO Hotel Manager LLC)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Secretary, Member &amp; Treasurer of IVANKA OPO HOTEL MANAGER LLC (management of DC hotel) from Jun 1, 2013, until Jan 1, 2017. Because she retains an equity interest, this potential conflict of interest is marked as active.",
+          "business": "Ivanka OPO Hotel Manager LLC (Management of DC Hotel)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34906",
+              "owner": "DJT Holdings LLC",
+              "percentage": "76.5"
+            },
+            {
+              "owneeId": "34906",
+              "owner": "Trump Family Members",
+              "percentage": "22.5"
+            },
+            {
+              "owneeId": "34906",
+              "owner": "OPO Hotel Manager Member Corp.",
+              "percentage": "1.0"
+            },
+            {
+              "owneeId": "34906",
+              "owner": "Ivanka OPO Hotel Manager LLC (Management of DC Hotel)",
+              "percentage": "0.0"
+            },
+            {
+              "owneeId": "34906",
+              "owner": "Ivanka OPO Hotel Manager LLC (Management of DC Hotel)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of OPO HOTEL MANAGER LLC (management of DC hotel) from Jun 1, 2013, until Jan 1, 2017. Because she retains an equity interest in the company through Ivanka OPO Hotel Manager LLC, this potential conflict of interest is marked as active.",
+          "business": "OPO Hotel Manager LLC (Management of DC Hotel)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34908",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of OPO HOTEL MANAGER MEMBER CORP (pass-thru company for OPO HOTEL MANAGER LLC) from Jun 1, 2013, until Jan 1, 2017. Because she retains an equity interest in the company through Ivanka OPO Hotel Manager LLC, this potential conflict of interest is marked as active.",
+          "business": "OPO Hotel Manager Member Corp. (Pass-thru Company for OPO Hotel Manager LLC)",
           "conflictStatus": "Active"
         }
       ],

@@ -11,18 +11,23 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "53",
+              "owneeId": "34088",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/presdient of D B Pace Acquisition Member Corp., in which Pres. Trump retains an ownership interest.",
-          "business": "D B Pace Acquisition Member Corp.",
+          "business": "D B Pace Acquisition Member Corp (Land, Building And FF&E)",
           "conflictStatus": "Active"
         },
         {
@@ -35,20 +40,45 @@
           ],
           "ownerships": [
             {
-              "owneeId": "54",
+              "owneeId": "34090",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "54",
+              "owneeId": "34090",
               "owner": "D B Pace Acquisition Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/presdient of D B Pace Acquisition, LLC, in which Pres. Trump retains an ownership interest.",
-          "business": "D B Pace Acquisition, LLC.",
+          "business": "D B Pace Acquisition, LLC",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34088",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of D B PACE ACQUISITION MEMBER CORP (land, building and ff&amp;e) from Nov 1, 2014, until Jan 1, 2017.",
+          "business": "D B Pace Acquisition Member Corp (Land, Building And FF&E)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "32",

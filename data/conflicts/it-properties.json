@@ -2,5 +2,27 @@
   "name": "IT Properties",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President &amp; Treasurer of IT PROPERTIES HOLDING COMPANY LLC (held investments) from Feb 1, 2010, until May 1, 2017.",
+          "business": "IT Properties Holding Company LLC (Held Investments)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3387",
+      "conflict": "IT Properties",
+      "conflictDescription": ""
+    }
+  ]
 }

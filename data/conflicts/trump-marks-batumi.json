@@ -15,12 +15,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "430",
+              "owneeId": "35400",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "430",
+              "owneeId": "35400",
               "owner": "Trump Marks Batumi Managing Member Corp.",
               "percentage": "1.0"
             }
@@ -36,16 +36,11 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "429",
+              "owneeId": "35401",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
@@ -54,6 +49,20 @@
           "description": "Pres. Trump retains ownership interests in the now-dormant or inactive Trump Marks Batumi Managing Member Corp. Any current or former position he may have held with the company is not reported.",
           "business": "Trump Marks Batumi Managing Member Corp.",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president/chairman/director of Trump Marks Batumi Member Corp. The company&#39;s activity status and ownership structure are not reported.",
+          "business": "Trump Marks Batumi Member Corp.",
+          "conflictStatus": "Unclear"
         }
       ],
       "conflictId": "278",

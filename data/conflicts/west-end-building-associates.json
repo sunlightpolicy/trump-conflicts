@@ -2,5 +2,27 @@
   "name": "West End Building Associates",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President & Authorized Signatory of West End Building Associates, LLC from Jan 1, 2009, to Jan 1, 2017. Jared Kushner received $15,001 - $50,000 in Rent or Royalties income from WEST END BUILDING ASSOCIATES, LLC (Residential Real Estate in New York, NY) the year before his appointment as Pres. Trump's senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "WEST END BUILDING ASSOCIATES, LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "1620",
+      "conflict": "West End Building Associates",
+      "conflictDescription": ""
+    }
+  ]
 }

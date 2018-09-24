@@ -2,5 +2,27 @@
   "name": "IT Investors",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer, Secretary of IT INVESTORS I LLC (held investments) from May 1, 2014, until Jan 1, 2017.  Filer sold all of her interest in this entity in January 2017 and intended to surrender any positions she held in it at that time. Out of an abundance of caution, she executed documents resigning such positions in June 2017.",
+          "business": "IT Investors I LLC (Held Investments)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3310",
+      "conflict": "IT Investors",
+      "conflictDescription": ""
+    }
+  ]
 }

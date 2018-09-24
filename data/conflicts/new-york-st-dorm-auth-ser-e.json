@@ -2,32 +2,5 @@
   "name": "New York St Dorm Auth Ser E",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner received $1,001 - $2,500 in Interest Capital Gains income from NEW YORK ST DORM AUTH ST PERSONAL INCOME TAX REVENUE RFDG SER E, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
-          "business": "New York St Dorm Auth St Personal Income Tax Revenue Rfdg Ser E, Bonds",
-          "conflictStatus": "Resolved"
-        }
-      ],
-      "conflictId": "1042",
-      "conflict": "New York St Dorm Auth Ser E",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

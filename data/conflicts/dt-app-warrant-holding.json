@@ -15,12 +15,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "74",
+              "owneeId": "34132",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "74",
+              "owneeId": "34132",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "1.0"
             }
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "72",
+              "owneeId": "34134",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
@@ -49,6 +49,20 @@
           "description": "Former director/chairman/president and owner of the now-dormant or inactive DT App Warrant Holding Managing Member Corp., in which Pres. Trump retains an ownership interest.",
           "business": "DT App Warrant Holding Managing Member Corp.",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT APP WARRANT HOLDING LLC (dormant/inactive) from Mar 1, 2012, until Jan 1, 2017.",
+          "business": "DT APP Warrant Holding LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "49",

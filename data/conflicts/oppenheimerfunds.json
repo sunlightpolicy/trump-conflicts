@@ -10,12 +10,7 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
@@ -30,18 +25,23 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner received None (or less than $201) in (income type not disclosed) income from OPPENHEIMER DEVELOPING MARKETS (ODVYX) the year before his appointment as Pres. Trump''s senior adviser.",
-          "business": "Oppenheimer Developing Markets (Odvyx)",
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received None (or less than $201) in (income type not disclosed) income from OPPENHEIMER DEVELOPING MARKETS (ODVYX) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Oppenheimer Developing Markets (ODVYX)",
           "conflictStatus": "Active"
         },
         {
@@ -49,18 +49,56 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $5,001 - $15,000 in (income type not disclosed) income from OPPENHEIMER DEVELOPING MARKETS CLASS Y (ODVYX) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Oppenheimer Developing Markets Class Y (ODVYX)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received between $0 - $600 in (income type not disclosed) income via three distributions from OPPENHEIMER DEVELOPING MARKETS (ODVYX) the year before his appointment as Pres. Trump's senior adviser.",
+          "business": "Oppenheimer Developing Markets (ODVYX)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner received $5,001 - $15,000 in (income type not disclosed) income from OPPENHEIMER DEVELOPING MARKETS CLASS Y (ODVYX) the year before his appointment as Pres. Trump&#39;s senior adviser.",
-          "business": "Oppenheimer Developing Markets Class Y (Odvyx)",
+          "business": "Oppenheimer Developing Markets Class Y (ODVYX)",
           "conflictStatus": "Active"
         }
       ],

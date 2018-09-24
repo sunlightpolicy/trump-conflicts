@@ -2,5 +2,42 @@
   "name": "Kushner Village 2",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $100,001 - $1,000,000 in Capital Gains Rent or Royalties income from Kushner Village 2 Member LLC (Rental Apartments in New York, NY) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Kushner Village 2 Member LLC (Rental Apartments In New York, NY)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3293",
+      "conflict": "Kushner Village 2",
+      "conflictDescription": ""
+    }
+  ]
 }

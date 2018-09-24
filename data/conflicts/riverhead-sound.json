@@ -2,5 +2,41 @@
   "name": "Riverhead Sound",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Vice-President &amp; Authorized Signatory of Riverhead Sound Associates LLC (Residential Real Estate in Riverhead, NY) from Feb 1, 2007, to Jan 1, 2017.",
+          "business": "Riverhead Sound Associates LLC (Residential Real Estate In Riverhead, NY)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Executive Vice-President &amp; Authorized Signatory of Riverhead Sound Building Corp. (Residential Real Estate in Riverhead, NY) from Feb 1, 2007, to Jan 1, 2017.",
+          "business": "Riverhead Sound Building Corp. (Residential Real Estate In Riverhead, NY)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3422",
+      "conflict": "Riverhead Sound",
+      "conflictDescription": ""
+    }
+  ]
 }

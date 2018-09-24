@@ -2,5 +2,27 @@
   "name": "44th Street Realty",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Manager of 44th Street Realty Associates, LLC (Residential Real Estate in New York, NY) from Dec 1, 2007, to Jan 1, 2017.",
+          "business": "44Th Street Realty Associates, LLC (Residential Real Estate In New York, NY)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3303",
+      "conflict": "44th Street Realty",
+      "conflictDescription": ""
+    }
+  ]
 }

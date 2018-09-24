@@ -172,7 +172,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "197",
+              "owneeId": "34720",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -192,12 +192,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "198",
+              "owneeId": "34721",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "100.0"
             },
             {
-              "owneeId": "198",
+              "owneeId": "34721",
               "owner": "Mar-A-Lago Club, Inc.",
               "percentage": "0.0"
             }
@@ -206,6 +206,20 @@
           "description": "Former member/president of Mar-A-Lago Club, L.L.C., in which Pres. Trump retains an ownership interest.",
           "business": "Mar-A-Lago Club, L.L.C.",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Vice President of MAR-A-LAGO CLUB, L.L.C. (a/k/a The Mar-A- Lago Club L.C.) (resort) from Jan 1, 2010, until Jan 1, 2017.",
+          "business": "Mar-A-Lago Club, L.L.C. (A/K/A The Mar-A- Lago Club L.C.) (Resort)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "124",

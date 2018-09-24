@@ -11,19 +11,197 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "682",
+              "owneeId": "33749",
               "owner": "KRL COLUMBIA HEIGHTS BROOKLYN LLC (Real Estate Under Construction in Brooklyn, NY)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33749",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "25-30 Columbia Heights (Brooklyn) Venture, LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33751",
+              "owner": "25-30 Columbia Heights (Brooklyn) Venture, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "25-30 COLUMBIA HEIGHTS (Brooklyn), LLC (Real Estate Under Construction in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34629",
+              "owner": "WT 25 COLUMBIA, LLC (Real Estate Under Construction in Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "KRL COLUMBIA HEIGHTS BROOKLYN LLC (Real Estate Under Construction in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received None (or less than $201) in (income type not disclosed) income from WT 25 COLUMBIA, LLC (Real Estate Under Construction in Brooklyn, NY) the year before her appointment as her father's presidential adviser.",
+          "business": "WT 25 COLUMBIA, LLC (Real Estate Under Construction in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33749",
+              "owner": "KRL COLUMBIA HEIGHTS BROOKLYN LLC (Real Estate Under Construction in Brooklyn, NY)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33749",
+              "owner": "Contingent Rights to Ownership Interests",
               "percentage": ""
             }
           ],
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Key Person of 25-30 Columbia Heights (Brooklyn) Venture, LLC from May 1, 2016, to Jan 1, 2017.",
           "business": "25-30 Columbia Heights (Brooklyn) Venture, LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33751",
+              "owner": "25-30 Columbia Heights (Brooklyn) Venture, LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Key Person of 25-30 Columbia Heights (Brooklyn) Venture, LLC from May 1, 2016, to Jan 1, 2017.",
+          "business": "25-30 COLUMBIA HEIGHTS (Brooklyn), LLC (Real Estate Under Construction in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34629",
+              "owner": "WT 25 COLUMBIA, LLC (Real Estate Under Construction in Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "KRL COLUMBIA HEIGHTS BROOKLYN LLC (Real Estate Under Construction in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Non-member Manager of WT 25 Columbia, LLC from Aug 1, 2016, to Jan 1, 2017. Jared Kushner received None (or less than $201) in (income type not disclosed) income from WT 25 COLUMBIA, LLC (Real Estate Under Construction in Brooklyn, NY) the year before his appointment as Pres. Trump's senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "WT 25 COLUMBIA, LLC (Real Estate Under Construction in Brooklyn, NY)",
+          "conflictStatus": "Active"
         }
       ],
       "conflictId": "500",

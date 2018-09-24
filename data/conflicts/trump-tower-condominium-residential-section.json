@@ -2,37 +2,5 @@
   "name": "Trump Tower Condominium Residential Section",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Donald Trump",
-          "description": "Former president of Trump Tower Condominium Residential Section. The company&#39;s ownership structure is not clear; it has not been reported on any of his financial disclosures.",
-          "business": "Trump Tower Condominium Residential Section",
-          "conflictStatus": "Unclear"
-        }
-      ],
-      "conflictId": "354",
-      "conflict": "Trump Tower Condominium Residential Section",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

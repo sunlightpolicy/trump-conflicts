@@ -2,5 +2,55 @@
   "name": "570 West Mt. Pleasant",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $100,001 - $1,000,000 in Rent or Royalties income from 570 WEST MT. PLEASANT ASSOCIATES, LLC (Residential Real Estate in Livingston, NJ) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "570 West Mt. Pleasant Associates, LLC (Residential Real Estate In Livingston, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Managing Member of 570 West Mount Pleasant Associates, LLC from Jan 1, 2012, to Jan 1, 2017. Jared Kushner received $100,001 - $1,000,000 in Rent or Royalties income from 570 WEST MT. PLEASANT ASSOCIATES, LLC (Residential Real Estate in Livingston, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser. Because his interest in this entity reportedly has been divested, it is marked in this database as a resolved potential conflict of interest.",
+          "business": "570 West Mount Pleasant Associates, LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President of 570 West Mount Pleasant Realty Corp. (Residential Real Estate in Livingston, NJ) from Jan 1, 2012, to Jan 1, 2017.",
+          "business": "570 West Mount Pleasant Realty Corp. (Residential Real Estate In Livingston, NJ)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3370",
+      "conflict": "570 West Mt. Pleasant",
+      "conflictDescription": ""
+    }
+  ]
 }

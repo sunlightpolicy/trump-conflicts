@@ -15,12 +15,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "125",
+              "owneeId": "34210",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "125",
+              "owneeId": "34210",
               "owner": "DT Marks Pune II Managing Member Corp",
               "percentage": "1.0"
             }
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "124",
+              "owneeId": "34212",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
@@ -49,6 +49,34 @@
           "description": "Former director/chairman/president of the now-dormant or inactive DT Marks Pune II Managing Member Corp., of which Pres. Trump retains an ownership stake.",
           "business": "DT Marks Pune II Managing Member Corp",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT MARKS PUNE II LLC (dormant/inactive) from Jun 1, 2014, until Jan 1, 2017.",
+          "business": "DT Marks Pune II LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT MARKS PUNE II MANAGING MEMBER CORP (pass-thru company for DT MARKS PUNE II LLC (dormant/inactive)) from Jun 1, 2014, until Jan 1, 2017.",
+          "business": "DT Marks Pune II Managing Member Corp (Pass-Thru Company for DT Marks Pune II LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "75",

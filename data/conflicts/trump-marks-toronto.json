@@ -15,7 +15,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "493",
+              "owneeId": "35473",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
@@ -35,12 +35,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "494",
+              "owneeId": "35474",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "494",
+              "owneeId": "35474",
               "owner": "Trump Marks Toronto Corp.",
               "percentage": "1.0"
             }
@@ -48,6 +48,31 @@
           "familyMember": "Donald Trump",
           "description": "Former president/member of the now-dormant or inactive Trump Marks Toronto LLC, in which Pres. Trump retains ownership interests.",
           "business": "Trump Marks Toronto LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35475",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "35475",
+              "owner": "Trump Toronto Member Corp. (F/K/A Trump Toronto Management Member Corp.)",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former partner of the now-dormant or inactive Trump Marks Toronto LP (F/K/A Trump Toronto Management LP), in which Pres. Trump retains ownership interests.",
+          "business": "Trump Marks Toronto LP (F/K/A Trump Toronto Management LP)",
           "conflictStatus": "Active"
         }
       ],

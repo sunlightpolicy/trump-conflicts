@@ -2,5 +2,41 @@
   "name": "IT Outerwear",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President &amp; Secretary of IT OUTERWEAR LLC (dormant/inactive) from Oct 1, 2010, until Jan 1, 2017.",
+          "business": "IT Outerwear LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Chairman, Treasurer of IT OUTWEAR MEMBER CORP (pass-thru company for IT OUTERWEAR LLC (dormant/inactive)) from Oct 1, 2010, until Jan 1, 2017.",
+          "business": "IT Outwear Member Corp (Pass-Thru Company for IT Outerwear LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3385",
+      "conflict": "IT Outerwear",
+      "conflictDescription": ""
+    }
+  ]
 }

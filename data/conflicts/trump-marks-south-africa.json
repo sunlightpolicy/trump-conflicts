@@ -2,5 +2,41 @@
   "name": "Trump Marks South Africa",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president/member of Trump Marks South Africa LLC (resigned 2014). The company&#39;s current activity status and ownership structure are not disclosed.",
+          "business": "Trump Marks South Africa LLC",
+          "conflictStatus": "Unclear"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former member of Trump Marks South Africa Member Corp. (resigned 2014). The company&#39;s current activity status and ownership structure are not disclosed.",
+          "business": "Trump Marks South Africa Member Corp.",
+          "conflictStatus": "Unclear"
+        }
+      ],
+      "conflictId": "3439",
+      "conflict": "Trump Marks South Africa",
+      "conflictDescription": ""
+    }
+  ]
 }

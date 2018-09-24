@@ -15,7 +15,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "57",
+              "owneeId": "34112",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "100.0"
             }
@@ -24,6 +24,20 @@
           "description": "Former member/president of DJT Aerospace LLC, of which Trump retains an ownership stake through The Donald J. Trump Revocable Trust. According to a financial disclosure, the sole assets are aircraft.",
           "business": "DJT Aerospace LLC",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DJT AEROSPACE LLC (aircraft) from Jun 1, 2010, until Jan 1, 2017.",
+          "business": "DJT Aerospace LLC (Aircraft)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "35",

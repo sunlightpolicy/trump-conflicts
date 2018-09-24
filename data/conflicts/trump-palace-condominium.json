@@ -2,5 +2,27 @@
   "name": "Trump Palace Condominium",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Trump Palace Condominium, a condominium association. Its ownership structure is not clear; it has not been reported on any of his financial disclosures.",
+          "business": "Trump Palace Condominium",
+          "conflictStatus": "Unclear"
+        }
+      ],
+      "conflictId": "3441",
+      "conflict": "Trump Palace Condominium",
+      "conflictDescription": ""
+    }
+  ]
 }

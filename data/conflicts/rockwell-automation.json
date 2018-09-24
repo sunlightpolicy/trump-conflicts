@@ -15,32 +15,22 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner received $1,001 - $2,500 or more in Dividends Capital Gains income from ROCKWELL AUTOMATION INC the year before his appointment as Pres. Trump''s senior adviser. Because this asset reportedly has been divested, it is marked as resolved in this database.",
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,001 - $2,500 each in two separate transactions and $201 - $1,000 in a third transaction of Dividends Capital Gains income from ROCKWELL AUTOMATION INC the year before her appointment as her father&#39;s presidential adviser. This asset has been divested.",
           "business": "Rockwell Automation Inc",
           "conflictStatus": "Resolved"
         }

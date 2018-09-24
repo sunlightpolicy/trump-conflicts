@@ -1,6 +1,56 @@
 {
   "name": "Deutsche Bank",
   "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
-  "stories": [],
-  "ethics": []
+  "stories": [
+    {
+      "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
+      "conflict": "Deutsche Bank",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/sites/jenniferwang/2016/11/29/trumps-stock-portfolio-big-oil-big-banks-and-more-foreign-connections/#30d204ea464e",
+      "sourceDate": "2016-11-29T00:00:00",
+      "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
+      "conflictId": "424",
+      "conflictSlug": "deutsche-bank",
+      "hasEthics": true
+    }
+  ],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump owes $5,000,001 - $25,000,000 in revolving debt to Deutsche Bank. The Unsecured line of credit was incurred in 2015 at a rate of LIBOR+2.5%.",
+          "business": "Deutsche Bank",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "424",
+      "conflict": "Deutsche Bank",
+      "conflictDescription": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China."
+    }
+  ]
 }

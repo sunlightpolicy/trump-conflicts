@@ -2,5 +2,906 @@
   "name": "Kushner Philadelphia",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33910",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33910",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "1010 North Hancock Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33912",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33912",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "1011 North Hancock Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33914",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33914",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "1022 Associates, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33916",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33916",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "1031 Germantown Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33918",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33918",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "1050 North Hancock Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33812",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33812",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "109 Wildey Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35725",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "35725",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "145 W. Wildey Lot Associates LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34366",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34366",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "George Street Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $100,001 - $1,000,000 in Rent or Royalties income from KUSHNER PHILADELPHIA MEMBER, LLC (Residential Real Estate in Philadelphia, PA) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Kushner Philadelphia Member, LLC (Residential Real Estate In Philadelphia, Pa)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34693",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34693",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Liberties Walk Associates, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34712",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34712",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "LW Partners III, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34714",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34714",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "LW Townhome Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34853",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34855",
+              "owner": "Kushner Philadelphia Member, LLC (Residential Real Estate In Philadelphia, Pa)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34855",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34941",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34941",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Piazza Partners I, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34943",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34943",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Piazza, LLC (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33910",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33910",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "1010 North Hancock Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33912",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33912",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "1011 North Hancock Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33914",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33914",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "1022 Associates, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33916",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33916",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "1031 Germantown Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33918",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33918",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "1050 North Hancock Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33812",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33812",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "109 Wildey Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34366",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34366",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "George Street Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Non-member Manager of Kushner Philadelphia Member, LLC from Jan 1, 2013, to Jan 1, 2017. Jared Kushner received $100,001 - $1,000,000 in Rent or Royalties income from KUSHNER PHILADELPHIA MEMBER, LLC (Residential Real Estate in Philadelphia, PA) the year before his appointment as Pres. Trump&#39;s senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "Kushner Philadelphia Member, LLC (Residential Real Estate In Philadelphia, Pa)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34693",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34693",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "Liberties Walk Associates, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34712",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34712",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "LW Partners III, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34714",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34714",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "LW Townhome Partners, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34853",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34855",
+              "owner": "Kushner Philadelphia Member, LLC (Residential Real Estate In Philadelphia, Pa)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34855",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34941",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34941",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "Piazza Partners I, LP (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34943",
+              "owner": "Northern Liberties GP, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34943",
+              "owner": "Northern Liberties JV, LLC (Residential Real Estate in Philadelphia, PA)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "Piazza, LLC (Residential Real Estate in Philadelphia, PA)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3185",
+      "conflict": "Kushner Philadelphia",
+      "conflictDescription": ""
+    }
+  ]
 }

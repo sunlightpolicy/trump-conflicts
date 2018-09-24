@@ -15,7 +15,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "528",
+              "owneeId": "35508",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "100.0"
             }
@@ -31,22 +31,27 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "530",
+              "owneeId": "35509",
               "owner": "Trump Delmonico LLC",
               "percentage": "50.0"
             },
             {
-              "owneeId": "530",
+              "owneeId": "35509",
               "owner": "Trump Park Avenue Acquisition LLC",
               "percentage": "49.9"
             },
             {
-              "owneeId": "530",
-              "owner": "Gept Delmonico LLC",
+              "owneeId": "35509",
+              "owner": "GEPT Delmonico LLC",
               "percentage": "0.1"
             }
           ],
@@ -54,6 +59,55 @@
           "description": "Former president of Trump Park Avenue LLC, in which Pres. Trump retains an ownership interest.",
           "business": "Trump Park Avenue LLC",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Former board member of the condominium association Trump Park Avenue Condominium, an unincorporated business association, from December 2005 through September 2017. Ivanka Trump held the position by virtue of her ownership of a condo in the building, in which she resided. She also held a position with a Trump Organization entity associated with the building, Trump Park Avenue LLC; she resigned that position in January 2017.",
+          "business": "Trump Park Avenue Condominium (Condominium Association)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35509",
+              "owner": "Trump Delmonico LLC",
+              "percentage": "50.0"
+            },
+            {
+              "owneeId": "35509",
+              "owner": "Trump Park Avenue Acquisition LLC",
+              "percentage": "49.9"
+            },
+            {
+              "owneeId": "35509",
+              "owner": "GEPT Delmonico LLC",
+              "percentage": "0.1"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Vice President of TRUMP PARK AVENUE LLC (residential & commercial real estate) from Feb 1, 2012, until Jan 1, 2017.",
+          "business": "Trump Park Avenue LLC",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "334",

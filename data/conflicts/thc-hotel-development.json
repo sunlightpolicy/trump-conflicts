@@ -15,7 +15,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "268",
+              "owneeId": "35184",
               "owner": "DJT Holdings LLC",
               "percentage": "100.0"
             }
@@ -24,6 +24,20 @@
           "description": "Former member/president of the now-dormant THC Hotel Development LLC, in which Pres. Trump retains an ownership interest.",
           "business": "THC Hotel Development LLC",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC HOTEL DEVELOPMENT LLC (dormant/inactive) from Oct 1, 2012, until Jan 1, 2017.",
+          "business": "THC Hotel Development LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "174",

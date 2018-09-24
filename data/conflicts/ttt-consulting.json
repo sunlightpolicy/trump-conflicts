@@ -2,5 +2,27 @@
   "name": "TTT Consulting",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump lists TTT Consulting LLC (Consulting, licensing, and management services for real estate projects; New York, NY) as an employment-related asset valued at $5,000,001 - $25,000,000. In the year before taking her unpaid position as assistant to her father in his presidency, she earned $913,847 in consulting Fees income for consulting, licensing, and management services for real estate projects, and $14,374 in Guaranteed Payment income. Ivanka Trump has resigned all positions with this entity, and in consultation with OGE converted her right to a share of its profits to a guaranteed fixed payment of $600,000 per year.",
+          "business": "TTT Consulting LLC (Consulting, licensing, and management services for real estate projects; New York, NY)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3312",
+      "conflict": "TTT Consulting",
+      "conflictDescription": ""
+    }
+  ]
 }

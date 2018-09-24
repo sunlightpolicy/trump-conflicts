@@ -52,12 +52,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "137",
+              "owneeId": "34237",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "137",
+              "owneeId": "34237",
               "owner": "DT Tower I Member Corp.",
               "percentage": "1.0"
             }
@@ -77,7 +77,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "136",
+              "owneeId": "34238",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

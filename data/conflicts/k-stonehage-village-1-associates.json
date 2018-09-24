@@ -15,24 +15,24 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "875",
+              "owneeId": "34313",
               "owner": "EV JV Partnership, L.P.",
               "percentage": ""
             },
             {
-              "owneeId": "875",
+              "owneeId": "34313",
               "owner": "Village UK Venture, LLC (Residential Real Estate in New York, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $15,001 - $50,000 in Rent or Royalties income from EV 1St Avenue Property Owner, L.P. the year before her appointment as her father&#39;s presidential adviser.",
-          "business": "EV 1St Avenue Property Owner, L.P.",
+          "description": "",
+          "business": "EV 1st Avenue Property Owner, L.P.",
           "conflictStatus": "Active"
         },
         {
@@ -45,23 +45,23 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "876",
+              "owneeId": "34315",
               "owner": "EV JV Partnership, L.P.",
               "percentage": ""
             },
             {
-              "owneeId": "876",
+              "owneeId": "34315",
               "owner": "Village UK Venture, LLC (Residential Real Estate in New York, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $15,001 - $50,000 in Rent or Royalties income from EV Avenue A Property Owner, L.P. the year before her appointment as her father&#39;s presidential adviser.",
+          "description": "",
           "business": "EV Avenue A Property Owner, L.P.",
           "conflictStatus": "Active"
         },
@@ -75,18 +75,43 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "878",
+              "owneeId": "34317",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "EV JV GP LLC (Residential Real Estate In New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34318",
               "owner": "K Stonehage Village 1 Associates, LLC (Residential Real Estate In New York, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $15,001 - $50,000 in Rent or Royalties income from EV JV Partnership, L.P. the year before her appointment as her father&#39;s presidential adviser.",
+          "description": "",
           "business": "EV JV Partnership, L.P.",
           "conflictStatus": "Active"
         },
@@ -95,22 +120,12 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
@@ -129,25 +144,20 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "875",
+              "owneeId": "35614",
               "owner": "EV JV Partnership, L.P.",
-              "percentage": ""
-            },
-            {
-              "owneeId": "875",
-              "owner": "Village UK Venture, LLC (Residential Real Estate in New York, NY)",
               "percentage": ""
             }
           ],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner served as President of EV 1st Avenue Property Owner, L.P. from Aug 1, 2013, to Jan 1, 2017.",
-          "business": "EV 1St Avenue Property Owner, L.P.",
-          "conflictStatus": "Resolved"
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Village UK Venture, LLC (Residential Real Estate in New York, NY)",
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -159,17 +169,47 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "876",
+              "owneeId": "34313",
               "owner": "EV JV Partnership, L.P.",
               "percentage": ""
             },
             {
-              "owneeId": "876",
+              "owneeId": "34313",
+              "owner": "Village UK Venture, LLC (Residential Real Estate in New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President of EV 1st Avenue Property Owner, L.P. from Aug 1, 2013, to Jan 1, 2017.",
+          "business": "EV 1st Avenue Property Owner, L.P.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34315",
+              "owner": "EV JV Partnership, L.P.",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34315",
               "owner": "Village UK Venture, LLC (Residential Real Estate in New York, NY)",
               "percentage": ""
             }
@@ -177,7 +217,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as President of EV Avenue A Property Owner, L.P. from Aug 1, 2013, to Jan 1, 2017.",
           "business": "EV Avenue A Property Owner, L.P.",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -189,12 +229,37 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "878",
+              "owneeId": "34317",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President of EV JV GP LLC (Residential Real Estate in New York, NY) from Aug 1, 2013, to Jan 1, 2017. The company was formerly named Village UK Venture LLC.",
+          "business": "EV JV GP LLC (Residential Real Estate In New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34318",
               "owner": "K Stonehage Village 1 Associates, LLC (Residential Real Estate In New York, NY)",
               "percentage": ""
             }
@@ -202,35 +267,50 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as President of EV JV Partnership, L.P. from Aug 1, 2013, to Jan 1, 2017.",
           "business": "EV JV Partnership, L.P.",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Managing Member of K Stonehage Village 1 Associates, LLC from Sep 1, 2013, to Jan 1, 2017. Jared Kushner received $15,001 - $50,000 in Rent or Royalties income from K STONEHAGE VILLAGE 1 ASSOCIATES, LLC (Residential Real Estate in New York, NY) the year before his appointment as Pres. Trump&#39;s senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
           "business": "K Stonehage Village 1 Associates, LLC (Residential Real Estate In New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35614",
+              "owner": "EV JV Partnership, L.P.",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "This company is now named EV JV GP LLC.",
+          "business": "Village UK Venture, LLC (Residential Real Estate in New York, NY)",
           "conflictStatus": "Active"
         }
       ],

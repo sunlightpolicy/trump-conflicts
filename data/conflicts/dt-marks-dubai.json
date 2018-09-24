@@ -60,23 +60,28 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "111",
+              "owneeId": "34193",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "111",
+              "owneeId": "34193",
               "owner": "DT Marks Dubai Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/president of DT Marks Dubai LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
-          "business": "DT Marks Dubai LLC",
+          "business": "DT Marks Dubai LLC (License Deal)",
           "conflictStatus": "Active"
         },
         {
@@ -85,19 +90,79 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "110",
+              "owneeId": "34195",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former director/chairman/president of DT Marks Dubai Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
-          "business": "DT Marks Dubai Member Corp.",
+          "business": "DT Marks Dubai Member Corp (Pass-Thru Company for DT Marks Dubai LLC (License Deal))",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34193",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "34193",
+              "owner": "DT Marks Dubai Member Corp.",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Vice President of DT MARKS DUBAI LLC (license deal) from Sep 1, 2013, until Jan 1, 2017.",
+          "business": "DT Marks Dubai LLC (License Deal)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34195",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Vice President of DT MARKS DUBAI MEMBER CORP (pass-thru company for DT MARKS DUBAI LLC (license deal)) from Sep 1, 2013, until Jan 1, 2017.",
+          "business": "DT Marks Dubai Member Corp (Pass-Thru Company for DT Marks Dubai LLC (License Deal))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "67",

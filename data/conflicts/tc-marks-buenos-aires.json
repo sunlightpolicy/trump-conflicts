@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "251",
+              "owneeId": "35150",
               "owner": "TTTT Venture LLC",
               "percentage": "100.0"
             }
@@ -49,6 +49,20 @@
           "description": "Former president/member of TC Marks Buenos Aires LLC. The company, dissolved on Jan. 26, 2017, reportedly had no independent value or income, and existed to hold license deals that were prospective, inactive, or otherwise did not currently have valuable assets or create income.",
           "business": "TC Marks Buenos Aires LLC",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of TC MARKS BUENOS AIRES LLC (dormant/inactive) from Apr 1, 2016, until Jan 1, 2017.",
+          "business": "TC Marks Buenos Aires LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "164",

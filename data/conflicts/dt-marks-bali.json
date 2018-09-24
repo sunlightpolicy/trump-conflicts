@@ -24,23 +24,28 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "109",
+              "owneeId": "34187",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "109",
+              "owneeId": "34187",
               "owner": "DT Marks Bali Member Corp",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/president of DT Marks Bali LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
-          "business": "DT Marks Bali LLC",
+          "business": "DT Marks Bali LLC (License Deal)",
           "conflictStatus": "Active"
         },
         {
@@ -49,19 +54,79 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "108",
+              "owneeId": "34189",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former director/chairman/president of DT Marks Bali Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
-          "business": "DT Marks Bali Member Corp",
+          "business": "DT Marks Bali Member Corp (Pass-Thru Company for DT Marks Bali LLC (License Deal))",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34187",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "34187",
+              "owner": "DT Marks Bali Member Corp",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT MARKS BALI LLC (license deal) from Jun 1, 2015, until Jan 1, 2017.",
+          "business": "DT Marks Bali LLC (License Deal)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34189",
+              "owner": "DTTM Operations Managing Member Corp.",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT MARKS BALI MEMBER CORP (pass-thru company for DT MARKS BALI LLC (license deal)) from Jun 1, 2015, until Jan 1, 2017.",
+          "business": "DT Marks Bali Member Corp (Pass-Thru Company for DT Marks Bali LLC (License Deal))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "66",

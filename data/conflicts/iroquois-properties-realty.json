@@ -2,5 +2,27 @@
   "name": "Iroquois Properties Realty",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President of Iroquois Properties Realty Corp. (Residential Real Estate in New York, NY) from Feb 1, 2007, to Jan 1, 2017.",
+          "business": "Iroquois Properties Realty Corp. (Residential Real Estate In New York, NY)",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3195",
+      "conflict": "Iroquois Properties Realty",
+      "conflictDescription": ""
+    }
+  ]
 }

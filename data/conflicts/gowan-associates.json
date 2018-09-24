@@ -15,18 +15,48 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "665",
+              "owneeId": "33836",
+              "owner": "KCLW 3rd Street LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33836",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "175-225 THIRD JV LLC (Undeveloped Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33838",
               "owner": "175-225 THIRD JV LLC (Undeveloped Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $2,501 - $5,000 in Rent or Royalties income from 175-225 Third Owner LLC the year before her appointment as her father&#39;s presidential adviser.",
+          "description": "",
           "business": "175-225 Third Owner LLC",
           "conflictStatus": "Active"
         },
@@ -54,19 +84,19 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1027",
+              "owneeId": "34598",
               "owner": "Gowan Associates, LLC (Undeveloped Real Estate In Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $2,501 - $5,000 in Rent or Royalties income from KCLW 3Rd Street LLC the year before her appointment as her father&#39;s presidential adviser.",
-          "business": "KCLW 3Rd Street LLC",
+          "description": "",
+          "business": "KCLW 3rd Street LLC",
           "conflictStatus": "Active"
         },
         {
@@ -79,12 +109,42 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "665",
+              "owneeId": "33836",
+              "owner": "KCLW 3rd Street LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33836",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "175-225 THIRD JV LLC (Undeveloped Real Estate in Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33838",
               "owner": "175-225 THIRD JV LLC (Undeveloped Real Estate in Brooklyn, NY)",
               "percentage": ""
             }
@@ -92,7 +152,7 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Officer of 175-225 Third Owner LLC from Dec 1, 2014, to Jan 1, 2017.",
           "business": "175-225 Third Owner LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
         },
         {
           "ethicsDocuments": [
@@ -118,20 +178,20 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1027",
+              "owneeId": "34598",
               "owner": "Gowan Associates, LLC (Undeveloped Real Estate In Brooklyn, NY)",
               "percentage": ""
             }
           ],
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Manager of KCLW 3rd Street LLC from Aug 1, 2014, to Jan 1, 2017.",
-          "business": "KCLW 3Rd Street LLC",
-          "conflictStatus": "Resolved"
+          "business": "KCLW 3rd Street LLC",
+          "conflictStatus": "Active"
         }
       ],
       "conflictId": "546",

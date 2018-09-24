@@ -2,5 +2,42 @@
   "name": "Port Authority of New York & New Jersey",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $5,001 - $15,000 in Interest income from PORT AUTH OF NEW YORK &amp; NEW JERSEY NY SER 179, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Port Auth Of New York & New Jersey NY Ser 179, Bonds",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3163",
+      "conflict": "Port Authority of New York & New Jersey",
+      "conflictDescription": ""
+    }
+  ]
 }

@@ -2,5 +2,89 @@
   "name": "Lord, Abbett & Co.",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $15,001 - $50,000 in (income type not disclosed) income from LORD ABBETT HIGH YIELD FUND CLASS F (LHYFX) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Lord Abbett High Yield Fund Class F (LHYFX)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $15,001 - $50,000 in (income type not disclosed) income from LORD ABBETT INTERMEDIATE TAX FREE FUND CLASS F (LISFX) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Lord Abbett Intermediate Tax Free Fund Class F (LISFX)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $15,001 - $50,000 in (income type not disclosed) income from LORD ABBETT HIGH YIELD FUND CLASS F (LHYFX) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Lord Abbett High Yield Fund Class F (LHYFX)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $15,001 - $50,000 in (income type not disclosed) income from LORD ABBETT INTERMEDIATE TAX FREE FUND CLASS F (LISFX) the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "Lord Abbett Intermediate Tax Free Fund Class F (LISFX)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3397",
+      "conflict": "Lord, Abbett & Co.",
+      "conflictDescription": ""
+    }
+  ]
 }

@@ -2,5 +2,38 @@
   "name": "Trump New World Property Management",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35493",
+              "owner": "Trump Riverside Management LLC",
+              "percentage": "50.0"
+            },
+            {
+              "owneeId": "35493",
+              "owner": "New World Property Management Limited",
+              "percentage": "50.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of the now-dormant or inactive Trump New World Property Management LLC, in which Pres. Trump retains an ownership interest.",
+          "business": "Trump New World Property Management LLC",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3440",
+      "conflict": "Trump New World Property Management",
+      "conflictDescription": ""
+    }
+  ]
 }

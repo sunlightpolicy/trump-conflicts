@@ -96,21 +96,16 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "399",
+              "owneeId": "35373",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "399",
+              "owneeId": "35373",
               "owner": "Trump Scotland Member Inc.",
               "percentage": "1.0"
             }

@@ -20,12 +20,12 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
@@ -33,6 +33,26 @@
           "description": "Ivanka Trump received $100,001 - $1,000,000 in Interest Capital Gains income from Kushner Media Ventures, LLC (Financial investments in Thrive Capital Partners, LLC; New York, NY) the year before her appointment as her father&#39;s presidential adviser.",
           "business": "Kushner Media Ventures, LLC (Financial Investments In Thrive Capital Partners, LLC; New York, NY)",
           "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35264",
+              "owner": "Kushner Media Ventures, LLC (Financial Investments In Thrive Capital Partners, LLC; New York, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Board Member of Thrive Capital Partners LLC (Venture Capital Firm) from May 1, 2010, to Jan 1, 2017. Thrive Capital was founded by his brother, Joshua Kushner. The firm claims prominent investments — Kickstarter and Slack among them.",
+          "business": "Thrive Capital Partners LLC (Venture Capital Firm)",
+          "conflictStatus": "Active"
         }
       ],
       "conflictId": "959",

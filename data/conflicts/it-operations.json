@@ -2,5 +2,307 @@
   "name": "IT Operations",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer, Secretary of IT APPAREL II LLC from Nov 1, 2012, until Jan 1, 2017. Ivanka Trump lists IT Apparel II LLC (Licensing contracts for clothing and cold weather accessories; New York NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "IT Apparel II LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, Chairman, President, Secretary &amp; Treasurer of IT APPAREL II MANAGING MEMBER CORP from Nov 1, 2012, until Jan 1, 2017. Ivanka Trump lists IT Apparel II Managing Member Corp (Pass- Thru Company for IT Apparel II LLC; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "IT Apparel II Managing Member Corp",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer, Secretary of IT BABY HOME LLC from Jul 1, 2016, until Jan 1, 2017. Ivanka Trump lists IT Baby Home LLC (Licensing contracts for baby products - bedding giftables; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "IT Baby Home LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Chairman &amp; Treasurer of IT BABY HOME MEMBER CORP from Jul 1, 2016, until Jan 1, 2017. Ivanka Trump lists IT Baby Home Member Corp (Pass-Thru Company for IT Baby Home LLC; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. This asset has been merged into IT Operations Managing Member Corp.",
+          "business": "IT Baby Home Member Corp",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer, Secretary of IT EYEWEAR LLC from Jan 1, 2012, until Jan 1, 2017. Ivanka Trump lists IT Eyewear LLC (Licensing contracts for sunglasses; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "IT Eyewear LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Chairman &amp; Treasurer of IT EYEWEAR MANAGER CORP from Jan 1, 2012, until Jan 1, 2017. Ivanka Trump lists IT Eyewear Manager Corp (Pass-Thru Company for IT Eyewear LLC; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. This asset has been merged into IT Operations Managing Member Corp.",
+          "business": "IT Eyewear Manager Corp",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer, &amp; Secretary of IT FASHION JEWELRY LLC from Jul 1, 2016, until Jan 1, 2017. Ivanka Trump lists IT Fashion Jewelry LLC (Licensing contracts for costume jewelry; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "IT Fashion Jewelry LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Chairman &amp; Treasurer of IT FASHION JEWELRY MEMBER CORP from Jul 1, 2016, until Jan 1, 2017. Ivanka Trump lists IT Fashion Jewelry Member Corp (Pass-Thru Company for IT Fashion Jewelry LLC; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. This asset has been merged into IT Operations Managing Member Corp.",
+          "business": "IT Fashion Jewelry Member Corp",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer, Secretary of IT FRAGRANCE LLC from Jan 1, 2012, until Jan 1, 2017. Ivanka Trump lists IT Fragrance LLC (Licensing contracts for perfume; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "IT Fragrance LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Chairman, &amp; Treasurer of IT FRAGRANCE MANAGER CORP from Jan 1, 2012, until Jan 1, 2017. Ivanka Trump lists IT Fragrance Manager Corp (Pass-Thru Company for IT Fragrance LLC; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. This asset has been merged into IT Operations Managing Member Corp.",
+          "business": "IT Fragrance Manager Corp",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer of IT HANDBAGS LLC from May 1, 2010, until Jan 1, 2017. Ivanka Trump lists IT Handbags, LLC (Licensing contracts for handbags; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "IT Handbags LLC (Licensing Contracts for Handbags; New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Chairman, Treasurer of IT HANDBAGS MEMBER CORP from May 1, 2010, until Jan 1, 2017. Ivanka Trump lists IT Handbags Member Corp (Pass-Thru Company for IT Handbags LLC; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. This asset has been merged into IT Operations Managing Member Corp.",
+          "business": "IT Handbags Member Corp",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer, Secretary of IT HOME MARKS LLC from Dec 1, 2012, until Jan 1, 2017. Ivanka Trump lists IT Home Marks LLC (Licensing contracts for home products; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "IT Home Marks LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Chairman, Treasurer, &amp; Secretary of IT HOME MARKS MANAGING MEMBER CORP from Dec 1, 2012, until Jan 1, 2017. Ivanka Trump lists IT Home Marks Managing Member Corp (Pass-Thru Company for IT Home Marks LLC; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. This asset has been merged into IT Operations Managing Member Corp.",
+          "business": "IT Home Marks Managing Member Corp",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump’s assets from IT Operations LLC (Management Company in New York, NY; F/K/A IT Swimwear LLC) are reflected in the Ivanka M. Trump Business Trust. For the period January 1, 2016 - March 8, 2017, Ivanka Trump earned Over $5,000,000 in Rent or Royalties income and $142,453 in Non-royalty business income from the entity. She also served as President, Treasurer, Secretary of the company from Jul 1, 2012, until Jan 1, 2017. Under a prior reimbursement agreement, Ivanka Trump reimbursed IT Operations LLC for personal services received, including accounting and administrative services. That reimbursement agreement was terminated in October 2017 because she is no longer receiving those services.",
+          "business": "IT Operations LLC (Management Company In New York, NY; F/K/A IT Swimwear LLC)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Chairman, Secretary & Treasurer of IT OPERATIONS MANAGING MEMBER CORP (F/K/A IT Swimwear Managing Member Corp) from Jul 1, 2012, until Jan 1, 2017. The entity is a pass-thru company for IT Operations LLC. On her 2017 financial disclosure, it is listed as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income from the pass-thru company. However, she earned more than $5 million from IT Operations LLC. Because there is no indication her interest in either entity has been divested or placed into a blind trust, both are marked in this database as an active potential conflict of interest.",
+          "business": "IT Operations Managing Member Corp (pass-thru company for IT Operations LLC; F/K/A IT Swimwear Managing Member Corp)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President &amp; Director of IVANKA MARKS HOLDING CORP from Jun 1, 2016, until Jan 1, 2017. Ivanka Trump lists Ivanka Marks Holding Corp (Pass-Thru Company for Ivanka Trump Marks LLC; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. This asset has been merged into IT Operations Managing Member Corp.",
+          "business": "Ivanka Marks Holding Corp",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer of IVANKA TRUMP MARKS II LLC from Apr 1, 2010, until Jan 1, 2017. Ivanka Trump lists Ivanka Trump Marks II LLC (Licensing contracts for shoes; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "Ivanka Trump Marks II LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, Chairman, President, Treasurer &  Secretary of IVANKA TRUMP MARKS II MEMBER CORP from May 1, 2009, until Jan 1, 2017. Ivanka Trump lists Ivanka Trump Marks II Member Corp (Pass- Thru Company for Ivanka Trump Marks II LLC; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. Note: This asset has been merged into IT Operations Managing Member Corp.; please see that listing for more current details, if available. \r\nThis asset has been merged into IT Operations Managing Member Corp.",
+          "business": "Ivanka Trump Marks II Member Corp.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer of IVANKA TRUMP MARKS JEWELRY LLC from Jun 1, 2006, until Jan 1, 2017. Ivanka Trump lists Ivanka Trump Marks Jewelry LLC (Licensing contracts for fine jewelry; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "Ivanka Trump Marks Jewelry LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Chairman &amp; Treasurer of IVANKA TRUMP MARKS JEWELRY MEMBER CORP from Apr 1, 2010, until Jan 1, 2017. Ivanka Trump lists Ivanka Trump Marks Jewelry Member Corp (Pass-Thru Company for Ivanka Trump Marks Jewelry LLC; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there is no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. This asset has been merged into IT Operations Managing Member Corp.",
+          "business": "Ivanka Trump Marks Jewelry Member Corp",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3308",
+      "conflict": "IT Operations",
+      "conflictDescription": ""
+    }
+  ]
 }

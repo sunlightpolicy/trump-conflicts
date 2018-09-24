@@ -50,16 +50,6 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
@@ -67,12 +57,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "101",
+              "owneeId": "34171",
               "owner": "TTTT Venture LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "101",
+              "owneeId": "34171",
               "owner": "DT Lido Golf Manager Member Corp/",
               "percentage": "1.0"
             }
@@ -88,18 +78,23 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "99",
+              "owneeId": "34173",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former director/chairman/president of DT Lido Golf Manager Member Corp., of which Pres. Trump retains an ownership stake. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or that otherwise do not currently have valuable assets or create income.",
-          "business": "DT Lido Golf Manager Member Corp",
+          "business": "DT Lido Golf Manager Member Corp (Pass-Thru Company for DT Lido Golf Manager LLC)",
           "conflictStatus": "Active"
         },
         {
@@ -110,14 +105,34 @@
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
-              "name": "DJT 2016",
-              "date": "5/18/2016 12:00:00 AM",
-              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
-            {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34171",
+              "owner": "TTTT Venture LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "34171",
+              "owner": "DT Lido Golf Manager Member Corp/",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT LIDO GOLF MANAGER LLC from Jun 1, 2015, until Jan 1, 2017. Ivanka Trump lists DT Lido Golf Manager LLC (Management of future golf course; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there&#39;s no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "DT Lido Golf Manager LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
             },
             {
               "name": "Ethics Document ",
@@ -127,20 +142,15 @@
           ],
           "ownerships": [
             {
-              "owneeId": "101",
-              "owner": "TTTT Venture LLC",
-              "percentage": "99.0"
-            },
-            {
-              "owneeId": "101",
-              "owner": "DT Lido Golf Manager Member Corp/",
-              "percentage": "1.0"
+              "owneeId": "34173",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
             }
           ],
           "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump served as Executive Vice President of DT LIDO GOLF MANAGER LLC from Jun 1, 2015, until Jan 1, 2017. Ivanka Trump lists DT Lido Golf Manager LLC (Management of future golf course; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income. Because there&#39;s no indication her interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
-          "business": "DT Lido Golf Manager LLC",
-          "conflictStatus": "Active"
+          "description": "Ivanka Trump served as Executive Vice President of DT LIDO GOLF MANAGER MEMBER CORP (pass-thru company for DT LIDO GOLF MANAGER LLC) from Jun 1, 2015, until Jan 1, 2017.",
+          "business": "DT Lido Golf Manager Member Corp (Pass-Thru Company for DT Lido Golf Manager LLC)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "62",

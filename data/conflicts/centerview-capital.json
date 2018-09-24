@@ -10,12 +10,31 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Another asset of Ivanka Trump's, KF-Centerview, LLC, is reportedly invested in Centerview Capital. However, Centerview Capital is not included in her 2017 financial disclosure. Because the investment vehicle reportedly has been divested, this record is categorized as a resolved potential conflict of interest.",
+          "business": "Centerview Capital, LP; New York, NY",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
@@ -31,6 +50,44 @@
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $5,001 - $15,000 in Capital Gains income from KF-CENTERVIEW, LLC (Financial investments in Centerview Capital, LP; New York, NY) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "KF-Centerview, LLC (Financial Investments In Centerview Capital, LP; New York, NY)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Another asset of Jared Kushner's, KF-Centerview, LLC, is reportedly invested in Centerview Capital. However, Centerview Capital is not included in his 2017 financial disclosure. Because the investment vehicle reportedly has been divested, this record is categorized as a resolved potential conflict of interest.",
+          "business": "Centerview Capital, LP; New York, NY",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $5,001 - $15,000 in Capital Gains income from KF-CENTERVIEW, LLC (Financial investments in Centerview Capital, LP; New York, NY) the year before his appointment as Pres. Trump&#39;s senior adviser.",
           "business": "KF-Centerview, LLC (Financial Investments In Centerview Capital, LP; New York, NY)",
           "conflictStatus": "Resolved"
         }

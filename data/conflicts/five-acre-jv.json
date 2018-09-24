@@ -2,5 +2,56 @@
   "name": "Five Acre JV",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $2,501 - $5,000 in Rent or Royalties income from FIVE ACRE JV (Industrial Real Estate in Union, NJ) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Five Acre JV (Industrial Real Estate In Union, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Non-member Manager of Flatbush 340 Lender, LLC from Dec 1, 2015, to Jan 1, 2017. Jared Kushner received $100,001 - $1,000,000 and $15,001 - $50,000 in Interest income via two separate transactions from Flatbush 340 Lender LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY) the year before his appointment as Pres. Trump's senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "Flatbush 340 Lender LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3193",
+      "conflict": "Five Acre JV",
+      "conflictDescription": ""
+    }
+  ]
 }

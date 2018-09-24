@@ -2,5 +2,122 @@
   "name": "Landings at Harborside",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35730",
+              "owner": "THE LANDINGS AT HARBORSIDE, LLC (Residential Real Estate and Undeveloped Assets in Perth Amboy, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Landings Building 136B LLC (Residential Real Estate in Perth Amboy, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35733",
+              "owner": "THE LANDINGS AT HARBORSIDE, LLC (Residential Real Estate and Undeveloped Assets in Perth Amboy, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Landings Building 138 LLC (Undeveloped Assets in Perth Amboy, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35732",
+              "owner": "THE LANDINGS AT HARBORSIDE, LLC (Residential Real Estate and Undeveloped Assets in Perth Amboy, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Landings Building 140B LLC (Undeveloped Assets in Perth Amboy, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35731",
+              "owner": "THE LANDINGS AT HARBORSIDE, LLC (Residential Real Estate and Undeveloped Assets in Perth Amboy, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Landings Building 236 LLC (Undeveloped Assets in Perth Amboy, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $15,001 - $50,000 in Rent or Royalties income from THE LANDINGS AT HARBORSIDE, LLC (Residential Real Estate and Undeveloped Assets in Perth Amboy, NJ) the year before her appointment as Pres. Trump's senior adviser.",
+          "business": "THE LANDINGS AT HARBORSIDE, LLC (Residential Real Estate and Undeveloped Assets in Perth Amboy, NJ)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "1627",
+      "conflict": "Landings at Harborside",
+      "conflictDescription": ""
+    }
+  ]
 }

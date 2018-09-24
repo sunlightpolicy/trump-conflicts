@@ -28,12 +28,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "279",
+              "owneeId": "35199",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "279",
+              "owneeId": "35199",
               "owner": "THC Rio Managing Member Corp",
               "percentage": "1.0"
             }
@@ -49,19 +49,63 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "278",
+              "owneeId": "35201",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former chairman/director/president of the now-dormant or inactive THC Rio Managing Member Corp., in which Pres. Trump retains an ownership interest.",
-          "business": "THC Rio Managing Member Corp",
+          "business": "THC Rio Managing Member Corp (Pass- Thru Company for THC Rio Manager LLC (Dormant/Inactive))",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC RIO MANAGER LLC (dormant/inactive) from Apr 1, 2013, until Jan 1, 2017.",
+          "business": "THC Rio Manager LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35201",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC RIO MANAGING MEMBER CORP (pass- thru company for THC RIO MANAGER LLC (dormant/inactive)) from Apr 1, 2013, until Jan 1, 2017.",
+          "business": "THC Rio Managing Member Corp (Pass- Thru Company for THC Rio Manager LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "180",

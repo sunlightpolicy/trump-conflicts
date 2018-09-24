@@ -10,18 +10,18 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner served as Non-member Manager of P.V. Development, LLC from Nov 1, 2015, to Jan 1, 2017. Jared Kushner received $1,001 - $2,500 in Interest income from P.V. DEVELOPMENT, LLC (Undeveloped Real Estate in Long Branch, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
-          "business": "P.V. DevelopmeNT, LLC (Undeveloped Real Estate In Long Branch, NJ)",
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,001 - $2,500 in Interest income from P.V. DEVELOPMENT, LLC (Undeveloped Real Estate in Long Branch, NJ) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "P.V. Development, LLC (Undeveloped Real Estate In Long Branch, NJ)",
           "conflictStatus": "Active"
         },
         {
@@ -30,19 +30,128 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1178",
-              "owner": "P.V. DevelopmeNT, LLC (Undeveloped Real Estate In Long Branch, NJ)",
+              "owneeId": "34949",
+              "owner": "P.V. Development, LLC (Undeveloped Real Estate In Long Branch, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "Pier Village III JV LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34951",
+              "owner": "Pier Village III JV LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34951",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "PIER VILLAGE III URBAN RENEWAL COMPANY, LLC (Undeveloped Real Estate in Long Branch, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Non-member Manager of P.V. Development, LLC from Nov 1, 2015, to Jan 1, 2017. Jared Kushner received $1,001 - $2,500 in Interest income from P.V. DEVELOPMENT, LLC (Undeveloped Real Estate in Long Branch, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest.",
+          "business": "P.V. Development, LLC (Undeveloped Real Estate In Long Branch, NJ)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34949",
+              "owner": "P.V. Development, LLC (Undeveloped Real Estate In Long Branch, NJ)",
               "percentage": ""
             }
           ],
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as Vice President of Pier Village III JV LLC from Jul 1, 2015, to Jan 1, 2017.",
           "business": "Pier Village III JV LLC",
-          "conflictStatus": "Resolved"
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34951",
+              "owner": "Pier Village III JV LLC",
+              "percentage": ""
+            },
+            {
+              "owneeId": "34951",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "PIER VILLAGE III URBAN RENEWAL COMPANY, LLC (Undeveloped Real Estate in Long Branch, NJ)",
+          "conflictStatus": "Active"
         }
       ],
       "conflictId": "1094",

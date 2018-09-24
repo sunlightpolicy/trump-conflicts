@@ -15,7 +15,47 @@
           ],
           "ownerships": [
             {
-              "owneeId": "63",
+              "owneeId": "34126",
+              "owner": "Trump Family Members",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "The now-dormant or inactive Donald J Trump Enterprises II LLC is wholly owned by unnamed Trump family members. Any position with the company that he may hold or may have held in the past has not been disclosed.",
+          "business": "Donald J Trump Enterprises II LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34127",
+              "owner": "Trump Family Members",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "The now-inactive Donald J Trump Enterprises III LLC is wholly owned by unnamed Trump family members. Any position with the company that he may hold or may have held in the past has not been disclosed.",
+          "business": "Donald J Trump Enterprises III LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34128",
               "owner": "Trump Family Members",
               "percentage": "100.0"
             }

@@ -2,5 +2,87 @@
   "name": "Flatbush 340 Lender",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33870",
+              "owner": "Flatbush 340 Lender LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33870",
+              "owner": "Flatbush 340 Lender, LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "340 Flatbush Lender LLC (Loan Receivable from 9 Dekalb Owner LLC, Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $100,001 - $1,000,000 and $15,001 - $50,000 in Interest income via two separate transactions from FLATBUSH 340 LENDER, LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Flatbush 340 Lender, LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "33870",
+              "owner": "Flatbush 340 Lender LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY)",
+              "percentage": ""
+            },
+            {
+              "owneeId": "33870",
+              "owner": "Flatbush 340 Lender, LLC (Loan Receivable from 9 Dekalb Owner LLC; Brooklyn, NY)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President and Authorized Signatory of 340 Flatbush Lender, LLC from Dec 1, 2015, to Jan 1, 2017. The business entity holds a loan receivable from 9 Dekalb Owner LLC, Brooklyn, NY.",
+          "business": "340 Flatbush Lender LLC (Loan Receivable from 9 Dekalb Owner LLC, Brooklyn, NY)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3278",
+      "conflict": "Flatbush 340 Lender",
+      "conflictDescription": ""
+    }
+  ]
 }

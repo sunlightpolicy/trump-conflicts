@@ -2,5 +2,53 @@
   "name": "Trump Ice",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35364",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former member/president of Trump Ice LLC, in which Pres. Trump retains ownership interests.",
+          "business": "Trump Ice LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35365",
+              "owner": "DJT Holdings LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/president of the now-dormant or inactive Trump Ice, Inc., in which Pres. Trump retains ownership interests.",
+          "business": "Trump Ice, Inc.",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "3433",
+      "conflict": "Trump Ice",
+      "conflictDescription": ""
+    }
+  ]
 }

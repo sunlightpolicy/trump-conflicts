@@ -23,6 +23,11 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
@@ -30,125 +35,6 @@
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains income from K ONE JOURNAL SQUARE, LLC (Undeveloped Real Estate in Jersey City, NJ) the year before her appointment as her father&#39;s presidential adviser.",
           "business": "K One Journal Square, LLC (Undeveloped Real Estate In Jersey City, NJ)",
-          "conflictStatus": "Active"
-        },
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [
-            {
-              "owneeId": "1009",
-              "owner": "K One Journal Square LLC",
-              "percentage": ""
-            },
-            {
-              "owneeId": "1009",
-              "owner": "K One Journal Square, LLC (Undeveloped Real Estate In Jersey City, NJ)",
-              "percentage": ""
-            }
-          ],
-          "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains income from K2 One Journal Square Member LLC the year before her appointment as her father&#39;s presidential adviser.",
-          "business": "K2 One Journal Square Member LLC",
-          "conflictStatus": "Active"
-        },
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [
-            {
-              "owneeId": "1157",
-              "owner": "K2 One Journal Square Member LLC",
-              "percentage": ""
-            }
-          ],
-          "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains income from One Journal Square Partners Holdings LLC the year before her appointment as her father&#39;s presidential adviser.",
-          "business": "One Journal Square Partners Holdings LLC",
-          "conflictStatus": "Active"
-        },
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [
-            {
-              "owneeId": "1158",
-              "owner": "K2 One Journal Square Member LLC",
-              "percentage": ""
-            }
-          ],
-          "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains income from One Journal Square Tower North Holdings LLC the year before her appointment as her father&#39;s presidential adviser.",
-          "business": "One Journal Square Tower North Holdings LLC",
-          "conflictStatus": "Active"
-        },
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [
-            {
-              "owneeId": "1159",
-              "owner": "K2 One Journal Square Member LLC",
-              "percentage": ""
-            }
-          ],
-          "familyMember": "Ivanka Trump",
-          "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains income from One Journal Square Tower South Holdings LLC the year before her appointment as her father&#39;s presidential adviser.",
-          "business": "One Journal Square Tower South Holdings LLC",
-          "conflictStatus": "Active"
-        },
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner served as Managing Member of K One Journal Square LLC from Feb 1, 2014, to Jan 1, 2017. Jared Kushner received $1,000,001 - $5,000,000 in Capital Gains income from K ONE JOURNAL SQUARE, LLC (Undeveloped Real Estate in Jersey City, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser. Because his interest in this entity reportedly has been divested, the potential conflict of interest is marked in this database as resolved. Capital gains amount is estimated.",
-          "business": "K One Journal Square LLC",
           "conflictStatus": "Resolved"
         },
         {
@@ -161,17 +47,295 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1009",
-              "owner": "K One Journal Square LLC",
+              "owneeId": "34558",
+              "owner": "K One Journal Square, LLC (Undeveloped Real Estate In Jersey City, NJ)",
               "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "K2 One Journal Square Member LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
             },
             {
-              "owneeId": "1009",
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34886",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "One Journal Square Partners Holdings LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34888",
+              "owner": "One Journal Square Partners Holdings LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE PARTNERS MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34890",
+              "owner": "ONE JOURNAL SQUARE PARTNERS MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE PARTNERS URBAN RENEWAL COMPANY LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34892",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "One Journal Square Tower North Holdings LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34894",
+              "owner": "One Journal Square Tower North Holdings LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE TOWER NORTH MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34896",
+              "owner": "ONE JOURNAL SQUARE TOWER NORTH MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE TOWER NORTH URBAN RENEWAL COMPANY LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34898",
+              "owner": "K2 One Journal Square Member LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "One Journal Square Tower South Holdings LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34900",
+              "owner": "One Journal Square Tower South Holdings LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE TOWER SOUTH MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34902",
+              "owner": "ONE JOURNAL SQUARE TOWER SOUTH MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE TOWER SOUTH URBAN RENEWAL COMPANY LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as President of K One Journal Square Manager Corp. (Residential Real Estate in Jersey City, NJ) from Dec 1, 2014, to Jan 1, 2017.",
+          "business": "K One Journal Square Manager Corp. (Residential Real Estate In Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Managing Member of K One Journal Square LLC from Feb 1, 2014, to Jan 1, 2017. Jared Kushner received $1,000,001 - $5,000,000 in Capital Gains income from K ONE JOURNAL SQUARE, LLC (Undeveloped Real Estate in Jersey City, NJ) the year before his appointment as Pres. Trump&#39;s senior adviser. Because his interest in this entity reportedly has been divested, the potential conflict of interest is marked in this database as resolved. Capital gains amount is estimated.",
+          "business": "K One Journal Square, LLC (Undeveloped Real Estate In Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34558",
               "owner": "K One Journal Square, LLC (Undeveloped Real Estate In Jersey City, NJ)",
               "percentage": ""
             }
@@ -191,12 +355,12 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1157",
+              "owneeId": "34886",
               "owner": "K2 One Journal Square Member LLC",
               "percentage": ""
             }
@@ -216,12 +380,62 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1158",
+              "owneeId": "34888",
+              "owner": "One Journal Square Partners Holdings LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE PARTNERS MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34890",
+              "owner": "ONE JOURNAL SQUARE PARTNERS MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE PARTNERS URBAN RENEWAL COMPANY LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34892",
               "owner": "K2 One Journal Square Member LLC",
               "percentage": ""
             }
@@ -241,12 +455,62 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "1159",
+              "owneeId": "34894",
+              "owner": "One Journal Square Tower North Holdings LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE TOWER NORTH MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34896",
+              "owner": "ONE JOURNAL SQUARE TOWER NORTH MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE TOWER NORTH URBAN RENEWAL COMPANY LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34898",
               "owner": "K2 One Journal Square Member LLC",
               "percentage": ""
             }
@@ -254,6 +518,56 @@
           "familyMember": "Jared Kushner",
           "description": "Jared Kushner served as President &amp; Secretary of One Journal Square Tower South Holdings LLC from Dec 1, 2014, to Jan 1, 2017.",
           "business": "One Journal Square Tower South Holdings LLC",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34900",
+              "owner": "One Journal Square Tower South Holdings LLC",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE TOWER SOUTH MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34902",
+              "owner": "ONE JOURNAL SQUARE TOWER SOUTH MEMBER LLC (Undeveloped Real Estate in Jersey City, NJ)",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "ONE JOURNAL SQUARE TOWER SOUTH URBAN RENEWAL COMPANY LLC (Undeveloped Real Estate in Jersey City, NJ)",
           "conflictStatus": "Resolved"
         }
       ],

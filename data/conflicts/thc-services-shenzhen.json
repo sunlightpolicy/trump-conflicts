@@ -15,12 +15,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "283",
+              "owneeId": "35207",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "283",
+              "owneeId": "35207",
               "owner": "THC Services Shenzhen Member Corp.",
               "percentage": "1.0"
             }
@@ -36,19 +36,63 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "282",
+              "owneeId": "35209",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former chairman/director/president of the now-dormant or inactive THC Services Shenzhen Member Corp., in which Pres. Trump retains an ownership interest.",
-          "business": "THC Services Shenzhen Member Corp.",
+          "business": "THC Services Shenzhen Member Corp (Pass-Thru Company for THC Services Shenzen LLC (Dormant/Inactive))",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC SERVICES SHENZHEN LLC (dormant/inactive) from Nov 1, 2014, until Jan 1, 2017.",
+          "business": "THC Services Shenzhen LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35209",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC SERVICES SHENZHEN MEMBER CORP (pass-thru company for THC SERVICES SHENZEN LLC (dormant/inactive)) from Nov 1, 2014, until Jan 1, 2017.",
+          "business": "THC Services Shenzhen Member Corp (Pass-Thru Company for THC Services Shenzen LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "182",

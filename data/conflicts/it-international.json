@@ -2,5 +2,41 @@
   "name": "IT International",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as President, Treasurer, Secretary of IT INTERNATIONAL I LLC (dormant/inactive) from Aug 1, 2016, until Jan 1, 2017.",
+          "business": "IT International I LLC (Dormant/Inactive)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Director, President, Chairman, Treasurer, Secretary of IT INTERNATIONAL I MEMBER CORP (pass- thru company for IT INTERNATIONAL LLC (dormant/inactive)) from Aug 1, 2016, until Jan 1, 2017.",
+          "business": "IT International I Member Corp (Pass- Thru Company for IT International LLC (Dormant/Inactive))",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3384",
+      "conflict": "IT International",
+      "conflictDescription": ""
+    }
+  ]
 }

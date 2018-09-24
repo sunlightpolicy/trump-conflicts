@@ -15,7 +15,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "261",
+              "owneeId": "35170",
               "owner": "Trump International Hotels Management LLC (D/B/A Trump Hotel Collection [Hawaii], Trump Hotel Collection [New York])",
               "percentage": "100.0"
             }
@@ -24,6 +24,40 @@
           "description": "Former president of THC China Development LLC (F/K/A Trump China Development LLC), of which Pres. Trump retains an ownership interest. The company is owned by Trump International Hotels Management LLC, which Trump owned as of his 2016 financial disclosure. The parent company&#39;s current activity status and ownership structure were not articulated in his 2017 disclosure.",
           "business": "THC China Development LLC (F/K/A Trump China Development LLC)",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "35171",
+              "owner": "TBA-1",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump reportedly resigned any positions with THC China Development Management Corp (F/K/A Trump China Development Management Corp) the day before his inauguration in January 2017. According to his 2016 financial disclosure, the company, which he alone owned, was dormant or inactive. Its current activity status and ownership structure were not articulated in his 2017 financial disclosure.",
+          "business": "THC China Development Management Corp (F/K/A Trump China Development Management Corp)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC CHINA DEVELOPMENT LLC (developer) from Sep 1, 2012, until Jan 1, 2017.",
+          "business": "THC China Development LLC (Developer)",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "169",

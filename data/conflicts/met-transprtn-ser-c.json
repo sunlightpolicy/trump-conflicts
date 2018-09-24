@@ -2,32 +2,5 @@
   "name": "Met Transprtn Ser C",
   "description": "",
   "stories": [],
-  "ethics": [
-    {
-      "familyMemberEthics": [
-        {
-          "ethicsDocuments": [
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            }
-          ],
-          "ownerships": [],
-          "familyMember": "Jared Kushner",
-          "description": "Jared Kushner received $2,501 - $5,000 in Interest income from MET TRANSPRTN AUTH NY REVENUE RFDG TRANSPRTN SER C, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
-          "business": "Met Transprtn Auth NY Revenue Rfdg Transprtn Ser C, Bonds",
-          "conflictStatus": "Resolved"
-        }
-      ],
-      "conflictId": "1008",
-      "conflict": "Met Transprtn Ser C",
-      "conflictDescription": ""
-    }
-  ]
+  "ethics": []
 }

@@ -2,5 +2,507 @@
   "name": "New York State",
   "description": "",
   "stories": [],
-  "ethics": []
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $2,501 - $5,000 in Interest income from NEW YORK ST DORM AUTH REVENUES ST SUPPORTED DEBT THIRD GEN RESOLUTION ST UNIV EDL FACS SER A, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York St Dorm Auth Revenues St Supported Debt Third Gen Resolution St UnIV Edl Facs Ser A, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $2,501 - $5,000 in Interest income from NEW YORK ST DORM AUTH REVS NONST SUPPORTED DEBT CORNELL UNIV B, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York St Dorm Auth Revs Nonst Supported Debt Cornell Univ B, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,001 - $2,500 in Interest Capital Gains income from NEW YORK ST DORM AUTH SALES TAX REVENUE RFDG SER A, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York St Dorm Auth Sales Tax Revenue Rfdg Ser A, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,001 - $2,500 in Capital Gains Interest income from NEW YORK ST DORM AUTH ST PERSONAL INCOME TAX REVENUE RFDG SER E, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York St Dorm Auth St Personal Income Tax Revenue Rfdg Ser E, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,001 - $2,500 in Interest income from NEW YORK ST DORM AUTH ST PERSONAL INCOME TAX REVENUE UNREFUNDED SER A, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "NEW YORK ST DORM AUTH ST PERSONAL INCOME TAX REVENUE UNREFUNDED SER A, bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $5,001 - $15,000 in Interest income from NEW YORK ST ENVIRON FACS CORP ST CLEAN WTR &amp; DRINKING REVOLVING FDSNYC MUN WTR A, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York St Environ Facs Corp St Clean Wtr & Drinking Revolving Fdsnyc MUN Wtr A, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $2,501 - $5,000 in Interest income from NEW YORK ST LOCAL GOVT ASSISTANCE CORP RFDG SUB LIEN SER A, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York St Local Govt Assistance Corp Rfdg Sub Lien Ser A, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $5,001 - $15,000 in Interest income from NEW YORK ST SER A, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York St Ser A, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $201 - $1,000 in Interest income from NEW YORK ST SER E, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York St Ser E, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $1,001 - $2,500 in Interest income from NEW YORK ST THRUWAY AUTH 2ND GEN HIGHWAY &amp; BRIDGE TRUST FUND SER A, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "NEW YORK ST THRUWAY AUTH 2ND GEN HIGHWAY & BRIDGE TRUST FUND SER A, bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $5,001 - $15,000 in Interest income from NEW YORK ST URBAN DEV CORP REV ST PERS INCOME TAX SER A1, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York St Urban Dev Corp Rev St Pers Income Tax Ser A1, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $5,001 - $15,000, $2,501 - $5,000 and $1,001 - $2,500 in Interest income via three transactions from NEW YORK ST, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York St, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump received $2,501 - $5,000 in Interest income from NEW YORK STATE URBAN DEV CORP REV RFDG SVC CONTRACT SER B, bonds the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "New York State Urban Dev Corp Rev Rfdg Svc Contract Ser B, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $2,501 - $5,000 in Interest income from NEW YORK ST DORM AUTH REVENUES ST SUPPORTED DEBT THIRD GEN RESOLUTION ST UNIV EDL FACS SER A, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "New York St Dorm Auth Revenues St Supported Debt Third Gen Resolution St UnIV Edl Facs Ser A, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $2,501 - $5,000 in Interest income from NEW YORK ST DORM AUTH REVS NONST SUPPORTED DEBT CORNELL UNIV B, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "New York St Dorm Auth Revs Nonst Supported Debt Cornell Univ B, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $1,001 - $2,500 in Interest Capital Gains income from NEW YORK ST DORM AUTH SALES TAX REVENUE RFDG SER A, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "New York St Dorm Auth Sales Tax Revenue Rfdg Ser A, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $1,001 - $2,500 in Interest Capital Gains income from NEW YORK ST DORM AUTH ST PERSONAL INCOME TAX REVENUE RFDG SER E, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "New York St Dorm Auth St Personal Income Tax Revenue Rfdg Ser E, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $1,001 - $2,500 in Interest income from NEW YORK ST DORM AUTH ST PERSONAL INCOME TAX REVENUE UNREFUNDED SER A, bonds the year before his appointment as Pres. Trump&#39;s senior adviser. This asset has been divested. After having been inadvertently omitted, this asset was added during the ordinary review process with OGE.",
+          "business": "NEW YORK ST DORM AUTH ST PERSONAL INCOME TAX REVENUE UNREFUNDED SER A, bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $5,001 - $15,000 in Interest income from NEW YORK ST ENVIRON FACS CORP ST CLEAN WTR &amp; DRINKING REVOLVING FDS- NYC MUN WTR A, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "New York St Environ Facs Corp St Clean Wtr & Drinking Revolving Fds- NYc MUN Wtr A, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $2,501 - $5,000 in Interest income from NEW YORK ST LOCAL GOVT ASSISTANCE CORP RFDG SUB LIEN SER A, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "New York St Local Govt Assistance Corp Rfdg Sub Lien Ser A, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $5,001 - $15,000 in Interest income from NEW YORK ST SER A, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "New York St Ser A, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $201 - $1,000 in Interest income from NEW YORK ST SER E, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "New York St Ser E, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "",
+          "business": "NEW YORK ST THRUWAY AUTH 2ND GEN HIGHWAY & BRIDGE TRUST FUND SER A, bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $5,001 - $15,000 in Interest income from NEW YORK ST URBAN DEV CORP REV ST PERS INCOME TAX SER A1, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "New York St Urban Dev Corp Rev St Pers Income Tax Ser A1, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $8,503 - $22,500 in Interest income via three distributions from from NEW YORK ST, bonds the year before his appointment as Pres. Trump's senior adviser. After having been inadvertently omitted, this asset was added during the ordinary review process with OGE. Because this asset reportedly been divested, it is marked as a resolved conflict of interest in this database.",
+          "business": "New York St, Bonds",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $2,501 - $5,000 in Interest income from NEW YORK STATE URBAN DEV CORP REV RFDG SVC CONTRACT SER B, bonds the year before his appointment as Pres. Trump&#39;s senior adviser.",
+          "business": "New York State Urban Dev Corp Rev Rfdg Svc Contract Ser B, Bonds",
+          "conflictStatus": "Resolved"
+        }
+      ],
+      "conflictId": "3171",
+      "conflict": "New York State",
+      "conflictDescription": ""
+    }
+  ]
 }

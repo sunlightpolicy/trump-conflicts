@@ -48,23 +48,28 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "119",
+              "owneeId": "34204",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "119",
+              "owneeId": "34204",
               "owner": "DT Marks Lido Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former member/president of DT Marks Lido LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
-          "business": "DT Marks Lido LLC",
+          "business": "DT Marks Lido LLC (License Deal)",
           "conflictStatus": "Active"
         },
         {
@@ -77,7 +82,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "118",
+              "owneeId": "34207",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
@@ -86,6 +91,50 @@
           "description": "Former director/chairman/president of DT Marks Lido Member Corp., of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
           "business": "DT Marks Lido Member Corp.",
           "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "34204",
+              "owner": "DTTM Operations LLC",
+              "percentage": "99.0"
+            },
+            {
+              "owneeId": "34204",
+              "owner": "DT Marks Lido Member Corp.",
+              "percentage": "1.0"
+            }
+          ],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT MARKS LIDO LLC (license deal) from Jun 1, 2015, until Jan 1, 2017.",
+          "business": "DT Marks Lido LLC (License Deal)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of DT MARKS LIDO MEMBER CORP (pass-thru company for DT MARKS LIDO LLC (license deal)) from Jun 1, 2015, until Jan 1, 2017.",
+          "business": "DT Marks Lido Member Corp (Pass-Thru Company for DT Marks Lido LLC (License Deal))",
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "72",
