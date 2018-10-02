@@ -11,7 +11,16 @@
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
               "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
-            },
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump announced the day before his inauguration that he had resigned from 721 33H Holdings LLC. However, his 2017 financial disclosure reveals that it remains an asset or source of income for his wife, Melania. (See listings for 721 33H Holdings LLC and 721 33H LLC.) Trump is not reporting that he personally holds an ownership stake.",
+          "business": "721 33H Holdings LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
             {
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
@@ -19,8 +28,8 @@
             }
           ],
           "ownerships": [],
-          "familyMember": "Donald Trump",
-          "description": "Pres. Trump announced the day before his inauguration that he had resigned from 721 33H Holdings LLC. However, his 2017 financial disclosure reveals that it remains an asset or source of income for his wife, Melania. (See listings for 721 33H Holdings LLC and 721 33H LLC.) Trump is not reporting that he personally holds an ownership stake.",
+          "familyMember": "Melania Trump",
+          "description": "721 33H Holdings LLC is residential real estate listed as an asset or source of employment income. It is a pass-thru company for 721 3H LLC. Location: New York, NY. Value not readily ascertainable. Melania Trump reported earning None (or less than $201) in income from this asset in 2017.",
           "business": "721 33H Holdings LLC",
           "conflictStatus": "Active"
         }

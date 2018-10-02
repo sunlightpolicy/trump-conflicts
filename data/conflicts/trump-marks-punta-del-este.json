@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35458",
+              "owneeId": "41214",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35458",
+              "owneeId": "41214",
               "owner": "Trump Marks Punta Del Este Manager Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president/member of Trump Marks Punta del Este LLC, in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income.",
+          "description": "Former president/member of Trump Marks Punta del Este LLC, in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and exists to hold license deals that are prospective, inactive, or otherwise do not currently have valuable assets or create income. In 2017, Pres. Trump earned $1,000,001 - $5,00,000 in royalties income from TRUMP MARKS PUNTA DEL ESTE LLC, valued at None (or less than $1,001). Value reported reflects bank account holding only. Additional Underlying Asset: license deal with AETOS SA and FAROY SA - value not readily ascertainable. License holder, Punta Del Este, Uruguay; See attached schedule.",
           "business": "Trump Marks Punta Del Este LLC",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35459",
+              "owneeId": "41215",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }

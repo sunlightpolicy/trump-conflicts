@@ -20,18 +20,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34961",
+              "owneeId": "40717",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34961",
+              "owneeId": "40717",
               "owner": "Pine Hill Development Managing Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of Pine Hill Development LLC, in which Pres. Trump retains an ownership interest.",
+          "description": "Former president of Pine Hill Development LLC, in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned None (or less than $201) in  income from PINE HILL DEVELOPMENT LLC, valued at $100,001 - $250,000. Underlying Assets: golf club. Location: Pine Hill, NJ. See attached schedule.",
           "business": "Pine Hill Development LLC (Golf Club)",
           "conflictStatus": "Active"
         },
@@ -50,7 +50,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34963",
+              "owneeId": "40719",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -75,12 +75,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34961",
+              "owneeId": "40717",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34961",
+              "owneeId": "40717",
               "owner": "Pine Hill Development Managing Member Corp.",
               "percentage": "1.0"
             }
@@ -105,7 +105,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34963",
+              "owneeId": "40719",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

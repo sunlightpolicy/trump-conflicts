@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35543",
+              "owneeId": "41299",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35543",
+              "owneeId": "41299",
               "owner": "Trump Virginia Acquisitions Manager Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member/president of Trump Virginia Acquisitions LLC (F/K/A Virginia Acquisitions LLC), in which Pres. Trump retains an ownership interest.",
+          "description": "Former member/president of Trump Virginia Acquisitions LLC (F/K/A Virginia Acquisitions LLC), in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned 979578 in hotel related revenue income from TRUMP VIRGINIA ACQUISITIONS LLC, valued at $5,000,001 - $25,000,000. Underlying Assets: commercial real estate. Location: Charlottesville, VA. See attached schedule.",
           "business": "Trump Virginia Acquisitions LLC (F/K/A Virginia Acquisitions LLC)",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35544",
+              "owneeId": "41300",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

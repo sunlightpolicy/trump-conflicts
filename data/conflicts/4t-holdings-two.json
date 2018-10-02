@@ -16,7 +16,42 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "39487",
+              "owner": "TTTT Venture LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump retains an ownership interest in the now-dormant or inactive 4T Holdings Two LLC. Any current or former positions he may have held with the company are not reported on his financial disclosures.",
+          "business": "4T Holdings Two LLC (Holding Company for Future Interests In Scion And Szion Manager Entities; New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "41502",
+              "owner": "4T Holdings Two LLC (Holding Company for Future Interests In Scion And Szion Manager Entities; New York, NY)",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "In 2017, Pres. Trump earned 26667 in management fees income from SC CLEVELAND MS MANAGEMENT LLC, valued at None (or less than $1,001). Value reported reflects bank account holding only. Additional Underlying Asset: management deal with CHAWLA POINTE, LLC. Management company, Cleveland, MS; See attached schedule. Value not readily ascertainable.",
+          "business": "SC Cleveland MS Management LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
             {
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
@@ -30,13 +65,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "33731",
+              "owneeId": "39487",
               "owner": "TTTT Venture LLC",
               "percentage": "100.0"
             }
           ],
-          "familyMember": "Donald Trump",
-          "description": "Pres. Trump retains an ownership interest in the now-dormant or inactive 4T Holdings Two LLC. Any current or former positions he may have held with the company are not reported on his financial disclosures.",
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump lists 4T Holdings Two LLC (Holding company for future interests in Scion and Szion manager entities; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income.",
           "business": "4T Holdings Two LLC (Holding Company for Future Interests In Scion And Szion Manager Entities; New York, NY)",
           "conflictStatus": "Active"
         }

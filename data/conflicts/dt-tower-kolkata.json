@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34241",
+              "owneeId": "39997",
               "owner": "DTTM Operations LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34241",
+              "owneeId": "39997",
               "owner": "DT Tower Kolkata Managing Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member/president of DT Tower Kolkata LLC, in which Pres. Trump retains an ownership interest. The company holds a license deal with: Concast Infrastructure Private Limited, Tribeca Creators LLP, Regent Hirise Private Limited, Raj Construction Projects Private Limited, RDB Realty &amp; Infrastructure Limited.",
+          "description": "Former member/president of DT Tower Kolkata LLC, in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $100,001 - $1,000,000 in royalties income from DT TOWER KOLKATA LLC, valued at $1,001 - $15,000. Value reported reflects bank account holding only. Additional Underlying Asset: license deal with CONCAST INFRASTRUCTURE PRIVATE LIMITED, TRIBECA CREATORS LLP, REGENT HIRISE PRIVATE LIMITED, RAJ CONSTRUCTION PROJECTS PRIVATE LIMITED, RDB REALTY & INFRASTRUCTURE LIMITED - value not readily ascertainable. License holder, Kolkata, India; See attached schedule.",
           "business": "DT Tower Kolkata LLC",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34244",
+              "owneeId": "40000",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }

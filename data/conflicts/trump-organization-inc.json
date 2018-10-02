@@ -689,7 +689,22 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "41009",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former director/president/chairman of the now-dormant or inactive The Trump Organization, Inc., of which Pres. Trump retains an ownership interest.",
+          "business": "The Trump Organization, Inc.",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
             {
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
@@ -703,15 +718,15 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35253",
+              "owneeId": "41009",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
-          "familyMember": "Donald Trump",
-          "description": "Former director/president/chairman of the now-dormant or inactive The Trump Organization, Inc., of which Pres. Trump retains an ownership interest.",
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Vice President of THE TRUMP ORGANIZATION, INC. (inactive/dormant) from Mar 1, 2010, until Jan 1, 2017.",
           "business": "The Trump Organization, Inc.",
-          "conflictStatus": "Active"
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "327",

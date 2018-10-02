@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35292",
+              "owneeId": "41048",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35292",
+              "owneeId": "41048",
               "owner": "TNGC Pine Hill Member Corp. (F/K/A Crest Court Member Court)",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of TNGC Pine Hill LLC (F/K/A Crest Court LLC) (Trump National Golf Club - Philadelphia), in which Pres. Trump retains ownership interests.",
+          "description": "Former president of TNGC Pine Hill LLC (F/K/A Crest Court LLC) (Trump National Golf Club - Philadelphia), in which Pres. Trump retains ownership interests. In 2017, Pres. Trump earned $4,377,111 in golf related revenue income from TRUMP NATIONAL GOLF CLUB - PHILADELPHIA, valued at $5,000,001 - $25,000,000. Underlying Assets: golf club. Location: Pine Hill, NJ. See attached schedule.",
           "business": "TNGC Pine Hill LLC (F/K/A Crest Court LLC) (Trump National Golf Club - Philadelphia)",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35293",
+              "owneeId": "41049",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

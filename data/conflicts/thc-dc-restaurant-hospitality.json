@@ -16,7 +16,22 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "40932",
+              "owner": "OPO Hotel Manager LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of THC DC Restaurant Hospitality LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "THC DC Restaurant Hospitality LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
             {
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
@@ -30,13 +45,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35176",
+              "owneeId": "40932",
               "owner": "OPO Hotel Manager LLC",
               "percentage": "100.0"
             }
           ],
-          "familyMember": "Donald Trump",
-          "description": "Former president of THC DC Restaurant Hospitality LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of THC DC RESTAURANT HOSPITALITY LLC from Aug 1, 2015, until Jan 1, 2017. Because she retained an equity interest in its ultimate parent company, Ivanka OPO Hotel Manager LLC, this potential conflict of interest is marked as active.",
           "business": "THC DC Restaurant Hospitality LLC",
           "conflictStatus": "Active"
         }

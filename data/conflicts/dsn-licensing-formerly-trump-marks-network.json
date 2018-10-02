@@ -20,23 +20,23 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34130",
+              "owneeId": "39886",
               "owner": "DSN Licensing Member Corp. (F/K/A Trump Marks Network Member Inc.)",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34130",
+              "owneeId": "39886",
               "owner": "Trump, Donald J.",
               "percentage": "100.0"
             },
             {
-              "owneeId": "34130",
+              "owneeId": "39886",
               "owner": "Trump, Donald J.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member/presdient and owner of DSN Licensing LLC (F/K/A Trump Marks Network LLC), which reportedly was dissolved on Nov. 9, 2016.",
+          "description": "Former director/chairman, president and owner of DSN Licensing Member Corp. (F/K/A Trump Marks Network Member Inc.), which reportedly was dissolved on Nov. 9, 2016.",
           "business": "DSN Licensing Member Corp. (F/K/A Trump Marks Network Member Inc.)",
           "conflictStatus": "Resolved"
         }

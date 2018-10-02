@@ -52,18 +52,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35505",
+              "owneeId": "41261",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35505",
+              "owneeId": "41261",
               "owner": "Trump Panama Hotel Management Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member of Trump Panama Hotel Management LLC, in which Pres. Trump retains an ownership interest.",
+          "description": "Former member of Trump Panama Hotel Management LLC, in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned 458597 in management fees income from TRUMP PANAMA HOTEL MANAGEMENT LLC, valued at None (or less than $1,001). Value reported reflects bank account holding only. Underlying Assets: management agreement. Location: New York, NY. See attached schedule. Value not readily ascertainable.",
           "business": "Trump Panama Hotel Management LLC",
           "conflictStatus": "Active"
         },
@@ -77,7 +77,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35506",
+              "owneeId": "41262",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

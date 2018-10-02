@@ -15,7 +15,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34320",
+              "owneeId": "40076",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -35,18 +35,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34321",
+              "owneeId": "40077",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34321",
+              "owneeId": "40077",
               "owner": "Excel Venture I Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president/secretary/treasurer/member of Excel Venture I LLC, of which Pres. Trump retains an ownership interest.",
+          "description": "Former president/secretary/treasurer/member of Excel Venture I LLC, of which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $100,001 - $1,000,000 in rent income from Excel Venture I LLC, valued at $5,000,001 - $25,000,000. Underlying Assets: residential rental property. Location: St. Martin, French West Indies. See attached schedule.",
           "business": "Excel Venture I LLC",
           "conflictStatus": "Active"
         }

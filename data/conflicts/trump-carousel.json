@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35321",
+              "owneeId": "41077",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35321",
+              "owneeId": "41077",
               "owner": "Trump Carousel Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president/member of Trump Carousel LLC, in which Pres. Trump retains ownership interests. The company holds an operating agreement with the New York City Department of Parks &amp; Recreation.",
+          "description": "Former president/member of Trump Carousel LLC, in which Pres. Trump retains ownership interests. In 2017, Pres. Trump earned 535849 in admissions income from TRUMP CAROUSEL LLC, valued at $1,001 - $15,000. Value reported reflects bank account holding only. Additional Underlying Asset: operating agreement with NEW YORK CITY DEPARTMENT OF PARKS & RECREATION - value not readily ascertainable. Carousel operator, New York, NY. See attached schedule.",
           "business": "Trump Carousel LLC",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35322",
+              "owneeId": "41078",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

@@ -10,27 +10,36 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $15,001 - $50,000 in Capital Gains Interest income from KF- Park Street Capital PE Fund IX, LLC (Financial investments in Park Street Capital Private Equity Fund; Boston, MA) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "KF- Park Street Capital PE Fund IX, LLC (Financial Investments In Park Street Capital Private Equity Fund; Boston, MA)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $15,001 - $50,000 in Capital Gains Interest income from KF- Park Street Capital PE Fund IX, LLC (Financial investments in Park Street Capital Private Equity Fund; Boston, MA) the year before his appointment as Pres. Trump's senior adviser. This asset has been divested. Income amount is estimated.",
           "business": "KF- Park Street Capital PE Fund IX, LLC (Financial Investments In Park Street Capital Private Equity Fund; Boston, MA)",
           "conflictStatus": "Resolved"
         },

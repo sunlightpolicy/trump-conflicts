@@ -10,27 +10,36 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains Interest income from Thrive Capital Partners III, LP (Financial investments; New York, NY) the year before her appointment as her father's presidential adviser.",
+          "business": "Thrive Capital Partners III, LP (Financial investments; New York, NY)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Investment Committee Member of Thrive Capital Partners III, LP from Aug 1, 2012, to Jan 1, 2017. Jared Kushner received $1,000,001 - $5,000,000 in Capital Gains Interest income from Thrive Capital Partners III, LP (Financial investments; New York, NY) the year before his appointment as Pres. Trump's senior adviser. Because his interest in this entity reportedly has been divested, the potential conflict of interest is marked in this database as resolved. Income amount is estimated.",
           "business": "Thrive Capital Partners III, LP (Financial investments; New York, NY)",
           "conflictStatus": "Resolved"
         }

@@ -15,12 +15,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34690",
+              "owneeId": "40446",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34690",
+              "owneeId": "40446",
               "owner": "LFB Acquisition Member Corp.",
               "percentage": "1.0"
             }
@@ -41,7 +41,22 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "40447",
+              "owner": "DJT Holdings Managing Member LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president/director/chairman of LFB Acquisition Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "business": "LFB Acquisition Member Corp. (Pass-Thru Company)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
             {
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
@@ -55,15 +70,15 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34691",
+              "owneeId": "40447",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
-          "familyMember": "Donald Trump",
-          "description": "Former president/director/chairman of LFB Acquisition Member Corp., in which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, and is part of other entity structures.",
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of LFB ACQUISITION MEMBER CORP (pass-thru company) from Nov 1, 2011, until Jan 1, 2017.",
           "business": "LFB Acquisition Member Corp. (Pass-Thru Company)",
-          "conflictStatus": "Active"
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "123",

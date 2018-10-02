@@ -15,7 +15,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35522",
+              "owneeId": "41278",
               "owner": "Trump Ruffin Tower I LLC",
               "percentage": "100.0"
             }
@@ -35,17 +35,17 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35523",
+              "owneeId": "41279",
               "owner": "Hyde Park LLC",
               "percentage": "50.0"
             },
             {
-              "owneeId": "35523",
+              "owneeId": "41279",
               "owner": "Trump Las Vegas Member LLC",
               "percentage": "49.0"
             },
             {
-              "owneeId": "35523",
+              "owneeId": "41279",
               "owner": "Trump Las Vegas Managing Member LLC",
               "percentage": "1.0"
             }
@@ -65,13 +65,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35524",
+              "owneeId": "41280",
               "owner": "Trump Ruffin LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president and director of Trump Ruffin Tower I LLC, in which Pres. Trump retains an ownership interest.",
+          "description": "Former president and director of Trump Ruffin Tower I LLC, in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $6,914,000 (condo sales) and $22,894,946 (hotel related revenue) in condo sales and hotel related revenue income from TRUMP RUFFIN TOWER I LLC, valued at Over $50,000,000. Underlying Assets: commercial real estate. Location: Las Vegas, NV. See attached schedule.",
           "business": "Trump Ruffin Tower I LLC",
           "conflictStatus": "Active"
         }

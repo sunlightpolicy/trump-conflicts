@@ -172,7 +172,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34720",
+              "owneeId": "40476",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -192,18 +192,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34721",
+              "owneeId": "40477",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "100.0"
             },
             {
-              "owneeId": "34721",
+              "owneeId": "40477",
               "owner": "Mar-A-Lago Club, Inc.",
               "percentage": "0.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member/president of Mar-A-Lago Club, L.L.C., in which Pres. Trump retains an ownership interest.",
+          "description": "Former member/president of Mar-A-Lago Club, L.L.C., in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned 25145488 in resort related revenue income from MAR-A-LAGO CLUB, L.L.C., valued at Over $50,000,000. Underlying Assets: resort. Location: Palm Beach, FL. See attached schedule.",
           "business": "Mar-A-Lago Club, L.L.C.",
           "conflictStatus": "Active"
         },

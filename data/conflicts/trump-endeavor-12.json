@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35350",
+              "owneeId": "41106",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35350",
+              "owneeId": "41106",
               "owner": "Trump Endeavor 12 Manager Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of Trump Endeavor 12 LLC (Trump National Doral), in which Pres. Trump retains ownership interests.",
+          "description": "Former president of Trump Endeavor 12 LLC (Trump National Doral), in which Pres. Trump retains ownership interests. In 2017, Pres. Trump earned $74,755,375 in golf resort related revenues income from TRUMP NATIONAL DORAL, valued at Over $50,000,000. Underlying Assets: golf courses & resort. Location: Miami, FL. See attached schedule.",
           "business": "Trump Endeavor 12 LLC (Trump National Doral)",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35351",
+              "owneeId": "41107",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

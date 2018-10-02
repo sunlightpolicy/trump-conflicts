@@ -64,18 +64,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35482",
+              "owneeId": "41238",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35482",
+              "owneeId": "41238",
               "owner": "Trump Miami Resort Management Member Corp",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member/president of Trump Miami Resort Management LLC, in which Pres. Trump retains ownership interests.",
+          "description": "Former member/president of Trump Miami Resort Management LLC, in which Pres. Trump retains ownership interests. In 2017, Pres. Trump earned None (or less than $201) in  income from TRUMP MIAMI RESORT MANAGEMENT LLC, valued at $1,000,001 - $5,000,000. Value reported reflects bank account holding only. Management company - value not readily ascertainable, Miami, FL; See attached schedule.",
           "business": "Trump Miami Resort Management LLC",
           "conflictStatus": "Active"
         },
@@ -89,7 +89,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35483",
+              "owneeId": "41239",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

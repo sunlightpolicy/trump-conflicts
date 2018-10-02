@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34225",
+              "owneeId": "39981",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34225",
+              "owneeId": "39981",
               "owner": "DT Marks Vancouver Manager Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former partner/president of DT Marks Vancouver LP, of which Pres. Trump retains an ownership interest. The company holds a license deal with West Georgia Development Limited Partnership and West Georgia Holdings Inc.",
+          "description": "Former partner/president of DT Marks Vancouver LP, of which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $1,000,001 - $5,000,000 in royalties income from DT MARKS VANCOUVER LP, valued at None (or less than $1,001). Value reported reflects bank account holding only. Additional Underlying Asset: license deal with WEST GEORGIA DEVELOPMENT LIMITED PARTNERSHIP AND WEST GEORGIA HOLDINGS INC. - value not readily ascertainable. License holder, Vancouver, Canada; See attached schedule.",
           "business": "DT Marks Vancouver LP",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34227",
+              "owneeId": "39983",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }

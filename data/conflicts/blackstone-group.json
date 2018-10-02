@@ -10,27 +10,36 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $100,001 - $1,000,000 in (income type not disclosed) income from Blackstone Strategic Alliance Fund II LP the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Blackstone Strategic Alliance Fund II LP",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $100,001 - $1,000,000 in (income type not disclosed) income from Blackstone Strategic Alliance Fund II LP the year before his appointment as Pres. Trump's senior adviser. This asset reportedly is in the divestment process. Filer and his family lack control over, and knowledge of, the underlying assets held by the portfolio funds that the fund has invested in. Therefore, the potential conflict of interest is marked as resolved.",
           "business": "Blackstone Strategic Alliance Fund II LP",
           "conflictStatus": "Resolved"
         }

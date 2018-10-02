@@ -10,27 +10,36 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $2,501 - $5,000 and None (or less than $201) in (income type not disclosed) income via two transactions from A&Q LONG/SHORT STRATEGIES FUND LLC the year before her appointment as her father&#39;s presidential adviser. In the latter transaction, a promissory note arising from a divestment was to be repaid by the first quarter of 2018. Value of payment fixed as of divestment. Filer and her family lack control over, and knowledge of, the underlying assets held by the portfolio funds that the fund has invested in. This potential conflict of interest is marked as active pending confirmation that the promissory note has been paid.",
+          "business": "A&Q Long/Short Strategies Fund LLC",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $2,501 - $5000 in (income type not disclosed) from A&Q Long/Short Strategies Fund LLC the year before his appointment as Pres. Trump's senior adviser. The asset has been divested, from which a promissory note arose. Promissory note will be repaid by the first quarter of 2018. Value of payment fixed as of divestment. Filer and his family lack control over, and knowledge of, the underlying assets held by the portfolio funds that the fund has invested in. This potential conflict of interest is marked as active pending confirmation that the promissory note has been paid.",
           "business": "A&Q Long/Short Strategies Fund LLC",
           "conflictStatus": "Active"
         },

@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35515",
+              "owneeId": "41271",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35515",
+              "owneeId": "41271",
               "owner": "Trump Productions Managing Member Inc.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former director/chairman/president/treasurer/secretary of Trump Productions LLC (F/K/A Rancho Lien LLC), in which Pres. Trump retains an ownership interest.",
+          "description": "Former director/chairman/president/treasurer/secretary of Trump Productions LLC (F/K/A Rancho Lien LLC), in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned 2059048 in production revenue income from TRUMP PRODUCTIONS LLC, valued at $1,000,001 - $5,000,000. Underlying Assets: production company. Location: New York, NY. See attached schedule.",
           "business": "Trump Productions LLC (F/K/A Rancho Lien LLC)",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35516",
+              "owneeId": "41272",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

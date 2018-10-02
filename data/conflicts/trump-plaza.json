@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35513",
+              "owneeId": "41269",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35513",
+              "owneeId": "41269",
               "owner": "Trump Plaza Member Inc. (F/K/A Trump Plaza Corp.)",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member of Trump Plaza LLC, in which Pres. Trump retains an ownership interest.",
+          "description": "Former member of Trump Plaza LLC, in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $1,000,001 - $5,000,000 in rent income from TRUMP PLAZA LLC, valued at $25,000,001 - $50,000,000. Underlying Assets: residential & commercial real estate. Location: New York, NY. See attached schedule.",
           "business": "Trump Plaza LLC",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35514",
+              "owneeId": "41270",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "100.0"
             }

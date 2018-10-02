@@ -10,27 +10,36 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump owes $1,000,001 - $5,000,000 in revolving debt to Bank of America through an unsecured line of credit incurred in 2016 at a rate of LIBOR+2.5%. She also owes $1,000,001 - $5,000,000 in debt to Bank of America through a Note Payable incurred in 2015 at a rate of LIBOR+2.75%, payable on June 15, 2018.",
+          "business": "Bank of America",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner holds an unsecured line of credit worth $1,000,001 - $5,000,000 in revolving debt to Bank of America. The liability was incurred in 2016 at a rate of LIBOR+2.5%. A separate debt of $1,000,001 - $5,000,000, payable June 15, 2018, was incurred in 2015 at a rate of LIBOR+2.75%. Filer holds both the line of credit and the note jointly with his father.",
           "business": "Bank of America",
           "conflictStatus": "Active"
         }

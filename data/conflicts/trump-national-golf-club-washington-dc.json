@@ -15,19 +15,19 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35491",
+              "owneeId": "41247",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35491",
-              "owner": "Trump National Golf Club Washington Dc Member Corp.",
+              "owneeId": "41247",
+              "owner": "Trump National Golf Club Washington DC Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of Trump National Golf Club Washington DC LLC, in which Pres. Trump retains ownership interests.",
-          "business": "Trump National Golf Club Washington Dc LLC",
+          "description": "Former president of Trump National Golf Club Washington DC LLC, in which Pres. Trump retains ownership interests. In 2017, Pres. Trump earned 12735221 in golf related revenue income from TRUMP NATIONAL GOLF CLUB - WASHINGTON DC, valued at Over $50,000,000. Underlying Assets: golf club. Location: Potomac Falls, VA. See attached schedule.",
+          "business": "Trump National Golf Club Washington DC LLC",
           "conflictStatus": "Active"
         },
         {
@@ -40,14 +40,14 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35492",
+              "owneeId": "41248",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
           "description": "Former president/director/chairman of Trump National Golf Club Washington DC Member Corp., in which Pres. Trump retains ownership interests. The company reportedly has no independent value or income, and is part of other entity structures.",
-          "business": "Trump National Golf Club Washington Dc Member Corp.",
+          "business": "Trump National Golf Club Washington DC Member Corp.",
           "conflictStatus": "Active"
         }
       ],

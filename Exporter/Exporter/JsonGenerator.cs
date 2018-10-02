@@ -111,6 +111,7 @@ namespace Phase2 {
         public string lastStory { get; set; }
         public string familyMember { get; set; }
         public string status { get; set; }
+        public string familyMembers { get; set; }
 
         public ConflictSearchJson(string name, string description, string slug,  string stories, string lastStory, string familyMember, string status) {
             this.name = name;
@@ -120,6 +121,7 @@ namespace Phase2 {
             this.lastStory = lastStory;
             this.familyMember = familyMember;
             this.status = status;
+            //this.familyMembers = familyMembers;
         }
     }
 
@@ -231,6 +233,7 @@ namespace Phase2 {
                             , reader["LastStory"].ToString()
                             , reader["FamilyMember"].ToString()
                             , reader["Status"].ToString()
+                            //, reader["FamilyMembers"].ToString()
                         )
                     );
                     Console.WriteLine(conflicts.Count.ToString() + " Conflicts");
@@ -366,22 +369,27 @@ namespace Phase2 {
             return ethics;
         }
 
+         
         private static void AddEthics(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {
 
             var conflictId = reader["ConflictId"].ToString();
             var business = reader["Business"].ToString();
+            var familyMember = reader["FamilyMember"].ToString();
+
+            if (business == "TRIBOROUGH NY BRIDGE & TUNNEL AUTH REVENUES GEN SER A RMKT, bonds")
+                business = "TRIBOROUGH NY BRIDGE & TUNNEL AUTH REVENUES GEN SER A RMKT, bonds";
 
             FamilyMemberBusinessEthicsForConflict lastConflict = (ethicsInfos.Count == 0) ? null : ethicsInfos.Last();
             bool addConflict = ((lastConflict == null) || (lastConflict.conflictId != conflictId));
             if (addConflict) {
-                AddConflict(reader, ethicsInfos);
+                AddFamilyMemberBusinessEthicsForConflict(reader, ethicsInfos);
                 lastConflict = ethicsInfos.Last();
             }
 
             FamilyMemberBusinessWithEthics lastBusiness = null;
             if (lastConflict != null)
                 lastBusiness = (ethicsInfos.Last().familyMemberEthics.Count == 0) ? null : ethicsInfos.Last().familyMemberEthics.Last();
-            bool addBusiness = ((lastBusiness == null) || (lastConflict.familyMemberEthics.Last().business != business));
+            bool addBusiness = ((lastBusiness == null) || ((lastConflict.familyMemberEthics.Last().business != business || (lastConflict.familyMemberEthics.Last().familyMember != familyMember))));
             if (addBusiness) {
                 AddBusiness(reader, ethicsInfos.Last());
                 lastBusiness = ethicsInfos.Last().familyMemberEthics.Last();
@@ -438,7 +446,7 @@ namespace Phase2 {
         }
 
         
-        private static void AddConflict(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {
+        private static void AddFamilyMemberBusinessEthicsForConflict(SqlDataReader reader, List<FamilyMemberBusinessEthicsForConflict> ethicsInfos) {
             ethicsInfos.Add(new FamilyMemberBusinessEthicsForConflict(
                 reader["ConflictID"].ToString()
                 , reader["Conflict"].ToString()

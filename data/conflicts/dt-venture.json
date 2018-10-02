@@ -15,13 +15,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34245",
+              "owneeId": "40001",
               "owner": "DJT Holdings LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of DT Venture I LLC, of which Pres. Trump retains an ownership interest.",
+          "description": "Former president of DT Venture I LLC, of which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned None (or less than $201) in  income from N/K/A DT VENTURE I LLC, valued at $5,000,001 - $25,000,000. Underlying Assets: residential real estate. Location: Palm Beach, FL. See attached schedule.",
           "business": "DT Venture I LLC",
           "conflictStatus": "Active"
         },
@@ -35,7 +35,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34246",
+              "owneeId": "40002",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }
@@ -55,13 +55,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34247",
+              "owneeId": "40003",
               "owner": "DJT Holdings LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of DT Venture II LLC, of which Pres. Trump retains an ownership interest.",
+          "description": "Former president of DT Venture II LLC, of which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned 71500 in management fees income from RITZ CARLTON HOTEL AT 112 CENTRAL PARK SOUTH N/K/A DT VENTURE II LLC, valued at . Underlying Assets: management agreement. Location: New York, NY. Value not readily ascertainable.",
           "business": "DT Venture II LLC (F/K/A Ritz Carlton Hotel At 112 Central Park South)",
           "conflictStatus": "Active"
         },
@@ -75,7 +75,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34248",
+              "owneeId": "40004",
               "owner": "DTTM Operations Managing Member Corp.",
               "percentage": "100.0"
             }

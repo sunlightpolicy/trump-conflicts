@@ -28,7 +28,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35384",
+              "owneeId": "41140",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -48,13 +48,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35385",
+              "owneeId": "41141",
               "owner": "DJT Holdings LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president/member of Trump Las Vegas Development LLC, in which Pres. Trump retains ownership interests.",
+          "description": "Former president/member of Trump Las Vegas Development LLC, in which Pres. Trump retains ownership interests. In 2017, Pres. Trump earned None (or less than $201) in  income from TRUMP LAS VEGAS DEVELOPMENT LLC, valued at $1,000,001 - $5,000,000. Underlying Assets: development deal with TRUMP RUFFIN TOWER I LLC Entity set up to receive development fees, Las Vegas, NV; See attached schedule.",
           "business": "Trump Las Vegas Development LLC",
           "conflictStatus": "Active"
         },
@@ -68,12 +68,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35386",
+              "owneeId": "41142",
               "owner": "DJT Holdings LLC",
               "percentage": "94.0"
             },
             {
-              "owneeId": "35386",
+              "owneeId": "41142",
               "owner": "Trump Las Vegas Corp.",
               "percentage": "6.0"
             }
@@ -93,12 +93,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35387",
+              "owneeId": "41143",
               "owner": "DJT Holdings LLC",
               "percentage": "94.0"
             },
             {
-              "owneeId": "35387",
+              "owneeId": "41143",
               "owner": "Trump Las Vegas Corp.",
               "percentage": "6.0"
             }
@@ -118,14 +118,14 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35388",
+              "owneeId": "41144",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of Trump Las Vegas Sales &amp; Marketing Inc., in which Pres. Trump retains ownership interests. The company holds a sales &amp; marketing deal with Trump Ruffin Tower I LLC.",
-          "business": "Trump Las Vegas Sales &Amp; Marketing Inc.",
+          "description": "Former president of Trump Las Vegas Sales & Marketing Inc., in which Pres. Trump retains ownership interests. In 2017, Pres. Trump earned 193469 in commissions income from Trump Las Vegas Sales & Marketing, Inc., valued at $15,001 - $50,000. Value reported reflects bank account holding only. Additional Underlying Assets: sales & marketing deal with TRUMP RUFFIN TOWER I LLC - value not readily ascertainable. Entity set up to receive brokerage commissions, Las Vegas, NV; See attached schedule.",
+          "business": "Trump Las Vegas Sales & Marketing Inc.",
           "conflictStatus": "Active"
         }
       ],

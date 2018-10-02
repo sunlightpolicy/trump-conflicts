@@ -173,7 +173,16 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Former director of The Donald J. Trump Foundation, Inc., the current activity status and control structures of which are not reported. The foundation received $150,000 from the Victor Pinchuk Foundation and Yalta European Strategy (YES) — an NGO founded by Mr. Pinchuk — for a video speech Trump made in September 2015.",
+          "business": "The Donald J. Trump Foundation, Inc.",
+          "conflictStatus": "Unclear"
+        },
+        {
+          "ethicsDocuments": [
             {
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
@@ -186,10 +195,10 @@
             }
           ],
           "ownerships": [],
-          "familyMember": "Donald Trump",
-          "description": "Former director of The Donald J. Trump Foundation, Inc., the current activity status and control structures of which are not reported. The foundation received $150,000 from the Victor Pinchuk Foundation and Yalta European Strategy (YES) — an NGO founded by Mr. Pinchuk — for a video speech Trump made in September 2015.",
+          "familyMember": "Ivanka Trump",
+          "description": "Former director of the non-profit Donald J. Trump Foundation, from January 2006 through January 2017.",
           "business": "The Donald J. Trump Foundation, Inc.",
-          "conflictStatus": "Unclear"
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "45",

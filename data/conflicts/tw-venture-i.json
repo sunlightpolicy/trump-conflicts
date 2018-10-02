@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35558",
+              "owneeId": "41314",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35558",
+              "owneeId": "41314",
               "owner": "TW Venture I Managing Member Corp",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of TW Venture I LLC, in which Pres. Trump retains an ownership interest.",
+          "description": "Former president of TW Venture I LLC, in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned 75517 in operating income income from TVV VENTURE I LLC, valued at $1,001 - $15,000. Value reported reflects bank account holding only. Additional Underlying Asset: transportation services company - value not readily ascertainable. Palm Beach, FL. See attached schedule.",
           "business": "TW Venture I LLC",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35559",
+              "owneeId": "41315",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

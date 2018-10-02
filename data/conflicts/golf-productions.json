@@ -20,18 +20,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34382",
+              "owneeId": "40138",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34382",
+              "owneeId": "40138",
               "owner": "Golf Productions Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member/president of Golf Productions LLC, of which Pres. Trump retains an ownership interest. The company reportedly has no independent value or income, is not inactive nor dormant, and is not part of an entity structure or license deal.",
+          "description": "Former member/president of Golf Productions LLC, of which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $270,000 in golf related revenue income from Golf Productions LLC, valued at None (or less than $1,001). Value reported reflects bank account holding only. Entity promotes golf business, New York, NY; See attached schedule. Value not readily ascertainable.",
           "business": "Golf Productions LLC (Golf Video Production Company)",
           "conflictStatus": "Active"
         },
@@ -45,7 +45,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34385",
+              "owneeId": "40141",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -70,12 +70,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34382",
+              "owneeId": "40138",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34382",
+              "owneeId": "40138",
               "owner": "Golf Productions Member Corp.",
               "percentage": "1.0"
             }

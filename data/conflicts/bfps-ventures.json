@@ -10,27 +10,36 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $1,000,001 - $5,000,000 in Capital Gains Rent or Royalties income from BFPS VENTURES, LLC (holding company; New York, NY) the year before her appointment as her father&#39;s presidential adviser. Ivanka Trump's financial disclosure states that the conflicting assets of this interest have been divested. However, because the interest itself are retained, this database categorizes the potential conflict as active.",
+          "business": "BFPS Ventures, LLC (Holding Company; New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Managing Member of BFPS Ventures LLC from Sep 1, 2011, to May 1, 2017. Jared Kushner received $1,000,001 - $5,000,000 in Capital Gains Rent or Royalties Interest income from BFPS VENTURES, LLC the year before his appointment as Pres. Trump's senior adviser. Kushner's financial disclosure states that the conflicting assets of this interest have been divested. However, because the interest itself remains owned by Kushner, this database categorizes the potential conflict as active.",
           "business": "BFPS Ventures, LLC (Holding Company; New York, NY)",
           "conflictStatus": "Active"
         }

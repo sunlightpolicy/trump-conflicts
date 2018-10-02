@@ -28,13 +28,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35576",
+              "owneeId": "41332",
               "owner": "RPV Development LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former secretary/president/director of VH Property Corp. (Trump National Golf Club - Los Angeles), in which Pres. Trump retains an ownership interest.",
+          "description": "Former secretary/president/director of VH Property Corp. (Trump National Golf Club - Los Angeles), in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $11,644,421 (golf related revenue) and $9,275,000 (land sales) in golf related revenue and land sales income from TRUMP NATIONAL GOLF CLUB - LOS ANGELES, valued at Over $50,000,000. Underlying Assets: golf course and unsold lots. Location: Los Angeles, CA. See attached schedule.",
           "business": "VH Property Corp. (Trump National Golf Club - Los Angeles)",
           "conflictStatus": "Active"
         },
@@ -48,7 +48,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35577",
+              "owneeId": "41333",
               "owner": "VH Property Corp. (Trump National Golf Club - Los Angeles)",
               "percentage": "100.0"
             }

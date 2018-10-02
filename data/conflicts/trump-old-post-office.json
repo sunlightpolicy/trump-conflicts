@@ -412,23 +412,23 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35496",
+              "owneeId": "41252",
               "owner": "DJT Holdings LLC",
               "percentage": "76.7"
             },
             {
-              "owneeId": "35496",
+              "owneeId": "41252",
               "owner": "Trump Family Members",
               "percentage": "22.3"
             },
             {
-              "owneeId": "35496",
+              "owneeId": "41252",
               "owner": "Trump Old Post Office Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president/member of Trump Old Post Office LLC, in which Pres. Trump retains an ownership interest.",
+          "description": "Former president/member of Trump Old Post Office LLC, in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned 40408037 in hotel related revenue income from TRUMP OLD POST OFFICE LLC, valued at Over $50,000,000. Underlying Assets: hotel. Location: Washington, DC. See attached schedule.",
           "business": "Trump Old Post Office LLC",
           "conflictStatus": "Active"
         },
@@ -442,12 +442,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35497",
+              "owneeId": "41253",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "77.5"
             },
             {
-              "owneeId": "35497",
+              "owneeId": "41253",
               "owner": "Trump Family Members",
               "percentage": "22.5"
             }

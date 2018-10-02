@@ -52,13 +52,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35246",
+              "owneeId": "41002",
               "owner": "The Trump Entrepreneur Initiative LLC (NY Domestic)",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member of The Trump Entrepreneur Initiative LLC (f/k/a Trump University CA LLC). Trump retains an ownership interest.",
+          "description": "Former member of The Trump Entrepreneur Initiative LLC (f/k/a Trump University CA LLC). Trump retains an ownership interest. In 2017, Pres. Trump earned 31190 in residual income income from THE TRUMP ENTREPRENEUR INITIATIVE LLC, valued at $15,001 - $50,000. Value reported reflects bank account holding only. Additional Underlying Asset: seminar program. Location: New York, NY. See attached schedule. Value not readily ascertainable.",
           "business": "The Trump Entrepreneur Initiative LLC (F/K/A Trump University Ca LLC)",
           "conflictStatus": "Active"
         },
@@ -72,17 +72,17 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35247",
+              "owneeId": "41003",
               "owner": "Sexton, Michael",
               "percentage": "4.5"
             },
             {
-              "owneeId": "35247",
+              "owneeId": "41003",
               "owner": "Spitalny, Jonathan",
               "percentage": "3.5"
             },
             {
-              "owneeId": "35247",
+              "owneeId": "41003",
               "owner": "DJT Entrepreneur Managing Member LLC (F/K/A DJT University Managing Member LLC)",
               "percentage": "0.1"
             }

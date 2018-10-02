@@ -28,12 +28,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "33773",
+              "owneeId": "39529",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "99.9"
             },
             {
-              "owneeId": "33773",
+              "owneeId": "39529",
               "owner": "PARC Consulting, Inc.",
               "percentage": "0.1"
             }
@@ -58,13 +58,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "33774",
+              "owneeId": "39530",
               "owner": "40 Wall Development Associates LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Pres. Trump resigned as president of 40 Wall Street Commercial LLC, but retains an ownership interest.",
+          "description": "Pres. Trump resigned as president of 40 Wall Street Commercial LLC, but retains an ownership interest. In 2017, Pres. Trump earned None (or less than $201) in  income from 40 WALL STREET COMMERCIAL LLC, valued at $15,001 - $50,000. Value reported reflects bank account holding only. Entity's other holdings and assets are reported elsewhere; see attached schedule. Payroll company. New York, NY.",
           "business": "40 Wall Street Commercial LLC (Payroll Company)",
           "conflictStatus": "Active"
         },
@@ -78,18 +78,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "33776",
+              "owneeId": "39532",
               "owner": "40 Wall Development Associates LLC",
               "percentage": "99.9"
             },
             {
-              "owneeId": "33776",
+              "owneeId": "39532",
               "owner": "40 Wall Street Member Corp",
               "percentage": "0.1"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Pres. Trump resigned his position from 40 Wall Street LLC, but retains an ownership interest.",
+          "description": "Pres. Trump resigned his position from 40 Wall Street LLC, but retains an ownership interest. In 2017, Pres. Trump earned Over $5,000,000 in rent income from 40 Wall Street LLC, valued at Over $50,000,000. Underlying Assets: commercial real estate. Location: New York, NY. See attached schedule.",
           "business": "40 Wall Street LLC",
           "conflictStatus": "Active"
         },
@@ -103,7 +103,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "33777",
+              "owneeId": "39533",
               "owner": "40 Wall Development Associates LLC",
               "percentage": "100.0"
             }
@@ -128,7 +128,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "33774",
+              "owneeId": "39530",
               "owner": "40 Wall Development Associates LLC",
               "percentage": "100.0"
             }

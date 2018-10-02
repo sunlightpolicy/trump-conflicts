@@ -33,18 +33,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34521",
+              "owneeId": "40277",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34521",
+              "owneeId": "40277",
               "owner": "Jupiter Golf Club Managing Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of Jupiter Golf Club LLC (Trump National Golf Club - Jupiter), in which Pres. Trump retains an ownership interest.",
+          "description": "Former president of Jupiter Golf Club LLC (Trump National Golf Club - Jupiter), in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $14,262,997 in golf related revenue income from TRUMP NATIONAL GOLF CLUB - JUPITER, valued at Over $50,000,000. Underlying Assets: golf club. Location: Jupiter, FL. See attached schedule.",
           "business": "Jupiter Golf Club LLC (Trump National Golf Club - Jupiter)",
           "conflictStatus": "Active"
         },
@@ -63,7 +63,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34523",
+              "owneeId": "40279",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
@@ -88,12 +88,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34521",
+              "owneeId": "40277",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34521",
+              "owneeId": "40277",
               "owner": "Jupiter Golf Club Managing Member Corp.",
               "percentage": "1.0"
             }
@@ -118,7 +118,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34523",
+              "owneeId": "40279",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

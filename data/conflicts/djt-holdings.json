@@ -20,18 +20,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34116",
+              "owneeId": "39872",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34116",
+              "owneeId": "39872",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member &amp; president of DJT Holdings LLC, in which Pres. Trump retains an ownership interest.",
+          "description": "Former member & president of DJT Holdings LLC, in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $50,001 - $100,000 in interest income from DJT HOLDINGS LLC, valued at $1,000,001 - $5,000,000. Value reported reflects bank account only. Entity's other holdings and assets are reported elsewhere; see attached schedule. Holding company, New York, NY.",
           "business": "DJT Holdings LLC (Holding Company)",
           "conflictStatus": "Active"
         },
@@ -50,7 +50,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34118",
+              "owneeId": "39874",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "100.0"
             }
@@ -75,12 +75,12 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34116",
+              "owneeId": "39872",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34116",
+              "owneeId": "39872",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "1.0"
             }
@@ -105,7 +105,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34118",
+              "owneeId": "39874",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "100.0"
             }

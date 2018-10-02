@@ -10,32 +10,47 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [
             {
-              "owneeId": "34568",
+              "owneeId": "40324",
               "owner": "Contingent Rights to Ownership Interests",
               "percentage": ""
             }
           ],
           "familyMember": "Ivanka Trump",
+          "description": "",
+          "business": "KC 215 Moore, LLC (Loan Receivable from Heritage Equities; Brooklyn, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "40324",
+              "owner": "Contingent Rights to Ownership Interests",
+              "percentage": ""
+            }
+          ],
+          "familyMember": "Jared Kushner",
           "description": "",
           "business": "KC 215 Moore, LLC (Loan Receivable from Heritage Equities; Brooklyn, NY)",
           "conflictStatus": "Active"

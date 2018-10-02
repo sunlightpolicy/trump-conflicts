@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35540",
+              "owneeId": "41296",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35540",
+              "owneeId": "41296",
               "owner": "Trump Vineyard Estates Manager Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of Trump Vineyard Estates LLC, in which Pres. Trump retains an ownership interest.",
+          "description": "Former president of Trump Vineyard Estates LLC, in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $100,001 - $1,000,000 in rent income from TRUMP VINEYARD ESTATES LLC, valued at $5,000,001 - $25,000,000. Underlying Assets: vineyard. Location: Charlottesville, VA. See attached schedule.",
           "business": "Trump Vineyard Estates LLC",
           "conflictStatus": "Active"
         },
@@ -40,13 +40,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35541",
+              "owneeId": "41297",
               "owner": "Trump Vineyard Estates LLC",
               "percentage": "100.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president of Trump Vineyard Estates Lot 3 Owner LLC (F/K/A Eric Trump Land Holdings LLC), in which Pres. Trump retains an ownership interest.",
+          "description": "Former president of Trump Vineyard Estates Lot 3 Owner LLC (F/K/A Eric Trump Land Holdings LLC), in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned $100,001 - $1,000,000 in rent income from TRUMP VINEYARD ESTATES LOT 3 OWNER LLC, valued at $500,001 - $1,000,000. Underlying Assets: vineyard. Location: Charlottesville, VA. See attached schedule.",
           "business": "Trump Vineyard Estates Lot 3 Owner LLC (F/K/A Eric Trump Land Holdings LLC)",
           "conflictStatus": "Active"
         },
@@ -60,7 +60,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35542",
+              "owneeId": "41298",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

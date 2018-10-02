@@ -16,7 +16,27 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "40811",
+              "owner": "DJT Holdings LLC",
+              "percentage": "99.9"
             },
+            {
+              "owneeId": "40811",
+              "owner": "Bedford Hills Corp",
+              "percentage": "0.1"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Former president of Seven Springs LLC, in which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned None (or less than $201) in  income from Seven Springs LLC, valued at $25,000,001 - $50,000,000. Underlying Assets: real estate. Location: Mt. Kisco, NY. See attached schedule.",
+          "business": "Seven Springs LLC (Real Estate In Mt. Kisco, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
             {
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
@@ -30,20 +50,20 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35055",
+              "owneeId": "40811",
               "owner": "DJT Holdings LLC",
               "percentage": "99.9"
             },
             {
-              "owneeId": "35055",
+              "owneeId": "40811",
               "owner": "Bedford Hills Corp",
               "percentage": "0.1"
             }
           ],
-          "familyMember": "Donald Trump",
-          "description": "Former president of Seven Springs LLC, in which Pres. Trump retains an ownership interest.",
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump served as Executive Vice President of SEVEN SPRINGS LLC (real estate in Mt. Kisco, NY) from Jun 1, 2010, until Jan 1, 2017.",
           "business": "Seven Springs LLC (Real Estate In Mt. Kisco, NY)",
-          "conflictStatus": "Active"
+          "conflictStatus": "Resolved"
         }
       ],
       "conflictId": "152",

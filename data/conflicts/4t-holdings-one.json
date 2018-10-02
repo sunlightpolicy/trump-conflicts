@@ -16,7 +16,22 @@
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
-            },
+            }
+          ],
+          "ownerships": [
+            {
+              "owneeId": "39485",
+              "owner": "TTTT Venture LLC",
+              "percentage": "100.0"
+            }
+          ],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump retains an ownership interest in the now-dormant or inactive 4T Holdings One LLC. Any current or former positions he may have held with the company are not reported on his financial disclosures.",
+          "business": "4T Holdings One LLC (Holding Company for Future Interests In Trump Hotel Manager Entities; New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
             {
               "name": "DJT 2016",
               "date": "5/18/2016 12:00:00 AM",
@@ -30,13 +45,13 @@
           ],
           "ownerships": [
             {
-              "owneeId": "33729",
+              "owneeId": "39485",
               "owner": "TTTT Venture LLC",
               "percentage": "100.0"
             }
           ],
-          "familyMember": "Donald Trump",
-          "description": "Pres. Trump retains an ownership interest in the now-dormant or inactive 4T Holdings One LLC. Any current or former positions he may have held with the company are not reported on his financial disclosures.",
+          "familyMember": "Ivanka Trump",
+          "description": "Ivanka Trump lists 4T Holdings One LLC (Holding company for future interests in Trump hotel manager entities; New York, NY) as an employment-related asset valued at (no value reported). In the year before taking her unpaid position as assistant to her father in his presidency, she earned (no income reported) in (no income type reported) income.",
           "business": "4T Holdings One LLC (Holding Company for Future Interests In Trump Hotel Manager Entities; New York, NY)",
           "conflictStatus": "Active"
         }

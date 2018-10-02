@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35487",
+              "owneeId": "41243",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35487",
+              "owneeId": "41243",
               "owner": "Trump National Golf Club Colts Neck Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former president/member of Trump National Golf Club Colts Neck LLC, in which Pres. Trump retains ownership interests.",
+          "description": "Former president/member of Trump National Golf Club Colts Neck LLC, in which Pres. Trump retains ownership interests. In 2017, Pres. Trump earned 7118636 in golf related revenue income from TRUMP NATIONAL GOLF CLUB - COLTS NECK, valued at Over $50,000,000. Underlying Assets: golf club. Location: Colts Neck, NJ. See attached schedule.",
           "business": "Trump National Golf Club Colts Neck LLC",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35488",
+              "owneeId": "41244",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

@@ -10,27 +10,36 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $549,429 in Gross Revenue income from COLUMBIA WINDOWS, LLC (Investment in DHD Windows and Doors; New York, NY) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "Columbia Windows, LLC (Investment in DHD Windows and Doors; New York, NY)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $549,429 in Gross Revenue income from COLUMBIA WINDOWS, LLC (Investment in DHD Windows and Doors; New York, NY) the year before his appointment as Pres. Trump's senior adviser. This asset reportedly has been divested.",
           "business": "Columbia Windows, LLC (Investment in DHD Windows and Doors; New York, NY)",
           "conflictStatus": "Resolved"
         }

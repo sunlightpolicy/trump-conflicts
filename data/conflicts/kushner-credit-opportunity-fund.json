@@ -10,27 +10,36 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received None (or less than $201) in (income type not disclosed) income from KUSHNER CREDIT OPPORTUNITY FUND, LLC (Management Company; New York, NY) the year before her appointment as her father&#39;s presidential adviser. This asset has a loan receivable from KCOF - 215 Moore LLC.",
+          "business": "Kushner Credit Opportunity Fund, LLC (Management Company; New York, NY)",
+          "conflictStatus": "Active"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner served as Managing Member of Kushner Credit Opportunity Fund, LLC from Dec 1, 2016, to Jan 1, 2017. Jared Kushner received None (or less than $201) in (income type not disclosed) income from KUSHNER CREDIT OPPORTUNITY FUND, LLC (Management Company; New York, NY) the year before his appointment as Pres. Trump's senior adviser. Because there is no indication his interest in this entity has been divested or placed into a blind trust, it is marked in this database as an active potential conflict of interest. This asset has a loan receivable from KCOF - 215 Moore LLC.",
           "business": "Kushner Credit Opportunity Fund, LLC (Management Company; New York, NY)",
           "conflictStatus": "Active"
         }

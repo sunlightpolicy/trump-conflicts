@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35313",
+              "owneeId": "41069",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "35313",
+              "owneeId": "41069",
               "owner": "Trump Books Manager Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member/president of Trump Books LLC, in which Pres. Trump retains ownership interests.",
+          "description": "In 2017, Pres. Trump earned $2,501 - $55,000 in royalties income from TRUMP BOOKS LLC, valued at None (or less than $1,001). THE MIDAS TOUCH. Value reported reflects bank account holding only. Additional Underlying Asset: book deal with Plata Publishing LLC - value not readily ascertainable. Holder of book contract, New York, NY. See attached schedule. (Published 2011)",
           "business": "Trump Books LLC (The Midas Touch)",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "35314",
+              "owneeId": "41070",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }

@@ -10,27 +10,36 @@
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             },
             {
               "name": "Ethics Document ",
               "date": "7/20/2017 12:00:00 AM",
               "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
-            },
-            {
-              "name": "Ethics Document ",
-              "date": "7/20/2017 12:00:00 AM",
-              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
             }
           ],
           "ownerships": [],
           "familyMember": "Ivanka Trump",
           "description": "Ivanka Trump received $201 - $1,000 in Capital Gains Interest income from KF- C-III RECOVERY FUND II, LLC (Financial investments in C-III Recovery Fund II, LP; Irving, TX) the year before her appointment as her father&#39;s presidential adviser.",
+          "business": "KF- C-III Recovery Fund II, LLC (Financial Investments In C-III Recovery Fund II, LP; Irving, Tx)",
+          "conflictStatus": "Resolved"
+        },
+        {
+          "ethicsDocuments": [
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053458-OGE-Ivanka-20170720.html"
+            },
+            {
+              "name": "Ethics Document ",
+              "date": "7/20/2017 12:00:00 AM",
+              "link": "https://www.documentcloud.org/documents/4053459-OGE-Kushner-20170720.html"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Jared Kushner",
+          "description": "Jared Kushner received $201 - $1,000 in Capital Gains Interest income from KF- C-III RECOVERY FUND II, LLC (Financial investments in C-III Recovery Fund II, LP; Irving, TX) the year before his appointment as Pres. Trump's senior adviser. This asset has been divested.",
           "business": "KF- C-III Recovery Fund II, LLC (Financial Investments In C-III Recovery Fund II, LP; Irving, Tx)",
           "conflictStatus": "Resolved"
         }

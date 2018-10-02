@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34148",
+              "owneeId": "39904",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34148",
+              "owneeId": "39904",
               "owner": "DT Connect II Member Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member/president of DT Connect II LLC. The company&#39;s sole underlying assets are reported as aircraft. Trump retains ownership through The Donald J. Trump Revocable Trust.",
+          "description": "Former member/president of DT Connect II LLC. The company's sole underlying assets are reported as aircraft. Trump retains ownership through The Donald J. Trump Revocable Trust. In 2017, Pres. Trump earned $50,001 - $100,000 in rent income from DT CONNECT II LLC, valued at $1,000,001 - $5,000,000. Underlying Assets: aircraft. Location: Palm Beach, FL. See attached schedule.",
           "business": "DT Connect II LLC",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34149",
+              "owneeId": "39905",
               "owner": "The Donald J. Trump Revocable Trust",
               "percentage": "100.0"
             }

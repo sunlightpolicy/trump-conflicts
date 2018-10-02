@@ -15,18 +15,18 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34769",
+              "owneeId": "40525",
               "owner": "DJT Holdings LLC",
               "percentage": "99.0"
             },
             {
-              "owneeId": "34769",
+              "owneeId": "40525",
               "owner": "Mobile Payroll Construction Manager Corp.",
               "percentage": "1.0"
             }
           ],
           "familyMember": "Donald Trump",
-          "description": "Former member/president of Mobile Payroll Construction LLC, of which Pres. Trump retains an ownership interest.",
+          "description": "Former member/president of Mobile Payroll Construction LLC, of which Pres. Trump retains an ownership interest. In 2017, Pres. Trump earned None (or less than $201) in  income from MOBILE PAYROLL CONSTRUCTION LLC, valued at $50,001 - $100,000. Value reported reflects bank account holding only. Additional Underlying Asset: none. Payroll company, Bedminster, NJ; See attached schedule.",
           "business": "Mobile Payroll Construction LLC",
           "conflictStatus": "Active"
         },
@@ -40,7 +40,7 @@
           ],
           "ownerships": [
             {
-              "owneeId": "34770",
+              "owneeId": "40526",
               "owner": "DJT Holdings Managing Member LLC",
               "percentage": "100.0"
             }
