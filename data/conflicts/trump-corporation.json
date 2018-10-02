@@ -1,6 +1,9 @@
 {
   "name": "Trump Corporation",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [],
   "ethics": [
     {

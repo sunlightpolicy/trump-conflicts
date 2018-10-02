@@ -1,6 +1,9 @@
 {
   "name": "Donald J. Trump Revocable Trust",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [
     {
       "description": "",

@@ -1,6 +1,9 @@
 {
   "name": "Trump National Golf Club Member",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [],
   "ethics": [
     {

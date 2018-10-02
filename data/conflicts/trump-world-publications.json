@@ -1,6 +1,9 @@
 {
   "name": "Trump World Publications",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [],
   "ethics": [
     {

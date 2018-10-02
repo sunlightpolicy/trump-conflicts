@@ -1,6 +1,9 @@
 {
   "name": "Trump Follies",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [],
   "ethics": [
     {

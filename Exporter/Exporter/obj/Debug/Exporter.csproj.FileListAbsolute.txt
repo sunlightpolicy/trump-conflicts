@@ -21,3 +21,4 @@ C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.csproj.CoreCompileInputs
 C:\trump-conflicts\Exporter\Exporter\bin\Debug\Newtonsoft.Json.dll
 C:\trump-conflicts\Exporter\Exporter\bin\Debug\Newtonsoft.Json.xml
 C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.csproj.CopyComplete
+C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.csprojResolveAssemblyReference.cache

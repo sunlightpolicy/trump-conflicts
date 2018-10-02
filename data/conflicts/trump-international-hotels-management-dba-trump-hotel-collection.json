@@ -1,6 +1,9 @@
 {
   "name": "Trump International Hotels Management D/B/A Trump Hotel Collection",
   "description": "Trump International Hotels Management, also known as the Trump Hotel Collection, is a management company for the hotels owned by President Trump. The company has hotels across the United States and around the world bearing the Trump name, including in Las Vegas, Washington, D.C. and Vancouver.",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [
     {
       "description": "Trump International Hotels Management, also known as the Trump Hotel Collection, is a management company for the hotels owned by President Trump. The company has hotels across the United States and around the world bearing the Trump name, including in Las Vegas, Washington, D.C. and Vancouver.",

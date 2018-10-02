@@ -1,6 +1,11 @@
 {
   "name": "JP Morgan",
   "description": "",
+  "familyMembers": [
+    "Donald Trump",
+    "Ivanka Trump",
+    "Jared Kushner"
+  ],
   "stories": [],
   "ethics": [
     {

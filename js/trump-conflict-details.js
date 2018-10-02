@@ -35,11 +35,11 @@ function buildConflictPage(data) {
         description = data.description;
     }
 
-    var conflict = d3.select('#conflict');
-    conflict.text(name);
+/*     var conflict = d3.select('#conflict');
+    conflict.text(name); */
 
-    /* var conflict2 = d3.select('#conflict-title');
-    conflict.text(familyMemberPhotos(d)); */
+    var conflictDiv = d3.select('#conflict-title');
+    conflictDiv.html(familyMemberPhotos(data) + '<span class="conflict-page-title">' + name + '</span>'); 
 
     var conflictDescription = d3.select('#conflictDescription');
     conflictDescription.text(description);
@@ -52,7 +52,7 @@ function buildConflictPage(data) {
 function familyMemberPhotos(d) {
     let images = "";
     d.familyMembers.forEach(function (familyMember) {
-        images = images + '<img class="tiny-photo" src="img/' + familyMember + '.jpg" alt="' + familyMember + '" height="48">';
+        images = images + '<img class="tiny-photo" src="img/' + familyMember + '.jpg" alt="' + familyMember + '" height="64">';
     });
     return images;
 }

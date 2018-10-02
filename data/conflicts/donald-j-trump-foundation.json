@@ -1,6 +1,10 @@
 {
   "name": "Donald J. Trump Foundation",
   "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
+  "familyMembers": [
+    "Donald Trump",
+    "Ivanka Trump"
+  ],
   "stories": [
     {
       "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",

@@ -1,6 +1,9 @@
 {
   "name": "Trump Palace Condominium",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [],
   "ethics": [
     {

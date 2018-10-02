@@ -1,6 +1,9 @@
 {
   "name": "Trump Tower Managing Member",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [
     {
       "description": "",

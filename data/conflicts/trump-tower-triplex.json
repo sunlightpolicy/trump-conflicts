@@ -1,6 +1,9 @@
 {
   "name": "Trump Tower Triplex",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [],
   "ethics": [
     {

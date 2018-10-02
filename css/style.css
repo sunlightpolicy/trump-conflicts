@@ -41,7 +41,7 @@ h1 {
 }
 
 h2 {
-    margin: 1.3rem 1.3rem .3rem .5rem;
+    margin: 1.1rem 1.3rem .3rem .5rem;
     font-size: 1.2rem;
 }
 
@@ -207,7 +207,18 @@ input {
 
 .conflict-header {
     display: flex;
-    align-items: center; /* align vertical */
+    align-items: center; 
+}
+
+#conflict-title {
+    display: flex;
+    align-items: center; 
+}
+
+.conflict-page-title {
+    color: var(--dark-grey-text);
+    font-weight: bold;
+    font-size: 1.4rem;
 }
 
 .conflict-summary:hover{
@@ -290,7 +301,7 @@ p.conflict-description {
 }
 
 .tiny-photo {
-    margin: 2px 8px 0px 2px;
+    margin: 4px 8px 0px 4px;
 }
 
 
@@ -298,10 +309,10 @@ p.conflict-description {
     font-size: 0.9rem;
     font-weight: bold;
     color: #222;
-    float: left;
     cursor:pointer;
     margin-left: 10px;
     margin-bottom: 5px;
+    display: block;
 }
 
 .close:hover {
@@ -396,7 +407,7 @@ p.conflict-description {
     text-align: left;
     text-decoration: none;
     border-bottom: 1px solid var(--table-text-color);
-    padding: padding-top: 0.4rem;
+    padding-top: 0.4rem;
 }
 
 .conflict-page {

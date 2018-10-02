@@ -1,6 +1,9 @@
 {
   "name": "Trump Classic Cars",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [],
   "ethics": [
     {

@@ -1,6 +1,9 @@
 {
   "name": "Trump Management",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [],
   "ethics": [
     {

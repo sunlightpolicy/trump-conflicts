@@ -1,6 +1,10 @@
 {
   "name": "Home Depot",
   "description": "",
+  "familyMembers": [
+    "Ivanka Trump",
+    "Jared Kushner"
+  ],
   "stories": [],
   "ethics": [
     {

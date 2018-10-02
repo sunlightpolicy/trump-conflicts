@@ -1,6 +1,9 @@
 {
   "name": "Penguin Random House",
   "description": "Ivanka Trump was also paid a $289,300 advance by Penguin Random House for her book, “Women Who Work,” which she donated to the Ivanka M. Trump Charitable Fund to distribute grants to support women and girls.",
+  "familyMembers": [
+    "Ivanka Trump"
+  ],
   "stories": [
     {
       "description": "Ivanka Trump was also paid a $289,300 advance by Penguin Random House for her book, “Women Who Work,” which she donated to the Ivanka M. Trump Charitable Fund to distribute grants to support women and girls.",

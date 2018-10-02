@@ -1,6 +1,9 @@
 {
   "name": "Charleston Naval Hospital",
   "description": "Donald Trump Jr. is a minority investor in the Charleston Naval Hospital.",
+  "familyMembers": [
+    "Donald Trump Jr."
+  ],
   "stories": [
     {
       "description": "Donald Trump Jr. is a minority investor in the Charleston Naval Hospital.",

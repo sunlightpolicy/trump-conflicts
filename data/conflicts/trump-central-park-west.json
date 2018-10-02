@@ -1,6 +1,9 @@
 {
   "name": "Trump Central Park West",
   "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
   "stories": [],
   "ethics": [
     {

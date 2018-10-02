@@ -1,6 +1,10 @@
 {
   "name": "Mar-a-Lago Club",
   "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
+  "familyMembers": [
+    "Donald Trump",
+    "Ivanka Trump"
+  ],
   "stories": [
     {
       "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",

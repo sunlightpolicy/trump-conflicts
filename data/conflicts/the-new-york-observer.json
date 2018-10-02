@@ -1,6 +1,9 @@
 {
   "name": "The New York Observer",
   "description": "",
+  "familyMembers": [
+    "Jared Kushner"
+  ],
   "stories": [
     {
       "description": "",

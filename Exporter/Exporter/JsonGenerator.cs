@@ -79,6 +79,7 @@ namespace Phase2 {
 
         public string name { get; set; }
         public string description { get; set; }
+        public List<string> familyMembers { get; set; }
 
         public List<Conflicts.Story> stories { get; set; }
 
@@ -89,9 +90,10 @@ namespace Phase2 {
         }
 
 
-        public ConflictJson(string name, string description, string slug, 
+        public ConflictJson(string name, string description, string slug,
             List<Conflicts.Story> stories, 
-            List<FamilyMemberBusinessEthicsForConflict> ethics ) {
+            List<FamilyMemberBusinessEthicsForConflict> ethics,
+            List<string> familyMembers) {
 
             this.name = name;
             this.description = description;
@@ -99,6 +101,7 @@ namespace Phase2 {
 
             this.stories = stories;
             this.ethics = ethics;
+            this.familyMembers = familyMembers;
         }
     }
 
@@ -190,11 +193,21 @@ namespace Phase2 {
                         , reader["Slug"].ToString()
                         , stories
                         , ethicsList
+                        , GetFamilyMembers(filteredConflicts, reader["Slug"].ToString())
                         )
                     );
             }
             WriteConflictJson(path, conflicts);
             //WriteEthicsJson(path);
+        }
+
+        private static List<string> GetFamilyMembers(List<ConflictSearchJson> conflicts, string slug) {
+            foreach (ConflictSearchJson conflict in conflicts)
+                if (conflict.slug == slug)
+                    return conflict.familyMembers;
+
+            // Shouldn't happen...
+            return new List<string>();
         }
 
         private static void WriteConflictJson(string path, List<ConflictJson> conflicts) {

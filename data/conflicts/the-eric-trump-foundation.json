@@ -1,6 +1,9 @@
 {
   "name": "The Eric Trump Foundation",
   "description": "",
+  "familyMembers": [
+    "Eric Trump"
+  ],
   "stories": [
     {
       "description": "",
