@@ -111,9 +111,9 @@ namespace Phase2 {
         public string lastStory { get; set; }
         public string familyMember { get; set; }
         public string status { get; set; }
-        public string familyMembers { get; set; }
+        public List<string> familyMembers { get; set; }
 
-        public ConflictSearchJson(string name, string description, string slug,  string stories, string lastStory, string familyMember, string status) {
+        public ConflictSearchJson(string name, string description, string slug,  string stories, string lastStory, string familyMember, string status, List<string> familyMembers) {
             this.name = name;
             this.description = description;
             this.slug = slug;
@@ -121,7 +121,7 @@ namespace Phase2 {
             this.lastStory = lastStory;
             this.familyMember = familyMember;
             this.status = status;
-            //this.familyMembers = familyMembers;
+            this.familyMembers = familyMembers;
         }
     }
 
@@ -160,6 +160,7 @@ namespace Phase2 {
 
             WriteConflictSearchJson(path, filteredConflicts);
 
+            // These two are not used in UI
             WriteStoryJson(path, filteredStories);
             WriteStoryCsv(path, filteredStories);
 
@@ -224,6 +225,7 @@ namespace Phase2 {
                     conn.Open();
                     SqlDataReader reader = cmd.ExecuteReader();
 
+                    
                     while (reader.Read())
                         conflicts.Add(new ConflictSearchJson(
                             reader["Conflict"].ToString()
@@ -233,7 +235,7 @@ namespace Phase2 {
                             , reader["LastStory"].ToString()
                             , reader["FamilyMember"].ToString()
                             , reader["Status"].ToString()
-                            //, reader["FamilyMembers"].ToString()
+                            , FamilyMembersForConflict(reader["Conflict"].ToString())
                         )
                     );
                     Console.WriteLine(conflicts.Count.ToString() + " Conflicts");
@@ -241,6 +243,17 @@ namespace Phase2 {
             }
             return conflicts;
         }
+
+
+        private static List<string> FamilyMembersForConflict(string conflict) {
+            var familyMembers = new List<string>();
+            using (SqlDataReader reader = SqlUtil.Query("SELECT FamilyMember FROM ConflictView WHERE Conflict = '" + conflict.Replace("'", "''") + "'")) {
+                while (reader.Read())
+                    familyMembers.Add(reader["FamilyMember"].ToString());
+            }
+            return familyMembers;
+        }
+
 
         //private static void WriteEthicsJson(string path) { 
         //    List<FamilyMemberBusinessEthicsForConflict> ethicsForConflict = MakeEthicsInfos();

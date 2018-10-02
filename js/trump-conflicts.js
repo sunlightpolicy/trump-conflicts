@@ -132,19 +132,27 @@ function conflictResult(d) {
 
     let classes =  "class='conflict-summary' " + ans + " onclick='conflictPopup(\"" + d.slug + "\")' ";
     
-    let title = "<h4 class='conflict-title'>" + d.name + "</h4>";
+    let title = "<span class='conflict-title'>" + d.name + "</span>";
 
-    let stories = "<span class='conflict-stories'>No media accounts of this conflict</span>";
+    let stories = "<h5 class='conflict-stories'>No media accounts of this conflict</h5>";
     if (d.stories == 1)
-        stories = "<span class='conflict-stories'>" + d.stories + " media account, from " + d.lastStory + "</span>";
+        stories = "<h5 class='conflict-stories'>" + d.stories + " media account, from " + d.lastStory + "</h5>";
     if (d.stories > 1)
-        stories = "<span class='conflict-stories'>" + d.stories + " media accounts, most recent " + d.lastStory + "</span>";
+        stories = "<h5 class='conflict-stories'>" + d.stories + " media accounts, most recent " + d.lastStory + "</h5>";
 
     let description = "";
     if (d.description)
         description = "<p class='conflict-description'>" + d.description + "</p>";
 
-    return "<div " + classes + ">" + title + stories + description + "</div>";
+    return "<div " + classes + ">" + "<div class='conflict-header'>" + familyMemberPhotos(d) + title + "</div>" + stories + description + "</div>";
+}
+
+function familyMemberPhotos(d) {
+    let images = "";
+    d.familyMembers.forEach(function (familyMember) {
+        images = images + '<img class="tiny-photo" src="img/' + familyMember + '.jpg" alt="' + familyMember + '" height="38">';
+    });
+    return images;
 }
 
 function dateToYMD(date) {

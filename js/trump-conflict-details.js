@@ -38,11 +38,23 @@ function buildConflictPage(data) {
     var conflict = d3.select('#conflict');
     conflict.text(name);
 
+    /* var conflict2 = d3.select('#conflict-title');
+    conflict.text(familyMemberPhotos(d)); */
+
     var conflictDescription = d3.select('#conflictDescription');
     conflictDescription.text(description);
 
     addStories(data);
     addEthics(data);
+}
+
+
+function familyMemberPhotos(d) {
+    let images = "";
+    d.familyMembers.forEach(function (familyMember) {
+        images = images + '<img class="tiny-photo" src="img/' + familyMember + '.jpg" alt="' + familyMember + '" height="48">';
+    });
+    return images;
 }
 
 function addStories(data) {

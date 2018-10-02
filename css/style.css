@@ -205,6 +205,11 @@ input {
     font-size: 0.8rem;
 }
 
+.conflict-header {
+    display: flex;
+    align-items: center; /* align vertical */
+}
+
 .conflict-summary:hover{
     background-color: #cee2ed;
     cursor:pointer;
@@ -256,22 +261,36 @@ h4.tagline {
 }
 
 
-h4.conflict-title {
+span.conflict-title {
     color: var(--dark-grey-text);
     font-weight: bold;
-    margin-top: 7px;
-    margin-bottom: 3px;
+    font-size: 1.0rem;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+span.conflict-title:hover {
+    color: var(--black-text);
 }
 
 p.conflict-description {
     margin-top: 5px;
     margin-bottom: 3px;
     font-size: 0.76rem;
+    display: block;
 }
 
 .conflict-stories {
     margin-left: 0.5rem;
-    font-style: italic
+    font-size: 0.75rem;
+    font-style: italic;
+    font-weight: 400;
+    margin-block-start: 0.4em;
+    margin-block-end: 0.4em;
+}
+
+.tiny-photo {
+    margin: 2px 8px 0px 2px;
 }
 
 
@@ -285,16 +304,9 @@ p.conflict-description {
     margin-bottom: 5px;
 }
 
-#conflict-jsonS {
-    font-size: 13px;
-    color: #222;
-    float: right;
-    cursor:pointer;
-    margin-top: 10px;
-    margin-right: 10px;
-    margin-bottom: 5px;
+.close:hover {
+    font-size: 0.94rem;     
 }
-
 
 
 #dc-chart-table .th-pub-date, #dc-chart-table .dc-table-column._0 {

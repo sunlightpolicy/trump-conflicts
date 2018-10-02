@@ -168,6 +168,9 @@ body {
         margin: 0.0rem auto auto auto;
     }
 
+    .tiny-photo {
+        display: none;
+    }
 
     .conflict-page-body {
         overflow-y: auto;
