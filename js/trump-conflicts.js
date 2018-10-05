@@ -4,14 +4,11 @@ var categoryChart;
 var familyMemberChart;
 
 var facts;
-
-
 var searchDim;
 var searchGroup;
 
 // Number of unique conflicts for filter string
 var allConflicts;
-
 
 
 d3.json("data/conflicts.json", function (err, data) {

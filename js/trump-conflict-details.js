@@ -22,6 +22,9 @@ function conflictPopup(conflictSlug) {
     conflictJson.attr("xlink:href", dataUri);
 
     showConflictPage();
+
+    ga('set', 'page', conflictSlug);
+    ga('send', 'pageview');
     
     history.pushState(null, null, "index.html#" + conflictSlug);
 }
