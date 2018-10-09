@@ -1,5 +1,65 @@
 [
   {
+    "description": "",
+    "conflict": "Trump Hotel",
+    "category": "Active",
+    "mediaOutlet": "CNN",
+    "link": "https://www.cnn.com/2018/09/19/politics/trump-organization-midterm-democrats-investigations/index.html",
+    "sourceDate": "2018-09-19T00:00:00",
+    "headline": "Trump Organization prepares for a fight if Democrats win",
+    "conflictId": "253",
+    "conflictSlug": "trump-hotel",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "CNN",
+    "link": "https://www.cnn.com/2018/09/19/politics/trump-organization-midterm-democrats-investigations/index.html",
+    "sourceDate": "2018-09-19T00:00:00",
+    "headline": "Trump Organization prepares for a fight if Democrats win",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
+    "mediaOutlet": "CNN",
+    "link": "https://www.cnn.com/2018/09/19/politics/trump-organization-midterm-democrats-investigations/index.html",
+    "sourceDate": "2018-09-19T00:00:00",
+    "headline": "Trump Organization prepares for a fight if Democrats win",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "NPR",
+    "link": "https://www.npr.org/2018/09/15/648160089/emoluments-lawsuit-moves-a-step-closer-to-trump",
+    "sourceDate": "2018-09-15T00:00:00",
+    "headline": "Emoluments Lawsuit Moves A Step Closer To Trump",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Washington Post",
+    "link": "https://www.washingtonpost.com/local/dc-politics/liquor-board-declines-to-act-on-trumps-liquor-license-after-residents-complain-about-his-character/2018/09/12/9aa6b66a-b6a7-11e8-94eb-3bd52dfe917b_story.html?utm_term=.464116c6ebc2",
+    "sourceDate": "2018-09-12T00:00:00",
+    "headline": "Liquor board declines to act on Trump’s liquor license after residents complain about his character",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "conflict": "Trump Old Post Office",
     "category": "Active",
@@ -7,6 +67,18 @@
     "link": "https://www.cbsnews.com/news/inspector-general-report-trump-involved-in-fbi-headquarters-decision/",
     "sourceDate": "2018-08-28T00:00:00",
     "headline": "Inspector general report: Trump involved in FBI headquarters decision",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "NPR",
+    "link": "https://www.npr.org/2018/08/28/642696449/government-watchdog-raises-questions-about-trumps-decision-not-to-move-fbi",
+    "sourceDate": "2018-08-28T00:00:00",
+    "headline": "Government Watchdog Raises Questions About Trump's Decision Not To Move FBI",
     "conflictId": "325",
     "conflictSlug": "trump-old-post-office",
     "hasEthics": true
@@ -63,6 +135,18 @@
     "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
     "conflict": "Trump Organization Inc.",
     "category": "Active",
+    "mediaOutlet": "NPR",
+    "link": "https://www.npr.org/2018/08/24/641706036/why-the-trump-organizations-business-secrets-may-soon-be-in-the-hands-of-prosecu",
+    "sourceDate": "2018-08-24T00:00:00",
+    "headline": "Why The Trump Organization's Business Secrets May Soon Be In The Hands Of Prosecutors",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
+    "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
     "mediaOutlet": "Reuters",
     "link": "https://mobile.reuters.com/article/amp/idUSKCN1L91MS",
     "sourceDate": "2018-08-24T00:00:00",
@@ -91,6 +175,18 @@
     "link": "https://www.cnn.com/2018/08/22/politics/michael-cohen-trump-foundation-subpoena/index.html",
     "sourceDate": "2018-08-22T00:00:00",
     "headline": "New York tax investigators subpoena Michael Cohen in Trump Foundation probe",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
+    "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
+    "mediaOutlet": "ProPublica",
+    "link": "https://www.propublica.org/article/trump-inc-podcast-michael-cohen-and-paul-manafort-two-cases-that-shook-the-trump-world",
+    "sourceDate": "2018-08-22T00:00:00",
+    "headline": "Michael Cohen and Paul Manafort: Two Cases That Shook the Trump World",
     "conflictId": "327",
     "conflictSlug": "trump-organization-inc",
     "hasEthics": true
@@ -285,6 +381,18 @@
     "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
     "conflictId": "443",
     "conflictSlug": "666-fifth-ave",
+    "hasEthics": false
+  },
+  {
+    "description": "",
+    "conflict": "Bungalow Hotel",
+    "category": "Active",
+    "mediaOutlet": "NJ.COM",
+    "link": "https://www.nj.com/news/index.ssf/2018/08/a_failed_new_york_investment_by_jared_kushner_gets.html",
+    "sourceDate": "2018-08-12T00:00:00",
+    "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
+    "conflictId": "9655",
+    "conflictSlug": "",
     "hasEthics": false
   },
   {
@@ -537,6 +645,18 @@
     "headline": "At President Trump’s hotel in New York, revenue went up this spring — thanks to a visit from big-spending Saudis",
     "conflictId": "263",
     "conflictSlug": "trump-international-hotels-management-dba-trump-hotel-collection",
+    "hasEthics": true
+  },
+  {
+    "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
+    "mediaOutlet": "ProPublica",
+    "link": "https://www.propublica.org/article/trump-inc-podcast-paul-manafort-trial-begins",
+    "sourceDate": "2018-08-02T00:00:00",
+    "headline": "Manafort, Inc.",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
     "hasEthics": true
   },
   {
@@ -1428,6 +1548,18 @@
     "hasEthics": true
   },
   {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Daily Beast",
+    "link": "https://www.thedailybeast.com/delegation-from-mueller-scrutinized-cyprus-gets-sweet-deal-at-trumps-dc-hotel?ref=author",
+    "sourceDate": "2018-06-18T00:00:00",
+    "headline": "Delegation From Mueller-Scrutinized Cyprus Gets Sweet Deal at Trump’s D.C. Hotel",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
     "description": "",
     "conflict": "Trump Turnberry",
     "category": "Active",
@@ -2064,6 +2196,42 @@
     "hasEthics": true
   },
   {
+    "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
+    "conflict": "Mar-a-Lago Club",
+    "category": "Active",
+    "mediaOutlet": "Fast Company",
+    "link": "https://www.fastcompany.com/40577887/why-instagram-is-the-best-window-into-trump-era-corruption",
+    "sourceDate": "2018-05-26T00:00:00",
+    "headline": "Why Instagram is the best window into Trump-era corruption",
+    "conflictId": "124",
+    "conflictSlug": "mar-a-lago-club",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Fast Company",
+    "link": "https://www.fastcompany.com/40577887/why-instagram-is-the-best-window-into-trump-era-corruption",
+    "sourceDate": "2018-05-26T00:00:00",
+    "headline": "Why Instagram is the best window into Trump-era corruption",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
+    "mediaOutlet": "Fast Company",
+    "link": "https://www.fastcompany.com/40577887/why-instagram-is-the-best-window-into-trump-era-corruption",
+    "sourceDate": "2018-05-26T00:00:00",
+    "headline": "Why Instagram is the best window into Trump-era corruption",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
+    "hasEthics": true
+  },
+  {
     "description": "",
     "conflict": "Jupiter Golf Club",
     "category": "Active",
@@ -2121,6 +2289,18 @@
     "headline": "The three biggest surprises in the Trump Organization’s financial filings",
     "conflictId": "124",
     "conflictSlug": "mar-a-lago-club",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Daily Beast",
+    "link": "https://www.thedailybeast.com/trumps-dc-hotel-gave-a-sweetheart-rate-to-a-pro-immigrant-worker-group?ref=author",
+    "sourceDate": "2018-05-21T00:00:00",
+    "headline": "Trump’s D.C. Hotel Gave a Sweetheart Rate to a Pro-Immigrant Worker Group",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
     "hasEthics": true
   },
   {
@@ -2251,6 +2431,18 @@
     "link": "https://www.washingtonpost.com/graphics/2018/politics/trump-hotel-events/?noredirect=on&utm_term=.e324edc7d621",
     "sourceDate": "2018-05-04T00:00:00",
     "headline": "Tracking who is spending money at President Trump’s D.C. hotel",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Conde Nast Traveler",
+    "link": "https://www.cntraveler.com/story/trump-hotel-dc-inside-the-worlds-most-controversial-hotel",
+    "sourceDate": "2018-05-02T00:00:00",
+    "headline": "Inside the World’s Most Controversial Hotel",
     "conflictId": "325",
     "conflictSlug": "trump-old-post-office",
     "hasEthics": true
@@ -2517,6 +2709,18 @@
     "headline": "Trump officials fight eviction from Panama hotel they manage",
     "conflictId": "332",
     "conflictSlug": "trump-panama-hotel-management",
+    "hasEthics": true
+  },
+  {
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "conflict": "Trump Old Post Office",
+    "category": "Active",
+    "mediaOutlet": "Daily Beast",
+    "link": "https://www.thedailybeast.com/trump-hotel-paid-millions-in-fines-for-unpaid-work?ref=wrap?ref=wrap",
+    "sourceDate": "2018-02-23T00:00:00",
+    "headline": "Trump Hotel Paid Millions in Fines for Unpaid Work",
+    "conflictId": "325",
+    "conflictSlug": "trump-old-post-office",
     "hasEthics": true
   },
   {
@@ -2841,6 +3045,42 @@
     "headline": "TRUMP INC: A CHRONICLE OF PRESIDENTIAL CONFLICTS",
     "conflictId": "263",
     "conflictSlug": "trump-international-hotels-management-dba-trump-hotel-collection",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Panama Ocean Club Management",
+    "category": "Active",
+    "mediaOutlet": "McClatchy",
+    "link": "https://www.mcclatchydc.com/news/nation-world/article192131074.html",
+    "sourceDate": "2018-01-02T00:00:00",
+    "headline": "Foreign governments are finding ways to do favors for Trump’s business",
+    "conflictId": "138",
+    "conflictSlug": "panama-ocean-club-management",
+    "hasEthics": true
+  },
+  {
+    "description": "",
+    "conflict": "Trump Hotel",
+    "category": "Active",
+    "mediaOutlet": "McClatchy",
+    "link": "https://www.mcclatchydc.com/news/nation-world/article192131074.html",
+    "sourceDate": "2018-01-02T00:00:00",
+    "headline": "Foreign governments are finding ways to do favors for Trump’s business",
+    "conflictId": "253",
+    "conflictSlug": "trump-hotel",
+    "hasEthics": true
+  },
+  {
+    "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+    "conflict": "Trump Organization Inc.",
+    "category": "Active",
+    "mediaOutlet": "McClatchy",
+    "link": "https://www.mcclatchydc.com/news/nation-world/article192131074.html",
+    "sourceDate": "2018-01-02T00:00:00",
+    "headline": "Foreign governments are finding ways to do favors for Trump’s business",
+    "conflictId": "327",
+    "conflictSlug": "trump-organization-inc",
     "hasEthics": true
   },
   {

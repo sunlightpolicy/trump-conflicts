@@ -1,0 +1,31 @@
+{
+  "name": "First Republic Bank",
+  "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump reported None (or less than $201) in Interest income from this asset for the year 2017. It is valued at $15,001 - $50,000.",
+          "business": "FIRST REPUBLIC BANK - CHECKING",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "9613",
+      "conflict": "First Republic Bank",
+      "conflictDescription": ""
+    }
+  ]
+}

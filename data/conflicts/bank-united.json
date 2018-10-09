@@ -1,0 +1,31 @@
+{
+  "name": "Bank United",
+  "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump reported $1,001 - $2,500 in Interest income from this asset for the year 2017. It is valued at $100,001 - $250,000.",
+          "business": "BANK UNITED, NA - MONEY MARKET",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "9611",
+      "conflict": "Bank United",
+      "conflictDescription": ""
+    }
+  ]
+}

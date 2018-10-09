@@ -816,6 +816,18 @@
     ]
   },
   {
+    "name": "Bank United",
+    "description": "",
+    "slug": "bank-united",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Battery Park City",
     "description": "",
     "slug": "battery-park-city",
@@ -1098,6 +1110,32 @@
     ]
   },
   {
+    "name": "Bungalow Hotel",
+    "description": "",
+    "slug": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
+    "familyMember": "Donald Trump Jr.",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump Jr.",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Bungalow Hotel",
+    "description": "",
+    "slug": "",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump Jr.",
+      "Jared Kushner"
+    ]
+  },
+  {
     "name": "C Development Ventures",
     "description": "",
     "slug": "c-development-ventures",
@@ -1214,6 +1252,18 @@
     ]
   },
   {
+    "name": "Capital One",
+    "description": "",
+    "slug": "capital-one",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Caribusiness",
     "description": "",
     "slug": "caribusiness",
@@ -1272,7 +1322,21 @@
     "familyMember": "Donald Trump Jr.",
     "status": "Resolved",
     "familyMembers": [
-      "Donald Trump Jr."
+      "Donald Trump Jr.",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Charleston Naval Hospital",
+    "description": "Donald Trump Jr. is a minority investor in the Charleston Naval Hospital.",
+    "slug": "charleston-naval-hospital",
+    "stories": "1",
+    "lastStory": "Apr 11, 2015",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved",
+    "familyMembers": [
+      "Donald Trump Jr.",
+      "Jared Kushner"
     ]
   },
   {
@@ -1369,6 +1433,18 @@
     "name": "Chicago Unit Acquisition",
     "description": "",
     "slug": "chicago-unit-acquisition",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Chicago Unit Acquisition LLC",
+    "description": "",
+    "slug": "chicago-unit-acquisition-llc",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -1821,6 +1897,18 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Deutsche Asset & Wealth Management",
+    "description": "",
+    "slug": "deutsche-asset-wealth-management",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -3162,6 +3250,18 @@
     ]
   },
   {
+    "name": "Entertainment Partners",
+    "description": "",
+    "slug": "entertainment-partners",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Erie County, NY",
     "description": "",
     "slug": "erie-county-ny",
@@ -3405,6 +3505,18 @@
       "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "First Republic Bank",
+    "description": "",
+    "slug": "first-republic-bank",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -5627,7 +5739,7 @@
     "name": "Mar-a-Lago Club",
     "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
     "slug": "mar-a-lago-club",
-    "stories": "12",
+    "stories": "13",
     "lastStory": "Aug 20, 2018",
     "familyMember": "Donald Trump",
     "status": "Active",
@@ -5640,7 +5752,7 @@
     "name": "Mar-a-Lago Club",
     "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
     "slug": "mar-a-lago-club",
-    "stories": "12",
+    "stories": "13",
     "lastStory": "Aug 20, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Active",
@@ -5855,6 +5967,18 @@
     "name": "Midland Associates",
     "description": "",
     "slug": "midland-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "MidOcean Credit Partners",
+    "description": "",
+    "slug": "midocean-credit-partners",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Donald Trump",
@@ -6189,9 +6313,23 @@
     "slug": "new-sunshine-llc",
     "stories": "1",
     "lastStory": "Feb 22, 2017",
+    "familyMember": "Ivanka Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Melania Trump"
+    ]
+  },
+  {
+    "name": "New Sunshine LLC",
+    "description": "",
+    "slug": "new-sunshine-llc",
+    "stories": "1",
+    "lastStory": "Feb 22, 2017",
     "familyMember": "Melania Trump",
     "status": "Unclear",
     "familyMembers": [
+      "Ivanka Trump",
       "Melania Trump"
     ]
   },
@@ -6689,7 +6827,7 @@
     "name": "Panama Ocean Club Management",
     "description": "",
     "slug": "panama-ocean-club-management",
-    "stories": "3",
+    "stories": "4",
     "lastStory": "Mar 03, 2018",
     "familyMember": "Donald Trump",
     "status": "Active",
@@ -6702,7 +6840,7 @@
     "name": "Panama Ocean Club Management",
     "description": "",
     "slug": "panama-ocean-club-management",
-    "stories": "3",
+    "stories": "4",
     "lastStory": "Mar 03, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Active",
@@ -7059,6 +7197,18 @@
     "name": "Powerhouse Associates",
     "description": "",
     "slug": "powerhouse-associates",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Jared Kushner",
+    "status": "Resolved",
+    "familyMembers": [
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "President-Elect's Transition Team",
+    "description": "",
+    "slug": "president-elects-transition-team",
     "stories": "0",
     "lastStory": "",
     "familyMember": "Jared Kushner",
@@ -8725,9 +8875,23 @@
     "slug": "the-eric-trump-foundation",
     "stories": "1",
     "lastStory": "Dec 21, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Resolved",
+    "familyMembers": [
+      "Donald Trump",
+      "Eric Trump"
+    ]
+  },
+  {
+    "name": "The Eric Trump Foundation",
+    "description": "",
+    "slug": "the-eric-trump-foundation",
+    "stories": "1",
+    "lastStory": "Dec 21, 2016",
     "familyMember": "Eric Trump",
     "status": "Resolved",
     "familyMembers": [
+      "Donald Trump",
       "Eric Trump"
     ]
   },
@@ -9601,8 +9765,8 @@
     "name": "Trump Hotel",
     "description": "",
     "slug": "trump-hotel",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "2",
+    "lastStory": "Sep 19, 2018",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10501,8 +10665,8 @@
     "name": "Trump Old Post Office",
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "slug": "trump-old-post-office",
-    "stories": "30",
-    "lastStory": "Aug 28, 2018",
+    "stories": "39",
+    "lastStory": "Sep 19, 2018",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10514,8 +10678,8 @@
     "name": "Trump Old Post Office",
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "slug": "trump-old-post-office",
-    "stories": "30",
-    "lastStory": "Aug 28, 2018",
+    "stories": "39",
+    "lastStory": "Sep 19, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -10539,8 +10703,8 @@
     "name": "Trump Organization Inc.",
     "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
     "slug": "trump-organization-inc",
-    "stories": "55",
-    "lastStory": "Aug 24, 2018",
+    "stories": "61",
+    "lastStory": "Sep 19, 2018",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10552,8 +10716,8 @@
     "name": "Trump Organization Inc.",
     "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
     "slug": "trump-organization-inc",
-    "stories": "55",
-    "lastStory": "Aug 24, 2018",
+    "stories": "61",
+    "lastStory": "Sep 19, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [

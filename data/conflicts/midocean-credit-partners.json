@@ -1,0 +1,31 @@
+{
+  "name": "MidOcean Credit Partners",
+  "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "Pres. Trump reported $50,001 - $100,000 in Ordinary Income, Interest income from this asset for the year 2017. It is valued at None (or less than $1,001).",
+          "business": "MIDOCEAN CREDIT OPPORTUNITY FUND LP (MIDOCEAN CREDIT PARTNERS)",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "9615",
+      "conflict": "MidOcean Credit Partners",
+      "conflictDescription": ""
+    }
+  ]
+}

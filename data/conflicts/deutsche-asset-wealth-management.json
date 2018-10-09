@@ -1,0 +1,31 @@
+{
+  "name": "Deutsche Asset & Wealth Management",
+  "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "This asset is valued at None (or less than $1,001), part of DEUTSCHE ASSET & WEALTH MANAGEMENT A/C 2 BOND ACCOUNT - HOLDINGS. In 2017, Dividends totalled $5,001 - $15,000.",
+          "business": "DEUTSCHE GOVERNMENT MONEY MARKET",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "9524",
+      "conflict": "Deutsche Asset & Wealth Management",
+      "conflictDescription": ""
+    }
+  ]
+}

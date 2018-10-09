@@ -34,6 +34,18 @@
       "description": "",
       "conflict": "Panama Ocean Club Management",
       "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/nation-world/article192131074.html",
+      "sourceDate": "2018-01-02T00:00:00",
+      "headline": "Foreign governments are finding ways to do favors for Trump’s business",
+      "conflictId": "138",
+      "conflictSlug": "panama-ocean-club-management",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Panama Ocean Club Management",
+      "category": "Active",
       "mediaOutlet": "Washington Post",
       "link": "https://www.washingtonpost.com/business/economy/a-scramble-to-assess-the-dangers-of-president-elects-global-business-empire/2016/11/20/1bbdc2a2-ad18-11e6-a31b-4b6397e625d0_story.html",
       "sourceDate": "2016-11-20T00:00:00",

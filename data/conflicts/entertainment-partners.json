@@ -1,0 +1,31 @@
+{
+  "name": "Entertainment Partners",
+  "description": "",
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [],
+  "ethics": [
+    {
+      "familyMemberEthics": [
+        {
+          "ethicsDocuments": [
+            {
+              "name": "DJT 2016",
+              "date": "5/18/2016 12:00:00 AM",
+              "link": "https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf"
+            }
+          ],
+          "ownerships": [],
+          "familyMember": "Donald Trump",
+          "description": "In 2017, Pres. Trump earned $201 - $1,000 in royalties income from Entertainment Partners, valued at . Residual income earned from movies/television. Information regarding the specific movies/television programs is not yet available. Should the information become available, it will be later provided. Location: Burbank, CA. Value not readily ascertainable.",
+          "business": "Entertainment Partners",
+          "conflictStatus": "Active"
+        }
+      ],
+      "conflictId": "9522",
+      "conflict": "Entertainment Partners",
+      "conflictDescription": ""
+    }
+  ]
+}
