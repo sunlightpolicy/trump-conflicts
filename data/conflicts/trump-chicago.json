@@ -4,7 +4,56 @@
   "familyMembers": [
     "Donald Trump"
   ],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Trump Chicago",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/11/10/politics/trump-properties-campaign-spending-2018-midterms/index.html",
+      "sourceDate": "2018-11-10T00:00:00",
+      "headline": "Trump properties received $3.2 million during midterms, FEC records show",
+      "conflictId": "3431",
+      "conflictSlug": "trump-chicago",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Chicago",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/10/16/politics/donald-trump-saudi-financial-interests/index.html",
+      "sourceDate": "2018-10-16T00:00:00",
+      "headline": "No financial interests in Saudi Arabia? Trump has said differently before",
+      "conflictId": "3431",
+      "conflictSlug": "trump-chicago",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Chicago",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/2018/10/16/whether-trump-has-financial-interests-saudi-arabia-he-has-plenty-with-country/?utm_term=.a571a3f0706e",
+      "sourceDate": "2018-10-16T00:00:00",
+      "headline": "Whether Trump has financial interests *in* Saudi Arabia, he has plenty *with* the country",
+      "conflictId": "3431",
+      "conflictSlug": "trump-chicago",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Chicago",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/i-like-them-very-much-trump-has-long-standing-business-ties-with-saudis-who-have-boosted-his-hotels-since-he-took-office/2018/10/11/0870df24-cd67-11e8-a360-85875bac0b1f_story.html?utm_term=.a03c219665a7",
+      "sourceDate": "2018-10-11T00:00:00",
+      "headline": "‘I like them very much:’ Trump has long-standing business ties with Saudis, who have boosted his hotels since he took office",
+      "conflictId": "3431",
+      "conflictSlug": "trump-chicago",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [

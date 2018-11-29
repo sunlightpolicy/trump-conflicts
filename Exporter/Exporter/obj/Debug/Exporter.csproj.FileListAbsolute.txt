@@ -30,3 +30,4 @@ C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.csproj.CoreCompileInputs
 C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.csproj.CopyComplete
 C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.exe
 C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.pdb
+C:\trump-conflicts\Exporter\Exporter\obj\Debug\Exporter.csprojResolveAssemblyReference.cache

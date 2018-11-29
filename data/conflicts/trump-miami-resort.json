@@ -9,6 +9,18 @@
       "description": "",
       "conflict": "Trump Miami Resort",
       "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/11/10/politics/trump-properties-campaign-spending-2018-midterms/index.html",
+      "sourceDate": "2018-11-10T00:00:00",
+      "headline": "Trump properties received $3.2 million during midterms, FEC records show",
+      "conflictId": "314",
+      "conflictSlug": "trump-miami-resort",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Miami Resort",
+      "category": "Active",
       "mediaOutlet": "McClatchy",
       "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article210477439.html",
       "sourceDate": "2018-06-19T00:00:00",

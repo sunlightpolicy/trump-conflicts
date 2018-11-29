@@ -9,6 +9,18 @@
       "description": "",
       "conflict": "Trump Panama Hotel Management",
       "category": "Active",
+      "mediaOutlet": "WNYC",
+      "link": "https://www.wnycstudios.org/story/trump-inc-pump-trump-panama",
+      "sourceDate": "2018-10-17T00:00:00",
+      "headline": "Pump and Trump",
+      "conflictId": "332",
+      "conflictSlug": "trump-panama-hotel-management",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Panama Hotel Management",
+      "category": "Active",
       "mediaOutlet": "Business Insider",
       "link": "http://www.businessinsider.com/trump-organization-panama-hotel-conflict-2018-3",
       "sourceDate": "2018-03-03T00:00:00",

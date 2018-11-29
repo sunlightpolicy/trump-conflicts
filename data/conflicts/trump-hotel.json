@@ -9,6 +9,18 @@
       "description": "",
       "conflict": "Trump Hotel",
       "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/i-like-them-very-much-trump-has-long-standing-business-ties-with-saudis-who-have-boosted-his-hotels-since-he-took-office/2018/10/11/0870df24-cd67-11e8-a360-85875bac0b1f_story.html?utm_term=.a03c219665a7",
+      "sourceDate": "2018-10-11T00:00:00",
+      "headline": "‘I like them very much:’ Trump has long-standing business ties with Saudis, who have boosted his hotels since he took office",
+      "conflictId": "253",
+      "conflictSlug": "trump-hotel",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Hotel",
+      "category": "Active",
       "mediaOutlet": "CNN",
       "link": "https://www.cnn.com/2018/09/19/politics/trump-organization-midterm-democrats-investigations/index.html",
       "sourceDate": "2018-09-19T00:00:00",

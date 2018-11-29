@@ -4,7 +4,32 @@
   "familyMembers": [
     "Donald Trump"
   ],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Trump Plaza",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/11/10/politics/trump-properties-campaign-spending-2018-midterms/index.html",
+      "sourceDate": "2018-11-10T00:00:00",
+      "headline": "Trump properties received $3.2 million during midterms, FEC records show",
+      "conflictId": "338",
+      "conflictSlug": "trump-plaza",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Plaza",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/f2120b3a-ced4-11e8-ad0a-0e01efba3cc1_story.html?utm_term=.17d7f35a1df8",
+      "sourceDate": "2018-10-13T00:00:00",
+      "headline": "Trump’s business ties to kingdom run long and deep",
+      "conflictId": "338",
+      "conflictSlug": "trump-plaza",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [

@@ -111,11 +111,12 @@ function addEthics(data) {
     ];
 
     let ethics = data.ethics[0];
-    ethics.familyMemberEthics.forEach(bus => {
-        html += h4(bus.business + " / " + bus.familyMember + " / " + bus.conflictStatus);
-        html += p(bus.description);
-        html += makeTable(cols, bus.ownerships);
-    });
+    if (ethics != null)
+        ethics.familyMemberEthics.forEach(bus => {
+            html += h4(bus.business + " / " + bus.familyMember + " / " + bus.conflictStatus);
+            html += p(bus.description);
+            html += makeTable(cols, bus.ownerships);
+        });
     d3.select('#ethics').html(html);
 }
 

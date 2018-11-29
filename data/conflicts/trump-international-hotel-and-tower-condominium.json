@@ -9,6 +9,18 @@
       "description": "",
       "conflict": "Trump International Hotel And Tower Condominium",
       "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/f2120b3a-ced4-11e8-ad0a-0e01efba3cc1_story.html?utm_term=.17d7f35a1df8",
+      "sourceDate": "2018-10-13T00:00:00",
+      "headline": "Trump’s business ties to kingdom run long and deep",
+      "conflictId": "3350",
+      "conflictSlug": "trump-international-hotel-and-tower-condominium",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump International Hotel And Tower Condominium",
+      "category": "Active",
       "mediaOutlet": "Forbes",
       "link": "https://www.forbes.com/trump-tenants/#4fcc6c891d32",
       "sourceDate": "2018-02-13T00:00:00",

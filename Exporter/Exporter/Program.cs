@@ -12,11 +12,11 @@ namespace Phase2 {
     
         public class Program {
 
-            public static string ImportDate = "September 17 2018";
+            public static string ImportDate = "November 29 2018";
 
             static void Main(string[] args) {
 
-                AirTableLoader.LoadConflictsAndStories("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
+                //AirTableLoader.LoadConflictsAndStories("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\");
                 //AirTableLoader.LoadEthics("c:\\trump-conflicts\\Exporter\\Exporter\\data\\airtable\\", "C:\\trump-conflicts\\Exporter\\Exporter\\db\\Versions\\Updates\\Ethics\\");
            
                 // Queries db and generates json - need to run scripts above before running this
