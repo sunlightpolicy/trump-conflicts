@@ -4,7 +4,32 @@
   "familyMembers": [
     "Ivanka Trump"
   ],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Ivanka Trump Marks",
+      "category": "Active",
+      "mediaOutlet": "CBS News",
+      "link": "https://www.cbsnews.com/amp/news/ivanka-trump-receives-5-trademarks-from-china-amid-trade-talks/",
+      "sourceDate": "2019-01-21T00:00:00",
+      "headline": "Ivanka Trump receives 5 trademarks from China amid trade talks",
+      "conflictId": "3311",
+      "conflictSlug": "ivanka-trump-marks",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump Marks",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://amp.businessinsider.com/ivanka-trump-jared-kushner-net-worth-2019-1",
+      "sourceDate": "2019-01-01T00:00:00",
+      "headline": "How Ivanka Trump and Jared Kushner built their $1.1 billion fortune and how they spend it",
+      "conflictId": "3311",
+      "conflictSlug": "ivanka-trump-marks",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [

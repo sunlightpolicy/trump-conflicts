@@ -10,6 +10,18 @@
       "description": "",
       "conflict": "DT India Venture",
       "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/national/taxpayers-cost-for-trump-jrs-business-trip-to-india-nearly-100k-documents-show/2018/11/15/1ea6153a-9f58-4718-83d8-dff80ad42f9e_story.html?utm_term=.896cb67f10b7",
+      "sourceDate": "2018-11-15T00:00:00",
+      "headline": "Taxpayers’ cost for Trump Jr.’s business trip to India nearly $100K, documents show",
+      "conflictId": "59",
+      "conflictSlug": "dt-india-venture",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "DT India Venture",
+      "category": "Active",
       "mediaOutlet": "NBC Bay Area",
       "link": "https://www.nbcbayarea.com/news/local/San-Francisco-Ethics-Official-Files-Suit-Against-Secret-Service-Over-Trump-Jrs-India-Trip-Records-490844011.html?amp=y",
       "sourceDate": "2018-08-14T00:00:00",

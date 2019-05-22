@@ -358,8 +358,9 @@ namespace Phase2 {
             LoadStories(inputPath + "Stories-Grid view.csv", outputPath);
             LoadStoryConflicts(inputPath + "Stories-Grid view.csv", outputPath);
 
-            WriteSlugs(outputPath);
+           // WriteSlugs(outputPath);
         }
+
 
         public static void WriteSlugs(string outputPath) {
 

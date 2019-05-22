@@ -5,56 +5,7 @@
     "Donald Trump",
     "Ivanka Trump"
   ],
-  "stories": [
-    {
-      "description": "",
-      "conflict": "DT Dubai Golf Manager",
-      "category": "Active",
-      "mediaOutlet": "Washington Post",
-      "link": "https://www.washingtonpost.com/amphtml/politics/as-tariffs-near-trumps-business-empire-includes-china-ties/2018/07/05/9bfd1056-7956-11e8-aeee-4d04c8ac6158_story.html",
-      "sourceDate": "2018-07-05T00:00:00",
-      "headline": "As tariffs near, Trump’s business empire retains ties to China",
-      "conflictId": "56",
-      "conflictSlug": "dt-dubai-golf-manager",
-      "hasEthics": true
-    },
-    {
-      "description": "",
-      "conflict": "DT Dubai Golf Manager",
-      "category": "Active",
-      "mediaOutlet": "Construction Week Online",
-      "link": "http://www.constructionweekonline.com/article-49557-cscec-lands-19m-damac-contract-for-dubais-akoya-oxygen/",
-      "sourceDate": "2018-06-10T00:00:00",
-      "headline": "CSCEC lands $19m Damac contract for Dubai's Akoya Oxygen",
-      "conflictId": "56",
-      "conflictSlug": "dt-dubai-golf-manager",
-      "hasEthics": true
-    },
-    {
-      "description": "",
-      "conflict": "DT Dubai Golf Manager",
-      "category": "Active",
-      "mediaOutlet": "Press Release",
-      "link": "https://www.damacproperties.com/en/media-centre/press-releases/damac-awards-infrastructure-works-contract-at-akoya-oxygen-to-cscec-as-construction-spend",
-      "sourceDate": "2018-06-10T00:00:00",
-      "headline": "DAMAC awards infrastructure works contract at AKOYA Oxygen to CSCEC as construction spend tops AED 5.6 billion",
-      "conflictId": "56",
-      "conflictSlug": "dt-dubai-golf-manager",
-      "hasEthics": true
-    },
-    {
-      "description": "",
-      "conflict": "DT Dubai Golf Manager",
-      "category": "Active",
-      "mediaOutlet": "McClatchy",
-      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article172443417.html",
-      "sourceDate": "2017-09-01T00:00:00",
-      "headline": "Trump promised not to work with foreign entities. His company just did",
-      "conflictId": "56",
-      "conflictSlug": "dt-dubai-golf-manager",
-      "hasEthics": true
-    }
-  ],
+  "stories": [],
   "ethics": [
     {
       "familyMemberEthics": [

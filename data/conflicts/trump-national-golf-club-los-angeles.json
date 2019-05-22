@@ -9,6 +9,18 @@
       "description": "",
       "conflict": "Trump National Golf Club - Los Angeles",
       "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/graphics/2019/politics/trump-statements-of-financial-condition/?noredirect=on&utm_term=.13c08bffe480",
+      "sourceDate": "2019-03-28T00:00:00",
+      "headline": "How Donald Trump inflated his net worth to lenders and investors",
+      "conflictId": "320",
+      "conflictSlug": "trump-national-golf-club-los-angeles",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump National Golf Club - Los Angeles",
+      "category": "Active",
       "mediaOutlet": "McClatchy",
       "link": "https://www.mcclatchydc.com/news/politics-government/white-house/article216249755.html",
       "sourceDate": "2018-08-13T00:00:00",

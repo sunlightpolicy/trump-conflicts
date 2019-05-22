@@ -52,6 +52,7 @@ UPDATE Conflict SET Slug = 'alabama-st-public-sch-clg-auth-cap-impt' WHERE ID = 
 UPDATE Conflict SET Slug = 'algonquin-associates' WHERE ID = 3177
 UPDATE Conflict SET Slug = 'all-county-building-supply-maintenance' WHERE ID = 13
 UPDATE Conflict SET Slug = 'all-county-building-supply-amp-maintenance' WHERE ID = 382
+UPDATE Conflict SET Slug = 'allen-weisselberg' WHERE ID = 9695
 UPDATE Conflict SET Slug = 'amboy-bank' WHERE ID = 9617
 UPDATE Conflict SET Slug = 'american-federation-of-television-and-radio-artists' WHERE ID = 9635
 UPDATE Conflict SET Slug = 'american-idea' WHERE ID = 482
@@ -90,6 +91,7 @@ UPDATE Conflict SET Slug = 'brookfield-asset-management' WHERE ID = 448
 UPDATE Conflict SET Slug = 'bruckner-p-corp' WHERE ID = 3265
 UPDATE Conflict SET Slug = 'bruckner-plaza-center' WHERE ID = 560
 UPDATE Conflict SET Slug = 'brynwood-gardens' WHERE ID = 3245
+UPDATE Conflict SET Slug = 'buffalo-bills' WHERE ID = 9691
 UPDATE Conflict SET Slug = 'bungalow-hotel' WHERE ID = 9655
 UPDATE Conflict SET Slug = 'c-development-ventures' WHERE ID = 19
 UPDATE Conflict SET Slug = 'c-iii-capital-partners' WHERE ID = 3229
@@ -122,6 +124,7 @@ UPDATE Conflict SET Slug = 'chicago-unit-acquisition' WHERE ID = 23
 UPDATE Conflict SET Slug = 'chicago-unit-acquisition-llc' WHERE ID = 9619
 UPDATE Conflict SET Slug = 'china-state-construction-engineering-corp' WHERE ID = 477
 UPDATE Conflict SET Slug = 'china-trademark' WHERE ID = 24
+UPDATE Conflict SET Slug = 'cindy-yang' WHERE ID = 9688
 UPDATE Conflict SET Slug = 'cisco-sys' WHERE ID = 638
 UPDATE Conflict SET Slug = 'cisco-systems' WHERE ID = 3290
 UPDATE Conflict SET Slug = 'citi-group' WHERE ID = 3247
@@ -133,6 +136,7 @@ UPDATE Conflict SET Slug = 'claremount-iv-associates' WHERE ID = 644
 UPDATE Conflict SET Slug = 'clyde-hall' WHERE ID = 25
 UPDATE Conflict SET Slug = 'cna-financial-corporation' WHERE ID = 3267
 UPDATE Conflict SET Slug = 'cna-finl' WHERE ID = 647
+UPDATE Conflict SET Slug = 'cnn' WHERE ID = 9698
 UPDATE Conflict SET Slug = 'colonial-heights-llc' WHERE ID = 3212
 UPDATE Conflict SET Slug = 'columbia-windows' WHERE ID = 648
 UPDATE Conflict SET Slug = 'commerce-department' WHERE ID = 440
@@ -150,9 +154,11 @@ UPDATE Conflict SET Slug = 'daewoo-america' WHERE ID = 33
 UPDATE Conflict SET Slug = 'damac-properties' WHERE ID = 476
 UPDATE Conflict SET Slug = 'dana-farber-cancer-institute' WHERE ID = 430
 UPDATE Conflict SET Slug = 'dartmouth-village' WHERE ID = 3202
+UPDATE Conflict SET Slug = 'david-pecker' WHERE ID = 9696
 UPDATE Conflict SET Slug = 'deer-tree-building-associates' WHERE ID = 668
 UPDATE Conflict SET Slug = 'delaware-funds' WHERE ID = 3226
 UPDATE Conflict SET Slug = 'department-of-defense' WHERE ID = 483
+UPDATE Conflict SET Slug = 'department-of-energy' WHERE ID = 9700
 UPDATE Conflict SET Slug = 'department-of-homeland-security' WHERE ID = 484
 UPDATE Conflict SET Slug = 'deutsche-asset-wealth-management' WHERE ID = 9524
 UPDATE Conflict SET Slug = 'deutsche-bank' WHERE ID = 424
@@ -230,8 +236,10 @@ UPDATE Conflict SET Slug = 'eid-venture-i' WHERE ID = 87
 UPDATE Conflict SET Slug = 'eid-venture-ii' WHERE ID = 88
 UPDATE Conflict SET Slug = 'elmwood-chicago' WHERE ID = 3272
 UPDATE Conflict SET Slug = 'elmwood-v-associates' WHERE ID = 791
+UPDATE Conflict SET Slug = 'energy-fuels' WHERE ID = 9702
 UPDATE Conflict SET Slug = 'energy-transfer-partners' WHERE ID = 393
 UPDATE Conflict SET Slug = 'entertainment-partners' WHERE ID = 9522
+UPDATE Conflict SET Slug = 'environmental-protection-agency-epa' WHERE ID = 9701
 UPDATE Conflict SET Slug = 'erie-county-ny' WHERE ID = 2141
 UPDATE Conflict SET Slug = 'essential-consultants' WHERE ID = 452
 UPDATE Conflict SET Slug = 'ev-jv-partnership' WHERE ID = 3200
@@ -265,6 +273,7 @@ UPDATE Conflict SET Slug = 'fred-c-trump-trust' WHERE ID = 3379
 UPDATE Conflict SET Slug = 'friends-of-idf-israel-defense-forces' WHERE ID = 3170
 UPDATE Conflict SET Slug = 'galbreath-columbus-circle-development-associates' WHERE ID = 96
 UPDATE Conflict SET Slug = 'gallant-funding' WHERE ID = 828
+UPDATE Conflict SET Slug = 'gary-cohn' WHERE ID = 9697
 UPDATE Conflict SET Slug = 'gcm-trust' WHERE ID = 3380
 UPDATE Conflict SET Slug = 'gellert-80-west-end' WHERE ID = 527
 UPDATE Conflict SET Slug = 'general-services-administration' WHERE ID = 97
@@ -331,6 +340,7 @@ UPDATE Conflict SET Slug = 'ivanka-trump-received-15001-50000-in-rent-or-royalti
 UPDATE Conflict SET Slug = 'jp-morgan' WHERE ID = 887
 UPDATE Conflict SET Slug = 'janus-henderson-investors' WHERE ID = 3160
 UPDATE Conflict SET Slug = 'jck-cadre' WHERE ID = 882
+UPDATE Conflict SET Slug = 'jho-low' WHERE ID = 9689
 UPDATE Conflict SET Slug = 'jk-thrive-iv' WHERE ID = 884
 UPDATE Conflict SET Slug = 'jk-thrive-v' WHERE ID = 885
 UPDATE Conflict SET Slug = 'jk2-westminster' WHERE ID = 3243
@@ -439,6 +449,7 @@ UPDATE Conflict SET Slug = 'metlife' WHERE ID = 1010
 UPDATE Conflict SET Slug = 'mgm' WHERE ID = 427
 UPDATE Conflict SET Slug = 'mgmmark-burnett-productions' WHERE ID = 3315
 UPDATE Conflict SET Slug = 'michael-cohen' WHERE ID = 449
+UPDATE Conflict SET Slug = 'michael-flynn' WHERE ID = 9686
 UPDATE Conflict SET Slug = 'microsoft' WHERE ID = 1011
 UPDATE Conflict SET Slug = 'midland-associates' WHERE ID = 126
 UPDATE Conflict SET Slug = 'midocean-credit-partners' WHERE ID = 9615
@@ -452,6 +463,7 @@ UPDATE Conflict SET Slug = 'monmouth-mall' WHERE ID = 782
 UPDATE Conflict SET Slug = 'monmouth-mall-2' WHERE ID = 1019
 UPDATE Conflict SET Slug = 'morgan-stanley' WHERE ID = 402
 UPDATE Conflict SET Slug = 'mt-pleasant' WHERE ID = 3406
+UPDATE Conflict SET Slug = 'murray-energy' WHERE ID = 9699
 UPDATE Conflict SET Slug = 'mz-berger-company' WHERE ID = 3407
 UPDATE Conflict SET Slug = 'nassau-cnty-ny' WHERE ID = 1028
 UPDATE Conflict SET Slug = 'nassau-county-ny' WHERE ID = 3283
@@ -518,6 +530,7 @@ UPDATE Conflict SET Slug = 'observer-media' WHERE ID = 3410
 UPDATE Conflict SET Slug = 'oc-partners' WHERE ID = 1073
 UPDATE Conflict SET Slug = 'ocean-development' WHERE ID = 134
 UPDATE Conflict SET Slug = 'office-of-government-ethics' WHERE ID = 475
+UPDATE Conflict SET Slug = 'old-post-office-hotel' WHERE ID = 9672
 UPDATE Conflict SET Slug = 'one-central-park-west' WHERE ID = 135
 UPDATE Conflict SET Slug = 'onondaga' WHERE ID = 1087
 UPDATE Conflict SET Slug = 'onondaga-county-ny' WHERE ID = 3174
@@ -537,6 +550,7 @@ UPDATE Conflict SET Slug = 'park-lake-village' WHERE ID = 3412
 UPDATE Conflict SET Slug = 'park-lane-mobile-home-park' WHERE ID = 3413
 UPDATE Conflict SET Slug = 'park-street-capital' WHERE ID = 945
 UPDATE Conflict SET Slug = 'partnership-for-new-york-city' WHERE ID = 3414
+UPDATE Conflict SET Slug = 'paul-manafort' WHERE ID = 9685
 UPDATE Conflict SET Slug = 'penguin-random-house' WHERE ID = 471
 UPDATE Conflict SET Slug = 'pepsico' WHERE ID = 1101
 UPDATE Conflict SET Slug = 'pfizer' WHERE ID = 411
@@ -585,8 +599,11 @@ UPDATE Conflict SET Slug = 'royal-bank-america' WHERE ID = 149
 UPDATE Conflict SET Slug = 'royal-bank-of-canada' WHERE ID = 423
 UPDATE Conflict SET Slug = 'rpv-development' WHERE ID = 150
 UPDATE Conflict SET Slug = 'rues-lane-building-corp' WHERE ID = 3424
+UPDATE Conflict SET Slug = 'russia' WHERE ID = 9705
 UPDATE Conflict SET Slug = 'sales-tax-asset-receivable' WHERE ID = 1145
 UPDATE Conflict SET Slug = 'sales-tax-asset-receivable-corp-ny-rfdg-fiscal-2015-ser-a' WHERE ID = 3181
+UPDATE Conflict SET Slug = 'samuel-patten' WHERE ID = 9690
+UPDATE Conflict SET Slug = 'saudi-arabia' WHERE ID = 9676
 UPDATE Conflict SET Slug = 'saudi-arabia-and-emirati-real-estate-and-hotel-deals' WHERE ID = 396
 UPDATE Conflict SET Slug = 'schlumberger-ltd' WHERE ID = 1146
 UPDATE Conflict SET Slug = 'schoolhouse-jv' WHERE ID = 3425
@@ -595,6 +612,7 @@ UPDATE Conflict SET Slug = 'scotland-acquisitions' WHERE ID = 151
 UPDATE Conflict SET Slug = 'screen-actors-guild' WHERE ID = 3426
 UPDATE Conflict SET Slug = 'seven-springs' WHERE ID = 152
 UPDATE Conflict SET Slug = 'shell' WHERE ID = 415
+UPDATE Conflict SET Slug = 'sheri-dillon' WHERE ID = 9693
 UPDATE Conflict SET Slug = 'shore-haven-apt1' WHERE ID = 153
 UPDATE Conflict SET Slug = 'shore-haven-management' WHERE ID = 154
 UPDATE Conflict SET Slug = 'shore-haven-shopping-center' WHERE ID = 155
@@ -621,6 +639,7 @@ UPDATE Conflict SET Slug = 'state-of-utah' WHERE ID = 3205
 UPDATE Conflict SET Slug = 'state-of-virginia' WHERE ID = 3275
 UPDATE Conflict SET Slug = 'state-street-global-advisors' WHERE ID = 3428
 UPDATE Conflict SET Slug = 'state-tower-of-syracuse-associates' WHERE ID = 1186
+UPDATE Conflict SET Slug = 'stefan-passantino' WHERE ID = 9694
 UPDATE Conflict SET Slug = 'stephanie-clifford-aka-stormy-daniels' WHERE ID = 385
 UPDATE Conflict SET Slug = 'stephanie-clifford-akastormy-daniels' WHERE ID = 158
 UPDATE Conflict SET Slug = 'stone-16-associates' WHERE ID = 921
@@ -630,6 +649,7 @@ UPDATE Conflict SET Slug = 't-express' WHERE ID = 161
 UPDATE Conflict SET Slug = 't-international-realty-aka-trump-international-realty' WHERE ID = 386
 UPDATE Conflict SET Slug = 't-international-realty-akatrump-international-realty' WHERE ID = 162
 UPDATE Conflict SET Slug = 't-retail' WHERE ID = 9634
+UPDATE Conflict SET Slug = 't-mobile' WHERE ID = 9692
 UPDATE Conflict SET Slug = 'tag-air' WHERE ID = 163
 UPDATE Conflict SET Slug = 'taylor-edison-jv' WHERE ID = 3429
 UPDATE Conflict SET Slug = 'tc-marks-buenos-aires' WHERE ID = 164
@@ -662,12 +682,14 @@ UPDATE Conflict SET Slug = 'thc-venture-iii-now-tttt-venture' WHERE ID = 187
 UPDATE Conflict SET Slug = 'the-america-we-deserve' WHERE ID = 188
 UPDATE Conflict SET Slug = 'the-art-of-the-comeback' WHERE ID = 189
 UPDATE Conflict SET Slug = 'the-art-of-the-deal' WHERE ID = 190
+UPDATE Conflict SET Slug = 'the-att-building' WHERE ID = 9684
 UPDATE Conflict SET Slug = 'the-best-real-estate-advice-i-ever-received' WHERE ID = 191
 UPDATE Conflict SET Slug = 'the-daily-mail' WHERE ID = 192
 UPDATE Conflict SET Slug = 'the-eric-trump-foundation' WHERE ID = 3330
 UPDATE Conflict SET Slug = 'the-new-york-observer' WHERE ID = 3250
 UPDATE Conflict SET Slug = 'the-obsidian-fund' WHERE ID = 1253
 UPDATE Conflict SET Slug = 'the-patriot-legal-defense-fund-trust-llc' WHERE ID = 474
+UPDATE Conflict SET Slug = 'the-trump-organization' WHERE ID = 9673
 UPDATE Conflict SET Slug = 'the-way-to-the-top' WHERE ID = 193
 UPDATE Conflict SET Slug = 'think-big-and-kick-ass' WHERE ID = 194
 UPDATE Conflict SET Slug = 'think-like-a-billionaire' WHERE ID = 195
@@ -678,6 +700,7 @@ UPDATE Conflict SET Slug = 'thrive-capital-partners-ii' WHERE ID = 1269
 UPDATE Conflict SET Slug = 'thrive-capital-partners-iii' WHERE ID = 1270
 UPDATE Conflict SET Slug = 'thrive-partners-ii-gp' WHERE ID = 1272
 UPDATE Conflict SET Slug = 'thrive-partners-iii-gp' WHERE ID = 1273
+UPDATE Conflict SET Slug = 'tiger-woods' WHERE ID = 9707
 UPDATE Conflict SET Slug = 'tihc-reservations' WHERE ID = 197
 UPDATE Conflict SET Slug = 'tihh-member' WHERE ID = 3430
 UPDATE Conflict SET Slug = 'tihm-member' WHERE ID = 198
@@ -730,6 +753,7 @@ UPDATE Conflict SET Slug = 'trump-delmonico' WHERE ID = 3432
 UPDATE Conflict SET Slug = 'trump-development-services' WHERE ID = 237
 UPDATE Conflict SET Slug = 'trump-drinks-israel' WHERE ID = 238
 UPDATE Conflict SET Slug = 'trump-drinks-israel-holdings' WHERE ID = 239
+UPDATE Conflict SET Slug = 'trump-dubai' WHERE ID = 9708
 UPDATE Conflict SET Slug = 'trump-education' WHERE ID = 240
 UPDATE Conflict SET Slug = 'trump-empire-state' WHERE ID = 241
 UPDATE Conflict SET Slug = 'trump-endeavor-12' WHERE ID = 242
@@ -742,6 +766,7 @@ UPDATE Conflict SET Slug = 'trump-follies' WHERE ID = 248
 UPDATE Conflict SET Slug = 'trump-golf-acquisitions' WHERE ID = 249
 UPDATE Conflict SET Slug = 'trump-golf-coco-beach' WHERE ID = 250
 UPDATE Conflict SET Slug = 'trump-golf-management' WHERE ID = 251
+UPDATE Conflict SET Slug = 'trump-hollywood' WHERE ID = 9670
 UPDATE Conflict SET Slug = 'trump-home-marks' WHERE ID = 252
 UPDATE Conflict SET Slug = 'trump-hotel' WHERE ID = 253
 UPDATE Conflict SET Slug = 'trump-hotel-rio-de-janeiro' WHERE ID = 254
@@ -817,6 +842,7 @@ UPDATE Conflict SET Slug = 'trump-marks-white-plains' WHERE ID = 313
 UPDATE Conflict SET Slug = 'trump-miami-resort' WHERE ID = 314
 UPDATE Conflict SET Slug = 'trump-model-management' WHERE ID = 315
 UPDATE Conflict SET Slug = 'trump-mortgage' WHERE ID = 316
+UPDATE Conflict SET Slug = 'trump-national-doral' WHERE ID = 9669
 UPDATE Conflict SET Slug = 'trump-national-golf-club-charlotte' WHERE ID = 317
 UPDATE Conflict SET Slug = 'trump-national-golf-club-colts-neck' WHERE ID = 318
 UPDATE Conflict SET Slug = 'trump-national-golf-club-hudson-valley' WHERE ID = 319
@@ -824,6 +850,7 @@ UPDATE Conflict SET Slug = 'trump-national-golf-club-los-angeles' WHERE ID = 320
 UPDATE Conflict SET Slug = 'trump-national-golf-club-washington-dc' WHERE ID = 321
 UPDATE Conflict SET Slug = 'trump-national-golf-club-westchester' WHERE ID = 322
 UPDATE Conflict SET Slug = 'trump-national-golf-club-member' WHERE ID = 323
+UPDATE Conflict SET Slug = 'trump-new-world-property' WHERE ID = 9671
 UPDATE Conflict SET Slug = 'trump-new-world-property-management' WHERE ID = 3440
 UPDATE Conflict SET Slug = 'trump-ocean' WHERE ID = 324
 UPDATE Conflict SET Slug = 'trump-old-post-office' WHERE ID = 325
@@ -833,6 +860,7 @@ UPDATE Conflict SET Slug = 'trump-organization-llc-dba-the-trump-organization' W
 UPDATE Conflict SET Slug = 'trump-pageants' WHERE ID = 329
 UPDATE Conflict SET Slug = 'trump-palace-condominium' WHERE ID = 3441
 UPDATE Conflict SET Slug = 'trump-palaceparc' WHERE ID = 330
+UPDATE Conflict SET Slug = 'trump-panama' WHERE ID = 9703
 UPDATE Conflict SET Slug = 'trump-panama-condominium' WHERE ID = 331
 UPDATE Conflict SET Slug = 'trump-panama-hotel-management' WHERE ID = 332
 UPDATE Conflict SET Slug = 'trump-parc-east-condominium' WHERE ID = 333
@@ -853,6 +881,7 @@ UPDATE Conflict SET Slug = 'trump-sales-amp-leasing-chicago' WHERE ID = 389
 UPDATE Conflict SET Slug = 'trump-scotland' WHERE ID = 347
 UPDATE Conflict SET Slug = 'trump-scotsborough-square' WHERE ID = 348
 UPDATE Conflict SET Slug = 'trump-soho' WHERE ID = 349
+UPDATE Conflict SET Slug = 'trump-sunny-isles' WHERE ID = 9704
 UPDATE Conflict SET Slug = 'trump-toronto-development' WHERE ID = 350
 UPDATE Conflict SET Slug = 'trump-toronto-hotel' WHERE ID = 351
 UPDATE Conflict SET Slug = 'trump-toronto-member-formerly-trump-toronto-management' WHERE ID = 352
@@ -864,6 +893,7 @@ UPDATE Conflict SET Slug = 'trump-tower-managing-member' WHERE ID = 355
 UPDATE Conflict SET Slug = 'trump-tower-triplex' WHERE ID = 356
 UPDATE Conflict SET Slug = 'trump-towers-istanbul' WHERE ID = 357
 UPDATE Conflict SET Slug = 'trump-turnberry' WHERE ID = 358
+UPDATE Conflict SET Slug = 'trump-victory' WHERE ID = 9687
 UPDATE Conflict SET Slug = 'trump-village-construction' WHERE ID = 359
 UPDATE Conflict SET Slug = 'trump-vineyard-estates-formerly-eric-trump-land-holdings' WHERE ID = 360
 UPDATE Conflict SET Slug = 'trump-virginia-acquisitions-formerly-virginia-acquisitions' WHERE ID = 361

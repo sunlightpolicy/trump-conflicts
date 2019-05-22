@@ -4,7 +4,20 @@
   "familyMembers": [
     "Donald Trump"
   ],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Trump National Golf Club - Washington DC",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/04/18/politics/mueller-trump-golf-club/index.html",
+      "sourceDate": "2019-04-18T00:00:00",
+      "headline": "Mueller explains why his family left Trump's golf club",
+      "conflictId": "321",
+      "conflictSlug": "trump-national-golf-club-washington-dc",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [

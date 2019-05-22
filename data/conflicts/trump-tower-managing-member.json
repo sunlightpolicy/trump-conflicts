@@ -9,6 +9,18 @@
       "description": "",
       "conflict": "Trump Tower Managing Member",
       "category": "Active",
+      "mediaOutlet": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2019-01-09/china-s-biggest-bank-said-to-reduce-space-at-nyc-s-trump-tower",
+      "sourceDate": "2019-01-09T00:00:00",
+      "headline": "China’s Biggest Bank to Reduce Its Space at Trump Tower",
+      "conflictId": "355",
+      "conflictSlug": "trump-tower-managing-member",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Tower Managing Member",
+      "category": "Active",
       "mediaOutlet": "Washington Post",
       "link": "https://www.washingtonpost.com/politics/at-president-trumps-hotel-in-new-york-revenue-went-up-this-spring--thanks-to-a-visit-from-big-spending-saudis/2018/08/03/58755392-9112-11e8-bcd5-9d911c784c38_story.html?utm_term=.3a97c3f2cf0f",
       "sourceDate": "2018-08-03T00:00:00",

@@ -1,7 +1,37 @@
 {
   "name": "American Idea",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump",
+    "Donald Trump Jr.",
+    "Eric Trump",
+    "Jared Kushner"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "American Idea",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/economy/trumps-sons-are-running-the-business--and-their-big-hotel-expansion-is-at-a-standstill/2019/01/03/d7016168-f96a-11e8-8c9a-860ce2a8148f_story.html?utm_term=.836bed545c44",
+      "sourceDate": "2019-01-04T00:00:00",
+      "headline": "Trump’s sons are running the business — and their big hotel expansion is at a standstill",
+      "conflictId": "482",
+      "conflictSlug": "american-idea",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "American Idea",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://mobile.nytimes.com/2018/06/21/business/trumps-kushners-end-hotel-deals.html",
+      "sourceDate": "2018-06-21T00:00:00",
+      "headline": "Trumps and Kushners Cut Ties on Hotel Deals That Raised Eyebrows",
+      "conflictId": "482",
+      "conflictSlug": "american-idea",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

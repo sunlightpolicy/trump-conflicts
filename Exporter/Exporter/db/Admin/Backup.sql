@@ -1,6 +1,6 @@
 
 
  BACKUP DATABASE Trump 
- TO DISK = N'C:\TrumpDb\Trump.bak' WITH NOFORMAT, NOINIT, NAME = N'Full Database Backup', SKIP, NOREWIND, NOUNLOAD, STATS = 10
+ TO DISK = N'd:\db\Trump.bak' WITH NOFORMAT, NOINIT, NAME = N'Full Database Backup', SKIP, NOREWIND, NOUNLOAD, STATS = 10
  
  GO

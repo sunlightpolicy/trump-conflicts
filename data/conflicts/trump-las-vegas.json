@@ -9,6 +9,18 @@
       "description": "",
       "conflict": "Trump Las Vegas",
       "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/politics-government/congress/article226888739.html",
+      "sourceDate": "2019-02-27T00:00:00",
+      "headline": "Billionaire Phil Ruffin says he’s the Kansan mentioned at Michael Cohen hearing",
+      "conflictId": "267",
+      "conflictSlug": "trump-las-vegas",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Las Vegas",
+      "category": "Active",
       "mediaOutlet": "CNN",
       "link": "https://www.cnn.com/2018/11/10/politics/trump-properties-campaign-spending-2018-midterms/index.html",
       "sourceDate": "2018-11-10T00:00:00",

@@ -4,20 +4,7 @@
   "familyMembers": [
     "Donald Trump"
   ],
-  "stories": [
-    {
-      "description": "",
-      "conflict": "Trump Marks Sunny Isles I",
-      "category": "Active",
-      "mediaOutlet": "McClatchy",
-      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article210477439.html",
-      "sourceDate": "2018-06-19T00:00:00",
-      "headline": "Buyers tied to Russia, former Soviet republics paid $109 million cash for Trump properties",
-      "conflictId": "307",
-      "conflictSlug": "trump-marks-sunny-isles-i",
-      "hasEthics": true
-    }
-  ],
+  "stories": [],
   "ethics": [
     {
       "familyMemberEthics": [

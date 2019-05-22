@@ -1,7 +1,10 @@
 {
   "name": "The Daily Mail",
   "description": "",
-  "familyMembers": [],
+  "familyMembers": [
+    "Ivanka Trump",
+    "Melania Trump"
+  ],
   "stories": [],
   "ethics": []
 }

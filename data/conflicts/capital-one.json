@@ -4,7 +4,44 @@
   "familyMembers": [
     "Donald Trump"
   ],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Capital One",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2019/04/30/718597829/trump-sues-2-banks-to-block-democrats-from-investigating-his-finances",
+      "sourceDate": "2019-04-30T00:00:00",
+      "headline": "Trump Sues 2 Banks To Block Democrats From Investigating His Finances",
+      "conflictId": "9609",
+      "conflictSlug": "capital-one",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Capital One",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/04/24/politics/deutsche-bank-trump-records/index.html",
+      "sourceDate": "2019-04-24T00:00:00",
+      "headline": "Deutsche Bank begins process of providing Trump financial records to New York's attorney general",
+      "conflictId": "9609",
+      "conflictSlug": "capital-one",
+      "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Capital One",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/democrats-subpoena-banks-as-they-probe-trump-finances/2019/04/15/d23a73f8-5feb-11e9-bf24-db4b9fb62aa2_story.html?utm_term=.bdafd5ba005a",
+      "sourceDate": "2019-04-15T00:00:00",
+      "headline": "Democrats subpoena banks as they probe Trump finances",
+      "conflictId": "9609",
+      "conflictSlug": "capital-one",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [

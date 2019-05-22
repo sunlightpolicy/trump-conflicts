@@ -716,6 +716,66 @@
     ]
   },
   {
+    "name": "American Idea",
+    "description": "",
+    "slug": "american-idea",
+    "stories": "2",
+    "lastStory": "Jan 04, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "American Idea",
+    "description": "",
+    "slug": "american-idea",
+    "stories": "2",
+    "lastStory": "Jan 04, 2019",
+    "familyMember": "Donald Trump Jr.",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "American Idea",
+    "description": "",
+    "slug": "american-idea",
+    "stories": "2",
+    "lastStory": "Jan 04, 2019",
+    "familyMember": "Eric Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "American Idea",
+    "description": "",
+    "slug": "american-idea",
+    "stories": "2",
+    "lastStory": "Jan 04, 2019",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
     "name": "Annie Veltri",
     "description": "",
     "slug": "annie-veltri",
@@ -781,8 +841,8 @@
     "name": "Bank of America",
     "description": "",
     "slug": "bank-of-america",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Apr 16, 2019",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -794,8 +854,8 @@
     "name": "Bank of America",
     "description": "",
     "slug": "bank-of-america",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Apr 16, 2019",
     "familyMember": "Jared Kushner",
     "status": "Active",
     "familyMembers": [
@@ -1098,32 +1158,6 @@
     ]
   },
   {
-    "name": "Bungalow Hotel",
-    "description": "",
-    "slug": "bungalow-hotel",
-    "stories": "1",
-    "lastStory": "Aug 12, 2018",
-    "familyMember": "Donald Trump Jr.",
-    "status": "Active",
-    "familyMembers": [
-      "Donald Trump Jr.",
-      "Jared Kushner"
-    ]
-  },
-  {
-    "name": "Bungalow Hotel",
-    "description": "",
-    "slug": "bungalow-hotel",
-    "stories": "1",
-    "lastStory": "Aug 12, 2018",
-    "familyMember": "Jared Kushner",
-    "status": "Active",
-    "familyMembers": [
-      "Donald Trump Jr.",
-      "Jared Kushner"
-    ]
-  },
-  {
     "name": "C Development Ventures",
     "description": "",
     "slug": "c-development-ventures",
@@ -1243,8 +1277,8 @@
     "name": "Capital One",
     "description": "",
     "slug": "capital-one",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "3",
+    "lastStory": "Apr 30, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -1445,8 +1479,8 @@
     "name": "China Trademark",
     "description": "",
     "slug": "china-trademark",
-    "stories": "4",
-    "lastStory": "Nov 06, 2018",
+    "stories": "5",
+    "lastStory": "Jan 21, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -1483,8 +1517,8 @@
     "name": "Citi Group",
     "description": "",
     "slug": "citi-group",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Apr 16, 2019",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -1496,8 +1530,8 @@
     "name": "Citi Group",
     "description": "",
     "slug": "citi-group",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Apr 16, 2019",
     "familyMember": "Jared Kushner",
     "status": "Active",
     "familyMembers": [
@@ -1901,10 +1935,10 @@
   },
   {
     "name": "Deutsche Bank",
-    "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
+    "description": "",
     "slug": "deutsche-bank",
-    "stories": "2",
-    "lastStory": "Nov 08, 2018",
+    "stories": "14",
+    "lastStory": "Apr 30, 2019",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -1914,10 +1948,10 @@
   },
   {
     "name": "Deutsche Bank",
-    "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
+    "description": "",
     "slug": "deutsche-bank",
-    "stories": "2",
-    "lastStory": "Nov 08, 2018",
+    "stories": "14",
+    "lastStory": "Apr 30, 2019",
     "familyMember": "Jared Kushner",
     "status": "Active",
     "familyMembers": [
@@ -2169,8 +2203,8 @@
     "name": "Donald J. Trump Foundation",
     "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
     "slug": "donald-j-trump-foundation",
-    "stories": "15",
-    "lastStory": "Oct 26, 2018",
+    "stories": "26",
+    "lastStory": "Mar 15, 2019",
     "familyMember": "Donald Trump",
     "status": "Unclear",
     "familyMembers": [
@@ -2182,8 +2216,8 @@
     "name": "Donald J. Trump Foundation",
     "description": "The Donald J. Trump Foundation is a New York-based private foundation founded by President Trump. During the 2016 presidential election campaign the foundation's activities came under intense media scrutiny. President Trump attempted to shut the charity down after the 2016 election but was unsuccessful. The New York Attorney General filed a civil lawsuit against those running the organization, including President Trump in June 2018. News organizations also have reported there is a criminal investigation into the foundation.",
     "slug": "donald-j-trump-foundation",
-    "stories": "15",
-    "lastStory": "Oct 26, 2018",
+    "stories": "26",
+    "lastStory": "Mar 15, 2019",
     "familyMember": "Ivanka Trump",
     "status": "Unclear",
     "familyMembers": [
@@ -2371,8 +2405,8 @@
     "name": "DT Dubai Golf Manager",
     "description": "",
     "slug": "dt-dubai-golf-manager",
-    "stories": "4",
-    "lastStory": "Jul 05, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -2384,8 +2418,8 @@
     "name": "DT Dubai Golf Manager",
     "description": "",
     "slug": "dt-dubai-golf-manager",
-    "stories": "4",
-    "lastStory": "Jul 05, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -2397,8 +2431,8 @@
     "name": "DT Dubai II Golf Manager",
     "description": "",
     "slug": "dt-dubai-ii-golf-manager",
-    "stories": "4",
-    "lastStory": "Jul 05, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -2410,8 +2444,8 @@
     "name": "DT Dubai II Golf Manager",
     "description": "",
     "slug": "dt-dubai-ii-golf-manager",
-    "stories": "4",
-    "lastStory": "Jul 05, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -2447,8 +2481,8 @@
     "name": "DT India Venture",
     "description": "",
     "slug": "dt-india-venture",
-    "stories": "7",
-    "lastStory": "Aug 14, 2018",
+    "stories": "8",
+    "lastStory": "Nov 15, 2018",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -2460,8 +2494,8 @@
     "name": "DT India Venture",
     "description": "",
     "slug": "dt-india-venture",
-    "stories": "7",
-    "lastStory": "Aug 14, 2018",
+    "stories": "8",
+    "lastStory": "Nov 15, 2018",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -2627,8 +2661,8 @@
     "name": "DT Marks Dubai",
     "description": "",
     "slug": "dt-marks-dubai",
-    "stories": "4",
-    "lastStory": "Jul 05, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -2640,8 +2674,8 @@
     "name": "DT Marks Dubai",
     "description": "",
     "slug": "dt-marks-dubai",
-    "stories": "4",
-    "lastStory": "Jul 05, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -2653,8 +2687,8 @@
     "name": "DT Marks Dubai II",
     "description": "",
     "slug": "dt-marks-dubai-ii",
-    "stories": "4",
-    "lastStory": "Jul 05, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Unclear",
     "familyMembers": [
@@ -2949,8 +2983,8 @@
     "name": "DT Tower I",
     "description": "",
     "slug": "dt-tower-i",
-    "stories": "3",
-    "lastStory": "Jul 05, 2018",
+    "stories": "4",
+    "lastStory": "Jan 24, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -2961,8 +2995,8 @@
     "name": "DT Tower II",
     "description": "",
     "slug": "dt-tower-ii",
-    "stories": "2",
-    "lastStory": "Jun 19, 2018",
+    "stories": "3",
+    "lastStory": "Jan 24, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -3798,6 +3832,32 @@
     ]
   },
   {
+    "name": "Getty Images",
+    "description": "The first lady earned six figures from an agreement with Getty Images that paid royalties to the Trumps and mandated photos be used in positive coverage.",
+    "slug": "getty-images",
+    "stories": "1",
+    "lastStory": "Jul 02, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Melania Trump"
+    ]
+  },
+  {
+    "name": "Getty Images",
+    "description": "The first lady earned six figures from an agreement with Getty Images that paid royalties to the Trumps and mandated photos be used in positive coverage.",
+    "slug": "getty-images",
+    "stories": "1",
+    "lastStory": "Jul 02, 2018",
+    "familyMember": "Melania Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Melania Trump"
+    ]
+  },
+  {
     "name": "Global Gateway Alliance",
     "description": "",
     "slug": "global-gateway-alliance",
@@ -4289,8 +4349,8 @@
     "name": "Investors Savings Bank",
     "description": "",
     "slug": "investors-savings-bank",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "2",
+    "lastStory": "Mar 12, 2019",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -4302,8 +4362,8 @@
     "name": "Investors Savings Bank",
     "description": "",
     "slug": "investors-savings-bank",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "2",
+    "lastStory": "Mar 12, 2019",
     "familyMember": "Jared Kushner",
     "status": "Active",
     "familyMembers": [
@@ -4461,8 +4521,8 @@
     "name": "Ivanka Trump Marks",
     "description": "",
     "slug": "ivanka-trump-marks",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "2",
+    "lastStory": "Jan 21, 2019",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -5201,8 +5261,8 @@
     "name": "Kushner Companies",
     "description": "",
     "slug": "kushner-companies",
-    "stories": "18",
-    "lastStory": "Aug 27, 2018",
+    "stories": "29",
+    "lastStory": "Mar 19, 2019",
     "familyMember": "Jared Kushner",
     "status": "Active",
     "familyMembers": [
@@ -5727,8 +5787,8 @@
     "name": "Mar-a-Lago Club",
     "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
     "slug": "mar-a-lago-club",
-    "stories": "16",
-    "lastStory": "Nov 10, 2018",
+    "stories": "25",
+    "lastStory": "May 01, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -5740,8 +5800,8 @@
     "name": "Mar-a-Lago Club",
     "description": "Mar-A-Lago is a resort and golf club located in Palm Beach, Florida. President Trump purchased Mar-a-Lago in 1985, turning it into a private club and golf course, managed by the Trump Organization, ten years later. The resort seems to be President Trump’s choice destination out of all of the properties he owns. In his first year in office, he spent more time there, a total of 52 days, than any other Trump-branded property. It is also a National Historic Landmark.",
     "slug": "mar-a-lago-club",
-    "stories": "16",
-    "lastStory": "Nov 10, 2018",
+    "stories": "25",
+    "lastStory": "May 01, 2019",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -5831,9 +5891,23 @@
     "slug": "melania-llc",
     "stories": "2",
     "lastStory": "Jul 02, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Melania Trump"
+    ]
+  },
+  {
+    "name": "Melania LLC",
+    "description": "",
+    "slug": "melania-llc",
+    "stories": "2",
+    "lastStory": "Jul 02, 2018",
     "familyMember": "Melania Trump",
     "status": "Active",
     "familyMembers": [
+      "Ivanka Trump",
       "Melania Trump"
     ]
   },
@@ -6302,7 +6376,7 @@
     "stories": "1",
     "lastStory": "Feb 22, 2017",
     "familyMember": "Ivanka Trump",
-    "status": "Unclear",
+    "status": "Resolved",
     "familyMembers": [
       "Ivanka Trump",
       "Melania Trump"
@@ -6315,7 +6389,7 @@
     "stories": "1",
     "lastStory": "Feb 22, 2017",
     "familyMember": "Melania Trump",
-    "status": "Unclear",
+    "status": "Resolved",
     "familyMembers": [
       "Ivanka Trump",
       "Melania Trump"
@@ -6815,8 +6889,8 @@
     "name": "Panama Ocean Club Management",
     "description": "",
     "slug": "panama-ocean-club-management",
-    "stories": "4",
-    "lastStory": "Mar 03, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -6828,8 +6902,8 @@
     "name": "Panama Ocean Club Management",
     "description": "",
     "slug": "panama-ocean-club-management",
-    "stories": "4",
-    "lastStory": "Mar 03, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -7588,11 +7662,71 @@
     ]
   },
   {
+    "name": "Scion",
+    "description": "",
+    "slug": "scion",
+    "stories": "2",
+    "lastStory": "Jan 04, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Scion",
+    "description": "",
+    "slug": "scion",
+    "stories": "2",
+    "lastStory": "Jan 04, 2019",
+    "familyMember": "Donald Trump Jr.",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Scion",
+    "description": "",
+    "slug": "scion",
+    "stories": "2",
+    "lastStory": "Jan 04, 2019",
+    "familyMember": "Eric Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Scion",
+    "description": "",
+    "slug": "scion",
+    "stories": "2",
+    "lastStory": "Jan 04, 2019",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
     "name": "Scotland Acquisitions",
     "description": "",
     "slug": "scotland-acquisitions",
-    "stories": "5",
-    "lastStory": "Oct 08, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -8519,8 +8653,8 @@
     "name": "THC Dubai II Hotel Manager",
     "description": "",
     "slug": "thc-dubai-ii-hotel-manager",
-    "stories": "4",
-    "lastStory": "Jul 05, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Unclear",
     "familyMembers": [
@@ -8855,6 +8989,32 @@
     "status": "Active",
     "familyMembers": [
       "Donald Trump"
+    ]
+  },
+  {
+    "name": "The Daily Mail",
+    "description": "",
+    "slug": "the-daily-mail",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Ivanka Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Melania Trump"
+    ]
+  },
+  {
+    "name": "The Daily Mail",
+    "description": "",
+    "slug": "the-daily-mail",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Melania Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Melania Trump"
     ]
   },
   {
@@ -9513,8 +9673,8 @@
     "name": "Trump Chicago",
     "description": "",
     "slug": "trump-chicago",
-    "stories": "4",
-    "lastStory": "Nov 10, 2018",
+    "stories": "8",
+    "lastStory": "Mar 12, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -9681,8 +9841,8 @@
     "name": "Trump Florida",
     "description": "",
     "slug": "trump-florida",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Nov 04, 2016",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -9729,8 +9889,8 @@
     "name": "Trump Golf Management",
     "description": "",
     "slug": "trump-golf-management",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Jan 26, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -9753,10 +9913,10 @@
     "name": "Trump Hotel",
     "description": "",
     "slug": "trump-hotel",
-    "stories": "3",
-    "lastStory": "Oct 11, 2018",
+    "stories": "1",
+    "lastStory": "Apr 10, 2019",
     "familyMember": "Donald Trump",
-    "status": "Active",
+    "status": "Resolved",
     "familyMembers": [
       "Donald Trump"
     ]
@@ -9789,8 +9949,8 @@
     "name": "Trump International Development",
     "description": "",
     "slug": "trump-international-development",
-    "stories": "3",
-    "lastStory": "Jul 27, 2018",
+    "stories": "5",
+    "lastStory": "Dec 19, 2018",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -9801,8 +9961,8 @@
     "name": "Trump International Golf Club",
     "description": "",
     "slug": "trump-international-golf-club",
-    "stories": "2",
-    "lastStory": "Oct 17, 2018",
+    "stories": "5",
+    "lastStory": "Jan 30, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -9825,8 +9985,8 @@
     "name": "Trump International Golf Club Scotland",
     "description": "Trump International Golf Links, Scotland is a golf course in Balmedie, Aberdeenshire, Scotland, owned by Donald Trump. It opened in 2012. The Trump Organization is currently working on expanding the property.",
     "slug": "trump-international-golf-club-scotland",
-    "stories": "8",
-    "lastStory": "Oct 08, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Unclear",
     "familyMembers": [
@@ -9849,8 +10009,8 @@
     "name": "Trump International Golf Links - Scotland",
     "description": "Trump International Golf Links, Scotland is a golf course in Balmedie, Aberdeenshire, Scotland, owned by Donald Trump. It opened in 2012. The Trump Organization is currently working on expanding the property.",
     "slug": "trump-international-golf-links-scotland",
-    "stories": "9",
-    "lastStory": "Oct 08, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -9885,8 +10045,8 @@
     "name": "Trump International Hotels Management D/B/A Trump Hotel Collection",
     "description": "Trump International Hotels Management, also known as the Trump Hotel Collection, is a management company for the hotels owned by President Trump. The company has hotels across the United States and around the world bearing the Trump name, including in Las Vegas, Washington, D.C. and Vancouver.",
     "slug": "trump-international-hotels-management-dba-trump-hotel-collection",
-    "stories": "22",
-    "lastStory": "Oct 18, 2018",
+    "stories": "26",
+    "lastStory": "Jan 24, 2019",
     "familyMember": "Donald Trump",
     "status": "Unclear",
     "familyMembers": [
@@ -9897,8 +10057,8 @@
     "name": "Trump International Management",
     "description": "",
     "slug": "trump-international-management",
-    "stories": "5",
-    "lastStory": "Aug 14, 2018",
+    "stories": "7",
+    "lastStory": "Dec 19, 2018",
     "familyMember": "Donald Trump",
     "status": "Unclear",
     "familyMembers": [
@@ -9945,8 +10105,8 @@
     "name": "Trump Las Vegas",
     "description": "",
     "slug": "trump-las-vegas",
-    "stories": "3",
-    "lastStory": "Nov 10, 2018",
+    "stories": "4",
+    "lastStory": "Feb 27, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10101,8 +10261,8 @@
     "name": "Trump Marks Dubai",
     "description": "",
     "slug": "trump-marks-dubai",
-    "stories": "4",
-    "lastStory": "Jul 05, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10305,8 +10465,8 @@
     "name": "Trump Marks Panama",
     "description": "",
     "slug": "trump-marks-panama",
-    "stories": "3",
-    "lastStory": "Mar 03, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10437,8 +10597,8 @@
     "name": "Trump Marks Sunny Isles I",
     "description": "",
     "slug": "trump-marks-sunny-isles-i",
-    "stories": "1",
-    "lastStory": "Jun 19, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10449,8 +10609,8 @@
     "name": "Trump Marks Sunny Isles II",
     "description": "",
     "slug": "trump-marks-sunny-isles-ii",
-    "stories": "1",
-    "lastStory": "Jun 19, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10521,7 +10681,7 @@
     "name": "Trump Miami Resort",
     "description": "",
     "slug": "trump-miami-resort",
-    "stories": "4",
+    "stories": "5",
     "lastStory": "Nov 10, 2018",
     "familyMember": "Donald Trump",
     "status": "Active",
@@ -10581,8 +10741,8 @@
     "name": "Trump National Golf Club - Los Angeles",
     "description": "",
     "slug": "trump-national-golf-club-los-angeles",
-    "stories": "1",
-    "lastStory": "Aug 13, 2018",
+    "stories": "2",
+    "lastStory": "Mar 28, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10593,8 +10753,8 @@
     "name": "Trump National Golf Club - Washington DC",
     "description": "",
     "slug": "trump-national-golf-club-washington-dc",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Apr 18, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10605,8 +10765,8 @@
     "name": "Trump National Golf Club - Westchester",
     "description": "",
     "slug": "trump-national-golf-club-westchester",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "4",
+    "lastStory": "Jan 30, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10653,8 +10813,8 @@
     "name": "Trump Old Post Office",
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "slug": "trump-old-post-office",
-    "stories": "54",
-    "lastStory": "Nov 12, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10666,8 +10826,8 @@
     "name": "Trump Old Post Office",
     "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
     "slug": "trump-old-post-office",
-    "stories": "54",
-    "lastStory": "Nov 12, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -10691,8 +10851,8 @@
     "name": "Trump Organization Inc.",
     "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
     "slug": "trump-organization-inc",
-    "stories": "91",
-    "lastStory": "Nov 19, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10704,8 +10864,8 @@
     "name": "Trump Organization Inc.",
     "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
     "slug": "trump-organization-inc",
-    "stories": "91",
-    "lastStory": "Nov 19, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -10753,8 +10913,8 @@
     "name": "Trump Panama Condominium",
     "description": "",
     "slug": "trump-panama-condominium",
-    "stories": "3",
-    "lastStory": "Mar 03, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10765,8 +10925,8 @@
     "name": "Trump Panama Hotel Management",
     "description": "",
     "slug": "trump-panama-hotel-management",
-    "stories": "4",
-    "lastStory": "Oct 17, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10789,8 +10949,8 @@
     "name": "Trump Park Avenue",
     "description": "",
     "slug": "trump-park-avenue",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Mar 12, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10802,8 +10962,8 @@
     "name": "Trump Park Avenue",
     "description": "",
     "slug": "trump-park-avenue",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Mar 12, 2019",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -10973,8 +11133,8 @@
     "name": "Trump Scotland",
     "description": "",
     "slug": "trump-scotland",
-    "stories": "7",
-    "lastStory": "Oct 08, 2018",
+    "stories": "14",
+    "lastStory": "Mar 04, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -11045,8 +11205,8 @@
     "name": "Trump Tower Commercial",
     "description": "",
     "slug": "trump-tower-commercial",
-    "stories": "11",
-    "lastStory": "Nov 10, 2018",
+    "stories": "16",
+    "lastStory": "May 01, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -11057,8 +11217,8 @@
     "name": "Trump Tower Condominium",
     "description": "",
     "slug": "trump-tower-condominium",
-    "stories": "10",
-    "lastStory": "Oct 24, 2018",
+    "stories": "14",
+    "lastStory": "May 01, 2019",
     "familyMember": "Donald Trump",
     "status": "Unclear",
     "familyMembers": [
@@ -11069,8 +11229,8 @@
     "name": "Trump Tower Managing Member",
     "description": "",
     "slug": "trump-tower-managing-member",
-    "stories": "5",
-    "lastStory": "Aug 03, 2018",
+    "stories": "6",
+    "lastStory": "Jan 09, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -11093,8 +11253,8 @@
     "name": "Trump Turnberry",
     "description": "",
     "slug": "trump-turnberry",
-    "stories": "2",
-    "lastStory": "Jul 13, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -11106,8 +11266,8 @@
     "name": "Trump Turnberry",
     "description": "",
     "slug": "trump-turnberry",
-    "stories": "2",
-    "lastStory": "Jul 13, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
@@ -11131,8 +11291,8 @@
     "name": "Trump Vineyard Estates (Formerly Eric Trump Land Holdings)",
     "description": "",
     "slug": "trump-vineyard-estates-formerly-eric-trump-land-holdings",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Mar 28, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [

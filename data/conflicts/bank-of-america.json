@@ -5,7 +5,20 @@
     "Ivanka Trump",
     "Jared Kushner"
   ],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Bank of America",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/04/15/politics/deutsche-bank-subpoena/index.html",
+      "sourceDate": "2019-04-16T00:00:00",
+      "headline": "House committees issue subpoenas to Deutsche Bank, JP Morgan Chase, Citigroup, Bank of America to probe Trump's finances",
+      "conflictId": "589",
+      "conflictSlug": "bank-of-america",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [

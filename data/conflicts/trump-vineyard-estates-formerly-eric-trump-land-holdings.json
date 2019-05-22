@@ -4,7 +4,20 @@
   "familyMembers": [
     "Donald Trump"
   ],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Trump Vineyard Estates (Formerly Eric Trump Land Holdings)",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/graphics/2019/politics/trump-statements-of-financial-condition/?noredirect=on&utm_term=.13c08bffe480",
+      "sourceDate": "2019-03-28T00:00:00",
+      "headline": "How Donald Trump inflated his net worth to lenders and investors",
+      "conflictId": "360",
+      "conflictSlug": "trump-vineyard-estates-formerly-eric-trump-land-holdings",
+      "hasEthics": true
+    }
+  ],
   "ethics": [
     {
       "familyMemberEthics": [

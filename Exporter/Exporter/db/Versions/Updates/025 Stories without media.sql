@@ -1,0 +1,18 @@
+USE Trump
+GO
+ 
+ SELECT * FROM MediaOutlet
+
+ INSERT INTO MediaOutlet VALUES ('Rolling Stone')
+ INSERT INTO MediaOutlet VALUES ('CNBC')
+ INSERT INTO MediaOutlet VALUES ('Insider')
+ INSERT INTO MediaOutlet VALUES ('Politifact')
+ INSERT INTO MediaOutlet VALUES ('Time Magazine')
+
+
+INSERT INTO Story (Link, Headline, MediaOutletID, Date, EditorID, StoryStatusID, InternalNotes, Notes) VALUES ('https://www.rollingstone.com/politics/politics-news/trump-mar-a-lago-new-year-eve-party-shutdown-773385/amp/', 'Taxpayers Are Subsidizing Mar-a-Lago’s New Year’s Eve Party Despite Trump’s Shutdown', (SELECT ID FROM MediaOutlet WHERE Name = 'Rolling Stone'), '2018-12-28', (SELECT ID FROM SystemUserView WHERE UserName = 'Lynn Walsh'), (SELECT ID FROM StoryStatus WHERE Name = 'Approved'), '', '')
+INSERT INTO Story (Link, Headline, MediaOutletID, Date, EditorID, StoryStatusID, InternalNotes, Notes) VALUES ('https://www.cnbc.com/amp/2019/02/22/michael-cohen-reportedly-spoke-to-prosecutors-about-trump-organization-insurance-claims.html', 'Michael Cohen reportedly spoke to prosecutors about Trump Organization irregularities and insurance claims', (SELECT ID FROM MediaOutlet WHERE Name = 'CNBC'), '2019-02-22', (SELECT ID FROM SystemUserView WHERE UserName = 'Lynn Walsh'), (SELECT ID FROM StoryStatus WHERE Name = 'Approved'), '', '')
+INSERT INTO Story (Link, Headline, MediaOutletID, Date, EditorID, StoryStatusID, InternalNotes, Notes) VALUES ('https://www.cnbc.com/amp/2019/03/05/trump-rises-51-spots-on-forbes-billionaires-list-but-his-net-worth-stays-flat-at-3point1b.html', 'Trump rises 51 spots on Forbes billionaires list — but his net worth stays flat at $3.1 billion', (SELECT ID FROM MediaOutlet WHERE Name = 'CNBC'), '2019-03-05', (SELECT ID FROM SystemUserView WHERE UserName = 'Lynn Walsh'), (SELECT ID FROM StoryStatus WHERE Name = 'Approved'), '', '')
+INSERT INTO Story (Link, Headline, MediaOutletID, Date, EditorID, StoryStatusID, InternalNotes, Notes) VALUES ('https://www.thisisinsider.com/jho-low-1mdb-trump-donation-justice-department-investigation-2019-3', 'The Justice Department is investigating if a Trump fundraising committee received money from the biggest financial scammer of all time', (SELECT ID FROM MediaOutlet WHERE Name = 'Insider'), '2018-03-13', (SELECT ID FROM SystemUserView WHERE UserName = 'Hilary Niles'), (SELECT ID FROM StoryStatus WHERE Name = 'Approved'), '4/21/2019 LW: It looks like Insider is the new name for Business Insider 3/16/2019 HN: Note, the publication appears to be the parent of Business Insider?', '')
+INSERT INTO Story (Link, Headline, MediaOutletID, Date, EditorID, StoryStatusID, InternalNotes, Notes) VALUES ('https://www.politifact.com/truth-o-meter/article/2019/apr/18/context-comparing-bill-barrs-summary-mueller-repor/', 'In Context: Comparing Bill Barr’s summary of Mueller''s findings to the publicly released report', (SELECT ID FROM MediaOutlet WHERE Name = 'Politifact'), '2019-04-18', (SELECT ID FROM SystemUserView WHERE UserName = 'Lynn Walsh'), (SELECT ID FROM StoryStatus WHERE Name = 'Approved'), '', '')
+INSERT INTO Story (Link, Headline, MediaOutletID, Date, EditorID, StoryStatusID, InternalNotes, Notes) VALUES ('http://time.com/5567077/mueller-report-release/', 'Here Are the Biggest Takeaways From the Mueller Report', (SELECT ID FROM MediaOutlet WHERE Name = 'Time Magazine'), '2019-04-18', (SELECT ID FROM SystemUserView WHERE UserName = 'Lynn Walsh'), (SELECT ID FROM StoryStatus WHERE Name = 'Approved'), '', '')
