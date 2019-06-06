@@ -1,7 +1,22 @@
 {
   "name": "Phillips 66",
   "description": "The connections to the energy industry doesn't stop there. The climate-change skeptic owns shares in Phillips 66 PSX -1.26% - a joint venture partner in the controversial Dakota Access pipeline, where demonstrations are ongoing, and in Kinder Morgan, another pipeline giant facing resistance for its plans to connect the Canadian oil sands to Vancouver, British Columbia.",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "The connections to the energy industry doesn't stop there. The climate-change skeptic owns shares in Phillips 66 PSX -1.26% - a joint venture partner in the controversial Dakota Access pipeline, where demonstrations are ongoing, and in Kinder Morgan, another pipeline giant facing resistance for its plans to connect the Canadian oil sands to Vancouver, British Columbia.",
+      "conflict": "Phillips 66",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/sites/jenniferwang/2016/11/29/trumps-stock-portfolio-big-oil-big-banks-and-more-foreign-connections/#30d204ea464e",
+      "sourceDate": "2016-11-29T00:00:00",
+      "headline": "Trump's Stock Portfolio: Big Oil, Big Banks And More Foreign Connections",
+      "conflictId": "418",
+      "conflictSlug": "phillips-66",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

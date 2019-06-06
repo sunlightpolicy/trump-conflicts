@@ -1,7 +1,82 @@
 {
   "name": "Cadre",
   "description": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Jared Kushner"
+  ],
+  "stories": [
+    {
+      "description": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake",
+      "conflict": "Cadre",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/sites/nathanvardi/2019/01/31/ryan-williams-30-started-a-revolutionary-800m-fintech-but-can-he-escape-his-kushner-trump-connection/amp/",
+      "sourceDate": "2019-01-31T00:00:00",
+      "headline": "Ryan Williams, 30, Started A Revolutionary $800M Fintech. But Can He Escape His Kushner-Trump Connection?",
+      "conflictId": "445",
+      "conflictSlug": "cadre",
+      "hasEthics": false
+    },
+    {
+      "description": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake",
+      "conflict": "Cadre",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://amp.businessinsider.com/ivanka-trump-jared-kushner-net-worth-2019-1",
+      "sourceDate": "2019-01-01T00:00:00",
+      "headline": "How Ivanka Trump and Jared Kushner built their $1.1 billion fortune and how they spend it",
+      "conflictId": "445",
+      "conflictSlug": "cadre",
+      "hasEthics": false
+    },
+    {
+      "description": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake",
+      "conflict": "Cadre",
+      "category": "Active",
+      "mediaOutlet": "Associated Press",
+      "link": "https://www.apnews.com/41847c1548e34d0ba8c339836b86ed93",
+      "sourceDate": "2018-12-12T00:00:00",
+      "headline": "Correction: Kushners-Opportunity Zones story",
+      "conflictId": "445",
+      "conflictSlug": "cadre",
+      "hasEthics": false
+    },
+    {
+      "description": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake",
+      "conflict": "Cadre",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/12/12/politics/trump-kushner-opportunity-zone/index.html",
+      "sourceDate": "2018-12-12T00:00:00",
+      "headline": "White House boosts tax break that's attracted Kushner, Scaramucci and other wealthy investors",
+      "conflictId": "445",
+      "conflictSlug": "cadre",
+      "hasEthics": false
+    },
+    {
+      "description": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake",
+      "conflict": "Cadre",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/ap-ivanka-kushner-could-profit-from-tax-break-they-pushed/2018/12/11/a95d791a-fda5-11e8-a17e-162b712e8fc2_story.html?utm_term=.f25be6d735f8",
+      "sourceDate": "2018-12-12T00:00:00",
+      "headline": "AP: Ivanka, Kushner could profit from tax break they pushed",
+      "conflictId": "445",
+      "conflictSlug": "cadre",
+      "hasEthics": false
+    },
+    {
+      "description": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake",
+      "conflict": "Cadre",
+      "category": "Active",
+      "mediaOutlet": "Chicago Tribune",
+      "link": "http://www.chicagotribune.com/business/national/ct-kushner-cadre-softbank-funds-20180522-story,amp.html",
+      "sourceDate": "2018-05-22T00:00:00",
+      "headline": "Jared Kushner's tech startup seeking at least $100 million from Saudi-backed fund",
+      "conflictId": "445",
+      "conflictSlug": "cadre",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

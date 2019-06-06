@@ -1,7 +1,22 @@
 {
   "name": "Citibank",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Jared Kushner"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Citibank",
+      "category": "Active",
+      "mediaOutlet": "Office of Government Ethics",
+      "link": "https://www.oge.gov/web/oge.nsf/All%20Documents/2C62A672E2AF5BAC8525825C00518004/$FILE/Letter%20to%20Congressman%20Krishnamoorthi.pdf?open",
+      "sourceDate": "2018-03-22T00:00:00",
+      "headline": "U.S. Office of Government Ethics (OGE) said the White House Counsel’s office is investigating whether loans to Jared Kushner’s family business broke laws or regulations",
+      "conflictId": "451",
+      "conflictSlug": "citibank",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

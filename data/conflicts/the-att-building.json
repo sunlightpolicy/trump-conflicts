@@ -1,7 +1,22 @@
 {
   "name": "The AT&T Building",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Jared Kushner"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "The AT&T Building",
+      "category": "Active",
+      "mediaOutlet": "Crain's Chicago Business",
+      "link": "https://www.chicagobusiness.com/commercial-real-estate/kushner-selling-loop-office-tower",
+      "sourceDate": "2018-10-09T00:00:00",
+      "headline": "Kushner selling Loop office tower",
+      "conflictId": "9684",
+      "conflictSlug": "the-att-building",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

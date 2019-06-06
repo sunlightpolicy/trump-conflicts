@@ -1,7 +1,70 @@
 {
   "name": "U.S. Department of Defense",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "U.S. Department of Defense",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/amphtml/politics/2019/02/05/trumps-travel-mar-a-lago-alone-likely-cost-taxpayers-more-than-million/",
+      "sourceDate": "2019-02-05T00:00:00",
+      "headline": "Trump’s travel to Mar-a-Lago alone probably cost taxpayers more than $64 million",
+      "conflictId": "3182",
+      "conflictSlug": "us-department-of-defense",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "U.S. Department of Defense",
+      "category": "Active",
+      "mediaOutlet": "ABC News",
+      "link": "https://abcnews.go.com/Politics/trump-campaign-sell-space-force-gear-pick-design/story?id=57126814",
+      "sourceDate": "2018-08-09T00:00:00",
+      "headline": "The Trump campaign wants to sell Space Force gear, and they're asking you to pick a design",
+      "conflictId": "3182",
+      "conflictSlug": "us-department-of-defense",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "U.S. Department of Defense",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.nbcnews.com/politics/donald-trump/trump-s-d-c-hotel-clubhouse-his-fans-may-also-n898041",
+      "sourceDate": "2018-08-08T00:00:00",
+      "headline": "Trump Effect Trump's D.C. hotel, a clubhouse for his fans, may also be a 5-star conflict of interest",
+      "conflictId": "3182",
+      "conflictSlug": "us-department-of-defense",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "U.S. Department of Defense",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.today.com/video/is-dc-s-trump-international-hotel-a-conflict-of-interest-for-the-president-1294601283992",
+      "sourceDate": "2018-08-08T00:00:00",
+      "headline": "Is DC's Trump International hotel a conflict of interest for the president?",
+      "conflictId": "3182",
+      "conflictSlug": "us-department-of-defense",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "U.S. Department of Defense",
+      "category": "Active",
+      "mediaOutlet": "ProPublica",
+      "link": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
+      "sourceDate": "2018-06-27T00:00:00",
+      "headline": "We’ve Found $16.1 Million in Political and Taxpayer Spending at Trump Properties",
+      "conflictId": "3182",
+      "conflictSlug": "us-department-of-defense",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

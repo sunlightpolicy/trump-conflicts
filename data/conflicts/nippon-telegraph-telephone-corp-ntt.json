@@ -1,7 +1,22 @@
 {
   "name": "Nippon Telegraph & Telephone Corp. (NTT)",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Jared Kushner"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Nippon Telegraph & Telephone Corp. (NTT)",
+      "category": "Active",
+      "mediaOutlet": "Bloomberg",
+      "link": "https://www.bloomberg.com/amp/news/articles/2018-03-13/kushner-conflict-cloud-hovers-over-brooklyn-sale-linked-to-japan",
+      "sourceDate": "2018-03-13T00:00:00",
+      "headline": "Kushner Conflict Cloud Hovers Over Brooklyn Sale Linked to Japan",
+      "conflictId": "461",
+      "conflictSlug": "nippon-telegraph-telephone-corp-ntt",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

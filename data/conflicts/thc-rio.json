@@ -16,6 +16,18 @@
       "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
       "conflictId": "180",
       "conflictSlug": "thc-rio",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "THC Rio",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1",
+      "sourceDate": "2016-11-26T00:00:00",
+      "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+      "conflictId": "180",
+      "conflictSlug": "thc-rio",
       "hasEthics": true
     }
   ],

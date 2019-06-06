@@ -16,6 +16,18 @@
       "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
       "conflictId": "782",
       "conflictSlug": "monmouth-mall",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Monmouth Mall",
+      "category": "Active",
+      "mediaOutlet": "NJ.COM",
+      "link": "https://www.nj.com/news/index.ssf/2018/08/a_failed_new_york_investment_by_jared_kushner_gets.html",
+      "sourceDate": "2018-08-12T00:00:00",
+      "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
+      "conflictId": "782",
+      "conflictSlug": "monmouth-mall",
       "hasEthics": true
     }
   ],

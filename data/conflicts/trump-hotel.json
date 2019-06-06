@@ -15,6 +15,18 @@
       "headline": "Defense Department charged $300,000 at Trump properties since 2017",
       "conflictId": "253",
       "conflictSlug": "trump-hotel",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Hotel",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/04/10/politics/defense-department-300000-at-trump-properties/index.html",
+      "sourceDate": "2019-04-10T00:00:00",
+      "headline": "Defense Department charged $300,000 at Trump properties since 2017",
+      "conflictId": "253",
+      "conflictSlug": "trump-hotel",
       "hasEthics": true
     }
   ],

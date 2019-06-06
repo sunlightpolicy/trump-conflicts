@@ -15,6 +15,18 @@
       "headline": "Trump Lawyer Confirms President Can Pull Money From His Businesses Whenever He Wants",
       "conflictId": "47",
       "conflictSlug": "donald-j-trump-revocable-trust",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Donald J. Trump Revocable Trust",
+      "category": "Active",
+      "mediaOutlet": "ProPublica",
+      "link": "https://www.propublica.org/article/trump-pull-money-his-businesses-whenever-he-wants-without-telling-us",
+      "sourceDate": "2017-04-04T00:00:00",
+      "headline": "Trump Lawyer Confirms President Can Pull Money From His Businesses Whenever He Wants",
+      "conflictId": "47",
+      "conflictSlug": "donald-j-trump-revocable-trust",
       "hasEthics": true
     }
   ],

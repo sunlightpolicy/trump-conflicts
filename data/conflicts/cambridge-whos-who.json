@@ -1,7 +1,34 @@
 {
   "name": "Cambridge Who's Who",
   "description": "Donald Trump, Jr. is former Executive Director of Global Branding and Networking at Cambridge Who's Who, a vanity branding and global networking service widely accused of deceptive marketing.",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "Donald Trump, Jr. is former Executive Director of Global Branding and Networking at Cambridge Who's Who, a vanity branding and global networking service widely accused of deceptive marketing.",
+      "conflict": "Cambridge Who's Who",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/06/26/us/politics/cambridge-whos-who-trump-brand.html",
+      "sourceDate": "2016-06-25T00:00:00",
+      "headline": "‘We’re an Easy Target’: Taken In by the Trump Brand",
+      "conflictId": "9643",
+      "conflictSlug": "cambridge-whos-who",
+      "hasEthics": false
+    },
+    {
+      "description": "Donald Trump, Jr. is former Executive Director of Global Branding and Networking at Cambridge Who's Who, a vanity branding and global networking service widely accused of deceptive marketing.",
+      "conflict": "Cambridge Who's Who",
+      "category": "Active",
+      "mediaOutlet": "The Establishment",
+      "link": "https://theestablishment.co/anatomy-of-a-scam-the-national-association-of-professional-women-94304c38fb35/",
+      "sourceDate": "2015-11-11T00:00:00",
+      "headline": "Anatomy Of A Scam: The National Association Of Professional Women",
+      "conflictId": "9643",
+      "conflictSlug": "cambridge-whos-who",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

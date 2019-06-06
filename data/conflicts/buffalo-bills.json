@@ -2,6 +2,31 @@
   "name": "Buffalo Bills",
   "description": "",
   "familyMembers": [],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Buffalo Bills",
+      "category": "Active",
+      "mediaOutlet": "Associated Press",
+      "link": "https://www.nbcbayarea.com/news/politics/New-York-Attorney-Probing-Trump-Business-Deals-507038091.html",
+      "sourceDate": "2019-03-12T00:00:00",
+      "headline": "New York Attorney General Investigates Trump Business Deals",
+      "conflictId": "9691",
+      "conflictSlug": "buffalo-bills",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Buffalo Bills",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.nbcnews.com/politics/donald-trump/new-york-attorney-general-subpoenas-banks-about-trump-projects-n982291",
+      "sourceDate": "2019-03-12T00:00:00",
+      "headline": "New York attorney general subpoenas banks about Trump projects",
+      "conflictId": "9691",
+      "conflictSlug": "buffalo-bills",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

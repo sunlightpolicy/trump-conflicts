@@ -15,7 +15,31 @@
       "headline": "Trump properties received $3.2 million during midterms, FEC records show",
       "conflictId": "314",
       "conflictSlug": "trump-miami-resort",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Miami Resort",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/11/10/politics/trump-properties-campaign-spending-2018-midterms/index.html",
+      "sourceDate": "2018-11-10T00:00:00",
+      "headline": "Trump properties received $3.2 million during midterms, FEC records show",
+      "conflictId": "314",
+      "conflictSlug": "trump-miami-resort",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Miami Resort",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article210477439.html",
+      "sourceDate": "2018-06-19T00:00:00",
+      "headline": "Buyers tied to Russia, former Soviet republics paid $109 million cash for Trump properties",
+      "conflictId": "314",
+      "conflictSlug": "trump-miami-resort",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -39,6 +63,18 @@
       "headline": "Mar-a-Lago events raise money for politicos, revenues for Trump",
       "conflictId": "314",
       "conflictSlug": "trump-miami-resort",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Miami Resort",
+      "category": "Active",
+      "mediaOutlet": "Palm Beach Post",
+      "link": "https://www.palmbeachpost.com/news/national-govt--politics/mar-lago-events-raise-money-for-politicos-revenues-for-trump/F0EK7JzzOeDTT6nTSe8qyO/amp.html",
+      "sourceDate": "2018-05-04T00:00:00",
+      "headline": "Mar-a-Lago events raise money for politicos, revenues for Trump",
+      "conflictId": "314",
+      "conflictSlug": "trump-miami-resort",
       "hasEthics": true
     },
     {
@@ -51,7 +87,31 @@
       "headline": "Trump Organization documents say he has resigned from more than 400 businesses",
       "conflictId": "314",
       "conflictSlug": "trump-miami-resort",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Miami Resort",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "http://money.cnn.com/2017/01/23/news/donald-trump-resigns-business/",
+      "sourceDate": "2017-01-23T00:00:00",
+      "headline": "Trump Organization documents say he has resigned from more than 400 businesses",
+      "conflictId": "314",
+      "conflictSlug": "trump-miami-resort",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Miami Resort",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html?utm_term=.a6cf0ab24f58",
+      "sourceDate": "2016-11-04T00:00:00",
+      "headline": "In \"Little Moscow,\" Russians helped Donald Trump's brand survive the recession",
+      "conflictId": "314",
+      "conflictSlug": "trump-miami-resort",
+      "hasEthics": false
     },
     {
       "description": "",

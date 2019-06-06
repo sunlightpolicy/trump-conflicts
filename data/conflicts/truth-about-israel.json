@@ -1,7 +1,22 @@
 {
   "name": "Truth About Israel",
   "description": "Organized a ball at Mar-a-Lago to show support for President Trump.",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "Organized a ball at Mar-a-Lago to show support for President Trump.",
+      "conflict": "Truth About Israel",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/news/post-politics/wp/2018/02/26/israel-focused-charity-praises-trump-and-pays-him-at-mar-a-lago-gala/?utm_term=.59e4b7dbed4c",
+      "sourceDate": "2018-02-26T00:00:00",
+      "headline": "Israel-focused charity praises Trump — and pays him — at Mar-a-Lago gala",
+      "conflictId": "437",
+      "conflictSlug": "truth-about-israel",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

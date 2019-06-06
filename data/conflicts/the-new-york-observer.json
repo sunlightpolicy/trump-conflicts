@@ -15,6 +15,18 @@
       "headline": "A Kushner Ally Was Up for a Federal Post. Then the F.B.I. Began Digging.",
       "conflictId": "3250",
       "conflictSlug": "the-new-york-observer",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "The New York Observer",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/07/26/business/ken-kurson-jared-kushner.html",
+      "sourceDate": "2018-07-26T00:00:00",
+      "headline": "A Kushner Ally Was Up for a Federal Post. Then the F.B.I. Began Digging.",
+      "conflictId": "3250",
+      "conflictSlug": "the-new-york-observer",
       "hasEthics": true
     }
   ],

@@ -16,6 +16,18 @@
       "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
       "conflictId": "50",
       "conflictSlug": "dt-bali-golf-manager",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "DT Bali Golf Manager",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html",
+      "sourceDate": "2016-12-31T00:00:00",
+      "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
+      "conflictId": "50",
+      "conflictSlug": "dt-bali-golf-manager",
       "hasEthics": true
     }
   ],

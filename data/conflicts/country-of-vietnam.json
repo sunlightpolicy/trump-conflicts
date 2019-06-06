@@ -1,7 +1,22 @@
 {
   "name": "Country of Vietnam",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Country of Vietnam",
+      "category": "Active",
+      "mediaOutlet": "ProPublica",
+      "link": "https://www.propublica.org/article/trump-inc-podcast-vietnam-casino",
+      "sourceDate": "2018-04-25T00:00:00",
+      "headline": "The Hidden Hand of a Casino Company in Trump’s Contact with Vietnam — “Trump, Inc.” Podcast",
+      "conflictId": "458",
+      "conflictSlug": "country-of-vietnam",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

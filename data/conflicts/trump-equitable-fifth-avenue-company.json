@@ -15,6 +15,18 @@
       "headline": "Trump’s Empire: A Maze of Debts and Opaque Ties",
       "conflictId": "244",
       "conflictSlug": "trump-equitable-fifth-avenue-company",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Equitable Fifth Avenue Company",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/08/21/us/politics/donald-trump-debt.html",
+      "sourceDate": "2016-08-20T00:00:00",
+      "headline": "Trump’s Empire: A Maze of Debts and Opaque Ties",
+      "conflictId": "244",
+      "conflictSlug": "trump-equitable-fifth-avenue-company",
       "hasEthics": true
     }
   ],

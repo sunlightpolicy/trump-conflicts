@@ -429,9 +429,9 @@ namespace Phase2 {
                     new Column(10, "Melania", "bit"),
                     new Column(11, "Junior", "bit"),
 
-                    new Column(9, "Trump", "bit"),
-                    new Column(10, "Ivanka", "bit"),
-                    new Column(11, "Jared", "bit"),
+                    new Column(12, "Trump", "bit"),
+                    new Column(13, "Ivanka", "bit"),
+                    new Column(14, "Jared", "bit"),
                 }
             );
             conflictTable.Load();

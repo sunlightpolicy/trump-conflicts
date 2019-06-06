@@ -1,7 +1,34 @@
 {
   "name": "Trump National Doral",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Trump National Doral",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/04/10/politics/defense-department-300000-at-trump-properties/index.html",
+      "sourceDate": "2019-04-10T00:00:00",
+      "headline": "Defense Department charged $300,000 at Trump properties since 2017",
+      "conflictId": "9669",
+      "conflictSlug": "trump-national-doral",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump National Doral",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.nbcnews.com/politics/donald-trump/new-york-attorney-general-subpoenas-banks-about-trump-projects-n982291",
+      "sourceDate": "2019-03-12T00:00:00",
+      "headline": "New York attorney general subpoenas banks about Trump projects",
+      "conflictId": "9669",
+      "conflictSlug": "trump-national-doral",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

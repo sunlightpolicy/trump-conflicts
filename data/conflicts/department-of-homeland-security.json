@@ -1,7 +1,70 @@
 {
   "name": "Department of Homeland Security",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Department of Homeland Security",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/01/29/politics/trump-golf-clubs-undocumented-workers-congress/index.html",
+      "sourceDate": "2019-01-30T00:00:00",
+      "headline": "Undocumented former Trump workers ask Congress for protection",
+      "conflictId": "484",
+      "conflictSlug": "department-of-homeland-security",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Department of Homeland Security",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/donald-trumps-demand-for-a-border-wall-shut-down-the-government-at-the-same-time-his-company-was-firing-undocumented-workers/2019/01/26/8cf75d66-20c5-11e9-8e21-59a09ff1e2a1_story.html?utm_term=.d0875a750cee",
+      "sourceDate": "2019-01-26T00:00:00",
+      "headline": "Trump’s golf course employed undocumented workers — and then fired them amid showdown over border wall",
+      "conflictId": "484",
+      "conflictSlug": "department-of-homeland-security",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Department of Homeland Security",
+      "category": "Active",
+      "mediaOutlet": "Rolling Stone",
+      "link": "https://www.rollingstone.com/politics/politics-news/trump-mar-a-lago-new-year-eve-party-shutdown-773385/amp/",
+      "sourceDate": "2018-12-28T00:00:00",
+      "headline": "Taxpayers Are Subsidizing Mar-a-Lago’s New Year’s Eve Party Despite Trump’s Shutdown",
+      "conflictId": "484",
+      "conflictSlug": "department-of-homeland-security",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Department of Homeland Security",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/national/taxpayers-cost-for-trump-jrs-business-trip-to-india-nearly-100k-documents-show/2018/11/15/1ea6153a-9f58-4718-83d8-dff80ad42f9e_story.html?utm_term=.896cb67f10b7",
+      "sourceDate": "2018-11-15T00:00:00",
+      "headline": "Taxpayers’ cost for Trump Jr.’s business trip to India nearly $100K, documents show",
+      "conflictId": "484",
+      "conflictSlug": "department-of-homeland-security",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Department of Homeland Security",
+      "category": "Active",
+      "mediaOutlet": "ProPublica",
+      "link": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
+      "sourceDate": "2018-06-27T00:00:00",
+      "headline": "We’ve Found $16.1 Million in Political and Taxpayer Spending at Trump Properties",
+      "conflictId": "484",
+      "conflictSlug": "department-of-homeland-security",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

@@ -1,7 +1,22 @@
 {
   "name": "Michael Flynn",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Michael Flynn",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/michael-cohen-sought-trump-pardon-attorney-says/2019/03/07/e59c84e2-40ef-11e9-85ad-779ef05fd9d8_story.html?utm_term=.16262dae39c6",
+      "sourceDate": "2019-03-07T00:00:00",
+      "headline": "Cohen’s lawyer says Trump advisers were ‘dangling’ pardons",
+      "conflictId": "9686",
+      "conflictSlug": "michael-flynn",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

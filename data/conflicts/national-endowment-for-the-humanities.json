@@ -1,7 +1,22 @@
 {
   "name": "National Endowment for the Humanities",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Jared Kushner"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "National Endowment for the Humanities",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/07/26/business/ken-kurson-jared-kushner.html",
+      "sourceDate": "2018-07-26T00:00:00",
+      "headline": "A Kushner Ally Was Up for a Federal Post. Then the F.B.I. Began Digging.",
+      "conflictId": "3253",
+      "conflictSlug": "national-endowment-for-the-humanities",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

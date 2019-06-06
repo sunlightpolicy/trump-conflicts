@@ -1,7 +1,22 @@
 {
   "name": "Philippine Government",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Philippine Government",
+      "category": "Active",
+      "mediaOutlet": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/philippine-government-party-to-be-held-at-trumps-dc-hotel-2018-04-19",
+      "sourceDate": "2018-04-19T00:00:00",
+      "headline": "Philippine government party to be held at Trump’s DC hotel",
+      "conflictId": "459",
+      "conflictSlug": "philippine-government",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

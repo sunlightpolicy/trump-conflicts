@@ -1,7 +1,130 @@
 {
   "name": "Russia",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Russia",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/graphics/2019/politics/read-the-mueller-report/?noredirect=on&utm_term=.89d65591f96b",
+      "sourceDate": "2019-04-20T00:00:00",
+      "headline": "The Mueller report, annotated",
+      "conflictId": "9705",
+      "conflictSlug": "russia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Russia",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/politics/live-news/robert-mueller-report-public/index.html",
+      "sourceDate": "2019-04-18T00:00:00",
+      "headline": "The Mueller report is out",
+      "conflictId": "9705",
+      "conflictSlug": "russia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Russia",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/interactive/2019/04/18/us/politics/mueller-report-document.html?mtrref=www.google.com",
+      "sourceDate": "2019-04-18T00:00:00",
+      "headline": "Read the Mueller Report: Searchable Document and Index",
+      "conflictId": "9705",
+      "conflictSlug": "russia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Russia",
+      "category": "Active",
+      "mediaOutlet": "Politifact",
+      "link": "https://www.politifact.com/truth-o-meter/article/2019/apr/18/context-comparing-bill-barrs-summary-mueller-repor/",
+      "sourceDate": "2019-04-18T00:00:00",
+      "headline": "In Context: Comparing Bill Barr’s summary of Mueller's findings to the publicly released report",
+      "conflictId": "9705",
+      "conflictSlug": "russia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Russia",
+      "category": "Active",
+      "mediaOutlet": "Time Magazine",
+      "link": "http://time.com/5567077/mueller-report-release/",
+      "sourceDate": "2019-04-18T00:00:00",
+      "headline": "Here Are the Biggest Takeaways From the Mueller Report",
+      "conflictId": "9705",
+      "conflictSlug": "russia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Russia",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/democrats-subpoena-banks-as-they-probe-trump-finances/2019/04/15/d23a73f8-5feb-11e9-bf24-db4b9fb62aa2_story.html?utm_term=.bdafd5ba005a",
+      "sourceDate": "2019-04-15T00:00:00",
+      "headline": "Democrats subpoena banks as they probe Trump finances",
+      "conflictId": "9705",
+      "conflictSlug": "russia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Russia",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/2019/04/11/most-potentially-damaging-congressional-investigations-trump-ranked/?utm_term=.cffb1c783a84",
+      "sourceDate": "2019-04-11T00:00:00",
+      "headline": "The 6 most potentially damaging congressional investigations for Trump, ranked",
+      "conflictId": "9705",
+      "conflictSlug": "russia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Russia",
+      "category": "Active",
+      "mediaOutlet": "BuzzFeed",
+      "link": "https://www.buzzfeednews.com/article/emmaloop/in-new-documents-cohen-says-trump-instructed-him-to-lie",
+      "sourceDate": "2019-04-05T00:00:00",
+      "headline": "In New Documents, Cohen Says Trump \"Instructed\" Him To Lie",
+      "conflictId": "9705",
+      "conflictSlug": "russia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Russia",
+      "category": "Active",
+      "mediaOutlet": "WNYC",
+      "link": "https://www.wnycstudios.org/story/trump-inc-trump-moscow-tower-problem",
+      "sourceDate": "2019-03-21T00:00:00",
+      "headline": "Trump’s Moscow Tower Problem",
+      "conflictId": "9705",
+      "conflictSlug": "russia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Russia",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/house-democrats-to-question-former-business-associate-of-trump-as-part-of-probe/2019/03/20/cf191318-4b4c-11e9-b871-978e5c757325_story.html?utm_term=.3c4fb08b5a4b",
+      "sourceDate": "2019-03-20T00:00:00",
+      "headline": "House Democrats to question former business associate of Trump as part of probe",
+      "conflictId": "9705",
+      "conflictSlug": "russia",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

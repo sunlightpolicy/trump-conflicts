@@ -1,7 +1,22 @@
 {
   "name": "Marc Kasowitz",
   "description": "Marc Kasowitz, a Trump personal lawyer who has another client with business interests in Vietnam.",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "Marc Kasowitz, a Trump personal lawyer who has another client with business interests in Vietnam.",
+      "conflict": "Marc Kasowitz",
+      "category": "Active",
+      "mediaOutlet": "ProPublica",
+      "link": "https://www.propublica.org/article/trump-inc-podcast-vietnam-casino",
+      "sourceDate": "2018-04-25T00:00:00",
+      "headline": "The Hidden Hand of a Casino Company in Trump’s Contact with Vietnam — “Trump, Inc.” Podcast",
+      "conflictId": "457",
+      "conflictSlug": "marc-kasowitz",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

@@ -15,7 +15,31 @@
       "headline": "Billionaire Phil Ruffin says he’s the Kansan mentioned at Michael Cohen hearing",
       "conflictId": "267",
       "conflictSlug": "trump-las-vegas",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Las Vegas",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/politics-government/congress/article226888739.html",
+      "sourceDate": "2019-02-27T00:00:00",
+      "headline": "Billionaire Phil Ruffin says he’s the Kansan mentioned at Michael Cohen hearing",
+      "conflictId": "267",
+      "conflictSlug": "trump-las-vegas",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Las Vegas",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/11/10/politics/trump-properties-campaign-spending-2018-midterms/index.html",
+      "sourceDate": "2018-11-10T00:00:00",
+      "headline": "Trump properties received $3.2 million during midterms, FEC records show",
+      "conflictId": "267",
+      "conflictSlug": "trump-las-vegas",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -39,7 +63,31 @@
       "headline": "What You (Don’t) Know About Trump: The Huge Holes In Disclosure Rules And How They Could Be Fixed",
       "conflictId": "267",
       "conflictSlug": "trump-las-vegas",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Las Vegas",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/sites/chasewithorn/2018/10/24/what-you-dont-know-about-trump-the-huge-holes-in-disclosure-rules-and-how-they-could-be-fixed/amp/",
+      "sourceDate": "2018-10-24T00:00:00",
+      "headline": "What You (Don’t) Know About Trump: The Huge Holes In Disclosure Rules And How They Could Be Fixed",
+      "conflictId": "267",
+      "conflictSlug": "trump-las-vegas",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump Las Vegas",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html",
+      "sourceDate": "2016-12-21T00:00:00",
+      "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+      "conflictId": "267",
+      "conflictSlug": "trump-las-vegas",
+      "hasEthics": false
     },
     {
       "description": "",

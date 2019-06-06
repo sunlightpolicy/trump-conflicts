@@ -1,7 +1,22 @@
 {
-  "name": ">",
+  "name": "Trump Ireland (Doonbeg)",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Trump Ireland (Doonbeg)",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/7-key-questions-about-what-president-trumps-company-faces-in-2019/2019/01/07/ad87c4aa-0d2c-11e9-831f-3aa2c2be4cbd_story.html?utm_term=.58faa63e4d51",
+      "sourceDate": "2019-01-08T00:00:00",
+      "headline": "7 key questions about what President Trump’s company faces in 2019",
+      "conflictId": "9724",
+      "conflictSlug": "",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

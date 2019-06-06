@@ -1,7 +1,34 @@
 {
   "name": "Pier Village",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Jared Kushner"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Pier Village",
+      "category": "Active",
+      "mediaOutlet": "NJ.COM",
+      "link": "https://www.nj.com/news/index.ssf/2018/08/a_failed_new_york_investment_by_jared_kushner_gets.html",
+      "sourceDate": "2018-08-12T00:00:00",
+      "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
+      "conflictId": "464",
+      "conflictSlug": "pier-village",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Pier Village",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://mobile.nytimes.com/2018/03/10/business/trumps-kushners-hotel-deals.html?referer=https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2018/03/11/politics/new-york-times-jared-kushner-donald-trump-hotel/index.html",
+      "sourceDate": "2018-03-10T00:00:00",
+      "headline": "Out of Public View, Trumps and Kushners Are Talking Business",
+      "conflictId": "464",
+      "conflictSlug": "pier-village",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

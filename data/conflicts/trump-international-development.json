@@ -15,7 +15,31 @@
       "headline": "Giuliani: 'I was wrong' to say Trump hadn't signed letter of intent for Trump Tower Moscow",
       "conflictId": "255",
       "conflictSlug": "trump-international-development",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump International Development",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://amp.cnn.com/cnn/2018/12/19/politics/rudy-giuliani-moscow-trump-tower/index.html",
+      "sourceDate": "2018-12-19T00:00:00",
+      "headline": "Giuliani: 'I was wrong' to say Trump hadn't signed letter of intent for Trump Tower Moscow",
+      "conflictId": "255",
+      "conflictSlug": "trump-international-development",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump International Development",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://amp.cnn.com/cnn/2018/12/16/politics/rudy-giuliani-trump-tower/index.html",
+      "sourceDate": "2018-12-17T00:00:00",
+      "headline": "Giuliani indicates conversations with Trump on Trump Tower Moscow occurred later than previously known",
+      "conflictId": "255",
+      "conflictSlug": "trump-international-development",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -39,6 +63,18 @@
       "headline": "Trump’s ‘emoluments’ battle: How a scholar’s search of 200 years of dictionaries helped win a historic ruling",
       "conflictId": "255",
       "conflictSlug": "trump-international-development",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump International Development",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/news/morning-mix/wp/2018/07/27/trumps-emoluments-battle-how-a-scholars-journey-through-200-years-of-dictionaries-helped-win-a-historic-ruling/?utm_term=.25bb86879b9b",
+      "sourceDate": "2018-07-27T00:00:00",
+      "headline": "Trump’s ‘emoluments’ battle: How a scholar’s search of 200 years of dictionaries helped win a historic ruling",
+      "conflictId": "255",
+      "conflictSlug": "trump-international-development",
       "hasEthics": true
     },
     {
@@ -51,7 +87,31 @@
       "headline": "Trump's Scottish resort to expand, raising ethics concerns",
       "conflictId": "255",
       "conflictSlug": "trump-international-development",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump International Development",
+      "category": "Active",
+      "mediaOutlet": "ABC News",
+      "link": "https://abcnews.go.com/amp/Business/wireStory/trumps-scottish-resort-expand-raising-ethics-concerns-56822706",
+      "sourceDate": "2018-07-25T00:00:00",
+      "headline": "Trump's Scottish resort to expand, raising ethics concerns",
+      "conflictId": "255",
+      "conflictSlug": "trump-international-development",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Trump International Development",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/trump-business-dealings-raises-serious-concerns-ethics-office-says/2018/06/22/b71de20a-7642-11e8-9780-b1dd6a09b549_story.html?utm_term=.6784ef6af365",
+      "sourceDate": "2018-06-23T00:00:00",
+      "headline": "Trump business dealings raise ‘serious concerns,’ ethics office says",
+      "conflictId": "255",
+      "conflictSlug": "trump-international-development",
+      "hasEthics": false
     },
     {
       "description": "",

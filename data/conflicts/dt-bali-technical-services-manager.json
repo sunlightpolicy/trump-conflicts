@@ -16,6 +16,18 @@
       "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
       "conflictId": "52",
       "conflictSlug": "dt-bali-technical-services-manager",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "DT Bali Technical Services Manager",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html",
+      "sourceDate": "2016-12-31T00:00:00",
+      "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
+      "conflictId": "52",
+      "conflictSlug": "dt-bali-technical-services-manager",
       "hasEthics": true
     }
   ],

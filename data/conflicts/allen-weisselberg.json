@@ -1,7 +1,22 @@
 {
   "name": "Allen Weisselberg",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Allen Weisselberg",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.nbcnews.com/politics/congress/cummings-seeks-testimony-two-more-trump-attorneys-about-cohen-payments-n981586",
+      "sourceDate": "2019-03-11T00:00:00",
+      "headline": "Cummings seeks testimony from two more Trump attorneys about Cohen payments",
+      "conflictId": "9695",
+      "conflictSlug": "allen-weisselberg",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

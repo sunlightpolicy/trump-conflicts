@@ -15,7 +15,31 @@
       "headline": "Donald Trump Had Investments in Carrier Corp.’s Parent",
       "conflictId": "103",
       "conflictSlug": "holds-united-technologies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Holds United Technologies",
+      "category": "Active",
+      "mediaOutlet": "Wall Street Journal",
+      "link": "https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443?mod=e2tw&amp;mg=id-wsj",
+      "sourceDate": "2016-12-02T00:00:00",
+      "headline": "Donald Trump Had Investments in Carrier Corp.’s Parent",
+      "conflictId": "103",
+      "conflictSlug": "holds-united-technologies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Holds United Technologies",
+      "category": "Active",
+      "mediaOutlet": "Indy Star",
+      "link": "http://www.indystar.com/story/news/politics/2016/05/19/donald-trump-profited-investment-carriers-parent-company/84593308/",
+      "sourceDate": "2016-05-19T00:00:00",
+      "headline": "Donald Trump profited from investment in Carrier's parent company",
+      "conflictId": "103",
+      "conflictSlug": "holds-united-technologies",
+      "hasEthics": false
     },
     {
       "description": "",

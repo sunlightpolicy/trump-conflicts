@@ -784,6 +784,8 @@ UPDATE Conflict SET Slug = 'trump-international-hotel-dc' WHERE ID = 397
 UPDATE Conflict SET Slug = 'trump-international-hotel-hawaii' WHERE ID = 262
 UPDATE Conflict SET Slug = 'trump-international-hotels-management-dba-trump-hotel-collection' WHERE ID = 263
 UPDATE Conflict SET Slug = 'trump-international-management' WHERE ID = 264
+UPDATE Conflict SET Slug = 'trump-ireland-doonbeg' WHERE ID = 9724
+UPDATE Conflict SET Slug = 'trump-jeddah' WHERE ID = 9722
 UPDATE Conflict SET Slug = 'trump-jets-formerly-sentient-jets' WHERE ID = 265
 UPDATE Conflict SET Slug = 'trump-kelowna' WHERE ID = 3435
 UPDATE Conflict SET Slug = 'trump-korea' WHERE ID = 266
@@ -879,6 +881,7 @@ UPDATE Conflict SET Slug = 'trump-ruffin' WHERE ID = 345
 UPDATE Conflict SET Slug = 'trump-sales-leasing-chicago' WHERE ID = 346
 UPDATE Conflict SET Slug = 'trump-sales-amp-leasing-chicago' WHERE ID = 389
 UPDATE Conflict SET Slug = 'trump-scotland' WHERE ID = 347
+UPDATE Conflict SET Slug = 'trump-scotland-aberdeen-and-turnberry' WHERE ID = 9711
 UPDATE Conflict SET Slug = 'trump-scotsborough-square' WHERE ID = 348
 UPDATE Conflict SET Slug = 'trump-soho' WHERE ID = 349
 UPDATE Conflict SET Slug = 'trump-sunny-isles' WHERE ID = 9704

@@ -2,6 +2,19 @@
   "name": "Samuel Patten",
   "description": "",
   "familyMembers": [],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Samuel Patten",
+      "category": "Active",
+      "mediaOutlet": "Mother Jones",
+      "link": "https://www.motherjones.com/politics/2018/08/samuel-patten-paul-manafort-foreign-lobbying/",
+      "sourceDate": "2018-08-31T00:00:00",
+      "headline": "Political Operative Tied to Paul Manafort Charged With Illegal Foreign Lobbying",
+      "conflictId": "9690",
+      "conflictSlug": "samuel-patten",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

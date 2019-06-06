@@ -16,6 +16,18 @@
       "headline": "New York attorney general subpoenas banks about Trump projects",
       "conflictId": "334",
       "conflictSlug": "trump-park-avenue",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Park Avenue",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.nbcnews.com/politics/donald-trump/new-york-attorney-general-subpoenas-banks-about-trump-projects-n982291",
+      "sourceDate": "2019-03-12T00:00:00",
+      "headline": "New York attorney general subpoenas banks about Trump projects",
+      "conflictId": "334",
+      "conflictSlug": "trump-park-avenue",
       "hasEthics": true
     }
   ],

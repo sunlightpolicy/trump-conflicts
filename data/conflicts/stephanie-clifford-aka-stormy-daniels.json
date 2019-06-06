@@ -1,7 +1,154 @@
 {
   "name": "Stephanie Clifford (Aka Stormy Daniels)",
   "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.nbcnews.com/politics/congress/cummings-seeks-testimony-two-more-trump-attorneys-about-cohen-payments-n981586",
+      "sourceDate": "2019-03-11T00:00:00",
+      "headline": "Cummings seeks testimony from two more Trump attorneys about Cohen payments",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "ProPublica",
+      "link": "https://www.wnycstudios.org/story/trump-inc-what-learned-from-michael-cohen",
+      "sourceDate": "2019-02-28T00:00:00",
+      "headline": "What We’ve Learned From Michael Cohen",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/politics/live-news/michael-cohen-testimony/index.html",
+      "sourceDate": "2019-02-27T00:00:00",
+      "headline": "Michael Cohen testifies before Congress",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/politics-government/congress/article226888739.html",
+      "sourceDate": "2019-02-27T00:00:00",
+      "headline": "Billionaire Phil Ruffin says he’s the Kansan mentioned at Michael Cohen hearing",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.cnbc.com/2019/02/19/trump-wanted-prosecutor-in-charge-of-stormy-daniels-hush-money-probe.html",
+      "sourceDate": "2019-02-20T00:00:00",
+      "headline": "Trump reportedly wanted top federal prosecutor in charge of probing Stormy Daniels hush money affair — even after the former Giuliani partner recused",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.nbcnews.com/politics/congress/cummings-says-new-evidence-shows-trump-attorneys-may-have-misled-n972341",
+      "sourceDate": "2019-02-15T00:00:00",
+      "headline": "Cummings says new evidence shows Trump attorneys may have misled ethics officials",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2018-12-12/trump-s-ex-lawyer-michael-cohen-sentenced-to-3-years?cmpid=BBD121218_BIZ&utm_medium=email&utm_source=newsletter&utm_term=181212&utm_campaign=bloombergdaily",
+      "sourceDate": "2018-12-12T00:00:00",
+      "headline": "Cohen Gets Prison, Saying His Duty Was to Hide Trump’s ‘Dirty Deeds’",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/prosecutors-cancel-meeting-with-stormy-daniels/2018/06/25/ff69bdb2-7887-11e8-8df3-007495a78738_story.html?utm_term=.5773519d5874",
+      "sourceDate": "2018-06-28T00:00:00",
+      "headline": "Prosecutors cancel meeting with Stormy Daniels",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/in-new-financial-disclosure-trump-reports-apparent-payment-through-his-personal-attorney-to-adult-film-star/2018/05/16/cf6171f2-592c-11e8-b656-a5f8c2a9295d_story.html?noredirect=on&utm_term=.ded1e82e4416",
+      "sourceDate": "2018-05-16T00:00:00",
+      "headline": "In new financial disclosure, Trump reports apparent payment through his personal attorney to adult-film star",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/05/09/politics/michael-cohen-trump-lobbying/index.html",
+      "sourceDate": "2018-05-10T00:00:00",
+      "headline": "Inside Michael Cohen's aggressive pitch promising access to Trump",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/03/08/opinions/stormy-daniels-trump-lawsuit-could-be-trouble-rangappa-opinion/index.html",
+      "sourceDate": "2018-03-08T00:00:00",
+      "headline": "Stormy Daniels suit could back Trump into a corner",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    },
+    {
+      "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+      "conflict": "Stephanie Clifford (Aka Stormy Daniels)",
+      "category": "Active",
+      "mediaOutlet": "New York Post",
+      "link": "https://nypost.com/2018/03/05/bank-reported-trump-lawyers-payment-to-stormy-daniels-as-suspicious/",
+      "sourceDate": "2018-03-05T00:00:00",
+      "headline": "Bank reported Trump lawyer’s payment to Stormy Daniels as suspicious",
+      "conflictId": "385",
+      "conflictSlug": "stephanie-clifford-aka-stormy-daniels",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

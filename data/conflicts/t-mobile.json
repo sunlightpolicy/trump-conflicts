@@ -2,6 +2,31 @@
   "name": "T-Mobile",
   "description": "",
   "familyMembers": [],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "T-Mobile",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/03/12/politics/t-mobile-ceo-democrats/index.html",
+      "sourceDate": "2019-03-12T00:00:00",
+      "headline": "Democrats grill T-Mobile CEO for Trump hotel stays",
+      "conflictId": "9692",
+      "conflictSlug": "t-mobile",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "T-Mobile",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/a-place-i-feel-very-comfortable-t-mobile-executives-seeking-government-approval-for-merger-stayed-at-trumps-hotel-repeatedly/2019/01/15/6a114d3e-142c-11e9-b6ad-9cfd62dbb0a8_story.html?noredirect=on&utm_term=.81d60f58d2a3",
+      "sourceDate": "2019-01-16T00:00:00",
+      "headline": "T-Mobile announced a merger needing Trump administration approval. The next day, 9 executives had reservations at Trump’s hotel.",
+      "conflictId": "9692",
+      "conflictSlug": "t-mobile",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

@@ -1,7 +1,34 @@
 {
   "name": "Office of Government Ethics",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Office of Government Ethics",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.nbcnews.com/politics/congress/cummings-says-new-evidence-shows-trump-attorneys-may-have-misled-n972341",
+      "sourceDate": "2019-02-15T00:00:00",
+      "headline": "Cummings says new evidence shows Trump attorneys may have misled ethics officials",
+      "conflictId": "475",
+      "conflictSlug": "office-of-government-ethics",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Office of Government Ethics",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2018/06/15/620230403/legal-defense-funds-for-trump-allies-multiply",
+      "sourceDate": "2018-06-15T00:00:00",
+      "headline": "Legal Defense Funds For Trump Allies Multiply",
+      "conflictId": "475",
+      "conflictSlug": "office-of-government-ethics",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

@@ -2,7 +2,8 @@
   "name": "China Trademark",
   "description": "",
   "familyMembers": [
-    "Donald Trump"
+    "Donald Trump",
+    "Ivanka Trump"
   ],
   "stories": [
     {
@@ -15,7 +16,31 @@
       "headline": "Ivanka Trump receives 5 trademarks from China amid trade talks",
       "conflictId": "24",
       "conflictSlug": "china-trademark",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "China Trademark",
+      "category": "Active",
+      "mediaOutlet": "CBS News",
+      "link": "https://www.cbsnews.com/amp/news/ivanka-trump-receives-5-trademarks-from-china-amid-trade-talks/",
+      "sourceDate": "2019-01-21T00:00:00",
+      "headline": "Ivanka Trump receives 5 trademarks from China amid trade talks",
+      "conflictId": "24",
+      "conflictSlug": "china-trademark",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "China Trademark",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/11/06/politics/ivanka-trump-trademarks/index.html",
+      "sourceDate": "2018-11-06T00:00:00",
+      "headline": "China grants 16 trademarks to defunct Ivanka Trump business",
+      "conflictId": "24",
+      "conflictSlug": "china-trademark",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -39,6 +64,18 @@
       "headline": "China greenlights large batch of Ivanka Trump trademark applications",
       "conflictId": "24",
       "conflictSlug": "china-trademark",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "China Trademark",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/world/asia_pacific/china-greenlights-large-batch-of-ivanka-trump-trademark-applications/2018/11/06/c085e88c-e1c8-11e8-a1c9-6afe99dddd92_story.html?utm_term=.8d0bb6058cd8",
+      "sourceDate": "2018-11-06T00:00:00",
+      "headline": "China greenlights large batch of Ivanka Trump trademark applications",
+      "conflictId": "24",
+      "conflictSlug": "china-trademark",
       "hasEthics": true
     },
     {
@@ -51,7 +88,31 @@
       "headline": "Democratic lawmakers make their case in court to stop Trump business from accepting foreign payments",
       "conflictId": "24",
       "conflictSlug": "china-trademark",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "China Trademark",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/06/07/politics/court-case-emoluments-foreign-payments-federal-judge-trump-businesses/index.html",
+      "sourceDate": "2018-06-07T00:00:00",
+      "headline": "Democratic lawmakers make their case in court to stop Trump business from accepting foreign payments",
+      "conflictId": "24",
+      "conflictSlug": "china-trademark",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "China Trademark",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/05/28/business/ivanka-trump-china-trademarks.html",
+      "sourceDate": "2018-05-28T00:00:00",
+      "headline": "Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE",
+      "conflictId": "24",
+      "conflictSlug": "china-trademark",
+      "hasEthics": false
     },
     {
       "description": "",

@@ -15,6 +15,18 @@
       "headline": "Trump’s golf course employed undocumented workers — and then fired them amid showdown over border wall",
       "conflictId": "251",
       "conflictSlug": "trump-golf-management",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Golf Management",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/donald-trumps-demand-for-a-border-wall-shut-down-the-government-at-the-same-time-his-company-was-firing-undocumented-workers/2019/01/26/8cf75d66-20c5-11e9-8e21-59a09ff1e2a1_story.html?utm_term=.d0875a750cee",
+      "sourceDate": "2019-01-26T00:00:00",
+      "headline": "Trump’s golf course employed undocumented workers — and then fired them amid showdown over border wall",
+      "conflictId": "251",
+      "conflictSlug": "trump-golf-management",
       "hasEthics": true
     }
   ],

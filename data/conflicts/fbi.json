@@ -1,7 +1,190 @@
 {
   "name": "FBI",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/graphics/2019/politics/read-the-mueller-report/?noredirect=on&utm_term=.89d65591f96b",
+      "sourceDate": "2019-04-20T00:00:00",
+      "headline": "The Mueller report, annotated",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/politics/live-news/robert-mueller-report-public/index.html",
+      "sourceDate": "2019-04-18T00:00:00",
+      "headline": "The Mueller report is out",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/interactive/2019/04/18/us/politics/mueller-report-document.html?mtrref=www.google.com",
+      "sourceDate": "2019-04-18T00:00:00",
+      "headline": "Read the Mueller Report: Searchable Document and Index",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "Politifact",
+      "link": "https://www.politifact.com/truth-o-meter/article/2019/apr/18/context-comparing-bill-barrs-summary-mueller-repor/",
+      "sourceDate": "2019-04-18T00:00:00",
+      "headline": "In Context: Comparing Bill Barr’s summary of Mueller's findings to the publicly released report",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "Time Magazine",
+      "link": "http://time.com/5567077/mueller-report-release/",
+      "sourceDate": "2019-04-18T00:00:00",
+      "headline": "Here Are the Biggest Takeaways From the Mueller Report",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2019/01/11/us/politics/fbi-trump-russia-inquiry.html",
+      "sourceDate": "2019-01-11T00:00:00",
+      "headline": "F.B.I. Opened Inquiry Into Whether Trump Was Secretly Working on Behalf of Russia Following President Trump’s firing of James B. Comey as F.B.I. director, the bureau grew increasingly concerned about whether the president’s actions constituted anti-American activity. Credit Sarah Silbiger/The New York Times   Image",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "NBC",
+      "link": "https://www.nbcnews.com/politics/white-house/democrats-demand-white-house-documents-fbi-headquarters-move-n930406",
+      "sourceDate": "2018-11-02T00:00:00",
+      "headline": "Democrats demand White House documents on FBI headquarters move",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/10/18/politics/trump-fbi-building/index.html",
+      "sourceDate": "2018-10-18T00:00:00",
+      "headline": "Trump more involved in stopping FBI HQ move than previously known, emails show",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2018/10/18/658509261/trump-intervened-in-fbi-hq-project-to-protect-his-hotel-democrats-allege",
+      "sourceDate": "2018-10-18T00:00:00",
+      "headline": "Trump Intervened In FBI HQ Project To Protect His Hotel, Democrats Allege",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "CBS News",
+      "link": "https://www.cbsnews.com/news/inspector-general-report-trump-involved-in-fbi-headquarters-decision/",
+      "sourceDate": "2018-08-28T00:00:00",
+      "headline": "Inspector general report: Trump involved in FBI headquarters decision",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2018/08/28/642696449/government-watchdog-raises-questions-about-trumps-decision-not-to-move-fbi",
+      "sourceDate": "2018-08-28T00:00:00",
+      "headline": "Government Watchdog Raises Questions About Trump's Decision Not To Move FBI",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/2018/08/27/white-house-role-fbi-headquarters-plan-detailed-watchdog-report/?utm_term=.ef2c1f7ae015",
+      "sourceDate": "2018-08-27T00:00:00",
+      "headline": "White House role in FBI headquarters plan detailed in watchdog report",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/local/inspector-general-report-trump-involved-in-fbi-hq-decision/2018/08/27/e89f0812-aa41-11e8-9a7d-cd30504ff902_story.html?utm_term=.a7b25b7e8c92",
+      "sourceDate": "2018-08-27T00:00:00",
+      "headline": "Inspector general report: Trump involved in FBI HQ decision",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/2018/07/30/trump-intervenes-fbi-headquarters-project/?utm_term=.75781ffbd5ab",
+      "sourceDate": "2018-07-30T00:00:00",
+      "headline": "Trump intervenes in FBI headquarters project",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "FBI",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/07/26/business/ken-kurson-jared-kushner.html",
+      "sourceDate": "2018-07-26T00:00:00",
+      "headline": "A Kushner Ally Was Up for a Federal Post. Then the F.B.I. Began Digging.",
+      "conflictId": "3219",
+      "conflictSlug": "fbi",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

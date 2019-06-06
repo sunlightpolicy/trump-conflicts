@@ -2,6 +2,19 @@
   "name": "Jho Low",
   "description": "",
   "familyMembers": [],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Jho Low",
+      "category": "Active",
+      "mediaOutlet": "Insider",
+      "link": "https://www.thisisinsider.com/jho-low-1mdb-trump-donation-justice-department-investigation-2019-3",
+      "sourceDate": "2018-03-13T00:00:00",
+      "headline": "The Justice Department is investigating if a Trump fundraising committee received money from the biggest financial scammer of all time",
+      "conflictId": "9689",
+      "conflictSlug": "jho-low",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

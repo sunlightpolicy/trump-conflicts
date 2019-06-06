@@ -15,6 +15,18 @@
       "headline": "Vets group sues Trump administration to end 'Mar-A-Lago Council' influence on VA",
       "conflictId": "153",
       "conflictSlug": "shore-haven-apt1",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Shore Haven Apt#1",
+      "category": "Active",
+      "mediaOutlet": "Healthcare News",
+      "link": "https://www.healthcareitnews.com/news/update-vets-group-sues-trump-administration-end-mar-lago-council-influence-va",
+      "sourceDate": "2018-08-20T00:00:00",
+      "headline": "Vets group sues Trump administration to end 'Mar-A-Lago Council' influence on VA",
+      "conflictId": "153",
+      "conflictSlug": "shore-haven-apt1",
       "hasEthics": true
     }
   ],

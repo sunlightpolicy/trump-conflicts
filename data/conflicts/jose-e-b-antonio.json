@@ -1,7 +1,22 @@
 {
   "name": "Jose E. B. Antonio",
   "description": "In October 2016 he had quietly been named a special envoy to the United States by the Philippine president, Rodrigo Duterte. Mr. Antonio was nearly finished building a $150 million tower in Manila’s financial district — a 57-story symbol of affluence and capitalism, which bluntly promotes itself with the slogan “Live Above the Rest.” And now his partner on the project, Donald J. Trump, had just been elected president of the United States.",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "In October 2016 he had quietly been named a special envoy to the United States by the Philippine president, Rodrigo Duterte. Mr. Antonio was nearly finished building a $150 million tower in Manila’s financial district — a 57-story symbol of affluence and capitalism, which bluntly promotes itself with the slogan “Live Above the Rest.” And now his partner on the project, Donald J. Trump, had just been elected president of the United States.",
+      "conflict": "Jose E. B. Antonio",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1",
+      "sourceDate": "2016-11-26T00:00:00",
+      "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+      "conflictId": "399",
+      "conflictSlug": "jose-e-b-antonio",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

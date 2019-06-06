@@ -15,7 +15,31 @@
       "headline": "NYC official: Kushner firm flouted rules, endangered tenants",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Associated Press",
+      "link": "https://www.apnews.com/879e975264c4440a910082bc1c3c2e9a",
+      "sourceDate": "2019-03-19T00:00:00",
+      "headline": "NYC official: Kushner firm flouted rules, endangered tenants",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Wall Street Journal",
+      "link": "https://www.wsj.com/amp/articles/kushner-cos-scaling-back-in-new-york-as-public-scrutiny-heats-up-11552993200",
+      "sourceDate": "2019-03-19T00:00:00",
+      "headline": "Kushner Cos. Scaling Back in New York as Public Scrutiny Heats Up",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -39,7 +63,31 @@
       "headline": "Kushner Cos. Seeks Federal Loan in Biggest Deal in Decade, Sources Say",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Bloomberg",
+      "link": "https://www.bloomberg.com/amp/news/articles/2019-02-22/kushner-cos-said-to-seek-federal-loan-in-biggest-deal-in-decade",
+      "sourceDate": "2019-02-22T00:00:00",
+      "headline": "Kushner Cos. Seeks Federal Loan in Biggest Deal in Decade, Sources Say",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/01/04/politics/crew-ivanka-trump-opportunity-zones/index.html?no-st=1547064884",
+      "sourceDate": "2019-01-04T00:00:00",
+      "headline": "Watchdog claims Ivanka Trump violated conflict of interest law with involvement in 'opportunity zones' program",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -63,7 +111,31 @@
       "headline": "How Ivanka Trump and Jared Kushner built their $1.1 billion fortune and how they spend it",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://amp.businessinsider.com/ivanka-trump-jared-kushner-net-worth-2019-1",
+      "sourceDate": "2019-01-01T00:00:00",
+      "headline": "How Ivanka Trump and Jared Kushner built their $1.1 billion fortune and how they spend it",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/12/20/politics/kushner-white-house-foia/index.html",
+      "sourceDate": "2018-12-21T00:00:00",
+      "headline": "Bureaucrats flagged White House on questions about Kushner. A judge says that's not normal",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -87,7 +159,31 @@
       "headline": "Kushners buying 4th New Jersey property in tax-break zone",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "ABC News",
+      "link": "https://abcnews.go.com/amp/Business/wireStory/kushners-buying-4th-jersey-property-tax-break-zone-59943879",
+      "sourceDate": "2018-12-20T00:00:00",
+      "headline": "Kushners buying 4th New Jersey property in tax-break zone",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Associated Press",
+      "link": "https://www.apnews.com/41847c1548e34d0ba8c339836b86ed93",
+      "sourceDate": "2018-12-12T00:00:00",
+      "headline": "Correction: Kushners-Opportunity Zones story",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -111,7 +207,31 @@
       "headline": "White House boosts tax break that's attracted Kushner, Scaramucci and other wealthy investors",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/12/12/politics/trump-kushner-opportunity-zone/index.html",
+      "sourceDate": "2018-12-12T00:00:00",
+      "headline": "White House boosts tax break that's attracted Kushner, Scaramucci and other wealthy investors",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/business/ap-ivanka-kushner-could-profit-from-tax-break-they-pushed/2018/12/11/a95d791a-fda5-11e8-a17e-162b712e8fc2_story.html?utm_term=.f25be6d735f8",
+      "sourceDate": "2018-12-12T00:00:00",
+      "headline": "AP: Ivanka, Kushner could profit from tax break they pushed",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -135,7 +255,31 @@
       "headline": "Jared and Josh Kushner buying luxe Lower East Side hotel",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "New York Post",
+      "link": "https://pagesix.com/2018/11/19/jared-and-josh-kushner-buying-luxe-lower-east-side-hotel/",
+      "sourceDate": "2018-11-19T00:00:00",
+      "headline": "Jared and Josh Kushner buying luxe Lower East Side hotel",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/08/27/nyregion/kushner-cohen-rent-regulated-tenants.html",
+      "sourceDate": "2018-08-27T00:00:00",
+      "headline": "Kushner Companies and Michael Cohen Accused of Falsifying Building Permits to Push Out Tenants",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -159,7 +303,31 @@
       "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "NJ.COM",
+      "link": "https://www.nj.com/news/index.ssf/2018/08/a_failed_new_york_investment_by_jared_kushner_gets.html",
+      "sourceDate": "2018-08-12T00:00:00",
+      "headline": "The Kushners needed a bailout for Jared's bad bet in N.Y., but still have a full portfolio in Jersey",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Bloomberg",
+      "link": "https://www.bloomberg.com/amp/news/articles/2018-08-04/kushners-give-up-control-of-manhattan-tower-to-save-themselves",
+      "sourceDate": "2018-08-04T00:00:00",
+      "headline": "Kushners Give Up Control of Manhattan Tower to Save Themselves",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -183,7 +351,31 @@
       "headline": "Kushner Companies offloads troubled 666 Fifth Avenue flagship",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://money.cnn.com/2018/08/03/news/companies/kushner-666-fifth-avenue-brookfield/index.html",
+      "sourceDate": "2018-08-03T00:00:00",
+      "headline": "Kushner Companies offloads troubled 666 Fifth Avenue flagship",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/07/11/business/jared-kushner-business-washington.html",
+      "sourceDate": "2018-07-11T00:00:00",
+      "headline": "Kushner’s Firm Deepens Ties to Those With Business in Washington",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -207,7 +399,31 @@
       "headline": "Kushner’s ties to Israeli firms are at issue as he visits region on peace mission",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/kushners-ties-to-israeli-firms-at-issue-as-he-visits-region-on-peace-mission/2018/06/21/cc3a3438-730c-11e8-9780-b1dd6a09b549_story.html?utm_term=.88424d3f7ac4",
+      "sourceDate": "2018-06-22T00:00:00",
+      "headline": "Kushner’s ties to Israeli firms are at issue as he visits region on peace mission",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://mobile.nytimes.com/2018/06/21/business/trumps-kushners-end-hotel-deals.html",
+      "sourceDate": "2018-06-21T00:00:00",
+      "headline": "Trumps and Kushners Cut Ties on Hotel Deals That Raised Eyebrows",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -231,7 +447,31 @@
       "headline": "Ivanka Trump And Jared Kushner Earned More Than $80 Million Last Year, Filings Show",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2018/06/12/619101573/ivanka-trump-and-jared-kushner-earned-more-than-80-million-last-year-filings-sho",
+      "sourceDate": "2018-06-12T00:00:00",
+      "headline": "Ivanka Trump And Jared Kushner Earned More Than $80 Million Last Year, Filings Show",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/jared-kushner-and-ivanka-trump-made-at-least-82-million-in-outside-income-last-year-while-serving-in-the-white-house-filings-show/2018/06/11/a41d0720-6dab-11e8-bd50-b80389a4e569_story.html?utm_term=.9b5baa8980b3",
+      "sourceDate": "2018-06-12T00:00:00",
+      "headline": "Jared Kushner and Ivanka Trump made at least $82 million in outside income last year while serving in the White House, filings show",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -255,7 +495,31 @@
       "headline": "Ivanka Trump and Jared Kushner detail vast wealth: Real estate, fashion and investments",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "http://money.cnn.com/2018/06/11/news/ivanka-trump-jared-kushner-finances/index.html",
+      "sourceDate": "2018-06-11T00:00:00",
+      "headline": "Ivanka Trump and Jared Kushner detail vast wealth: Real estate, fashion and investments",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "USA Today",
+      "link": "https://www.usatoday.com/story/news/2018/06/07/cozy-land-deals-meant-big-money-trump-family-and-friends/677126002/",
+      "sourceDate": "2018-06-07T00:00:00",
+      "headline": "Cozy land deals meant big money for Trump family and friends",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -279,7 +543,31 @@
       "headline": "Charles Kushner explains his meeting with Qatar's finance minister, says it was 'a wrong thing to do,' but 'none of us knew the rules of government'",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://amp.businessinsider.com/charles-kushner-qatar-finance-minister-meeting-666-fifth-ave-2018-6",
+      "sourceDate": "2018-06-01T00:00:00",
+      "headline": "Charles Kushner explains his meeting with Qatar's finance minister, says it was 'a wrong thing to do,' but 'none of us knew the rules of government'",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html",
+      "sourceDate": "2018-05-17T00:00:00",
+      "headline": "Kushners Near Deal With Qatar-Linked Company for Troubled Tower",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -303,7 +591,31 @@
       "headline": "U.S. Office of Government Ethics (OGE) said the White House Counsel’s office is investigating whether loans to Jared Kushner’s family business broke laws or regulations",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Office of Government Ethics",
+      "link": "https://www.oge.gov/web/oge.nsf/All%20Documents/2C62A672E2AF5BAC8525825C00518004/$FILE/Letter%20to%20Congressman%20Krishnamoorthi.pdf?open",
+      "sourceDate": "2018-03-22T00:00:00",
+      "headline": "U.S. Office of Government Ethics (OGE) said the White House Counsel’s office is investigating whether loans to Jared Kushner’s family business broke laws or regulations",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Bloomberg",
+      "link": "https://www.bloomberg.com/amp/news/articles/2018-03-13/kushner-conflict-cloud-hovers-over-brooklyn-sale-linked-to-japan",
+      "sourceDate": "2018-03-13T00:00:00",
+      "headline": "Kushner Conflict Cloud Hovers Over Brooklyn Sale Linked to Japan",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",
@@ -327,6 +639,18 @@
       "headline": "Out of Public View, Trumps and Kushners Are Talking Business",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://mobile.nytimes.com/2018/03/10/business/trumps-kushners-hotel-deals.html?referer=https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2018/03/11/politics/new-york-times-jared-kushner-donald-trump-hotel/index.html",
+      "sourceDate": "2018-03-10T00:00:00",
+      "headline": "Out of Public View, Trumps and Kushners Are Talking Business",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
     },
     {
@@ -339,7 +663,31 @@
       "headline": "Kushner Investors Subpoenaed by U.S. Tax Authorities, Source Says",
       "conflictId": "439",
       "conflictSlug": "kushner-companies",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2018-02-15/kushner-investors-said-to-be-subpoenaed-by-u-s-tax-authorities?utm_content=politics&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&cmpid%3D=socialflow-twitter-politics",
+      "sourceDate": "2018-02-15T00:00:00",
+      "headline": "Kushner Investors Subpoenaed by U.S. Tax Authorities, Source Says",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "Kushner Companies",
+      "category": "Active",
+      "mediaOutlet": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2018/feb/04/jared-kushner-property-empire-trump",
+      "sourceDate": "2018-02-04T00:00:00",
+      "headline": "Jared Kushner's property empire had to thrive under Trump, right? Wrong",
+      "conflictId": "439",
+      "conflictSlug": "kushner-companies",
+      "hasEthics": false
     },
     {
       "description": "",

@@ -15,6 +15,18 @@
       "headline": "The winding money trail from Kazakhstan to Trump SoHo",
       "conflictId": "349",
       "conflictSlug": "trump-soho",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Soho",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "https://www.mcclatchydc.com/news/nation-world/article213846794.html",
+      "sourceDate": "2018-06-26T00:00:00",
+      "headline": "The winding money trail from Kazakhstan to Trump SoHo",
+      "conflictId": "349",
+      "conflictSlug": "trump-soho",
       "hasEthics": true
     }
   ],

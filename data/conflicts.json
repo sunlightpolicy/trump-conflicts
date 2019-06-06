@@ -50,6 +50,18 @@
     ]
   },
   {
+    "name": "175 Pearl Street",
+    "description": "",
+    "slug": "175-pearl-street",
+    "stories": "1",
+    "lastStory": "Mar 13, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Active",
+    "familyMembers": [
+      "Jared Kushner"
+    ]
+  },
+  {
     "name": "184 Kent Associates",
     "description": "",
     "slug": "184-kent-associates",
@@ -202,6 +214,18 @@
     "status": "Resolved",
     "familyMembers": [
       "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "26 Journal Square",
+    "description": "",
+    "slug": "26-journal-square",
+    "stories": "1",
+    "lastStory": "Aug 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
       "Jared Kushner"
     ]
   },
@@ -526,6 +550,18 @@
     ]
   },
   {
+    "name": "666 Fifth Ave",
+    "description": "",
+    "slug": "666-fifth-ave",
+    "stories": "7",
+    "lastStory": "Feb 12, 2019",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Jared Kushner"
+    ]
+  },
+  {
     "name": "666 KC Management",
     "description": "",
     "slug": "666-kc-management",
@@ -716,6 +752,18 @@
     ]
   },
   {
+    "name": "Allen Weisselberg",
+    "description": "",
+    "slug": "allen-weisselberg",
+    "stories": "1",
+    "lastStory": "Mar 11, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "American Idea",
     "description": "",
     "slug": "american-idea",
@@ -788,6 +836,42 @@
     ]
   },
   {
+    "name": "Apollo Management",
+    "description": "",
+    "slug": "apollo-management",
+    "stories": "1",
+    "lastStory": "Mar 22, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Apple",
+    "description": "Though he tried to start a boycott against Apple AAPL +0.55% in February -- after the iPhone maker refused to help the Federal Bureau of Investigation break into one of the San Bernardino shooters’ phone -- Trump held onto his shares in the tech company, which were worth as much as $2 million in May, according to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings.",
+    "slug": "apple",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "AT&T",
+    "description": "",
+    "slug": "att",
+    "stories": "3",
+    "lastStory": "Mar 12, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Aviation Payroll Company",
     "description": "",
     "slug": "aviation-payroll-company",
@@ -838,6 +922,32 @@
     ]
   },
   {
+    "name": "Bahrain",
+    "description": "In 2016 the hotel was host to a National Day celebration for the Kingdom of Bahrain.",
+    "slug": "bahrain",
+    "stories": "2",
+    "lastStory": "Dec 12, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Bank of America",
+    "description": "",
+    "slug": "bank-of-america",
+    "stories": "1",
+    "lastStory": "Apr 16, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump",
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
     "name": "Bank of America",
     "description": "",
     "slug": "bank-of-america",
@@ -846,6 +956,7 @@
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -859,8 +970,33 @@
     "familyMember": "Jared Kushner",
     "status": "Active",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Bank of China",
+    "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
+    "slug": "bank-of-china",
+    "stories": "4",
+    "lastStory": "Jan 09, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Bank of Nova Scotia",
+    "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
+    "slug": "bank-of-nova-scotia",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -909,6 +1045,18 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Berkshire Hathaway",
+    "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns shares in Berkshire Hathaway, run by one of his fiercest critics, Warren Buffett.",
+    "slug": "berkshire-hathaway",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
     "familyMembers": [
       "Donald Trump"
     ]
@@ -1106,6 +1254,18 @@
     ]
   },
   {
+    "name": "Brookfield Asset Management",
+    "description": "",
+    "slug": "brookfield-asset-management",
+    "stories": "5",
+    "lastStory": "Aug 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Jared Kushner"
+    ]
+  },
+  {
     "name": "Bruckner Plaza Center",
     "description": "",
     "slug": "bruckner-plaza-center",
@@ -1236,6 +1396,18 @@
     ]
   },
   {
+    "name": "Cadre",
+    "description": "A real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner. Kushner doesn't play an active role in Cadre's operations, company officials say when asked about the president's son-in-law. But he hasn't divested his Cadre stake",
+    "slug": "cadre",
+    "stories": "6",
+    "lastStory": "Jan 31, 2019",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Jared Kushner"
+    ]
+  },
+  {
     "name": "Calamos Wealth Management",
     "description": "",
     "slug": "calamos-wealth-management",
@@ -1245,6 +1417,30 @@
     "status": "Resolved",
     "familyMembers": [
       "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Cambridge Who's Who",
+    "description": "Donald Trump, Jr. is former Executive Director of Global Branding and Networking at Cambridge Who's Who, a vanity branding and global networking service widely accused of deceptive marketing.",
+    "slug": "cambridge-whos-who",
+    "stories": "2",
+    "lastStory": "Jun 25, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Resolved",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Cap Cana",
+    "description": "Project being developed by the Trump Organization and the Cap Cana Group in the Dominican Republic.",
+    "slug": "cap-cana",
+    "stories": "3",
+    "lastStory": "Dec 19, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -1310,6 +1506,30 @@
     ]
   },
   {
+    "name": "Carl C. Icahn",
+    "description": "Mr. Trump has forged relationships with powerful political figures in Indonesia, where such connections are crucial to pushing through big projects. That tangle of relationships includes an Indonesian business partner who aspires to high office; a powerful politician accused of trying to extort billions of dollars from an American mining company; as well as Mr. Trump’s adviser on regulatory issues, Carl C. Icahn, who is a top shareholder in the same mining company.",
+    "slug": "carl-c-icahn",
+    "stories": "1",
+    "lastStory": "Dec 31, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Celgene",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "celgene",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Centerview Capital",
     "description": "",
     "slug": "centerview-capital",
@@ -1344,21 +1564,7 @@
     "familyMember": "Donald Trump Jr.",
     "status": "Resolved",
     "familyMembers": [
-      "Donald Trump Jr.",
-      "Jared Kushner"
-    ]
-  },
-  {
-    "name": "Charleston Naval Hospital",
-    "description": "Donald Trump Jr. is a minority investor in the Charleston Naval Hospital.",
-    "slug": "charleston-naval-hospital",
-    "stories": "1",
-    "lastStory": "Apr 11, 2015",
-    "familyMember": "Jared Kushner",
-    "status": "Resolved",
-    "familyMembers": [
-      "Donald Trump Jr.",
-      "Jared Kushner"
+      "Donald Trump Jr."
     ]
   },
   {
@@ -1452,6 +1658,18 @@
     ]
   },
   {
+    "name": "Chevron",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "chevron",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Chicago Unit Acquisition",
     "description": "",
     "slug": "chicago-unit-acquisition",
@@ -1476,6 +1694,18 @@
     ]
   },
   {
+    "name": "China State Construction Engineering Corp.",
+    "description": "The Chinese government-owned company was awarded a $19.6 million contract for road and infrastructure work as part of the residential piece of Trump World Golf Club Dubai project called Akoya Oxygen, according to a news release dated Sunday. CSCEC was awarded a $32 million contract to build a six-lane road in early 2017, just as President Donald Trump was inaugurated and it was hired in February to construct one of the buildings at a cost of $163 million.",
+    "slug": "china-state-construction-engineering-corp",
+    "stories": "5",
+    "lastStory": "Jul 05, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "China Trademark",
     "description": "",
     "slug": "china-trademark",
@@ -1484,7 +1714,21 @@
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
-      "Donald Trump"
+      "Donald Trump",
+      "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "China Trademark",
+    "description": "",
+    "slug": "china-trademark",
+    "stories": "5",
+    "lastStory": "Jan 21, 2019",
+    "familyMember": "Ivanka Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump",
+      "Ivanka Trump"
     ]
   },
   {
@@ -1536,6 +1780,18 @@
     "status": "Active",
     "familyMembers": [
       "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Citibank",
+    "description": "",
+    "slug": "citibank",
+    "stories": "1",
+    "lastStory": "Mar 22, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
       "Jared Kushner"
     ]
   },
@@ -1656,6 +1912,18 @@
     ]
   },
   {
+    "name": "CNN",
+    "description": "",
+    "slug": "cnn",
+    "stories": "1",
+    "lastStory": "Mar 12, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Colonial Heights, LLC",
     "description": "",
     "slug": "colonial-heights-llc",
@@ -1705,6 +1973,18 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Commerce Department",
+    "description": "",
+    "slug": "commerce-department",
+    "stories": "1",
+    "lastStory": "Jun 05, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -1739,6 +2019,18 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Country of Vietnam",
+    "description": "",
+    "slug": "country-of-vietnam",
+    "stories": "1",
+    "lastStory": "Apr 25, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
     "familyMembers": [
       "Donald Trump"
     ]
@@ -1844,6 +2136,30 @@
     ]
   },
   {
+    "name": "DAMAC Properties",
+    "description": "Trump Organization partner in Trump World Golf Club Dubai project.",
+    "slug": "damac-properties",
+    "stories": "4",
+    "lastStory": "Jun 14, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Dana-Farber Cancer Institute",
+    "description": "An estimated 36% of the foundation’s money went to roughly 100 organizations promoting healthcare, the Forbes examination revealed. The Trump Foundation gave more than $465,000 to both the Dana-Farber Cancer Institute and Operation Smile, which offers free surgeries to children born with cleft palates in developing countries.",
+    "slug": "dana-farber-cancer-institute",
+    "stories": "1",
+    "lastStory": "Feb 09, 2017",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Dartmouth Village",
     "description": "",
     "slug": "dartmouth-village",
@@ -1919,6 +2235,30 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Department of Energy",
+    "description": "",
+    "slug": "department-of-energy",
+    "stories": "1",
+    "lastStory": "Jun 06, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Department of Homeland Security",
+    "description": "",
+    "slug": "department-of-homeland-security",
+    "stories": "5",
+    "lastStory": "Jan 30, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -1939,9 +2279,24 @@
     "slug": "deutsche-bank",
     "stories": "14",
     "lastStory": "Apr 30, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump",
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Deutsche Bank",
+    "description": "",
+    "slug": "deutsche-bank",
+    "stories": "14",
+    "lastStory": "Apr 30, 2019",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -1955,6 +2310,7 @@
     "familyMember": "Jared Kushner",
     "status": "Active",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -2145,6 +2501,18 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Dogan Holding",
+    "description": "The twinned Trump Towers bear the president-elect’s name in Istanbul. Dogan Holding, a massive media and real estate conglomerate in Turkey, owns the conjoined buildings and pays the Trump Organization to license the Trump name and brand. It can now rely on that name and brand to be sitting in the Oval Office and singing its praises to President Erdogan.",
+    "slug": "dogan-holding",
+    "stories": "1",
+    "lastStory": "Nov 23, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
     "familyMembers": [
       "Donald Trump"
     ]
@@ -2507,8 +2875,8 @@
     "name": "DT Jeddah Technical Services Advisor",
     "description": "",
     "slug": "dt-jeddah-technical-services-advisor",
-    "stories": "2",
-    "lastStory": "Oct 13, 2018",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Unclear",
     "familyMembers": [
@@ -2519,8 +2887,8 @@
     "name": "DT Jeddah Technical Services Manager",
     "description": "",
     "slug": "dt-jeddah-technical-services-manager",
-    "stories": "1",
-    "lastStory": "Nov 20, 2016",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Resolved",
     "familyMembers": [
@@ -3272,11 +3640,47 @@
     ]
   },
   {
+    "name": "Energy Fuels",
+    "description": "",
+    "slug": "energy-fuels",
+    "stories": "1",
+    "lastStory": "Jun 06, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Energy Transfer Partners",
+    "description": "According to financial disclosures filed in May 2016, President Donald Trump owned between $15,000 and $50,000 in stock in Texas-based Energy Transfer Partners. That's down from between $500,000 and $1 million a year earlier.",
+    "slug": "energy-transfer-partners",
+    "stories": "1",
+    "lastStory": "Nov 25, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Entertainment Partners",
     "description": "",
     "slug": "entertainment-partners",
     "stories": "0",
     "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Environmental Protection Agency (EPA)",
+    "description": "",
+    "slug": "environmental-protection-agency-epa",
+    "stories": "1",
+    "lastStory": "Jun 06, 2018",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -3307,6 +3711,18 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Essential Consultants",
+    "description": "",
+    "slug": "essential-consultants",
+    "stories": "2",
+    "lastStory": "May 10, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -3327,9 +3743,24 @@
     "slug": "exxon-mobil",
     "stories": "1",
     "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Resolved",
+    "familyMembers": [
+      "Donald Trump",
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Exxon Mobil",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "exxon-mobil",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
     "familyMember": "Ivanka Trump",
     "status": "Resolved",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -3343,6 +3774,7 @@
     "familyMember": "Jared Kushner",
     "status": "Resolved",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -3397,6 +3829,30 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "FBI",
+    "description": "",
+    "slug": "fbi",
+    "stories": "15",
+    "lastStory": "Apr 20, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Federal Election Commission",
+    "description": "",
+    "slug": "federal-election-commission",
+    "stories": "5",
+    "lastStory": "Nov 09, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -3694,6 +4150,18 @@
     ]
   },
   {
+    "name": "Ford Motors",
+    "description": "While Trump repeatedly singled out Ford Motors for outsourcing American manufacturing jobs, according to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns shares (worth up to $1 million) in the Detroit auto giant. Google, which Trump accused of suppressing negative Hillary Clinton news, is in his portfolio, as is Berkshire Hathaway, run by one of his fiercest critics, Warren Buffett. Though he tried to start a boycott against Apple AAPL +0.55% in February -- after the iPhone maker refused to help the Federal Bureau of Investigation break into one of the San Bernardino shooters’ phone -- Trump held onto his shares in the tech company, which were worth as much as $2 million in May.",
+    "slug": "ford-motors",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Franklin Templeton Investments",
     "description": "",
     "slug": "franklin-templeton-investments",
@@ -3782,6 +4250,18 @@
     ]
   },
   {
+    "name": "Gary Cohn",
+    "description": "",
+    "slug": "gary-cohn",
+    "stories": "1",
+    "lastStory": "Mar 12, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "GCM Trust",
     "description": "",
     "slug": "gcm-trust",
@@ -3820,6 +4300,18 @@
     ]
   },
   {
+    "name": "General Services Administration",
+    "description": "",
+    "slug": "general-services-administration",
+    "stories": "12",
+    "lastStory": "Jan 16, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Gept Delmonico",
     "description": "",
     "slug": "gept-delmonico",
@@ -3837,24 +4329,22 @@
     "slug": "getty-images",
     "stories": "1",
     "lastStory": "Jul 02, 2018",
-    "familyMember": "Ivanka Trump",
+    "familyMember": "Melania Trump",
     "status": "Active",
     "familyMembers": [
-      "Ivanka Trump",
       "Melania Trump"
     ]
   },
   {
-    "name": "Getty Images",
-    "description": "The first lady earned six figures from an agreement with Getty Images that paid royalties to the Trumps and mandated photos be used in positive coverage.",
-    "slug": "getty-images",
+    "name": "GlaxoSmithKline",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "glaxosmithkline",
     "stories": "1",
-    "lastStory": "Jul 02, 2018",
-    "familyMember": "Melania Trump",
-    "status": "Active",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
     "familyMembers": [
-      "Ivanka Trump",
-      "Melania Trump"
+      "Donald Trump"
     ]
   },
   {
@@ -3875,9 +4365,24 @@
     "slug": "goldman-sachs",
     "stories": "1",
     "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Resolved",
+    "familyMembers": [
+      "Donald Trump",
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Goldman Sachs",
+    "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
+    "slug": "goldman-sachs",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
     "familyMember": "Ivanka Trump",
     "status": "Resolved",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -3891,6 +4396,7 @@
     "familyMember": "Jared Kushner",
     "status": "Resolved",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -3922,6 +4428,18 @@
     ]
   },
   {
+    "name": "Google",
+    "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns shares in Google.",
+    "slug": "google",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Gowan Associates",
     "description": "",
     "slug": "gowan-associates",
@@ -3997,6 +4515,18 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Hary Tanoesoedibjo",
+    "description": "Billionaire Hary Tanoesoedibjo, Trump's local partner in two Indonesian resort projects, is reportedly considering a run for national office in 2019.",
+    "slug": "hary-tanoesoedibjo",
+    "stories": "6",
+    "lastStory": "Jun 07, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -4123,6 +4653,18 @@
     "status": "Active",
     "familyMembers": [
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Hospital for Special Surgery",
+    "description": "The foundation gave at least $326,000 to New York Presbyterian Hospital and $250,750 to its sister institution, the Hospital for Special Surgery, which is also based in New York City.",
+    "slug": "hospital-for-special-surgery",
+    "stories": "1",
+    "lastStory": "Feb 09, 2017",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -4320,6 +4862,18 @@
     ]
   },
   {
+    "name": "Internal Revenue Service",
+    "description": "",
+    "slug": "internal-revenue-service",
+    "stories": "24",
+    "lastStory": "Feb 20, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Invesco",
     "description": "",
     "slug": "invesco",
@@ -4351,9 +4905,24 @@
     "slug": "investors-savings-bank",
     "stories": "2",
     "lastStory": "Mar 12, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump",
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Investors Savings Bank",
+    "description": "",
+    "slug": "investors-savings-bank",
+    "stories": "2",
+    "lastStory": "Mar 12, 2019",
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -4367,6 +4936,7 @@
     "familyMember": "Jared Kushner",
     "status": "Active",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -4513,6 +5083,42 @@
     "lastStory": "",
     "familyMember": "Ivanka Trump",
     "status": "Resolved",
+    "familyMembers": [
+      "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Ivanka M. Trump Charitable Fund",
+    "description": "",
+    "slug": "ivanka-m-trump-charitable-fund",
+    "stories": "2",
+    "lastStory": "Jun 12, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Ivanka Trump brand",
+    "description": "",
+    "slug": "ivanka-trump-brand",
+    "stories": "15",
+    "lastStory": "Jan 21, 2019",
+    "familyMember": "Ivanka Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Ivanka Trump Business Trust",
+    "description": "Created in March 2017, the trust is valued at more than $50 million.",
+    "slug": "ivanka-trump-business-trust",
+    "stories": "2",
+    "lastStory": "Jan 01, 2019",
+    "familyMember": "Ivanka Trump",
+    "status": "Active",
     "familyMembers": [
       "Ivanka Trump"
     ]
@@ -4672,6 +5278,30 @@
     ]
   },
   {
+    "name": "Johnson & Johnson",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "johnson-johnson",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Jose E. B. Antonio",
+    "description": "In October 2016 he had quietly been named a special envoy to the United States by the Philippine president, Rodrigo Duterte. Mr. Antonio was nearly finished building a $150 million tower in Manila’s financial district — a 57-story symbol of affluence and capitalism, which bluntly promotes itself with the slogan “Live Above the Rest.” And now his partner on the project, Donald J. Trump, had just been elected president of the United States.",
+    "slug": "jose-e-b-antonio",
+    "stories": "1",
+    "lastStory": "Nov 26, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "JP Morgan",
     "description": "",
     "slug": "jp-morgan",
@@ -4711,6 +5341,18 @@
       "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "JP Morgan Chase",
+    "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
+    "slug": "jp-morgan-chase",
+    "stories": "2",
+    "lastStory": "Apr 16, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -5232,6 +5874,18 @@
     ]
   },
   {
+    "name": "Kinder Morgan",
+    "description": "The connections to the energy industry doesn't stop there. The climate-change skeptic owns shares in Phillips 66 PSX -1.26% - a joint venture partner in the controversial Dakota Access pipeline, where demonstrations are ongoing, and in Kinder Morgan, another pipeline giant facing resistance for its plans to connect the Canadian oil sands to Vancouver, British Columbia.",
+    "slug": "kinder-morgan",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "KKC Associates",
     "description": "",
     "slug": "kkc-associates",
@@ -5255,6 +5909,18 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Korean Aerospace Industries",
+    "description": "",
+    "slug": "korean-aerospace-industries",
+    "stories": "2",
+    "lastStory": "May 10, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -5424,6 +6090,18 @@
     ]
   },
   {
+    "name": "Ladder Capital",
+    "description": "Ladder Capital, a real estate investment firm that specializes in risky lending, has loaned at least $260 million to Donald Trump's businesses — including $160 million for the ground lease at 40 Wall Street and $100 million for Trump Tower. In February 2017, the firm Related Companies purchased $80 million worth of stock in Ladder Capital.",
+    "slug": "ladder-capital",
+    "stories": "2",
+    "lastStory": "Feb 28, 2017",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Lamington Family Holdings",
     "description": "",
     "slug": "lamington-family-holdings",
@@ -5538,6 +6216,18 @@
     ]
   },
   {
+    "name": "Le Chateau des Palmiers",
+    "description": "Trump's resort on the island of St. Martin.",
+    "slug": "le-chateau-des-palmiers",
+    "stories": "2",
+    "lastStory": "Aug 01, 2017",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Leeds Equity Partners",
     "description": "",
     "slug": "leeds-equity-partners",
@@ -5576,6 +6266,18 @@
     ]
   },
   {
+    "name": "Lido City Development",
+    "description": "",
+    "slug": "lido-city-development",
+    "stories": "7",
+    "lastStory": "Jul 05, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Lincoln Financial Group",
     "description": "",
     "slug": "lincoln-financial-group",
@@ -5807,6 +6509,18 @@
     "familyMembers": [
       "Donald Trump",
       "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Marc Kasowitz",
+    "description": "Marc Kasowitz, a Trump personal lawyer who has another client with business interests in Vietnam.",
+    "slug": "marc-kasowitz",
+    "stories": "1",
+    "lastStory": "Apr 25, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -5891,23 +6605,9 @@
     "slug": "melania-llc",
     "stories": "2",
     "lastStory": "Jul 02, 2018",
-    "familyMember": "Ivanka Trump",
-    "status": "Active",
-    "familyMembers": [
-      "Ivanka Trump",
-      "Melania Trump"
-    ]
-  },
-  {
-    "name": "Melania LLC",
-    "description": "",
-    "slug": "melania-llc",
-    "stories": "2",
-    "lastStory": "Jul 02, 2018",
     "familyMember": "Melania Trump",
     "status": "Active",
     "familyMembers": [
-      "Ivanka Trump",
       "Melania Trump"
     ]
   },
@@ -5921,6 +6621,18 @@
     "status": "Active",
     "familyMembers": [
       "Melania Trump"
+    ]
+  },
+  {
+    "name": "Merck",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "merck",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -5962,6 +6674,18 @@
     ]
   },
   {
+    "name": "Metallurgical Corporation of China (M.C.C.)",
+    "description": "The Trump Organization’s partner in a lavish Indonesian development project boasting a six-star hotel and golf course with President Trump’s name has brought on a new ally: a Chinese state-owned company. The Indonesian partner, the MNC Group, said it had struck a deal with an arm of Metallurgical Corporation of China, a state-owned construction company, to build a theme park next door to the planned Trump properties.",
+    "slug": "metallurgical-corporation-of-china-mcc",
+    "stories": "6",
+    "lastStory": "Jul 05, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Metlife",
     "description": "",
     "slug": "metlife",
@@ -5988,6 +6712,18 @@
     ]
   },
   {
+    "name": "MGM",
+    "description": "Real estate tycoon (and now U.S. President) Donald Trump was the show's host for the first fourteen seasons. After he declared his candidacy for the presidency, NBC announced that actor and former California Governor Arnold Schwarzenegger would become the new host of The Celebrity Apprentice. In December 2016, MGM confirmed to Variety that Trump has retained his EP credit on the series. The larger issue for MGM, NBC, and the White House is the payment that Trump will receive for the series. It’s unclear what his per-episode fee is, but it is likely to be in the low five-figures, at the minimum.",
+    "slug": "mgm",
+    "stories": "1",
+    "lastStory": "Dec 08, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "MGM/Mark Burnett Productions",
     "description": "",
     "slug": "mgmmark-burnett-productions",
@@ -5997,6 +6733,30 @@
     "status": "Resolved",
     "familyMembers": [
       "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Michael Cohen",
+    "description": "",
+    "slug": "michael-cohen",
+    "stories": "34",
+    "lastStory": "Apr 05, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Michael Flynn",
+    "description": "",
+    "slug": "michael-flynn",
+    "stories": "1",
+    "lastStory": "Mar 07, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -6126,6 +6886,18 @@
     ]
   },
   {
+    "name": "MNC Group",
+    "description": "The Trump Organization’s partner in a lavish Indonesian development project boasting a six-star hotel and golf course with President Trump’s name has brought on a new ally: a Chinese state-owned company. The Indonesian partner, the MNC Group, said it had struck a deal with an arm of Metallurgical Corporation of China, a state-owned construction company, to build a theme park next door to the planned Trump properties.",
+    "slug": "mnc-group",
+    "stories": "3",
+    "lastStory": "Jun 23, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Mobile Payroll Construction",
     "description": "",
     "slug": "mobile-payroll-construction",
@@ -6195,9 +6967,24 @@
     "slug": "morgan-stanley",
     "stories": "1",
     "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Resolved",
+    "familyMembers": [
+      "Donald Trump",
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Morgan Stanley",
+    "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
+    "slug": "morgan-stanley",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
     "familyMember": "Ivanka Trump",
     "status": "Resolved",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -6211,6 +6998,7 @@
     "familyMember": "Jared Kushner",
     "status": "Resolved",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -6239,6 +7027,18 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Murray Energy",
+    "description": "",
+    "slug": "murray-energy",
+    "stories": "1",
+    "lastStory": "Jun 06, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -6277,6 +7077,42 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "National Endowment for the Humanities",
+    "description": "",
+    "slug": "national-endowment-for-the-humanities",
+    "stories": "1",
+    "lastStory": "Jul 26, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "National Labor Relations Board",
+    "description": "As a business owner, Pres. Trump has been involved in labor disputes that potentially could be brought to the National Labor Relations Board for intervention. Since taking office, he has appointed board leaders who have come under scrutiny for perceived business-friendly ties and potential ethics violations.",
+    "slug": "national-labor-relations-board",
+    "stories": "2",
+    "lastStory": "Jan 26, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "NBC",
+    "description": "Real estate tycoon (and now U.S. President) Donald Trump was the show's host for the first fourteen seasons. After he declared his candidacy for the presidency, NBC announced that actor and former California Governor Arnold Schwarzenegger would become the new host of The Celebrity Apprentice. In December 2016, MGM confirmed to Variety that Trump has retained his EP credit on the series. The larger issue for MGM, NBC, and the White House is the payment that Trump will receive for the series. It’s unclear what his per-episode fee is, but it is likely to be in the low five-figures, at minimum.",
+    "slug": "nbc",
+    "stories": "1",
+    "lastStory": "Dec 08, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -6375,23 +7211,9 @@
     "slug": "new-sunshine-llc",
     "stories": "1",
     "lastStory": "Feb 22, 2017",
-    "familyMember": "Ivanka Trump",
-    "status": "Resolved",
-    "familyMembers": [
-      "Ivanka Trump",
-      "Melania Trump"
-    ]
-  },
-  {
-    "name": "New Sunshine LLC",
-    "description": "",
-    "slug": "new-sunshine-llc",
-    "stories": "1",
-    "lastStory": "Feb 22, 2017",
     "familyMember": "Melania Trump",
     "status": "Resolved",
     "familyMembers": [
-      "Ivanka Trump",
       "Melania Trump"
     ]
   },
@@ -6422,6 +7244,18 @@
     ]
   },
   {
+    "name": "New York Presbyterian Hospital",
+    "description": "The foundation gave at least $326,000 to New York Presbyterian Hospital and $250,750 to its sister institution, the Hospital for Special Surgery, which is also based in New York City.",
+    "slug": "new-york-presbyterian-hospital",
+    "stories": "1",
+    "lastStory": "Feb 09, 2017",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "New York State",
     "description": "",
     "slug": "new-york-state",
@@ -6522,6 +7356,18 @@
     "status": "Resolved",
     "familyMembers": [
       "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Nippon Telegraph & Telephone Corp. (NTT)",
+    "description": "",
+    "slug": "nippon-telegraph-telephone-corp-ntt",
+    "stories": "1",
+    "lastStory": "Mar 13, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
       "Jared Kushner"
     ]
   },
@@ -6549,6 +7395,30 @@
     "familyMembers": [
       "Donald Trump",
       "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Normandy Real Estate Partners",
+    "description": "",
+    "slug": "normandy-real-estate-partners",
+    "stories": "1",
+    "lastStory": "Mar 13, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Novartis",
+    "description": "",
+    "slug": "novartis",
+    "stories": "2",
+    "lastStory": "May 10, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -6692,6 +7562,30 @@
     ]
   },
   {
+    "name": "Office of Government Ethics",
+    "description": "",
+    "slug": "office-of-government-ethics",
+    "stories": "2",
+    "lastStory": "Feb 15, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Old Post Office Hotel",
+    "description": "Prior to Donald Trump's official bid for the White House, the Trump Organization secured a 60-year lease with the U.S. government to renovate a historic post office in Washington, D.C., into a luxury, mixed-use development. The arrangement presents ongoing concerns now that Donald Trump is the U.S. government's chief executive. His position as both landlord and tenant opens opportunities for self-dealing that could prioritize his business interests over government efficiency. Additionally, foreign dignitaries and business representatives may book hotel stays and events as a means of currying favor with the president. A contractual clause designed to avoid such conflicts of interest prevents any elected official from sharing or benefiting from the lease. Because Trump did not divest of his business interest upon taking office, he may be violating the contract. However, his interests as either landlord and tenant would not be served by terminating the lease.",
+    "slug": "old-post-office-hotel",
+    "stories": "106",
+    "lastStory": "Mar 26, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "One Central Park West",
     "description": "",
     "slug": "one-central-park-west",
@@ -6727,6 +7621,18 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Operation Smile",
+    "description": "An estimated 36% of the foundation’s money went to roughly 100 organizations promoting healthcare, the Forbes examination revealed. The Trump Foundation gave more than $465,000 to both the Dana-Farber Cancer Institute and Operation Smile, which offers free surgeries to children born with cleft palates in developing countries.",
+    "slug": "operation-smile",
+    "stories": "1",
+    "lastStory": "Feb 09, 2017",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -7038,6 +7944,18 @@
     ]
   },
   {
+    "name": "Paul Manafort",
+    "description": "",
+    "slug": "paul-manafort",
+    "stories": "2",
+    "lastStory": "Mar 07, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Penguin Random House",
     "description": "Ivanka Trump was also paid a $289,300 advance by Penguin Random House for her book, “Women Who Work,” which she donated to the Ivanka M. Trump Charitable Fund to distribute grants to support women and girls.",
     "slug": "penguin-random-house",
@@ -7046,7 +7964,21 @@
     "familyMember": "Ivanka Trump",
     "status": "Active",
     "familyMembers": [
-      "Ivanka Trump"
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Penguin Random House",
+    "description": "Ivanka Trump was also paid a $289,300 advance by Penguin Random House for her book, “Women Who Work,” which she donated to the Ivanka M. Trump Charitable Fund to distribute grants to support women and girls.",
+    "slug": "penguin-random-house",
+    "stories": "1",
+    "lastStory": "Jun 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Active",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Jared Kushner"
     ]
   },
   {
@@ -7072,6 +8004,54 @@
     "status": "Resolved",
     "familyMembers": [
       "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Pfizer",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "pfizer",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Philippine Government",
+    "description": "",
+    "slug": "philippine-government",
+    "stories": "1",
+    "lastStory": "Apr 19, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Phillips 66",
+    "description": "The connections to the energy industry doesn't stop there. The climate-change skeptic owns shares in Phillips 66 PSX -1.26% - a joint venture partner in the controversial Dakota Access pipeline, where demonstrations are ongoing, and in Kinder Morgan, another pipeline giant facing resistance for its plans to connect the Canadian oil sands to Vancouver, British Columbia.",
+    "slug": "phillips-66",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Pier Village",
+    "description": "",
+    "slug": "pier-village",
+    "stories": "2",
+    "lastStory": "Aug 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
       "Jared Kushner"
     ]
   },
@@ -7332,6 +8312,18 @@
     ]
   },
   {
+    "name": "Proctor & Gamble",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "proctor-gamble",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Puck Residential Associates",
     "description": "",
     "slug": "puck-residential-associates",
@@ -7354,6 +8346,30 @@
     "status": "Active",
     "familyMembers": [
       "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Qatar Government",
+    "description": "",
+    "slug": "qatar-government",
+    "stories": "1",
+    "lastStory": "May 04, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Quail Ridge",
+    "description": "Quail Ridge is a Kushner Cos. apartment complex acquired last year in Plainsboro, N.J.",
+    "slug": "quail-ridge",
+    "stories": "2",
+    "lastStory": "Aug 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
       "Jared Kushner"
     ]
   },
@@ -7431,6 +8447,18 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Related Companies",
+    "description": "Related Companies purchased $80 million of stock in Ladder Capital, a Manhattan-based real estate investment trust best known for issuing more than $250 million in loans to the Trump Organization.",
+    "slug": "related-companies",
+    "stories": "1",
+    "lastStory": "Feb 28, 2017",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -7586,6 +8614,18 @@
     ]
   },
   {
+    "name": "Royal Bank of Canada",
+    "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
+    "slug": "royal-bank-of-canada",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "RPV Development",
     "description": "",
     "slug": "rpv-development",
@@ -7607,6 +8647,30 @@
     "status": "Resolved",
     "familyMembers": [
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Russia",
+    "description": "",
+    "slug": "russia",
+    "stories": "10",
+    "lastStory": "Apr 20, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Saudi Arabia and Emirati Real Estate and Hotel Deals",
+    "description": "",
+    "slug": "saudi-arabia-and-emirati-real-estate-and-hotel-deals",
+    "stories": "3",
+    "lastStory": "Oct 13, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -7783,6 +8847,30 @@
     "familyMembers": [
       "Donald Trump",
       "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Shell",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "shell",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Sheri Dillon",
+    "description": "",
+    "slug": "sheri-dillon",
+    "stories": "1",
+    "lastStory": "Mar 11, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -7990,6 +9078,18 @@
     "status": "Active",
     "familyMembers": [
       "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "SoftBank Vision Fund",
+    "description": "SoftBank Vision Fund, a technology investment vehicle that gets almost half of its $100 billion from the Saudi government's Public Investment Fund. The United Arab Emirates has put at least $15 billion into the Vision Fund through its sovereign wealth fund as well. In May 2018, Cadre, a real estate technology startup co-founded and partly owned by White House senior adviser Jared Kushner, is sought an investment of at least $100 million from the Fund.",
+    "slug": "softbank-vision-fund",
+    "stories": "1",
+    "lastStory": "May 22, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
       "Jared Kushner"
     ]
   },
@@ -8301,6 +9401,30 @@
     "familyMembers": [
       "Ivanka Trump",
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Stefan Passantino",
+    "description": "",
+    "slug": "stefan-passantino",
+    "stories": "1",
+    "lastStory": "Mar 11, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Stephanie Clifford (Aka Stormy Daniels)",
+    "description": "Pres. Trump allegedly paid a former porn star to keep quiet about their affair in 2006. She is now suing Trump, claiming the non-disclosure agreement is invalid.",
+    "slug": "stephanie-clifford-aka-stormy-daniels",
+    "stories": "12",
+    "lastStory": "Mar 11, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -8703,8 +9827,8 @@
     "name": "THC Jeddah Hotel Advisor",
     "description": "",
     "slug": "thc-jeddah-hotel-advisor",
-    "stories": "1",
-    "lastStory": "Nov 20, 2016",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Unclear",
     "familyMembers": [
@@ -8715,8 +9839,8 @@
     "name": "THC Jeddah Hotel Manager",
     "description": "",
     "slug": "thc-jeddah-hotel-manager",
-    "stories": "1",
-    "lastStory": "Nov 20, 2016",
+    "stories": "0",
+    "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Resolved",
     "familyMembers": [
@@ -8980,6 +10104,18 @@
     ]
   },
   {
+    "name": "The AT&T Building",
+    "description": "",
+    "slug": "the-att-building",
+    "stories": "1",
+    "lastStory": "Oct 09, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Active",
+    "familyMembers": [
+      "Jared Kushner"
+    ]
+  },
+  {
     "name": "The Best Real Estate Advice I Ever Received",
     "description": "",
     "slug": "the-best-real-estate-advice-i-ever-received",
@@ -8997,37 +10133,10 @@
     "slug": "the-daily-mail",
     "stories": "0",
     "lastStory": "",
-    "familyMember": "Ivanka Trump",
-    "status": "Unclear",
-    "familyMembers": [
-      "Ivanka Trump",
-      "Melania Trump"
-    ]
-  },
-  {
-    "name": "The Daily Mail",
-    "description": "",
-    "slug": "the-daily-mail",
-    "stories": "0",
-    "lastStory": "",
     "familyMember": "Melania Trump",
     "status": "Unclear",
     "familyMembers": [
-      "Ivanka Trump",
       "Melania Trump"
-    ]
-  },
-  {
-    "name": "The Eric Trump Foundation",
-    "description": "",
-    "slug": "the-eric-trump-foundation",
-    "stories": "1",
-    "lastStory": "Dec 21, 2016",
-    "familyMember": "Donald Trump",
-    "status": "Resolved",
-    "familyMembers": [
-      "Donald Trump",
-      "Eric Trump"
     ]
   },
   {
@@ -9039,7 +10148,6 @@
     "familyMember": "Eric Trump",
     "status": "Resolved",
     "familyMembers": [
-      "Donald Trump",
       "Eric Trump"
     ]
   },
@@ -9053,6 +10161,30 @@
     "status": "Resolved",
     "familyMembers": [
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "The Patriot Legal Defense Fund Trust, LLC",
+    "description": "The Patriot Legal Defense Fund Trust, LLC is a pro-Trump legal fund with anonymous backing. It's intended to help pay legal bills for staffers from the Trump campaign, the transition and the White House. The fund's manager is former Congresswoman Nan Hayworth. Here she is in a promo video.",
+    "slug": "the-patriot-legal-defense-fund-trust-llc",
+    "stories": "1",
+    "lastStory": "Jun 15, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "The Trump Organization",
+    "description": "The Trump Organization is the collective name for a group of approximately 500 business entities of which Donald Trump, the current U.S. President, is the sole or principal owner. The businesses include hotels, international real estate, golf clubs and more. While President Trump still owns the company, his sons, Donald Trump Jr. and Eric Trump, have day-to-day control.",
+    "slug": "the-trump-organization",
+    "stories": "196",
+    "lastStory": "May 01, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -9440,6 +10572,18 @@
     ]
   },
   {
+    "name": "Toronto Dominion Bank",
+    "description": "The populist billionaire has other Canadian holdings, including $500,000 to $1 million investments in the Bank of Nova Scotia and the Toronto Dominion Bank, and $1 million to $5 million worth of shares in the Royal Bank of Canada. Such investments add to the array of connections Trump already has with foreign entities - including nine figure debts owed to German lender Deutsche Bank and China’s state-controlled Bank of China.",
+    "slug": "toronto-dominion-bank",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "TP CFD",
     "description": "",
     "slug": "tp-cfd",
@@ -9447,6 +10591,18 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Resolved",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "TransCanada",
+    "description": "Trump also has a small investment in Canadian energy company TransCanada, the developer of Keystone XL pipeline, which was rejected by President Barack Obama last year but supported by Trump.",
+    "slug": "transcanada",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
     "familyMembers": [
       "Donald Trump"
     ]
@@ -9922,6 +11078,18 @@
     ]
   },
   {
+    "name": "Trump Hotel Rio De Janeiro",
+    "description": "",
+    "slug": "trump-hotel-rio-de-janeiro",
+    "stories": "4",
+    "lastStory": "Dec 21, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Trump Ice",
     "description": "",
     "slug": "trump-ice",
@@ -10061,6 +11229,30 @@
     "lastStory": "Dec 19, 2018",
     "familyMember": "Donald Trump",
     "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Trump Ireland (Doonbeg)",
+    "description": "",
+    "slug": "",
+    "stories": "1",
+    "lastStory": "Jan 08, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Trump Jeddah",
+    "description": "",
+    "slug": "",
+    "stories": "2",
+    "lastStory": "Oct 13, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Resolved",
     "familyMembers": [
       "Donald Trump"
     ]
@@ -10321,8 +11513,8 @@
     "name": "Trump Marks Hollywood",
     "description": "",
     "slug": "trump-marks-hollywood",
-    "stories": "0",
-    "lastStory": "",
+    "stories": "1",
+    "lastStory": "Nov 04, 2016",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -10702,6 +11894,30 @@
     ]
   },
   {
+    "name": "Trump Mortgage",
+    "description": "",
+    "slug": "trump-mortgage",
+    "stories": "2",
+    "lastStory": "Mar 14, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Trump National Doral",
+    "description": "",
+    "slug": "trump-national-doral",
+    "stories": "2",
+    "lastStory": "Apr 10, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Trump National Golf Club - Charlotte",
     "description": "",
     "slug": "trump-national-golf-club-charlotte",
@@ -10907,6 +12123,66 @@
     "status": "Active",
     "familyMembers": [
       "Donald Trump"
+    ]
+  },
+  {
+    "name": "Trump Panama",
+    "description": "Ethics experts say their fear has been realized as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotel's majority owner cancelled the Trump Organization's management contract for the hotel.",
+    "slug": "trump-panama",
+    "stories": "8",
+    "lastStory": "Jan 24, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Trump Panama",
+    "description": "Ethics experts say their fear has been realized as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotel's majority owner cancelled the Trump Organization's management contract for the hotel.",
+    "slug": "trump-panama",
+    "stories": "8",
+    "lastStory": "Jan 24, 2019",
+    "familyMember": "Donald Trump Jr.",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Trump Panama",
+    "description": "Ethics experts say their fear has been realized as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotel's majority owner cancelled the Trump Organization's management contract for the hotel.",
+    "slug": "trump-panama",
+    "stories": "8",
+    "lastStory": "Jan 24, 2019",
+    "familyMember": "Eric Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Ivanka Trump"
+    ]
+  },
+  {
+    "name": "Trump Panama",
+    "description": "Ethics experts say their fear has been realized as Trump faces one of his most consequential conflicts of interest yet: The Panamanian government has pledged to investigate the Trump Organization for resisting eviction from the Trump International Hotel and Tower. That dispute arose after the hotel's majority owner cancelled the Trump Organization's management contract for the hotel.",
+    "slug": "trump-panama",
+    "stories": "8",
+    "lastStory": "Jan 24, 2019",
+    "familyMember": "Ivanka Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump",
+      "Donald Trump Jr.",
+      "Eric Trump",
+      "Ivanka Trump"
     ]
   },
   {
@@ -11133,8 +12409,20 @@
     "name": "Trump Scotland",
     "description": "",
     "slug": "trump-scotland",
+    "stories": "0",
+    "lastStory": "",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Trump Scotland (Aberdeen and Turnberry)",
+    "description": "",
+    "slug": "",
     "stories": "14",
-    "lastStory": "Mar 04, 2019",
+    "lastStory": "Mar 02, 2019",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -11159,6 +12447,18 @@
     "slug": "trump-soho",
     "stories": "1",
     "lastStory": "Jun 26, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Trump Sunny Isles",
+    "description": "",
+    "slug": "trump-sunny-isles",
+    "stories": "2",
+    "lastStory": "Jun 19, 2018",
     "familyMember": "Donald Trump",
     "status": "Active",
     "familyMembers": [
@@ -11226,6 +12526,18 @@
     ]
   },
   {
+    "name": "Trump Tower I",
+    "description": "",
+    "slug": "trump-tower-i",
+    "stories": "3",
+    "lastStory": "Jun 27, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Trump Tower Managing Member",
     "description": "",
     "slug": "trump-tower-managing-member",
@@ -11245,6 +12557,18 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "Trump Towers Istanbul",
+    "description": "",
+    "slug": "trump-towers-istanbul",
+    "stories": "3",
+    "lastStory": "Nov 26, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
     "familyMembers": [
       "Donald Trump"
     ]
@@ -11384,6 +12708,18 @@
     ]
   },
   {
+    "name": "Truth About Israel",
+    "description": "Organized a ball at Mar-a-Lago to show support for President Trump.",
+    "slug": "truth-about-israel",
+    "stories": "1",
+    "lastStory": "Feb 26, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "TTT Consulting",
     "description": "",
     "slug": "ttt-consulting",
@@ -11446,6 +12782,54 @@
     ]
   },
   {
+    "name": "U.S Department of Justice",
+    "description": "As head of the executive branch, President Trump oversees the Justice Department and the United States' relations with the rest of the world. Through his businesses he still has a lengthy series of financial relationships with private institutions and countries with business before the United States.",
+    "slug": "us-department-of-justice",
+    "stories": "38",
+    "lastStory": "Apr 20, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "U.S. Department of Agriculture",
+    "description": "",
+    "slug": "us-department-of-agriculture",
+    "stories": "2",
+    "lastStory": "Aug 08, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "U.S. Department of Defense",
+    "description": "",
+    "slug": "us-department-of-defense",
+    "stories": "5",
+    "lastStory": "Feb 05, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "U.S. Treasury Department",
+    "description": "",
+    "slug": "us-treasury-department",
+    "stories": "7",
+    "lastStory": "Apr 09, 2019",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "UBS",
     "description": "",
     "slug": "ubs",
@@ -11491,6 +12875,18 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "United Way",
+    "description": "The Trump Foundation gave most of its money to traditional philanthropic causes, including the United Way, a handful of schools, and more than 10 museums.",
+    "slug": "united-way",
+    "stories": "1",
+    "lastStory": "Feb 09, 2017",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
     "familyMembers": [
       "Donald Trump"
     ]
@@ -11555,6 +12951,70 @@
     "status": "Active",
     "familyMembers": [
       "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Vegas Seven",
+    "description": "Vegas Seven is an online news publication in Las Vegas which Jared Kushner has a stake in.",
+    "slug": "vegas-seven",
+    "stories": "1",
+    "lastStory": "Jun 12, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Vegas Seven",
+    "description": "Vegas Seven is an online news publication in Las Vegas which Jared Kushner has a stake in.",
+    "slug": "vegas-seven",
+    "stories": "1",
+    "lastStory": "Jun 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Veggie Grill",
+    "description": "Veggie Grill, a restaurant in Manhattan Beach, Calif. which Jared Kushner has a stake in.",
+    "slug": "veggie-grill",
+    "stories": "1",
+    "lastStory": "Jun 12, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Veggie Grill",
+    "description": "Veggie Grill, a restaurant in Manhattan Beach, Calif. which Jared Kushner has a stake in.",
+    "slug": "veggie-grill",
+    "stories": "1",
+    "lastStory": "Jun 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Victor Pinchuk",
+    "description": "Investigators subpoenaed the Trump Organization this year for an array of records about business with foreign nationals. In response, the company handed over documents about a $150,000 donation that the Ukrainian billionaire, Victor Pinchuk, made in September 2015 to the Donald J. Trump Foundation in exchange for a 20-minute appearance by Mr. Trump that month through a video link to a conference in Kiev.",
+    "slug": "victor-pinchuk",
+    "stories": "1",
+    "lastStory": "Apr 09, 2018",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
     ]
   },
   {
@@ -11726,6 +13186,18 @@
     ]
   },
   {
+    "name": "Walmart",
+    "description": "Despite campaigning on the pledge of “taking on big businesses,” Trump own shares in big pharma companies including Pfizer, Merck, Celgene and GlaxoSmithKline; retailer Walmart, and consumer goods firms Procter & Gamble and Johnson & Johnson. He also hold stakes in a variety of multinational oil companies like Shell, Chevron and Exxon Mobil.",
+    "slug": "walmart",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
     "name": "Warren At Bay Associates",
     "description": "",
     "slug": "warren-at-bay-associates",
@@ -11757,9 +13229,24 @@
     "slug": "wells-fargo",
     "stories": "1",
     "lastStory": "Nov 29, 2016",
+    "familyMember": "Donald Trump",
+    "status": "Resolved",
+    "familyMembers": [
+      "Donald Trump",
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Wells Fargo",
+    "description": "According to Trump’s May 2016 Federal Election Commission filing, which provides a range of values for each of his stock holdings, he owns anywhere from $500,000 to $1 million worth of shares each in Citigroup, JP Morgan Chase , Wells Fargo, Morgan Stanley and Goldman Sachs -- in other words, five of the famous “big six” banks.",
+    "slug": "wells-fargo",
+    "stories": "1",
+    "lastStory": "Nov 29, 2016",
     "familyMember": "Ivanka Trump",
     "status": "Resolved",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -11773,6 +13260,7 @@
     "familyMember": "Jared Kushner",
     "status": "Resolved",
     "familyMembers": [
+      "Donald Trump",
       "Ivanka Trump",
       "Jared Kushner"
     ]
@@ -11836,6 +13324,32 @@
     "familyMember": "Jared Kushner",
     "status": "Active",
     "familyMembers": [
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Westminister Management",
+    "description": "Company Jared Kushner earned $1.5 million in income from during 2017. The company owns and manages over 20,000 apartments in New York, New Jersey, Maryland, Pennsylvania and Ohio.",
+    "slug": "westminister-management",
+    "stories": "3",
+    "lastStory": "Aug 12, 2018",
+    "familyMember": "Ivanka Trump",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "name": "Westminister Management",
+    "description": "Company Jared Kushner earned $1.5 million in income from during 2017. The company owns and manages over 20,000 apartments in New York, New Jersey, Maryland, Pennsylvania and Ohio.",
+    "slug": "westminister-management",
+    "stories": "3",
+    "lastStory": "Aug 12, 2018",
+    "familyMember": "Jared Kushner",
+    "status": "Unclear",
+    "familyMembers": [
+      "Ivanka Trump",
       "Jared Kushner"
     ]
   },
@@ -11935,6 +13449,18 @@
     "lastStory": "",
     "familyMember": "Donald Trump",
     "status": "Active",
+    "familyMembers": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "name": "William J. Clinton Foundation",
+    "description": "The Donald J. Trump Foundation gave away $10.9 million from 2001 to 2014, taking a scattershot approach to philanthropy with donations to more than 400 different charities, according to a Forbes analysis of 14 years of IRS documents. Among the notable recipients: the William J. Clinton Foundation, a state branch of the ACLU and a nonprofit run by the New York Times, which Trump routinely criticizes on Twitter. Only $2.8 million of that money came from Trump himself.",
+    "slug": "william-j-clinton-foundation",
+    "stories": "1",
+    "lastStory": "Feb 09, 2017",
+    "familyMember": "Donald Trump",
+    "status": "Unclear",
     "familyMembers": [
       "Donald Trump"
     ]

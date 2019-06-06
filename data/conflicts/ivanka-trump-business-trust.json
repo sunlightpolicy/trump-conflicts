@@ -1,7 +1,34 @@
 {
   "name": "Ivanka Trump Business Trust",
   "description": "Created in March 2017, the trust is valued at more than $50 million.",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Ivanka Trump"
+  ],
+  "stories": [
+    {
+      "description": "Created in March 2017, the trust is valued at more than $50 million.",
+      "conflict": "Ivanka Trump Business Trust",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://amp.businessinsider.com/ivanka-trump-jared-kushner-net-worth-2019-1",
+      "sourceDate": "2019-01-01T00:00:00",
+      "headline": "How Ivanka Trump and Jared Kushner built their $1.1 billion fortune and how they spend it",
+      "conflictId": "478",
+      "conflictSlug": "ivanka-trump-business-trust",
+      "hasEthics": false
+    },
+    {
+      "description": "Created in March 2017, the trust is valued at more than $50 million.",
+      "conflict": "Ivanka Trump Business Trust",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "http://money.cnn.com/2018/06/11/news/ivanka-trump-jared-kushner-finances/index.html",
+      "sourceDate": "2018-06-11T00:00:00",
+      "headline": "Ivanka Trump and Jared Kushner detail vast wealth: Real estate, fashion and investments",
+      "conflictId": "478",
+      "conflictSlug": "ivanka-trump-business-trust",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

@@ -1,7 +1,58 @@
 {
   "name": "Trump Hotel Rio De Janeiro",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Trump Hotel Rio De Janeiro",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/12/21/business/economy/trump-organization-labor-unions-hotels.html",
+      "sourceDate": "2016-12-21T00:00:00",
+      "headline": "Trump Organization Moves to Avoid Possible Conflicts of Interest",
+      "conflictId": "254",
+      "conflictSlug": "trump-hotel-rio-de-janeiro",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Hotel Rio De Janeiro",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/12/14/world/americas/donald-trump-hotel-rio-brazil-investigation.html",
+      "sourceDate": "2016-12-14T00:00:00",
+      "headline": "Trump Firm Quits Brazil Hotel Project That Was Named in Criminal Inquiry",
+      "conflictId": "254",
+      "conflictSlug": "trump-hotel-rio-de-janeiro",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Hotel Rio De Janeiro",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/world/the_americas/trump-company-pulls-its-name-off-a-brazil-hotel-caught-up-in-an-investigation/2016/12/13/c332dc2c-b078-4885-8a29-5f29b7da442e_story.html?utm_term=.3f329b9e8342",
+      "sourceDate": "2016-12-13T00:00:00",
+      "headline": "Trump company pulls its name off a Brazil hotel caught up in an investigation",
+      "conflictId": "254",
+      "conflictSlug": "trump-hotel-rio-de-janeiro",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Trump Hotel Rio De Janeiro",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=1",
+      "sourceDate": "2016-11-26T00:00:00",
+      "headline": "Potential Conflicts Around the Globe for Trump, the Businessman President",
+      "conflictId": "254",
+      "conflictSlug": "trump-hotel-rio-de-janeiro",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

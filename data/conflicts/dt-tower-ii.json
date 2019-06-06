@@ -15,6 +15,18 @@
       "headline": "Trump's former plan to build a tower in Moscow is under scrutiny. Here are all the Trump Towers that have been built.",
       "conflictId": "82",
       "conflictSlug": "dt-tower-ii",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "DT Tower II",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://www.businessinsider.com/how-many-trump-towers-are-there-2019-1",
+      "sourceDate": "2019-01-24T00:00:00",
+      "headline": "Trump's former plan to build a tower in Moscow is under scrutiny. Here are all the Trump Towers that have been built.",
+      "conflictId": "82",
+      "conflictSlug": "dt-tower-ii",
       "hasEthics": true
     },
     {
@@ -27,7 +39,31 @@
       "headline": "Buyers tied to Russia, former Soviet republics paid $109 million cash for Trump properties",
       "conflictId": "82",
       "conflictSlug": "dt-tower-ii",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "DT Tower II",
+      "category": "Active",
+      "mediaOutlet": "McClatchy",
+      "link": "http://www.mcclatchydc.com/news/politics-government/white-house/article210477439.html",
+      "sourceDate": "2018-06-19T00:00:00",
+      "headline": "Buyers tied to Russia, former Soviet republics paid $109 million cash for Trump properties",
+      "conflictId": "82",
+      "conflictSlug": "dt-tower-ii",
       "hasEthics": true
+    },
+    {
+      "description": "",
+      "conflict": "DT Tower II",
+      "category": "Active",
+      "mediaOutlet": "Forbes",
+      "link": "https://www.forbes.com/trump-tenants/#4fcc6c891d32",
+      "sourceDate": "2018-02-13T00:00:00",
+      "headline": "Landlord-in-Chief",
+      "conflictId": "82",
+      "conflictSlug": "dt-tower-ii",
+      "hasEthics": false
     },
     {
       "description": "",

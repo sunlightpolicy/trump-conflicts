@@ -1,7 +1,22 @@
 {
   "name": "CNN",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "CNN",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/03/07/media/house-democrats-att-time-warner-trump/index.html",
+      "sourceDate": "2019-03-12T00:00:00",
+      "headline": "House Democrats want records on Trump's reported involvement in AT&T-Time Warner deal",
+      "conflictId": "9698",
+      "conflictSlug": "cnn",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

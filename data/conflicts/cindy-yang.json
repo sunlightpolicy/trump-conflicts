@@ -2,6 +2,31 @@
   "name": "Cindy Yang",
   "description": "",
   "familyMembers": [],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Cindy Yang",
+      "category": "Active",
+      "mediaOutlet": "Associated Press",
+      "link": "https://www.apnews.com/20a8a9abe5ba4efabb14b6b87d628cb7",
+      "sourceDate": "2019-03-11T00:00:00",
+      "headline": "Trump donor claimed she could offer access to president",
+      "conflictId": "9688",
+      "conflictSlug": "cindy-yang",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Cindy Yang",
+      "category": "Active",
+      "mediaOutlet": "Mother Jones",
+      "link": "https://www.motherjones.com/politics/2019/03/head-of-asian-gop-group-says-he-wouldnt-rule-out-illegal-foreign-donations-to-trump/",
+      "sourceDate": "2018-03-15T00:00:00",
+      "headline": "Head of Asian GOP Group Says He “Wouldn’t Rule Out” Illegal Foreign Donations to Trump",
+      "conflictId": "9688",
+      "conflictSlug": "cindy-yang",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

@@ -1,7 +1,34 @@
 {
   "name": "Ladder Capital",
   "description": "Ladder Capital, a real estate investment firm that specializes in risky lending, has loaned at least $260 million to Donald Trump's businesses — including $160 million for the ground lease at 40 Wall Street and $100 million for Trump Tower. In February 2017, the firm Related Companies purchased $80 million worth of stock in Ladder Capital.",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Donald Trump"
+  ],
+  "stories": [
+    {
+      "description": "Ladder Capital, a real estate investment firm that specializes in risky lending, has loaned at least $260 million to Donald Trump's businesses — including $160 million for the ground lease at 40 Wall Street and $100 million for Trump Tower. In February 2017, the firm Related Companies purchased $80 million worth of stock in Ladder Capital.",
+      "conflict": "Ladder Capital",
+      "category": "Active",
+      "mediaOutlet": "The Real Deal",
+      "link": "https://therealdeal.com/2017/02/28/related-companies-makes-80m-stock-buy-in-trumps-second-largest-lender/",
+      "sourceDate": "2017-02-28T00:00:00",
+      "headline": "Related makes $80M stock buy in Trump Organization’s second-largest lender",
+      "conflictId": "119",
+      "conflictSlug": "ladder-capital",
+      "hasEthics": false
+    },
+    {
+      "description": "Ladder Capital, a real estate investment firm that specializes in risky lending, has loaned at least $260 million to Donald Trump's businesses — including $160 million for the ground lease at 40 Wall Street and $100 million for Trump Tower. In February 2017, the firm Related Companies purchased $80 million worth of stock in Ladder Capital.",
+      "conflict": "Ladder Capital",
+      "category": "Active",
+      "mediaOutlet": "Reuters",
+      "link": "https://www.reuters.com/article/us-laddercapital-m-a-exclusive-idUSKBN13R276",
+      "sourceDate": "2016-12-02T00:00:00",
+      "headline": "Exclusive: Trump financier Ladder Capital explores sale - sources",
+      "conflictId": "119",
+      "conflictSlug": "ladder-capital",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

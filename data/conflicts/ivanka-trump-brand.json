@@ -1,7 +1,190 @@
 {
   "name": "Ivanka Trump brand",
   "description": "",
-  "familyMembers": [],
-  "stories": [],
+  "familyMembers": [
+    "Ivanka Trump"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "CBS News",
+      "link": "https://www.cbsnews.com/amp/news/ivanka-trump-receives-5-trademarks-from-china-amid-trade-talks/",
+      "sourceDate": "2019-01-21T00:00:00",
+      "headline": "Ivanka Trump receives 5 trademarks from China amid trade talks",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://amp.businessinsider.com/ivanka-trump-jared-kushner-net-worth-2019-1",
+      "sourceDate": "2019-01-01T00:00:00",
+      "headline": "How Ivanka Trump and Jared Kushner built their $1.1 billion fortune and how they spend it",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/11/06/politics/ivanka-trump-trademarks/index.html",
+      "sourceDate": "2018-11-06T00:00:00",
+      "headline": "China grants 16 trademarks to defunct Ivanka Trump business",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/world/asia_pacific/china-greenlights-large-batch-of-ivanka-trump-trademark-applications/2018/11/06/c085e88c-e1c8-11e8-a1c9-6afe99dddd92_story.html?utm_term=.8d0bb6058cd8",
+      "sourceDate": "2018-11-06T00:00:00",
+      "headline": "China greenlights large batch of Ivanka Trump trademark applications",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://www.businessinsider.com/ivanka-trump-brand-website-shuts-down-2018-8",
+      "sourceDate": "2018-08-23T00:00:00",
+      "headline": "Ivanka Trump's fashion brand has finally shuttered its website",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "Politico",
+      "link": "https://www.politico.com/magazine/story/2018/08/17/ivanka-trump-business-partner-justice-department-lawsuit-moshe-lax-219369",
+      "sourceDate": "2018-08-17T00:00:00",
+      "headline": "DOJ Sues Ivanka’s Ex-Business Partner for Massive Fraud",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://www.businessinsider.com/ivanka-trump-store-permanently-shut-down-2018-8",
+      "sourceDate": "2018-08-01T00:00:00",
+      "headline": "Ivanka Trump's only store shut down overnight and transformed into a Trump-branded store",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "The Atlantic",
+      "link": "https://www.theatlantic.com/amp/article/566051/",
+      "sourceDate": "2018-07-25T00:00:00",
+      "headline": "A Crack in the Ivanka Trump Brand",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://www.businessinsider.com/ivanka-trump-closing-fashion-business-ethics-experts-respond-2018-7",
+      "sourceDate": "2018-07-24T00:00:00",
+      "headline": "Ethics experts 'underwhelmed' at Ivanka Trump shuttering her fashion business — and wonder what she'll do about her stake in the Trump Organization",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2018/07/24/politics/ivanka-trump-brand-company/index.html",
+      "sourceDate": "2018-07-24T00:00:00",
+      "headline": "Ivanka Trump to shut down fashion company",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/amphtml/news/worldviews/wp/2018/07/16/canadas-biggest-clothing-store-just-pulled-ivanka-trumps-brand-from-its-shelves/",
+      "sourceDate": "2018-07-16T00:00:00",
+      "headline": "One of Canada’s biggest clothing stores just pulled Ivanka Trump’s brand from its shelves",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/amphtml/politics/as-tariffs-near-trumps-business-empire-includes-china-ties/2018/07/05/9bfd1056-7956-11e8-aeee-4d04c8ac6158_story.html",
+      "sourceDate": "2018-07-05T00:00:00",
+      "headline": "As tariffs near, Trump’s business empire retains ties to China",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "NPR",
+      "link": "https://www.npr.org/2018/06/12/619101573/ivanka-trump-and-jared-kushner-earned-more-than-80-million-last-year-filings-sho",
+      "sourceDate": "2018-06-12T00:00:00",
+      "headline": "Ivanka Trump And Jared Kushner Earned More Than $80 Million Last Year, Filings Show",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "http://money.cnn.com/2018/06/11/news/ivanka-trump-jared-kushner-finances/index.html",
+      "sourceDate": "2018-06-11T00:00:00",
+      "headline": "Ivanka Trump and Jared Kushner detail vast wealth: Real estate, fashion and investments",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Ivanka Trump brand",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/05/28/business/ivanka-trump-china-trademarks.html",
+      "sourceDate": "2018-05-28T00:00:00",
+      "headline": "Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE",
+      "conflictId": "444",
+      "conflictSlug": "ivanka-trump-brand",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

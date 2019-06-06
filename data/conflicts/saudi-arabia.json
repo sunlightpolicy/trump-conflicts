@@ -2,6 +2,67 @@
   "name": "Saudi Arabia",
   "description": "",
   "familyMembers": [],
-  "stories": [],
+  "stories": [
+    {
+      "description": "",
+      "conflict": "Saudi Arabia",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/02/19/politics/house-oversight-michael-flynn-investigations/index.html",
+      "sourceDate": "2019-02-19T00:00:00",
+      "headline": "Dems to investigate Flynn-backed efforts to bring nuclear power to Saudis",
+      "conflictId": "9676",
+      "conflictSlug": "saudi-arabia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Saudi Arabia",
+      "category": "Active",
+      "mediaOutlet": "CNN",
+      "link": "https://www.cnn.com/2019/01/23/politics/house-foreign-affairs-committee-investigation-trump-business/index.html",
+      "sourceDate": "2019-01-23T00:00:00",
+      "headline": "House Foreign Affairs plans probe into whether Trump's businesses impact foreign policy decisions",
+      "conflictId": "9676",
+      "conflictSlug": "saudi-arabia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Saudi Arabia",
+      "category": "Active",
+      "mediaOutlet": "Business Insider",
+      "link": "https://amp.businessinsider.com/jared-kushner-covers-for-saudi-crown-prince-on-khashoggi-killing-2018-12",
+      "sourceDate": "2018-12-11T00:00:00",
+      "headline": "Jared Kushner covers for Saudi crown prince in softball Fox interview on Khashoggi killing",
+      "conflictId": "9676",
+      "conflictSlug": "saudi-arabia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Saudi Arabia",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "https://www.nytimes.com/2018/12/08/world/middleeast/saudi-mbs-jared-kushner.html",
+      "sourceDate": "2018-12-08T00:00:00",
+      "headline": "The Wooing of Jared Kushner: How the Saudis Got a Friend in the White House",
+      "conflictId": "9676",
+      "conflictSlug": "saudi-arabia",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "Saudi Arabia",
+      "category": "Active",
+      "mediaOutlet": "Washington Post",
+      "link": "https://www.washingtonpost.com/politics/saudi-funded-lobbyist-paid-for-500-rooms-at-trumps-hotel-after-2016-election/2018/12/05/29603a64-f417-11e8-bc79-68604ed88993_story.html?utm_term=.e00756a48e24",
+      "sourceDate": "2018-12-05T00:00:00",
+      "headline": "Saudi-funded lobbyist paid for 500 rooms at Trump’s hotel after 2016 election",
+      "conflictId": "9676",
+      "conflictSlug": "saudi-arabia",
+      "hasEthics": false
+    }
+  ],
   "ethics": []
 }

@@ -16,6 +16,18 @@
       "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
       "conflictId": "66",
       "conflictSlug": "dt-marks-bali",
+      "hasEthics": false
+    },
+    {
+      "description": "",
+      "conflict": "DT Marks Bali",
+      "category": "Active",
+      "mediaOutlet": "New York Times",
+      "link": "http://mobile.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html",
+      "sourceDate": "2016-12-31T00:00:00",
+      "headline": "Trump's Indonesia Projects, Still Moving Ahead, Create Potential Conflicts",
+      "conflictId": "66",
+      "conflictSlug": "dt-marks-bali",
       "hasEthics": true
     }
   ],
